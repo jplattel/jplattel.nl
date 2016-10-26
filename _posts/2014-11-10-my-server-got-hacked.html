@@ -1,0 +1,51 @@
+---
+layout: post
+title: My server got hacked, this is what I did
+date: 2014-11-10 09:18:36.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- Technology
+tags:
+- fail2ban
+- hacked
+- hacking
+- server
+- ssh
+meta:
+  dsq_thread_id: '3209941631'
+  _wpas_done_all: '1'
+  _yoast_wpseo_metadesc: My server got hacked, this is what I did and what I learned
+    about recovery and figuring out what happened.
+  _yoast_wpseo_title: My server got hacked, this is what I did and learned - Joost
+    Plattel
+  _yoast_wpseo_linkdex: '88'
+  _yoast_wpseo_focuskw: my server got hacked
+  _edit_last: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1444980330;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2902;}i:1;a:1:{s:2:"id";i:2980;}i:2;a:1:{s:2:"id";i:1987;}}}}
+author:
+  login: Joost Plattel
+  email: jsplattel@gmail.com
+  display_name: Joost Plattel
+  first_name: Joost
+  last_name: Plattel
+---
+<p>On friday evening local time (GMT+1) around 21:00 hours my server got hacked, it's CPU immediately shot up towards 100% and my provider removed the box from it's hypervisor node around 18 hours later. Just a few minutes later I got a call from a friend who uses one of my developed applications that it doesn't seem to work anymore.</p>
+<p>After trying SSH-ing into the server (which failed), I logged on to the dashboard for managing my VPS, looking at the CPU usage:</p>
+<p><a href="http://www.jplattel.nl/wp-content/uploads/2014/11/Screen-Shot-2014-11-08-at-4.24.59-PM.png"><img class="aligncenter wp-image-3128" src="{{ site.baseurl }}/assets/images/Screen-Shot-2014-11-08-at-4.24.59-PM.png" alt="My server got hacked: CPU-usage of a hacked server" width="600" height="204" /></a></p>
+<p>That isn't looking too good...<!--more--> I switched my VPS towards another hypervisor and changed it root password, then I rebooted it in recovery mode. The next step is figuring out what to do... I've tailed the /var/log/secure file and could see that there where still SSH requests coming in. I blocked out the remote IP's by adding them to etc/hosts.deny and booted out of recovery mode. That got me back up and running with SSH access. My first mission: backing up data, second: finding out what happened. First one done, the second is currently in progress!</p>
+<p>For now looking backwards, there is a lot to learn about an event like this for me:</p>
+<p>Possible attack vectors might be:</p>
+<ul>
+<li>Shellshock or Heartbleed bug, while I patched the update, I'm not entirely sure whether I've done a correct job. I've patched Heartbleed quite early, but some of the patches didn't work.</li>
+<li>I didn't disable the debug mode of some of the Django apps that I'm running on that server, that's fixed now!</li>
+<li>Apache was configured out of the box with no "Options -Indexes", meaning it would server a directory index if there is no wsgi file configure correctly for a Django app</li>
+</ul>
+<p>After gaining back control of the server I executed the following things:</p>
+<ul>
+<li>Removed all debug modes for all Django apps</li>
+<li>Configured apache so it doesn't show folder indexes: "Options -Indexes"</li>
+<li>Installed fail2ban for limiting SSH attempts into the server.</li>
+<li>Updated bash on all servers</li>
+</ul>

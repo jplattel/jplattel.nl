@@ -1,0 +1,37 @@
+---
+layout: post
+title: Storify as slides for talks
+date: 2012-05-31 15:34:18.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Random
+tags:
+- API
+- bottle.py
+- javascript
+- storify
+- timeline
+- verite
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '709567793'
+  _jetpack_related_posts_cache: a:0:{}
+author:
+  login: Joost Plattel
+  email: jsplattel@gmail.com
+  display_name: Joost Plattel
+  first_name: Joost
+  last_name: Plattel
+---
+<p>I like <a href="http://storify.com">Storify</a>, a service that lets you curate your own story based from sources like Twitter, Facebook or other social networks. And sometimes I wonder what would happen if you let people curate it live on a beamer during festivals or want to use it for public talks... Then the website isn't that handy or slide-enabled.</p>
+<p>But it shouldn't be that hard to extract all data from Storify and glue everything together into a slide-ready format right? With that idea in mind, I whipped up a quick little Bottle.py app on OpenShift provided by RedHat. Within 3 hours I connected the timeline from <a href="http://timeline.verite.co">Verite</a> to Storify and <a href="http://timeline-joost.rhcloud.com/">Storify to Timeline</a> was born:</p>
+<p style="text-align: center;"><a href="http://timeline-joost.rhcloud.com/"><img class="aligncenter  wp-image-2405" title="Storify to Timeline" src="{{ site.baseurl }}/assets/images/Storify-to-Timeline.png" alt="" width="433" height="58" /></a></p>
+<p>Be aware, there are still some bugs that need to be ironed out, however as it's just a quick hack, I'm not sure if I'm finishing it. If you are a developer from Verite or Storify, let me know and I'll provide you with the full source-code of my work! And if you've found a bug let me know in the comments!</p>
+<p><em>Known bugs and ideas</em> (input driven development, no humans were harmed during testing):</p>
+<ul>
+<li>Wrong title on timeline view (easy fix)</li>
+<li>Timeline sorts on day, not specific time</li>
+<li>Use bit.ly to shorten share url</li>
+</ul>

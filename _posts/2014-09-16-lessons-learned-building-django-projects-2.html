@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Lessons learned building Django projects: 2'
+date: 2014-09-16 11:42:19.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Random
+tags: []
+meta:
+  dsq_thread_id: '3022907443'
+  _wpas_done_all: '1'
+  _edit_last: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1440771072;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2980;}i:1;a:1:{s:2:"id";i:2918;}i:2;a:1:{s:2:"id";i:2850;}}}}
+author:
+  login: Joost Plattel
+  email: jsplattel@gmail.com
+  display_name: Joost Plattel
+  first_name: Joost
+  last_name: Plattel
+---
+<p>As of recently I've started my graduation phase of my current study. I've managed to get my own project in for my graduation thesis, which means I'll be spending more time developing with Django. This post is more of a reminder of the things I've learned so far... The previous post can be read <a href="http://www.jplattel.nl/lessons-learned-building-django-projects/">here</a>.</p>
+<ul>
+<li>The <a href="https://docs.djangoproject.com/en/dev/ref/django-admin/#django-admin-inspectdb">inspectdb</a> tool is priceless when using other databases in which you have no schema's yet! During the past month I've been tinkering with a database from wordpress, including payment plugins. With the inspectdb tool it's easy to generate a schema so you can continue building managers.</li>
+<li>Learned the hard way: Managers are the go-to option for model-logic. I've been putting most of my logic in the views.py, but it grows quickly the more complex your application gets. And I've seen myself copy-pasting code a lot, hey, that's no <a href="https://docs.djangoproject.com/en/dev/misc/design-philosophies/#don-t-repeat-yourself-dry">DRY</a>!</li>
+<li>I'm exploring <a href="http://celery.readthedocs.org">celery</a> for a task-queue. It's a new way of thinking for cronjobs and other tasks... Curious if I could integrate it!</li>
+<li><a href="https://github.com/squ1b3r/Djaneiro">Djaneiro</a> saves you a hell of a lot of time, recommended if you use Sublime!</li>
+</ul>
