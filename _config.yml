@@ -19,13 +19,15 @@ meta_description: ""
 
 markdown: kramdown
 
-paginate: 10
+paginate: 5
 paginate_path: "/blog/page:num"
+
+permalink: :title
 
 baseurl: 
 
 domain_name: 'http://jplattel.nl'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-18951988-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator

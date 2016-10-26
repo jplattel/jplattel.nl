@@ -605,6 +605,8 @@ margin on the iframe, cause it breaks stuff. */
     margin-right: 8px;
 }
 
+
+
 .subscribe-button {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -628,6 +630,56 @@ margin on the iframe, cause it breaks stuff. */
 .subscribe-button:before {
     font-size: 9px;
     margin-right: 6px;
+}
+
+.twitter-button:before {
+    font-size: 9px;
+    margin-right: 6px;
+}
+
+.main-nav.overlay a.twitter-button {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    float: right;
+    height: 38px;
+    padding: 0 20px;
+    border: #1da1f2 1px solid;
+    color: #1da1f2;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    white-space: nowrap;
+    border-radius: 3px;
+    background: rgba(0,0,0,0.1);
+    transition: all ease 0.3s;
+    margin-right: 15px;
+}
+.main-nav.overlay a.twitter-button {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    float: right;
+    height: 38px;
+    padding: 0 20px;
+    border: #1da1f2 1px solid;
+    color: #1da1f2;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    white-space: nowrap;
+    border-radius: 3px;
+    transition: all ease 0.3s;
+    background: none;
+    margin-right: 15px;
+}
+.main-nav.overlay a.twitter-button:hover{
+    border: #1da1f2 1px solid;
+    color: #1da1f2;
 }
 
 .action-links{
@@ -777,6 +829,9 @@ margin on the iframe, cause it breaks stuff. */
     font-family: "Open Sans", sans-serif;
     color: #fff;
 }
+.page-title a{
+    text-decoration: none;
+}
 
 .page-description {
     margin: 0;
@@ -863,7 +918,7 @@ body:not(.post-template) .post-title {
 
 .post-excerpt p {
     margin: 0;
-    font-size: 0.9em;
+    font-size: 1em;
     line-height: 1.7em;
 }
 
@@ -960,7 +1015,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-template .post-title {
-    margin-bottom: 0;
+    margin-bottom: 10;
 }
 
 .post-template .post-meta {
@@ -1301,6 +1356,17 @@ body:not(.post-template) .post-title {
    pagination prev/next links */
 .archive-template .author-profile .author-meta {
     display: none;
+}
+.profile-image{
+    background: url('/assets/images/profile.png'); 
+    background-position: center;
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    float: right;
+    display: inline-block;
+    box-shadow: #E7EEF2 0 0 0 1px;
 }
 
 /* ==========================================================================
