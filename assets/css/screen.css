@@ -754,7 +754,7 @@ margin on the iframe, cause it breaks stuff. */
     box-sizing: border-box;
     width: 30%;
     float: left;
-    color: #9EABB3;
+    
     text-align: center;
     font-size: 15px;
     height: 38px;
@@ -774,6 +774,52 @@ margin on the iframe, cause it breaks stuff. */
 }
 .mailchimp-group .button:hover{
     background-color: #f5f8fa;
+}
+
+.form-group{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 98%;
+    margin: 1%;
+    float: left;
+    margin-bottom: 25px;
+}
+.form-group label{
+    display: block;
+    float: left;
+    width: 100%;
+}
+.form-group input, .form-group textarea{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    display: block;
+    float: left;
+    font-size: 15px;
+    height: 38px;
+    padding: 0 10px;
+    border-right: 0px;
+    border-radius: 3px;
+    border: transparent 1px solid;
+    line-height: 35px;
+    border-color: rgba(0,0,0,0.3);
+    text-decoration: none;
+    margin-bottom: 15px;
+    transition: all ease 0.3s;
+}
+.form-group textarea{
+    height: 300px
+}
+.form-group .button{
+    border-color: green;
+    color: green;
+    background: none;
+}
+
+.form-group .button:hover{
+    background-color: rgba(0,0,0,0.4)
 }
 
 
