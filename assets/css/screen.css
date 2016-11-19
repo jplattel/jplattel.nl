@@ -1717,7 +1717,7 @@ body:not(.post-template) .post-title {
     }
 
     .back-button,
-    .subscribe-button {
+    .subscribe-button{
         height: 44px;
         line-height: 41px;
         border-radius: 0;
@@ -1729,6 +1729,9 @@ body:not(.post-template) .post-title {
         border-color: #ebeef0;
         color: #2e2e2e;
         background: #ebeef0;
+    }
+    .twitter-button:hover{
+        border-color: transparent!important;
     }
 
     .back-button {
@@ -1748,9 +1751,14 @@ body:not(.post-template) .post-title {
     .no-cover .main-nav.overlay {
         background: none;
     }
+
+    .no-cover .main-nav.overlay .twitter-button{
+        padding: 3px;
+    }
+    .no-cover .main-nav.overlay .twitter-button,
     .no-cover .main-nav.overlay .back-button,
     .no-cover .main-nav.overlay .subscribe-button {
-        border: none;
+        border-color: transparent;
     }
 
     .main-nav.overlay .back-button,
