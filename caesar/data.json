@@ -2,6 +2,8 @@
   {
     "name": "Antoine Körver",
     "img": "img/Antoine Korver.jpg",
+    "first_bid": true,
+    "loc": "Den Bosch",
     "education": [
       "Hogeschool Zuyd (Maastricht, Heerlen, Sittard)",
       "MTS Heerlen",
@@ -86,6 +88,8 @@
       "requestId": "b6d947d0-b80f-4f25-887a-172fad03f71b"
     },
     "name": "Ben Zweers",
+    "first_bid": true,
+    "loc": "Delft/Leiden",
     "img": "img/Ben Zweers.jpg",
     "education": [
       "Radboud University Nijmegen",
@@ -157,6 +161,7 @@
     },
     "name": "Cecile Schut",
     "img": "img/Cecile Schut.jpg",
+    "loc": "Den Haag",
     "education": [
       "Nederlandse School voor Openbaar Bestuur",
       "Twente University",
@@ -203,6 +208,8 @@
     },
     "name": "Chanel Bleiker",
     "img": "img/Chanel Bleiker.jpg",
+    "loc": "Den Bosch",
+    "first_bid": true,
     "education": [
       "Sioo",
       "University of Groningen"
@@ -256,6 +263,8 @@
     },
     "name": "Eric van Ieperen",
     "img": "img/Eric van Ieperen.jpg",
+    "loc": "Utrecht",
+    "first_bid": true,
     "education": [
       "Technische Universiteit Delft"
     ],
@@ -303,8 +312,9 @@
     "connection_count": 496
   },
   {
-    "name": "Frank K.",
+    "name": "Frank Kevelaar",
     "img": "img/Frank K..jpg",
+    "loc": "Den Bosch",
     "education": [
       "HBO University",
       "Mill-Hill College Goirle"
@@ -420,6 +430,8 @@
     },
     "name": "Hans Peter Poelstra",
     "img": "img/Hans Peter Poelstra.jpg",
+    "loc": "Amsterdam",
+    "first_bid": true,
     "education": [
       "Vrije Universiteit Amsterdam",
       "Capgemini academy",
@@ -539,6 +551,7 @@
     },
     "name": "Hans van der Kooij",
     "img": "img/Hans van der Kooij.jpg",
+    "loc": "Utrecht",
     "education": [],
     "connections": [
       "Theo de Wolf",
@@ -664,6 +677,7 @@
     },
     "name": "Hans Willem Cortenraad",
     "img": "img/Hans Willem Cortenraad.jpg",
+    "loc": "Den Haag",
     "education": [
       "Instituut Bedrijfskudige Opleidingen (IBO)",
       "Koninklijke Militaire Academie Breda",
@@ -738,6 +752,8 @@
     },
     "name": "Hiske Van Mierlo",
     "img": "img/Hiske Van Mierlo.jpg",
+    "first_bid": true,
+    "loc": "Utrecht",
     "education": [
       "Erasmus Universiteit Rotterdam",
       "St Maartenscollege"
@@ -795,6 +811,7 @@
     },
     "name": "Jacco Samuels",
     "img": "img/Jacco Samuels.jpg",
+    "loc": "Amsterdam",
     "education": [
       "SIOO (Change Management)",
       "VU University Amsterdam",
@@ -845,7 +862,9 @@
       "status": 404
     },
     "name": "Jaco Monshouwer",
+    "loc": "Amsterdam",
     "img": "img/Jaco Monshouwer.jpg",
+    "first_bid": true,
     "education": [
       "Hogeschool Enschede",
       "RSG Wiringerlant"
@@ -898,6 +917,7 @@
     },
     "name": "Jan Helmond",
     "img": "img/Jan Helmond.jpg",
+    "loc": "Utrecht",
     "education": [],
     "connections": [
       "Ilse Dijkstra",
@@ -948,6 +968,8 @@
     },
     "name": "Johannes Brouwer",
     "img": "img/Johannes Brouwer.jpg",
+    "loc": "Delft",
+    "first_bid": true,
     "education": [
       "University of Amsterdam",
       "NHL Hogeschool"
@@ -1057,6 +1079,7 @@
     },
     "name": "John Adegeest",
     "img": "img/John Adegeest.jpg",
+    "loc": "Utrecht",
     "education": [
       "Rijksuniversiteit Utrecht",
       "Eemland College Zuid"
@@ -1112,6 +1135,8 @@
     },
     "name": "Joost Huizinga",
     "img": "img/Joost Huizinga.jpg",
+    "loc": "Alphen aan de Rijn",
+    "first_bid": true,
     "education": [
       "Vrije Universiteit Amsterdam",
       "University of Amsterdam",
@@ -1165,7 +1190,9 @@
       "status": 404
     },
     "name": "Jouke Eijssen",
+    "loc": "Delft/Leiden",
     "img": "img/Jouke Eijssen.jpg",
+    "first_bid": true,
     "education": [
       "Scrum.org",
       "Core Skill",
@@ -1224,6 +1251,8 @@
     },
     "name": "Kees Mensch",
     "img": "img/Kees Mensch.jpg",
+    "loc": "Den Bosch",
+    "first_bid": true,
     "education": [
       "Rijksuniversiteit Groningen",
       "Insead",
@@ -1294,6 +1323,7 @@
     },
     "name": "Luc Spaas",
     "img": "img/Luc Spaas.jpg",
+    "loc": "Utrecht",
     "education": [
       "Erasmus University Rotterdam"
     ],
@@ -1339,6 +1369,8 @@
   {
     "name": "Marcel van de Lustgraaf",
     "img": "img/Marcel van de Lustgraaf.jpg",
+    "loc": "Alkmaar",
+    "first_bid": true,
     "education": [
       "Hogeschool van Arnhem en Nijmegen",
       "Hogeschool Utrecht"
@@ -1516,11 +1548,13 @@
     },
     "name": "Marjan Timmer",
     "img": "img/Marjan Timmer.jpg",
+    "loc": "Utrecht",
     "education": [
       "Hotelschool Zwolle",
       "College Groevenbeek"
     ],
     "connections": [
+      "Ralph van Hessen",
       "Hans van der Kooij",
       "Theo de Wolf",
       "Sabine Knopper",
@@ -1577,6 +1611,8 @@
     },
     "name": "Mathilde Reedijk",
     "img": "img/Mathilde Reedijk.jpg",
+    "loc": "Arnhem",
+    "first_bid": true,
     "education": [
       "University of Amsterdam",
       "Hogeschool Maastricht, Opl. tot Vertaler",
@@ -1694,6 +1730,7 @@
     },
     "name": "Maxim Schoew",
     "img": "img/Maxim Schoew.jpg",
+    "loc": "Amsterdam",
     "education": [
       "Hogeschool Utrecht"
     ],
@@ -1747,6 +1784,7 @@
     },
     "name": "Michel Verwoest",
     "img": "img/Michel Verwoest.jpg",
+    "loc": "Utrecht",
     "education": [
       "Harvard Business School",
       "Nyenrode Business Universiteit / Nyenrode University",
@@ -1794,7 +1832,9 @@
       "status": 404
     },
     "name": "Nils Beers",
+    "loc": "Delft/Leiden",
     "img": "img/Nils Beers.jpg",
+    "first_bid": true,
     "education": [
       "Delft University of Technology",
       "Leiden University"
@@ -1866,6 +1906,7 @@
     },
     "name": "Philippe Wits",
     "img": "img/Philippe Wits.jpg",
+    "loc": "Utrecht",
     "education": [
       "Universiteit van Amsterdam",
       "Laar & Berg"
@@ -1923,6 +1964,8 @@
     },
     "name": "Pim Koeckhoven",
     "img": "img/Pim Koeckhoven.jpg",
+    "loc": "Leiden",
+    "first_bid": true,
     "education": [
       "University of Amsterdam",
       "Vrije Universiteit Amsterdam"
@@ -2002,10 +2045,12 @@
     },
     "name": "Ralph van Hessen",
     "img": "img/Ralph van Hessen.jpg",
+    "loc": "Den Haag",
     "education": [
       "economie Erasmus Universiteit Rotterdam"
     ],
     "connections": [
+      "Marjan Timmer",
       "Hanneke Verburg",
       "Monique van der Wielen",
       "Robbert Coops",
@@ -2064,6 +2109,7 @@
   },
   {
     "name": "René Klawer",
+    "loc": "Rotterdam",
     "img": "img/René Klawer.jpg",
     "education": [],
     "connections": [
@@ -2093,6 +2139,8 @@
   {
     "name": "Rob Holtslag",
     "img": "img/Rob Holtslag.jpg",
+    "loc": "Doetinchem",
+    "first_bid": true,
     "education": [
       "Business School Nederland"
     ],
@@ -2150,6 +2198,7 @@
     },
     "name": "Roland Van der Poel",
     "img": "img/Roland Van der Poel.jpg",
+    "loc": "Utrecht",
     "education": [],
     "connections": [
       "Roelof Bijlsma",
@@ -2231,6 +2280,8 @@
     },
     "name": "Ruud Stassen",
     "img": "img/Ruud Stassen.jpg",
+    "loc": "Utrecht",
+    "first_bid": true,
     "education": [
       "SIOO",
       "IBO",
@@ -2306,6 +2357,8 @@
     },
     "name": "Simone van Essen",
     "img": "img/Simone van Essen.jpg",
+    "loc": "Arnhem",
+    "first_bid": true,
     "education": [
       "Radboud Universiteit Nijmegen",
       "Saxion Hogescholen",
@@ -2448,6 +2501,7 @@
     },
     "name": "Stephan Bosman",
     "img": "img/Stephan Bosman.jpg",
+    "loc": "Breda",
     "education": [
       "Utrecht University",
       "Meander College Zwolle"
@@ -2796,6 +2850,7 @@
       "status": 404
     },
     "name": "Theo de Wolf",
+    "loc": "Utrecht",
     "img": "img/Theo de Wolf.jpg",
     "education": [
       "Haagse Hogeschool/TH Rijswijk",
@@ -2884,6 +2939,7 @@
     },
     "name": "Vincent van Campen",
     "img": "img/default.jpg",
+    "loc": "Alphen aan de Rijn",
     "education": [
       "Law University Groningen"
     ],
@@ -2911,5 +2967,356 @@
     "fullcontact_url": "https://api.fullcontact.com/v2/person.json?email=vvancampen@avio-diepen.com&apiKey=ea9b9501204c01af",
     "skills": [],
     "connection_count": 272
+  },
+  {
+  "img": "img/Tjarko Van Wijk.jpg",
+  "first_bid": true,
+  "education": [
+    "Titus College"
+  ],
+  "connection_count": 500,
+  "skills": [
+    "ICT"
+  ],
+  "orgs": [
+    "Caesar Experts",
+    "Sogeti",
+    "Uphantis",
+    "Sogeti Nederland B.V.",
+    "Schotpoort Transport Groep BV"
+  ],
+  "name": "Tjarko Van Wijk",
+  "loc": "Utrecht",
+  "connections": [
+    "Stella De Keijzer",
+    "Niels Vegter",
+    "Marc Wetters",
+    "Roald Klomp",
+    "Theo de Wolf",
+    "Jurgen Spoor",
+    "Sander Nefs",
+    "Marjan Timmer",
+    "Sebastiaan Jansen",
+    "Dennis Kauwenbergh"
+  ]
+},
+  {
+    "img": "img/Aad Vanca.jpg",
+    "loc": "Utrecht",
+    "education": [
+      "IBO",
+      "Hogeschool Rotterdam"
+    ],
+    "connection_count": 500,
+    "skills": [
+      "ICT",
+      "Management",
+      "Change Management",
+      "Process Management",
+      "Management Consulting",
+      "Interim Management",
+      "PRINCE2",
+      "Operations Management",
+      "Strategy",
+      "Outsourcing",
+      "Information Management",
+      "ITIL",
+      "IT Management",
+      "IT Service Management",
+      "Business Process",
+      "Service Management"
+    ],
+    "orgs": [
+      "Caesar Groep",
+      "Caesar Metasoft",
+      "Oreade",
+      "Trendsoft B.V.",
+      "Modem Software",
+      "Modem Opleidingscentrum",
+      "Ijsselland college",
+      "Nijgh & van Ditmar",
+      "Technische school de Beukelburg",
+      "SLO"
+    ],
+    "name": "Aad Vanca",
+    "connections": [
+      "Theo de Wolf",
+      "Hans van der Kooij",
+      "Marjan Timmer",
+      "Wendy van Wijngaarden",
+      "Cees Bukman",
+      "Dick Hof",
+      "Marco van der Steijle",
+      "Antoine Körver",
+      "Hans Hulsink",
+      "Peter Windemuller"
+    ]
+  },
+  {
+    "img": "img/Dick Hof.jpg",
+    "loc": "Utrecht",
+    "education": [
+      "IBO Business School"
+    ],
+    "connection_count": 500,
+    "skills": [
+      "ICT",
+      "Management",
+      "Project Management",
+      "Process Management",
+      "Change Management",
+      "Management Consulting",
+      "ITIL",
+      "Outsourcing",
+      "PRINCE2",
+      "Interim Management",
+      "Operations Management",
+      "Information Management",
+      "TQM",
+      "Project Planning",
+      "New Business Development",
+      "IT Service Management",
+      "Scrum",
+      "Business Development",
+      "Leadership",
+      "Service Management",
+      "Team Building",
+      "Tender Management",
+      "Business Intelligence",
+      "Business Process...",
+      "Business Process"
+    ],
+    "orgs": [
+      "Caesar Tenders",
+      "IT-hunters",
+      "Caesar Groep",
+      "INK",
+      "Caesar Match-IT",
+      "Caesar Group",
+      "Caesar Propago"
+    ],
+    "name": "Dick Hof",
+    "connections": [
+      "Theo de Wolf",
+      "Hans van der Kooij",
+      "Twan Habraken",
+      "Stella De Keijzer",
+      "Wendy van Wijngaarden",
+      "Marjan Timmer",
+      "Sabine Knopper",
+      "Jan van der Hoek",
+      "Roelf Houwing",
+      "Ronald Vervenne"
+    ]
+  },
+  {
+    "img": "img/Jacco Vonk.jpg",
+    "loc": "Arnhem",
+    "education": [
+      "Hoger Informatica Onderwijs (HIO) te Enschede",
+      "Rijksscholengemeenschap West-Friesland",
+      "Cornhert mavo"
+    ],
+    "connection_count": 500,
+    "skills": [
+      "IT Service Management",
+      "ICT",
+      "ITIL",
+      "IT Management",
+      "Information Management",
+      "Service Management",
+      "People Management",
+      "Contract Management",
+      "Outsourcing",
+      "Test Management",
+      "Interim Management",
+      "Coaching",
+      "Offshoring",
+      "Quality Assurance",
+      "Testing",
+      "Project Delivery",
+      "PMO",
+      "Application Management",
+      "Consultancy",
+      "Program Management",
+      "Software Project...",
+      "Business Management",
+      "Change Management",
+      "Business Case",
+      "Governance",
+      "Service Delivery",
+      "TMap",
+      "Management Consulting",
+      "Agile",
+      "Process Improvement",
+      "SOA",
+      "Requirements Analysis",
+      "Quality Management",
+      "Stakeholder Management",
+      "Procurement",
+      "HR Policies",
+      "Global Delivery",
+      "Application Delivery",
+      "IT Outsourcing"
+    ],
+    "orgs": [
+      "Provincie Gelderland",
+      "Sogeti Nederland B.V.",
+      "Sogeti Nederland",
+      "IQUIP",
+      "Interprogram"
+    ],
+    "name": "Jacco Vonk",
+    "connections": [
+      "Harry Rombout",
+      "Jeff Verheul",
+      "Marc van Maanen",
+      "Robert Verbeek",
+      "Theo van Diek",
+      "Bas van Duifhuizen",
+      "Jeroen Naterop",
+      "Robin Corsen",
+      "Frans Manders",
+      "Frank Spruit"
+    ]
+  },
+  {
+    "img": "img/Jan Depping.jpg",
+    "loc": "Amsterdam",
+    "education": [
+      "Bliss Consulting"
+    ],
+    "connection_count": 500,
+    "skills": [
+      "Outsourcing",
+      "Solution Selling",
+      "Program Management",
+      "ICT",
+      "IT Strategy",
+      "Enterprise Architecture",
+      "Management Consulting",
+      "ITIL",
+      "Change Management",
+      "Cloud Computing",
+      "Consulting",
+      "IT Service Management",
+      "Business Strategy",
+      "Management",
+      "Business Analysis",
+      "IT Management",
+      "Coaching",
+      "Public Sector",
+      "New Business Development",
+      "Interim Management",
+      "Solution Architecture",
+      "Project Management",
+      "Process Improvement",
+      "Business Intelligence",
+      "SaaS",
+      "Strategy",
+      "Security",
+      "Pre-sales",
+      "Architecture",
+      "Enterprise Software",
+      "Account Management",
+      "Virtualization",
+      "Microsoft Technologies",
+      "Business Development",
+      "Partner Management",
+      "VMware",
+      "Information Management"
+    ],
+    "orgs": [
+      "Microsoft",
+      "MijnGVB.nl",
+      "DCO",
+      "RDW"
+    ],
+    "name": "Jan Depping",
+    "connections": [
+      "Marcel Westra",
+      "Herman Keijzer",
+      "Edwin Hageman",
+      "Erik Jan van Vuuren",
+      "Martin Vliem, CISSP CISA",
+      "Peggy Pinelo Merchan",
+      "Tony Krijnen",
+      "Isabel Moll - Kranenburg",
+      "Renata Bignardi",
+      "Nico van Veen"
+    ]
+  },
+  {
+    "img": "img/Ron Van Den Berg, PMP.jpg",
+    "loc": "Arnhem",
+    "education": [
+      "Exin HBO Informatics"
+    ],
+    "connection_count": 500,
+    "skills": [
+      "Project Portfolio...",
+      "Business Process",
+      "Change Management",
+      "Program Management",
+      "Project Management",
+      "Business Process...",
+      "PRINCE2",
+      "ERP",
+      "Process Management",
+      "Project Delivery",
+      "Project Planning",
+      "Management Consulting",
+      "Management",
+      "Business Analysis",
+      "SAP",
+      "Energy",
+      "ITIL",
+      "Team Management",
+      "SAP R/3",
+      "PMO",
+      "IT Strategy",
+      "Operations Management",
+      "Outsourcing",
+      "Interim Management",
+      "ICT",
+      "IT Service Management",
+      "Business Process Design",
+      "Information Management",
+      "Service Delivery",
+      "Process Engineering",
+      "Stakeholder Management",
+      "SAP ERP",
+      "Governance",
+      "Requirements Analysis",
+      "Process Improvement",
+      "Integration",
+      "Business Transformation",
+      "Business Intelligence",
+      "Data Migration",
+      "IT Management",
+      "Service Management",
+      "Budgets",
+      "Enterprise Architecture"
+    ],
+    "orgs": [
+      "Liander",
+      "Alliander",
+      "Energie Data Services Nederland (EDSN) B.V.",
+      "NUON",
+      "Shell"
+    ],
+    "name": "Ron Van Den Berg, PMP",
+    "connections": [
+      "Bas van den Berg",
+      "Tanja van Haarst",
+      "Robbert-Jan Stegeman",
+      "Hiske Van Mierlo",
+      "Simone van Essen",
+      "Kees Mensch",
+      "Rick Kerssens",
+      "Chantal Lopulalan",
+      "Bas Van Dorst",
+      "Pim Koeckhoven"
+    ]
   }
 ]

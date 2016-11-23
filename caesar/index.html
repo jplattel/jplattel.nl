@@ -157,6 +157,12 @@
 	        	margin: 0 auto;
 	        	border: 3px solid #333;
 	        }
+	        h3 span{
+	        	padding: 3px;
+	        	padding-right: 5px;
+	        	padding-left: 5px;
+	        	border-radius: 5px;
+	        }
 		</style>
 	</head>
 	
@@ -175,6 +181,9 @@
 		<div id="info">
 			<div id="node-img"></div>
 			<h1 id="node-title">Hi there!</h1>
+			<div id="node-loc"></div>
+			<div id="node-bid"></div>
+			<div id="node-loc"></div>
 			<div id="node-content">
 				<p>Click on of the nodes to get started!</p>
 			</div>
@@ -228,8 +237,6 @@
 			for (var i = connectedNodes.length - 1; i >= 0; i--) {
 				connected_node_id = connectedNodes[i]
 				connected_node = network.nodesHandler.body.nodes[connected_node_id]
-
-				console.log(connected_node.options.type)
 				
 				if (connected_node.options.type == type) {
 					related.push(connected_node.options)
@@ -243,19 +250,34 @@
 		function nodeShow(node){
 			$('#node-content').empty()
 			$('#node-img').empty()
+			$('#node-loc').empty()
 
 			if (node.options.type == "person"){
 				$('#node-title').html(node.options.name)
 					content = ''
+
+					if (node.options.first_bid){
+						$('#node-bid').html('<p>Was nog niet eerder op een BID-diner')
+					} else {
+						$('#node-bid').html('<p>Was al eerder op een BID-diner')
+					}
+
+					if (node.options.loc){
+						$('#node-bid').html('Locatie: <i>' + node.options.loc + '</i>')
+					}						
+
+					if (node.options.connections){
+						content += '<h3>Connections</h3>' + nodeRelated(node, 'person')
+					}	
 				
 					if (node.options.orgs){
-						content += '<h3>Organisations</h3>' + nodeRelated(node, 'org')
+						content += '<h3>Organisations <span style="background-color: #3e93ae">&#9679;</span></h3></h3>' + nodeRelated(node, 'org')
 					}
 					if (node.options.education) {						
-						content += '<h3>Education</h3>' + nodeRelated(node, 'edu')
+						content += '<h3>Education <span style="background-color: #3eee93">&#9679;</span></h3>' + nodeRelated(node, 'edu')
 					}
 					if (node.options.skills) {
-						content += '<h3>Skills</h3>' + nodeRelated(node, 'skill')
+						content += '<h3>Skills <span style="background-color: #cccccc">&#9679;</span></h3>' + nodeRelated(node, 'skill')
 					}
 				
 				$('#node-img').html('<img class="person-image" src="' + node.options.image + '">')
@@ -276,7 +298,11 @@
 				content = nodeRelated(node, 'person')				
 				$('#node-content').html(content)
 				
-			} 
+			} else if (node.options.type == "loc") {
+				$('#node-title').html('Locatie: ' + node.options.name)
+				content = nodeRelated(node, 'person')				
+				$('#node-content').html(content)
+			}
 		}
 
 
@@ -287,18 +313,27 @@
 
 		  		person_id = md5(person['name'])
 
+		  		if (person['first_bid']){
+		  			first_bid = true;
+		  		} else {
+		  			first_bid = false;
+		  		}
+
 		  		nodes.push({
 		  			'id': person_id, 
 		  			'type': 'person',
 		  			'shape': 'circularImage', 
 		  			'image': person['img'], 
+		  			'loc': person['loc'], 
 		  			'name': person['name'], 
+		  			'first_bid': first_bid,
 		  			// 'value': 800, 
 		  			'color': '#222222',
 		  			'skills': person['skills'],
 		  			'education': person['education'],
 		  			'orgs': person['orgs'],
 		  			'size': 60,
+		  			'connections': person['connections'],
 		  		})
 
 	  			$.each( person['skills'], function(j, skill){
@@ -311,12 +346,22 @@
 	  				}
 	  			})
 
+	  			if (person['loc']){
+	  				loc_id = md5(person['loc']);
+	  				if (nodeExists(nodes, loc_id)){
+	  					edges.push({'type': 'loc', 'from': person_id, 'to': loc_id, color:{color:'rgba(200,200,200,1)', highlight:'#5F5AA2'}})	
+	  				} else {
+	  					nodes.push({'name': person['loc'], 'id': loc_id, 'type': 'loc', color: 'rgb(200,10,0)'})
+	  					edges.push({'type': 'loc', 'from': person_id, 'to': loc_id, color:{color:'rgba(200,200,200,1)', highlight:'#5F5AA2'}})	
+	  				}
+	  			}
+
 	  			$.each( person['education'], function(j, edu){
 	  				edu_id = md5(edu);
 	  				if (nodeExists(nodes, edu_id)){
 	  					edges.push({'type': 'edu', 'from': person_id, 'to': edu_id, color:{color:'rgba(200,200,200,1)', highlight:'#5F5AA2'}})	
 	  				} else {
-	  					nodes.push({'name': edu , 'id': edu_id, color: "#aaaaaa", 'value': 10, 'type': 'edu'})
+	  					nodes.push({'name': edu , 'id': edu_id, color: "#3eee93", 'value': 10, 'type': 'edu'})
 	  					edges.push({'from': person_id, 'to': edu_id, color:{color:'rgba(200,200,200,1)', highlight:'rgb(255,165,0)'}})	
 	  				}
 	  			})
@@ -328,6 +373,13 @@
 	  				} else {
 	  					nodes.push({ 'name': org , 'id': org_id, 'color': "#3e93ae", 'value': 10, 'type': 'org',})
 	  					edges.push({'from': person_id, 'to': org_id, color:{color:'rgba(200,200,200,1)', highlight:'rgb(255,165,0)'}})	
+	  				}
+	  			})
+
+	  			$.each( person['connections'], function(j, connection){
+	  				connection_id = md5(connection);
+	  				if (nodeExists(nodes, connection_id)){
+	  					edges.push({'from': person_id, 'to': connection_id, color:{color:'rgba(200,200,200,1)', highlight:'rgb(255,165,0)'}})	
 	  				}
 	  			})
 		  	});
