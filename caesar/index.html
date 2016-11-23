@@ -216,15 +216,19 @@
 		}
 
 		function toList(nodes){
-			html = '<ul>'
-			for (var i = nodes.length - 1; i >= 0; i--) {
-				html += '<li class="node-link" id="' +  nodes[i].id + '">'
-				html += nodes[i].name
-				html += ' <span class="badge">' + network.getConnectedNodes(nodes[i].id).length +'</span>';
-				html += '</li>'
+			if (nodes.length > 0){
+				html = '<ul>'
+				for (var i = nodes.length - 1; i >= 0; i--) {
+					html += '<li class="node-link" id="' +  nodes[i].id + '">'
+					html += nodes[i].name
+					html += ' <span class="badge">' + network.getConnectedNodes(nodes[i].id).length +'</span>';
+					html += '</li>'
+				}
+				html += '</ul>'
+				return html
+			} else {
+				return false
 			}
-			html += '</ul>'
-			return html
 		}
 
 		function nodeRelated(node, type) {
@@ -263,12 +267,14 @@
 					}
 
 					if (node.options.loc){
-						$('#node-loc').html('<h3>Locatie</h3>' + nodeRelated(node, 'loc'))
-
+						if (nodeRelated(node, 'loc')){
+							$('#node-loc').html('<h3>Locatie <span style="background-color: rgb(200,10,0);">&#9679;</span></h3>' + nodeRelated(node, 'loc'))
+						}
 					}						
-
 					if (node.options.connections){
-						content += '<h3>Connections</h3>' + nodeRelated(node, 'person')
+						if (nodeRelated(node, 'person')){
+							content += '<h3>Connections</h3>' + nodeRelated(node, 'person')
+						}
 					}	
 				
 					if (node.options.orgs){
