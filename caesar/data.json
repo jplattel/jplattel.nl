@@ -2108,9 +2108,9 @@
     "connection_count": 500
   },
   {
-    "name": "René Klawer",
+    "name": "Rene Klawer",
     "loc": "Rotterdam",
-    "img": "img/René Klawer.jpg",
+    "img": "img/Rene Klawer.jpg",
     "education": [],
     "connections": [
       "Marjan Timmer",
@@ -2758,6 +2758,7 @@
     },
     "name": "Steven Van Belleghem",
     "img": "img/Steven Van Belleghem.jpg",
+    "first_bid": true,
     "education": [
       "Ghent University",
       "OLVA",
