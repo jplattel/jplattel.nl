@@ -40,6 +40,36 @@
 		    	height: 100%;
 		    	overflow: scroll
 		    }
+		    #info ul{
+		    	margin: 0px;
+		    	padding: 0px;
+		    }
+			#info ul li{
+				padding: 8px;
+				list-style-type: none;
+				border: 1px solid #ccc;
+				border-bottom: 0px;
+			}
+			#info ul li:first-child{
+				border-radius: 10px 10px 0px 0px;
+			}
+			#info ul li:last-child{
+				border-radius: 0px 0px 10px 10px;
+			    border-bottom: 1px solid #ccc !important;
+			}
+			#info .badge{
+				background: rgb(255,165,0);
+				color: white;
+				padding: 2px;
+				padding-right: 5px;
+				padding-left: 5px;
+				font-size: 12px;
+				margin-right: 5px;
+				margin-left: 5px;
+				border-radius: 30%;
+				float: right;
+			}
+
 		    #loadingBar {
 	            position:absolute;
 	            top:0px;
@@ -109,9 +139,10 @@
 	            box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
 	        }
 	        .node-link{
-	        	text-decoration: underline;
+	        	
 	        }
 	        .node-link:hover{
+	        	/*text-decoration: underline;*/
 	        	cursor: pointer;
 	        }
 	        #node-img{
@@ -181,7 +212,8 @@
 			for (var i = nodes.length - 1; i >= 0; i--) {
 				html += '<li class="node-link" id="' +  nodes[i].id + '">'
 				html += nodes[i].name
-				html += '</a></li>'
+				html += ' <span class="badge">' + network.getConnectedNodes(nodes[i].id).length +'</span>';
+				html += '</li>'
 			}
 			html += '</ul>'
 			return html
