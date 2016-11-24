@@ -1785,6 +1785,7 @@
     "name": "Michel Verwoest",
     "img": "img/Michel Verwoest.jpg",
     "loc": "Utrecht",
+    "first_bid": true,
     "education": [
       "Harvard Business School",
       "Nyenrode Business Universiteit / Nyenrode University",
@@ -2939,7 +2940,7 @@
       "status": 404
     },
     "name": "Vincent van Campen",
-    "img": "img/default.jpg",
+    "img": "img/Vincent Van Campen.jpg",
     "loc": "Alphen aan de Rijn",
     "education": [
       "Law University Groningen"
