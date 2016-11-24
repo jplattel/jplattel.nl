@@ -3185,6 +3185,7 @@
   {
     "img": "img/Jan Depping.jpg",
     "loc": "Amsterdam",
+    "first_bid": true,
     "education": [
       "Bliss Consulting"
     ],
