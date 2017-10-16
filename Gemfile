@@ -25,10 +25,15 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-paginate"
 gem "jekyll-import"
 
+
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
+   	gem "jekyll-feed", "~> 0.6"
    
-   # Via: https://github.com/jekyll/jekyll-compose for easy starting of new blogposts
-   gem "jekyll-compose"
+   	# Sitemap
+	gem "jekyll-sitemap"
+
+   	# Via: https://github.com/jekyll/jekyll-compose for easy starting of new blogposts
+   	gem "jekyll-compose"
 end
