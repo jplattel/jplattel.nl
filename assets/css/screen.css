@@ -890,8 +890,8 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .no-cover.main-header {
-    min-height: 160px;
-    max-height: 40%;
+    min-height: 200px;
+    max-height: 220px;
     background: #f5f8fa;
 }
 
