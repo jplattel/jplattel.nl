@@ -780,9 +780,9 @@ margin on the iframe, cause it breaks stuff. */
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    width: 98%;
-    margin: 1%;
-    float: left;
+    /*width: 98%;
+    margin: 1%;*/
+    /*float: left;*/
     margin-bottom: 25px;
 }
 .form-group label{
