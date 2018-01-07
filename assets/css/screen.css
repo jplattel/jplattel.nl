@@ -64,7 +64,9 @@ sub, sup {
 }
 sup { top: -0.5em; }
 sub { bottom: -0.25em; }
-img { border: 0; }
+img { 
+    border: 0; 
+    image-orientation: from-image;}
 svg:not(:root) { overflow: hidden; }
 figure { margin: 0; }
 fieldset {
@@ -245,7 +247,7 @@ p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    margin: 0 0 1.75em 0;
+    margin: 0.75em 0 0.75em 0;
 }
 
 ol, ul {
@@ -1098,7 +1100,7 @@ body:not(.post-template) .post-title {
     max-width: 100%;
     height: auto;
     margin: 0 auto;
-    padding: 0.6em 0;
+    margin: 0.75em 0;
 }
 
 .post-excerpt img {
