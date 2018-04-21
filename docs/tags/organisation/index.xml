@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organisation on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/organisation/</link>
+    <description>Recent content in Organisation on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 07 Feb 2014 14:44:58 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/organisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experimenting with company activity dashboards</title>
+      <link>http://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</link>
+      <pubDate>Fri, 07 Feb 2014 14:44:58 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</guid>
+      <description>As an experiment, I&#39;m collecting data from the Moves app from multiple persons within a organisation. The goal is to find out what&#39;s possible with the amount of data the persons generate each day. Currently, the collection of data is ongoing and the next step would be the visualization of the data. Here are some simple graphs you can make with the data:
+
+Further steps could be exploring what a group wants from visualisations like this.</description>
+    </item>
+    
+    <item>
+      <title>Building a Fitbit organisation dashboard</title>
+      <link>http://jplattel.nl/post/2013-08-15-fitbit-organisation-dashboard/</link>
+      <pubDate>Thu, 15 Aug 2013 18:54:46 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-08-15-fitbit-organisation-dashboard/</guid>
+      <description>The Fitbit (affiliate link) is one of the best tools for activity tracking.The interface is nice and the hardware is durable and syncs wirelessly. For a personal level is good, but using group-wise or equipping all employees with a Fitbit turns out to be non-existent.
+During the past few days I&#39;ve spend some time building a dashboard that lets people see the data from all users within a group. It gets all data trough the Fitbit API and summarizes it into a view per day/week/month.</description>
+    </item>
+    
+  </channel>
+</rss>

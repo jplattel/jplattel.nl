@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videologic on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/videologic/</link>
+    <description>Recent content in Videologic on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 19 Apr 2014 20:21:11 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/videologic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The curious corner on video</title>
+      <link>http://jplattel.nl/post/2014-04-19-curious-corner-video/</link>
+      <pubDate>Sat, 19 Apr 2014 20:21:11 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-04-19-curious-corner-video/</guid>
+      <description>I&#39;ve curated 6 editions of the Curious Corner of the Internet until this day. It started out as an experiment of just showing my saved-for-later links in a presentation. The newsletter essentially was a second format, and I didn&#39;t explore my chances for a talk much further. Until now, during the Week for the Entrepreneur in the Netherlands, that I&#39;d give it another shot. Sadly, it&#39;s in dutch, but here&#39;s the video:</description>
+    </item>
+    
+  </channel>
+</rss>

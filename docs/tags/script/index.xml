@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Script on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/script/</link>
+    <description>Recent content in Script on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 Jan 2016 10:33:56 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On solving annoying things</title>
+      <link>http://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</link>
+      <pubDate>Fri, 29 Jan 2016 10:33:56 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</guid>
+      <description>The dutch government and other (bigger) organisations seem to have a habit to annoy people. One of the reasons they do so is security by obscurity. It has it’s flaw as shown in this blogpost by @levelsio.
+He wrote a little script that fetches and forwards all the email, which everyone can do after loggin in with DigiD. As shown, this takes a lot of steps. Automating it can be done with less then 50 lines of code.</description>
+    </item>
+    
+    <item>
+      <title>Sync Kindle notes and clippings to Evernote</title>
+      <link>http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</link>
+      <pubDate>Fri, 08 Jul 2011 12:11:46 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</guid>
+      <description>Since I got my Kindle I started reading a lot more books and articles. And one of the nice things you can do is add notes and clip certain pieces of text. The Kindle saves all those things into a text file for easy access, but I wanted those to be searchable as well in my system.
+I wrote a small python script that extracts all notes and clippings from the text file and creates a new note in Evernote for each of them.</description>
+    </item>
+    
+  </channel>
+</rss>

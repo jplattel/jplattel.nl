@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Processing on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/processing/</link>
+    <description>Recent content in Processing on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Sep 2011 10:39:03 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preview of my San Francisco Report</title>
+      <link>http://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/</link>
+      <pubDate>Thu, 01 Sep 2011 10:39:03 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/</guid>
+      <description>For the people who sponsored me for my trip to San Francisco, I&#39;m building a report inspired my Nicholas Felton about my trip. I wanted to show you a small preview on the right:
+I&#39;m aiming to have at least 4 page worth of data to show you. Since I&#39;ve never dived deep into Processing, the building time is somewhat extended, so I don&#39;t know when it&#39;ll be finished. I started studying Media Technology as well, so spare time is a little bit limited.</description>
+    </item>
+    
+    <item>
+      <title>Measuring mouse interaction</title>
+      <link>http://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</link>
+      <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</guid>
+      <description>I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&#39;t draw any conclusions about it because I switched my operating system too!
+However more recently I started using MacLogger and together with Jelle I&#39;ve made some custom python and processing scripts that should offer more insight into my mouse usage.</description>
+    </item>
+    
+    <item>
+      <title>Dabblings in Processing</title>
+      <link>http://jplattel.nl/post/2011-01-08-dabblings-in-processing/</link>
+      <pubDate>Sat, 08 Jan 2011 14:20:30 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-01-08-dabblings-in-processing/</guid>
+      <description>The collected data of 2010, mostly trough PersonalStats, but Foursquare and Twitter too, is a huge amount. Next to interpreting this data and using the information to create a feedback moment, the data can also turned into art. Nicholas Felton makes a perfect example: his highly interesting Annual Report fascinates me in both visual and informational ways.
+As Kees discovered Processing, it left me wondering what I could do with it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invoice on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/invoice/</link>
+    <description>Recent content in Invoice on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 21 Oct 2013 10:02:44 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/invoice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making sense of your phone invoices</title>
+      <link>http://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/</link>
+      <pubDate>Mon, 21 Oct 2013 10:02:44 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/</guid>
+      <description>Telephone companies tend to have a lot of data about a user. This data includes some information that could help you decide whether you could pay for another subscription that fits more to your usage. To fix that problem I&#39;ve build a dashboard which uses all the information available trough the invoices my current company (T-mobile) provides in a PDF. (FYI, I got a version running that&#39;s also working with receipts from Vodafone)</description>
+    </item>
+    
+  </channel>
+</rss>

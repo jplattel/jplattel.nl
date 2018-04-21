@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cycling on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/cycling/</link>
+    <description>Recent content in Cycling on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 25 Jul 2016 13:09:06 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/cycling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>London on a double-bike</title>
+      <link>http://jplattel.nl/post/2016-07-25-double-bike-london/</link>
+      <pubDate>Mon, 25 Jul 2016 13:09:06 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-07-25-double-bike-london/</guid>
+      <description>On sunday the 10th of June I left my parents place on a double-bike. Together with a friend we cycled to Zwolle, took a train and prepared ourselves in the evening for a trip to London. As we took the boat to Harwich the next day I didn&#39;t know what to expect as I hadn&#39;t visited England before.
+
+As we talked with locals it turns out it&#39;s much more enjoyable if you take the small hilly roads towards your destination.</description>
+    </item>
+    
+    <item>
+      <title>On a tandem bicycle to Bregenz</title>
+      <link>http://jplattel.nl/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</link>
+      <pubDate>Mon, 05 Aug 2013 17:40:13 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</guid>
+      <description>Two weeks ago I left the small village of Sloten in The Netherlands with a lofty goal, to reach Rome in Italy. On a tandem bicycle with a friend.
+A total distance around 2300km was meant to be covered. In the fourth day, we left the Netherlands and went into Germany.. Traveling trough the Ruhr area and cycling next to the Rhine.
+Next, the Swabian Jura and with 2 weeks we covered most of Germany.</description>
+    </item>
+    
+  </channel>
+</rss>

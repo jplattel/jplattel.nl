@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bottle.py on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/bottle.py/</link>
+    <description>Recent content in Bottle.py on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 31 May 2012 15:34:18 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/bottle.py/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Storify as slides for talks</title>
+      <link>http://jplattel.nl/post/2012-05-31-storify-as-slides-for-talks/</link>
+      <pubDate>Thu, 31 May 2012 15:34:18 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2012-05-31-storify-as-slides-for-talks/</guid>
+      <description>I like Storify, a service that lets you curate your own story based from sources like Twitter, Facebook or other social networks. And sometimes I wonder what would happen if you let people curate it live on a beamer during festivals or want to use it for public talks... Then the website isn&#39;t that handy or slide-enabled.
+But it shouldn&#39;t be that hard to extract all data from Storify and glue everything together into a slide-ready format right?</description>
+    </item>
+    
+  </channel>
+</rss>

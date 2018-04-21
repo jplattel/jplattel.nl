@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Joost Plattel</title>
+    <link>http://jplattel.nl/media/</link>
+    <description>Recent content in Media on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:19:43 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article: Zorgvisie Ict, De Patient als wetenschaps-instrument</title>
+      <link>http://jplattel.nl/media/zorgvisie-ict/</link>
+      <pubDate>Sun, 22 Apr 2018 00:19:43 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/zorgvisie-ict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview: Arte TV: CES &amp; Wearables</title>
+      <link>http://jplattel.nl/media/arte-tv/</link>
+      <pubDate>Sun, 22 Apr 2018 00:16:25 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/arte-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview: Volmaakte Mens (VPRO)</title>
+      <link>http://jplattel.nl/media/volmaakte-mens/</link>
+      <pubDate>Sun, 22 Apr 2018 00:15:14 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/volmaakte-mens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview: Een Leuk Boek, slimmer en productiever werken</title>
+      <link>http://jplattel.nl/media/een-leuk-boek/</link>
+      <pubDate>Sat, 21 Apr 2018 23:01:21 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/een-leuk-boek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article: P&amp;O Actueel, The Quantified Workplace</title>
+      <link>http://jplattel.nl/media/po-actueel-qwp/</link>
+      <pubDate>Sat, 21 Apr 2018 22:17:10 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/po-actueel-qwp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: TEDxYouth Groningen, 8:36pm</title>
+      <link>http://jplattel.nl/media/tedxyouth-groningen/</link>
+      <pubDate>Sat, 21 Apr 2018 21:23:09 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/tedxyouth-groningen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article: Groene Amsterdammer, Het alziend oog van de baas</title>
+      <link>http://jplattel.nl/media/groene_amsterdammer/</link>
+      <pubDate>Sat, 21 Apr 2018 21:05:01 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/groene_amsterdammer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

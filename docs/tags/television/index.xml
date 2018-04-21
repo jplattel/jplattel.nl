@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Television on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/television/</link>
+    <description>Recent content in Television on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 13 Jan 2014 13:23:32 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/television/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taping interviews</title>
+      <link>http://jplattel.nl/post/2014-01-13-taping-interviews/</link>
+      <pubDate>Mon, 13 Jan 2014 13:23:32 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-01-13-taping-interviews/</guid>
+      <description>Last week I&#39;ve spend some time before camera lenses. On wednesday I got a call for an interview for RTL Nieuws about CES and wearables. A quick interview got me 2 minutes of fame (on from 18:10) on television. On thursday, a longer interview for Arte TV, that will be shown later this month (viewable online too).</description>
+    </item>
+    
+    <item>
+      <title>On the TV for VPRO Labyrint</title>
+      <link>http://jplattel.nl/post/2013-02-26-vpro-labyrint/</link>
+      <pubDate>Tue, 26 Feb 2013 09:47:05 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-02-26-vpro-labyrint/</guid>
+      <description>On sunday evening, the VPRO aired a new episode of Labyrint, a show for popular science. This episode included coverage of the Quantified Self and an interview with me (in dutch)! I&#39;ve included the video for you to watch below:
+
+I&#39;m very happy with the end result! As tracking becomes more ubiquitous more people will start to use it.</description>
+    </item>
+    
+  </channel>
+</rss>

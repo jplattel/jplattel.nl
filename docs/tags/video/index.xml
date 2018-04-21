@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/video/</link>
+    <description>Recent content in Video on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Jan 2015 01:16:54 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>8:36pm, a 2014 video!</title>
+      <link>http://jplattel.nl/post/2015-01-06-836pm-2014-video/</link>
+      <pubDate>Tue, 06 Jan 2015 01:16:54 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2015-01-06-836pm-2014-video/</guid>
+      <description>This is my fourth year that I&#39;m taking pictures everyday at 8:36pm. A little something that I plan to keep on doing for my entire life. Every year I make a small movie off all the pictures! Have a look:
+
+Highlights of this year including a holiday across the netherlands, moving to a new home and Italy! Hope 2015 will be as great as last year! </description>
+    </item>
+    
+    <item>
+      <title>The curious corner on video</title>
+      <link>http://jplattel.nl/post/2014-04-19-curious-corner-video/</link>
+      <pubDate>Sat, 19 Apr 2014 20:21:11 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-04-19-curious-corner-video/</guid>
+      <description>I&#39;ve curated 6 editions of the Curious Corner of the Internet until this day. It started out as an experiment of just showing my saved-for-later links in a presentation. The newsletter essentially was a second format, and I didn&#39;t explore my chances for a talk much further. Until now, during the Week for the Entrepreneur in the Netherlands, that I&#39;d give it another shot. Sadly, it&#39;s in dutch, but here&#39;s the video:</description>
+    </item>
+    
+    <item>
+      <title>RadBox for the iPad</title>
+      <link>http://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/</link>
+      <pubDate>Wed, 08 Dec 2010 12:19:55 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/</guid>
+      <description>I use Read It Later for saving webpages, but if those pages contained video&#39;s I had to visit the webpages, load the video etcetera... It simply does not fulfill my needs for watching video...
+While searching Google I discovered RadBox, which does exactly what I want: use a bookmarklet to save video&#39;s to watch later. They offered an API and RSS-feed of my video&#39;s so I decided to build my own based on App Engine.</description>
+    </item>
+    
+    <item>
+      <title>QS Amsterdam Recap #1</title>
+      <link>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro! I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+    </item>
+    
+    <item>
+      <title>1 Minute of Fame - Stand Up Inspiration: 8:36pm</title>
+      <link>http://jplattel.nl/post/2010-05-18-1-minute-of-fame-stand-up-inspiration-836pm/</link>
+      <pubDate>Tue, 18 May 2010 13:56:16 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-05-18-1-minute-of-fame-stand-up-inspiration-836pm/</guid>
+      <description>Stand Up Inspiration Ideeën, gedachten en visies, gebracht door kritische en enthousiaste denkers uit verschillende werelden; inspiratie in interactie met de zaal. Dat is in een notendop #SUI. De laatste editie was gisteren op 17 mei 2010, de 16e. Deze post gaat over die daarvoor, nummer 15. Toen had ik mijn 1 minute of fame vlak na de pauze:
+
+Kort samengevat: blubber in alle kleuren van de regenboog maar trots dat ik het gedaan heb!</description>
+    </item>
+    
+  </channel>
+</rss>

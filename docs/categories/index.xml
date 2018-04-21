@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Joost Plattel</title>
+    <link>http://jplattel.nl/categories/</link>
+    <description>Recent content in Categories on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="http://jplattel.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chemistry</title>
+      <link>http://jplattel.nl/categories/chemistry/</link>
+      <pubDate>Mon, 05 Apr 2010 10:06:21 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/categories/chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://jplattel.nl/categories/code/</link>
+      <pubDate>Mon, 02 May 2016 22:19:59 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joost</title>
+      <link>http://jplattel.nl/categories/joost/</link>
+      <pubDate>Thu, 25 Aug 2016 15:42:46 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/categories/joost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifehacking</title>
+      <link>http://jplattel.nl/categories/lifehacking/</link>
+      <pubDate>Fri, 08 Jul 2011 12:11:46 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/categories/lifehacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mashups</title>
+      <link>http://jplattel.nl/categories/mashups/</link>
+      <pubDate>Mon, 02 Feb 2015 12:45:05 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/categories/mashups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>http://jplattel.nl/categories/philosophy/</link>
+      <pubDate>Tue, 23 Feb 2016 14:11:46 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantified Self</title>
+      <link>http://jplattel.nl/categories/quantified-self/</link>
+      <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/categories/quantified-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>http://jplattel.nl/categories/random/</link>
+      <pubDate>Mon, 25 Jul 2016 13:09:06 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/categories/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://jplattel.nl/categories/technology/</link>
+      <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

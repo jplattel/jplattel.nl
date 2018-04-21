@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evernote on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/evernote/</link>
+    <description>Recent content in Evernote on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 08 Jul 2011 12:11:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sync Kindle notes and clippings to Evernote</title>
+      <link>http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</link>
+      <pubDate>Fri, 08 Jul 2011 12:11:46 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</guid>
+      <description>Since I got my Kindle I started reading a lot more books and articles. And one of the nice things you can do is add notes and clip certain pieces of text. The Kindle saves all those things into a text file for easy access, but I wanted those to be searchable as well in my system.
+I wrote a small python script that extracts all notes and clippings from the text file and creates a new note in Evernote for each of them.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usage on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/usage/</link>
+    <description>Recent content in Usage on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 12 Oct 2015 11:35:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/usage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantified Phone Usage with iPython</title>
+      <link>http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</link>
+      <pubDate>Mon, 12 Oct 2015 11:35:38 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</guid>
+      <description>Technology is making it easier to collect data, for example phone usage. From the 1st of January I tracked how much I&#39;ve used my phone by installing an app called Moment. It runs in the background and silently tracks how much you use your phone. As said, the first step towards behaviour-change is providing insight in current behaviour. Lately I&#39;ve been exploring iPython for data-analysis and sharing snippets of data. I&#39;ve started a Github repository that contains some notebooks I&#39;m working on.</description>
+    </item>
+    
+    <item>
+      <title>Learning about power-usage data from my home</title>
+      <link>http://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/</link>
+      <pubDate>Fri, 21 Nov 2014 10:32:23 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/</guid>
+      <description>I recently moved to a new home, and I got a freshly installed new electricity meter that&#39;s a little bit more intelligent. It was now possible for me to sign up for slimmemeterportal.nl, that let&#39;s you access the power-usage data from the meter by a 15 minute window. That&#39;s quite some data to play with!
+Being interested in the data, I wrote a little scraper that collects it for me and stores it in a SQL database, from there on, with Flask and Peewee it was quite simple to create a little API for my own dataset.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghent on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/ghent/</link>
+    <description>Recent content in Ghent on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 02 Dec 2015 11:25:13 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/ghent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A lecture in Ghent</title>
+      <link>http://jplattel.nl/post/2015-12-02-a-lecture-in-ghent/</link>
+      <pubDate>Wed, 02 Dec 2015 11:25:13 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2015-12-02-a-lecture-in-ghent/</guid>
+      <description>A few weeks ago I gave a lecture in Ghent, a beautiful city and so I decided to spend the weekend at an AirBnB host to enjoy the city! Here&#39;s a picture I took:
+I&#39;ve uploaded all the slides from the lecture on Slideshare for you to enjoy.
+
+It was my longest lecture and I&#39;ve learned some useful things while doing so. I find that having a storyline with little pieces is harder to keep up over longer times, so next time I will try to venture more in depth of some of my personal tracking experiments, for example my phone usage.</description>
+    </item>
+    
+  </channel>
+</rss>
