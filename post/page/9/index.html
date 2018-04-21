@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.39" />
+  <meta name="author" content="Joost Plattel">
+
+  
+  
+  
+  
+  <meta name="description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#4A4A4A">
+  
+  
+  
+  
+    
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7cMerriweather%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-18951988-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+
+  
+  <link rel="alternate" href="http://jplattel.nl/post/index.xml" type="application/rss+xml" title="Joost Plattel">
+  <link rel="feed" href="http://jplattel.nl/post/index.xml" type="application/rss+xml" title="Joost Plattel">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="http://jplattel.nl/post/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@jplattel">
+  <meta property="twitter:creator" content="@jplattel">
+  
+  <meta property="og:site_name" content="Joost Plattel">
+  <meta property="og:url" content="http://jplattel.nl/post/">
+  <meta property="og:title" content="Posts | Joost Plattel">
+  <meta property="og:description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2011-10-06T10:54:09&#43;02:00">
+  
+
+  
+
+  
+
+  <title>Posts | Joost Plattel</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  
+  <a class="navbar-logo" href="/">
+    <svg width="80px" height="80px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        
+        <title>Joost Plattel</title>
+        <desc>Logo Joost Plattel</desc>
+        <defs></defs>
+        <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <rect id="logo-bg" x="0" y="0" width="500" height="500" fill="#337ab7"></rect>
+            <path d="M373.341797,85.1523438 C368.511044,85.3248707 362.515824,85.9718368 355.355957,87.0932617 C348.196091,88.2146866 342.114608,89.6380122 337.111328,91.3632812 C331.245413,93.4336041 327.277354,96.8840904 325.207031,101.714844 C323.136708,106.545597 322.101562,111.807589 322.101562,117.500977 L322.101562,335.142578 C322.101562,346.529354 319.815615,358.606056 315.243652,371.373047 C310.671689,384.140038 303.986372,395.526643 295.1875,405.533203 C285.008413,417.265033 272.888579,426.408821 258.827637,432.964844 C244.766694,439.520866 228.678802,442.798828 210.563477,442.798828 C182.441591,442.798828 159.62525,434.905841 142.11377,419.119629 C124.602289,403.333417 115.84668,382.069795 115.84668,355.328125 C115.84668,343.596296 118.865855,333.201705 124.904297,324.144043 C130.942739,315.08638 139.741479,310.557617 151.300781,310.557617 C161.652396,310.557617 169.976694,313.447399 176.273926,319.227051 C182.571158,325.006702 185.719727,332.640903 185.719727,342.129883 C185.719727,347.650744 184.598319,353.171522 182.355469,358.692383 C180.112619,364.213244 177.611016,369.130187 174.850586,373.443359 C172.262682,377.411478 169.329769,382.069635 166.051758,387.417969 C162.773747,392.766303 160.444668,397.596984 159.064453,401.910156 C162.687518,407.603544 168.337689,412.606749 176.015137,416.919922 C183.692584,421.233094 194.000912,423.389648 206.94043,423.389648 C219.534894,423.389648 229.843222,420.499866 237.865723,414.720215 C245.888224,408.940564 251.883444,401.2201 255.851562,391.558594 C259.647154,382.587195 262.364412,371.545638 264.003418,358.433594 C265.642424,345.321549 266.461914,330.656982 266.461914,314.439453 L266.461914,120.088867 C266.461914,114.050426 265.469899,109.004089 263.48584,104.949707 C261.50178,100.895325 257.404328,97.3154452 251.193359,94.2099609 C245.845025,91.4495305 239.159708,89.3361076 231.137207,87.8696289 C223.114706,86.4031502 216.515651,85.4973976 211.339844,85.1523438 L211.339844,66.7783203 L373.341797,66.7783203 L373.341797,85.1523438 Z" id="J" fill="#fff"></path>
+        </g>
+    </svg>
+  </a>
+
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a href="/">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/post/">
+            
+            <span>Blog</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/speaking">
+            
+            <span>Speaking</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/wishlist/">
+            
+            <span>Wishlist</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+<div class="universal-wrapper">
+
+  <h1>Posts</h1>
+
+  
+
+  
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-10-06 10:54:09 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Oct 6, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/quantified-self/">Quantified Self</a
+    >, 
+    
+    <a href="http://jplattel.nl/categories/technology/">Technology</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/" itemprop="url">Moon phases and sleep patterns</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    Even before I got a Zeo, I was wondering if the phases of the moon are of influence of my sleep quality. With the Zeo that offers an API, I finally had a chance to investigate. As it turns out after four months of experimenting: the phase of the moon doesn't have any influence on my sleep quality or the time it takes to fall asleep.
+I've been building my own interface for the Zeo, because the flash based website doesn't suit my needs, here's a small screenshot:
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-09-27 09:24:16 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Sep 27, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/quantified-self/">Quantified Self</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/" itemprop="url">Publishing personal caloric values</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    I've started tracking my food intake with Foodzy about 13 days ago. And while doing that I already came across some interesting things. I've never been fully tracking my food intake, but the Foodzy app on my iPhone with extensive database (including typical dutch food) makes it quite easy. I've been tracking for thirteen days now.
+The first step I wanted to take is to generate a baseline of my typical food consumption(and thus caloric values), this way I can see where I can make improvements and measure the changes.
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-09-01 10:39:03 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Sep 1, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/random/">Random</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/" itemprop="url">Preview of my San Francisco Report</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    For the people who sponsored me for my trip to San Francisco, I'm building a report inspired my Nicholas Felton about my trip. I wanted to show you a small preview on the right:
+I'm aiming to have at least 4 page worth of data to show you. Since I've never dived deep into Processing, the building time is somewhat extended, so I don't know when it'll be finished. I started studying Media Technology as well, so spare time is a little bit limited.
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-08-17 09:50:01 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Aug 17, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/random/">Random</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/" itemprop="url">How I would like to write.</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    From how to live safely in a sciencefictional universe by Charles Yu.
+I’m typing, even though strictly speaking I am using the TM-31’s cognitive-visual-motor-sound-activated recording module, which operates, as you might guess, by simultaneously tracking output from the user’s neural activity, voice, finger movements, retinal movements, and facial muscle contractions. It’s part keyboard, part microphone, part optical scan, and part brain scan.
+When I want to type, I raise my hands up in front of me, palms down, in a position approximating typing, and a virtual QWERTY layout materializes in front of me.
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-07-18 20:50:56 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Jul 18, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-07-18-python-library-fitbit-api/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/code/">Code</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-07-18-python-library-fitbit-api/" itemprop="url">Python library for the FitBit API</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    My quest of building API wrappers in python continues with the FitBit. The handy devices tracks most of my activities and movements during daytime. So it's an excellent self-tracking device, especially with the wireless sync. There wasn't an API interface available in python, so with some borrowed code I decided to build my own.
+I made an GitHub repository with the code and an example for you to use. Please fork and correct any changes that you think would be useful for me to learn!
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-07-18-python-library-fitbit-api/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-07-08 12:11:46 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Jul 8, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/code/">Code</a
+    >, 
+    
+    <a href="http://jplattel.nl/categories/lifehacking/">Lifehacking</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/" itemprop="url">Sync Kindle notes and clippings to Evernote</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    Since I got my Kindle I started reading a lot more books and articles. And one of the nice things you can do is add notes and clip certain pieces of text. The Kindle saves all those things into a text file for easy access, but I wanted those to be searchable as well in my system.
+I wrote a small python script that extracts all notes and clippings from the text file and creates a new note in Evernote for each of them.
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-06-22 21:53:57 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Jun 22, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/lifehacking/">Lifehacking</a
+    >, 
+    
+    <a href="http://jplattel.nl/categories/quantified-self/">Quantified Self</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/" itemprop="url">First nights with the Zeo sleep monitor</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    During the QS Conference the awesome guys from Zeo gifted me one of their sleep monitors. And 1 week ago it arrived by mail. I promised to create as much value in return if I liked the Zeo. And I do, I absolutely do. Here is why:
+As an average person sleep 8 hours a day you spend 1/3 of your life lying in bed... That's a lot of time spend.
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-06-07 15:49:07 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Jun 7, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-06-07-san-francisco-2011-qs2011/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/joost/">Joost</a
+    >, 
+    
+    <a href="http://jplattel.nl/categories/quantified-self/">Quantified Self</a
+    >, 
+    
+    <a href="http://jplattel.nl/categories/random/">Random</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-06-07-san-francisco-2011-qs2011/" itemprop="url">San Francisco 2011 &amp; #QS2011</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    On the 25th of may my trip started with a 11 hour long flight straight to San Francisco to visit the Quantified Self Conference in Mountain View. The trip was funded by donations, ideas and people.
+Together with Martijn Aslander I've spent the first few days as a tourist and visited most of the spots that represent San Francisco. Then we boarded the Caltrain for Mountain View.
+I volunteered at the the conference which brought me way more then being just there as a guest.
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-06-07-san-francisco-2011-qs2011/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-05-08 10:24:29 &#43;0200 CEST" itemprop="datePublished dateModified">
+      May 8, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/code/">Code</a
+    >, 
+    
+    <a href="http://jplattel.nl/categories/lifehacking/">Lifehacking</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/" itemprop="url">My effort for a better readinglist</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    I love the Read It Later List service. Each day I save about 20-30 articles from Google Reader or my Twitter client so I can read them later. However, these amounts make it hard for me to process all the things I save. That's why I need a readinglist that has additional filtering/speed/shortcuts.
+As my endeavors with Python continue, for the last few months I've been developing my own version of the perfect readinglist build upon the API of Read It Later List.
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+    
+    
+      
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2011-04-19 20:26:21 &#43;0200 CEST" itemprop="datePublished dateModified">
+      Apr 19, 2011
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joost Plattel">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="http://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fa fa-folder"></i>
+    
+    <a href="http://jplattel.nl/categories/lifehacking/">Lifehacking</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="http://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/" itemprop="url">My method for improving dream recall</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    On average, a human spends one third (8 hours) of it's time sleeping. That's a lot and one of the reasons I decided to dip my interest into dreaming and dream recall.
+
+With trial and error, I've made a modified version of the WILD ((http://www.world-of-lucid-dreaming.com/wake-induced-lucid-dreams.html)) method that works for me with a success-rate of about 80% for dream recall, no lucid state yet. So here is how it works:
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="http://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+    
+  
+
+  
+<nav>
+  <ul class="pager">
+    
+    <li><a href="/post/page/8/">&lt;</a></li>
+    
+    
+    <li><a href="/post/page/10/">&gt;</a></li>
+    
+  </ul>
+</nav>
+
+
+
+</div>
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by a modified
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> and
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    <script id="dsq-count-scr" src="//jplattel.disqus.com/count.js" async></script>
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+
+  </body>
+</html>
+
