@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Creating smart bubble counter fermentation process tracking"
+date: 2018-01-07
+type: post
+published: true
+status: publish
+author:
+  login: Joost Plattel
+  email: jsplattel@gmail.com
+  display_name: Joost Plattel
+  first_name: Joost
+  last_name: Plattel
+---
+
+<p>This weekend I spend my time on electronics, with a specific goal in mind, automating the tracking of a fermentation vessel that I use for brewing. My starting point was a Wemos D1 mini lite, which is a cheap arduino compatible chip with wifi options. </p>
+<p>I wanted to track how many bubbles we're sent past the airlock and also needed a photo interupter gate. So in the end everything is pretty cheap and I only needed some more LEDs, an enclosure, spare wires and some free time!</p>
+
+<p>My first version was build directly on a prototype board of the Wemo, but after selecting the enclosure I decided not to use any headers too keep a lower profile. Here's what my testing setup looked like: 
+</p>
+<img src="/img/test2.jpg" alt="Testing setup for figuring out if the sensor worked correctly and fluid types selection">
+
+<p>While testing I could try different fluids, and the more opaque ones are better. So coffee seems like a perfect option. When everything worked correctly I mapped all ports on the enclosure, drilled or cut them out and soldered everything to the Wemo. The LEDs were mount on the enclosure with trough-mounts. Here's a video of the latest test setup.
+</p>
+
+<p>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BdqMPI2DOAF/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"></blockquote><script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</p>
+
+<p>And a picture of the device after everything is put together! Now I only need to make a web interface.</p>
+
+<img src="/img/end.JPG" alt="Final product that enables me to track bubbles in a fermentation process">
+
+
+<p>As for the code, it's simply a counter that tracks how many bubbles go past the airlock. And every 10 minutes it pings to a server with the count. I've uploaded the <a href="https://gist.github.com/jplattel/1a7e76f1fedf7caa43753fcde04b6a24">Arduino code to Github</a> and embedded it below:</p>
+
+<script src="https://gist.github.com/jplattel/1a7e76f1fedf7caa43753fcde04b6a24.js"></script>
