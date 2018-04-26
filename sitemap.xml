@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://jplattel.nl/post/new_batch_nooitop_kratfunding/</loc>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/media/zorgvisie-ict/</loc>
       <lastmod>2018-04-22T00:19:43+02:00</lastmod>
     </url>
@@ -1721,7 +1730,7 @@
     <url>
     
       <loc>http://jplattel.nl/tags/beer/</loc>
-      <lastmod>2018-04-21T17:56:24+02:00</lastmod>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1900,8 +1909,18 @@
     
     <url>
     
+      <loc>http://jplattel.nl/tags/brewer/</loc>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/tags/brewery/</loc>
-      <lastmod>2018-04-21T17:56:24+02:00</lastmod>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1911,7 +1930,7 @@
     <url>
     
       <loc>http://jplattel.nl/tags/brewing/</loc>
-      <lastmod>2015-05-18T11:12:35+02:00</lastmod>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1922,6 +1941,26 @@
     
       <loc>http://jplattel.nl/tags/brooklyn/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/brouwerij/</loc>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/categories/brouwerij-nooitgedacht/</loc>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2051,6 +2090,7 @@
     <url>
     
       <loc>http://jplattel.nl/categories/</loc>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2069,28 +2109,28 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/chemistry/</loc>
-      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/chemistry/</loc>
-      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://jplattel.nl/categories/chemistry/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/chemistry/</loc>
+      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/chemistry/</loc>
+      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2149,8 +2189,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/code/</loc>
-      <lastmod>2015-02-02T12:45:05+01:00</lastmod>
+      <loc>http://jplattel.nl/categories/code/</loc>
+      <lastmod>2016-05-02T22:19:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2159,8 +2199,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/code/</loc>
-      <lastmod>2016-05-02T22:19:59+02:00</lastmod>
+      <loc>http://jplattel.nl/tags/code/</loc>
+      <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3479,6 +3519,16 @@
     
     <url>
     
+      <loc>http://jplattel.nl/tags/kratfunding/</loc>
+      <lastmod>2018-04-26T13:51:31+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/tags/la-spezia/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
@@ -3569,7 +3619,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lifehacking/</loc>
+      <loc>http://jplattel.nl/categories/lifehacking/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3579,7 +3629,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/lifehacking/</loc>
+      <loc>http://jplattel.nl/tags/lifehacking/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4709,8 +4759,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantified-self/</loc>
-      <lastmod>2015-06-08T07:55:14+02:00</lastmod>
+      <loc>http://jplattel.nl/categories/quantified-self/</loc>
+      <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4719,8 +4769,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/quantified-self/</loc>
-      <lastmod>2016-03-08T14:32:49+01:00</lastmod>
+      <loc>http://jplattel.nl/tags/quantified-self/</loc>
+      <lastmod>2015-06-08T07:55:14+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5599,8 +5649,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/technology/</loc>
-      <lastmod>2013-09-30T09:22:26+02:00</lastmod>
+      <loc>http://jplattel.nl/categories/technology/</loc>
+      <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5609,8 +5659,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/technology/</loc>
-      <lastmod>2016-03-08T14:32:49+01:00</lastmod>
+      <loc>http://jplattel.nl/tags/technology/</loc>
+      <lastmod>2013-09-30T09:22:26+02:00</lastmod>
       <priority>0</priority>
     </url>
     
