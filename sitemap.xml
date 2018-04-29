@@ -50,33 +50,6 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/sous-vide-ricecooker/</loc>
-      <lastmod>2018-04-22T00:14:12+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/project/diy-longboard/</loc>
-      <lastmod>2018-04-22T00:13:25+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/project/de-padvinders/</loc>
-      <lastmod>2018-04-21T23:07:36+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://jplattel.nl/media/een-leuk-boek/</loc>
       <lastmod>2018-04-21T23:01:21+02:00</lastmod>
     </url>
@@ -86,26 +59,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/mondriaantje/</loc>
-      <lastmod>2018-04-21T22:55:11+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://jplattel.nl/speaking/</loc>
       <lastmod>2018-04-21T22:44:44+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/project/berichtenbox-forwarder/</loc>
-      <lastmod>2018-04-21T22:18:35+02:00</lastmod>
     </url>
     
   
@@ -133,15 +88,6 @@
     
       <loc>http://jplattel.nl/wishlist/</loc>
       <lastmod>2018-04-21T21:17:28+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/project/quantifiedself/</loc>
-      <lastmod>2018-04-21T21:10:30+02:00</lastmod>
     </url>
     
   
@@ -205,6 +151,24 @@
     
       <loc>http://jplattel.nl/post/2017-06-03-getting-started-with-a-lorawan-gateway/</loc>
       <lastmod>2017-06-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/project/berichtenbox-forwarder/</loc>
+      <lastmod>2017-04-21T22:18:35+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/project/quantifiedself/</loc>
+      <lastmod>2017-04-21T21:10:30+02:00</lastmod>
     </url>
     
   
@@ -313,6 +277,15 @@
     
       <loc>http://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/project/sous-vide-ricecooker/</loc>
+      <lastmod>2016-01-22T00:14:12+02:00</lastmod>
     </url>
     
   
@@ -518,6 +491,15 @@
     
     <url>
     
+      <loc>http://jplattel.nl/project/de-padvinders/</loc>
+      <lastmod>2014-04-21T23:07:36+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/post/2014-04-19-curious-corner-video/</loc>
       <lastmod>2014-04-19T20:21:11+02:00</lastmod>
     </url>
@@ -700,6 +682,15 @@
     
       <loc>http://jplattel.nl/post/2013-05-07-small-news/</loc>
       <lastmod>2013-05-07T20:12:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/project/mondriaantje/</loc>
+      <lastmod>2013-04-21T22:55:11+02:00</lastmod>
     </url>
     
   
@@ -2319,7 +2310,7 @@
     <url>
     
       <loc>http://jplattel.nl/tags/cooking/</loc>
-      <lastmod>2016-01-20T15:56:41+01:00</lastmod>
+      <lastmod>2016-01-22T00:14:12+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4388,6 +4379,16 @@
     
     <url>
     
+      <loc>http://jplattel.nl/tags/pid/</loc>
+      <lastmod>2016-01-22T00:14:12+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/tags/padvinders/</loc>
       <lastmod>2009-05-27T11:44:28+02:00</lastmod>
       <priority>0</priority>
@@ -4669,7 +4670,7 @@
     <url>
     
       <loc>http://jplattel.nl/project/</loc>
-      <lastmod>2018-04-22T00:14:12+02:00</lastmod>
+      <lastmod>2018-04-21T20:38:30+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5089,7 +5090,7 @@
     <url>
     
       <loc>http://jplattel.nl/tags/rice/</loc>
-      <lastmod>2016-01-20T15:56:41+01:00</lastmod>
+      <lastmod>2016-01-22T00:14:12+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5470,6 +5471,16 @@
     
       <loc>http://jplattel.nl/tags/sous/</loc>
       <lastmod>2016-01-20T15:56:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/sous-vice/</loc>
+      <lastmod>2016-01-22T00:14:12+02:00</lastmod>
       <priority>0</priority>
     </url>
     

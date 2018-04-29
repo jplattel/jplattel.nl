@@ -68,47 +68,11 @@
     </item>
     
     <item>
-      <title>Sous-vide Rice Cooker</title>
-      <link>http://jplattel.nl/project/sous-vide-ricecooker/</link>
-      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/sous-vide-ricecooker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DIY Longboard</title>
-      <link>http://jplattel.nl/project/diy-longboard/</link>
-      <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/diy-longboard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>De Padvinders</title>
-      <link>http://jplattel.nl/project/de-padvinders/</link>
-      <pubDate>Sat, 21 Apr 2018 23:07:36 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/de-padvinders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interview: Een Leuk Boek, slimmer en productiever werken</title>
       <link>http://jplattel.nl/media/een-leuk-boek/</link>
       <pubDate>Sat, 21 Apr 2018 23:01:21 +0200</pubDate>
       
       <guid>http://jplattel.nl/media/een-leuk-boek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mondriaantje</title>
-      <link>http://jplattel.nl/project/mondriaantje/</link>
-      <pubDate>Sat, 21 Apr 2018 22:55:11 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/mondriaantje/</guid>
       <description></description>
     </item>
     
@@ -131,15 +95,6 @@
 &lt;blockquote&gt;&lt;p&gt;Joost Plattel is a very enthousiastic and motivated speaker, a ambassador of the Quantified Self community. ~ &lt;strong&gt;Erdinç Saçan&lt;/strong&gt;, &lt;em&gt;Marketingfacts&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;&lt;p&gt;Joost can&#39;t get enough of his own data. His story about the possibilities with the Quantified Self is fascinating and makes you wonder. ~ &lt;strong&gt;Chris van &#39;t Hof&lt;/strong&gt;, &lt;em&gt;Tek-Tok&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Berichtenbox Forwarder</title>
-      <link>http://jplattel.nl/project/berichtenbox-forwarder/</link>
-      <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/berichtenbox-forwarder/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -220,9 +175,76 @@
 &lt;li&gt;Evernote Pro-account&lt;/li&gt;
 &lt;li&gt;Vibram Five Fingers Bikila (maatje 43) (Dankjewel @FiveFingersNL!)&lt;/li&gt;
 &lt;li&gt;Zeo Sleep Coach (Thanks Zeo!)&lt;/li&gt;
-&lt;li&gt;Help mij met mijn reis naar Amerika voor de Quantified Self Conference (Bedankt iedereen die heeft geholpen!)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Article: Groene Amsterdammer, Het alziend oog van de baas</title>
+      <link>http://jplattel.nl/media/groene_amsterdammer/</link>
+      <pubDate>Sat, 21 Apr 2018 21:05:01 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/media/groene_amsterdammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Curious Corner of the Internet</title>
+      <link>http://jplattel.nl/project/curious_corner/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/curious_corner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brouwerij Nooitgedacht</title>
+      <link>http://jplattel.nl/project/brouwerij_nooitgedacht/</link>
+      <pubDate>Sat, 21 Apr 2018 17:56:24 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/brouwerij_nooitgedacht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talking about my phone usage</title>
+      <link>http://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</guid>
+      <description>&lt;p&gt;Last year before I went on holiday to Portugal I had the opportunity to give a talk at the Quantified Self 2017 Conference in Amsterdam. I decided just the night before to talk about how much I use my phone (or better how much I shouldn&#39;t use it!). The wonderful folks over at QS Labs created a page with &lt;a href=&#34;http://qs17.quantifiedself.com/program/&#34;&gt;all the videos&lt;/a&gt; with transcripts. I&#39;ve embedded my video below: &lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/227178744?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating smart bubble counter fermentation process tracking</title>
+      <link>http://jplattel.nl/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jplattel.nl/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</guid>
+      <description>&lt;p&gt;This weekend I spend my time on electronics, with a specific goal in mind, automating the tracking of a fermentation vessel that I use for brewing. My starting point was a Wemos D1 mini lite, which is a cheap arduino compatible chip with wifi options. &lt;/p&gt;
+&lt;p&gt;I wanted to track how many bubbles we&#39;re sent past the airlock and also needed a photo interupter gate. So in the end everything is pretty cheap and I only needed some more LEDs, an enclosure, spare wires and some free time!&lt;/p&gt;
+
+&lt;p&gt;My first version was build directly on a prototype board of the Wemo, but after selecting the enclosure I decided not to use any headers too keep a lower profile. Here&#39;s what my testing setup looked like: 
+&lt;/p&gt;
+&lt;img src=&#34;http://jplattel.nl/img/test2.jpg&#34; alt=&#34;Testing setup for figuring out if the sensor worked correctly and fluid types selection&#34;&gt;
+
+&lt;p&gt;While testing I could try different fluids, and the more opaque ones are better. So coffee seems like a perfect option. When everything worked correctly I mapped all ports on the enclosure, drilled or cut them out and soldered everything to the Wemo. The LEDs were mount on the enclosure with trough-mounts. Here&#39;s a video of the latest test setup.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-permalink=&#34;https://www.instagram.com/p/BdqMPI2DOAF/&#34; data-instgrm-version=&#34;8&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;/blockquote&gt;&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;And a picture of the device after everything is put together! Now I only need to make a web interface.&lt;/p&gt;
+
+&lt;img src=&#34;http://jplattel.nl/img/end3.JPG&#34; alt=&#34;Final product that enables me to track bubbles in a fermentation process&#34;&gt;
+
+
+&lt;p&gt;As for the code, it&#39;s simply a counter that tracks how many bubbles go past the airlock. And every 10 minutes it pings to a server with the count. I&#39;ve uploaded the &lt;a href=&#34;https://gist.github.com/jplattel/1a7e76f1fedf7caa43753fcde04b6a24&#34;&gt;Arduino code to Github&lt;/a&gt; and embedded it below:&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/jplattel/1a7e76f1fedf7caa43753fcde04b6a24.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     
   </channel>

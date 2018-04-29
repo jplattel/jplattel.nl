@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Jan 2016 15:56:41 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2016 00:14:12 +0200</lastBuildDate>
     
 	<atom:link href="http://jplattel.nl/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sous-vide Rice Cooker</title>
+      <link>http://jplattel.nl/project/sous-vide-ricecooker/</link>
+      <pubDate>Fri, 22 Jan 2016 00:14:12 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/sous-vide-ricecooker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sous-vide food with a rice cooker</title>
