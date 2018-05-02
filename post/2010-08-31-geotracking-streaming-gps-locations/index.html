@@ -404,7 +404,7 @@ class Map(webapp.RequestHandler):
         d = db.GqlQuery('SELECT * FROM GeoLocation ORDER BY date DESC') 
         d = d.get()
         if d:
-            message = '<img src="/img/staticmap?zoom=14&amp;size=512x512&amp;maptype=roadmap&amp;markers=color:blue|label:S|' + d.latitude + ',' + d.longitude + '&amp;sensor=false" />'
+            message = ''
         self.response.out.write(message) 
         
 application = webapp.WSGIApplication(
