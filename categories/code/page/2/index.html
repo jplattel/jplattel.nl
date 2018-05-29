@@ -94,7 +94,7 @@
   <meta property="og:description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2013-10-21T10:02:44&#43;02:00">
+  <meta property="og:updated_time" content="2014-03-09T23:39:23&#43;01:00">
   
 
   
@@ -277,101 +277,54 @@
   
   
   <div>
-    <h2><a href="http://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/">Making sense of your phone invoices</a></h2>
+    <h2><a href="http://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/">Lessons learned building Django projects</a></h2>
     <div class="article-style">
       
-      Telephone companies tend to have a lot of data about a user. This data includes some information that could help you decide whether you could pay for another subscription that fits more to your usage. To fix that problem I&rsquo;ve build a dashboard which uses all the information available trough the invoices my current company (T-mobile) provides in a PDF. (FYI, I got a version running that&rsquo;s also working with receipts from Vodafone)
+      I&rsquo;ve been using Django as my go-to framework for the past few months. So far I&rsquo;ve enjoyed the ride, but have learned some things that I&rsquo;d like to share with you:
+ During project setup, create a virtual environment for yourself to work in. Use the &lsquo;pip freeze&rsquo; for creating a requirements.txt that helps you manage dependencies. Don&rsquo;t use any paths within the views. Instead, use the reverse function for looking up routes that correspond to the url.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="http://jplattel.nl/post/2013-08-15-fitbit-organisation-dashboard/">Building a Fitbit organisation dashboard</a></h2>
+    <h2><a href="http://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/">Experimenting with company activity dashboards</a></h2>
     <div class="article-style">
       
-      The Fitbit (affiliate link) is one of the best tools for activity tracking.The interface is nice and the hardware is durable and syncs wirelessly. For a personal level is good, but using group-wise or equipping all employees with a Fitbit turns out to be non-existent.
-During the past few days I&rsquo;ve spend some time building a dashboard that lets people see the data from all users within a group. It gets all data trough the Fitbit API and summarizes it into a view per day/week/month.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/post/2013-07-09-python-library-moves-app-api/">A python library for the Moves App API</a></h2>
-    <div class="article-style">
-      
-      For Quantified Self starters I recommend the really nice Moves App. The interface is really nice and the battery drain isn&rsquo;t that bad if you recharge it twice a day. They recently opened up their API enabling developers like me to create apps based on their platform. For me the first step towards creating an app is a easier way to communicate with the API.
-As with the fitbit, I&rsquo;ve written a open-source library for you to use!
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/">Building a Personal Health Dashboard with Panic&#39;s Statusboard</a></h2>
-    <div class="article-style">
-      
-      <p>When Panic released their Statusboard app and I discovered it was possible to use JSON and html to embed it into pages, my mind raced with ideas about what to build. Both the Zeo and Fitbit API offer JSON output thus could be embeddable. To give a quick overview what it looks like with dummy data embedded, have a look at the following image:</p>
+      <p>As an experiment, I&rsquo;m collecting data from the Moves app from multiple persons within a organisation. The goal is to find out what&rsquo;s possible with the amount of data the persons generate each day. Currently, the collection of data is ongoing and the next step would be the visualization of the data. Here are some simple graphs you can make with the data:</p>
 
-<p>The next step is to implement a simple server side script that shapes and caches the JSON data in the correct format.</p>
+<p>Further steps could be exploring what a group wants from visualisations like this.</p>
 
       
     </div>
   </div>
   
   <div>
-    <h2><a href="http://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/">Generating Mondrian like art with D3 &amp; Javascript</a></h2>
+    <h2><a href="http://jplattel.nl/post/2013-12-18-using-moves-data/">Using Moves data for?</a></h2>
     <div class="article-style">
       
-      SETUP is holding a competition to get programming known as modern day craftwork. I whole-fully agree to this and decided to enter the contest!
-With a small part of my time spend while traveling I and finally finishing up I&rsquo;ve gotten my last version up and running. I use javascript and D3 (SVG) for drawing the elements as this is a library that I wanted to explore. The ease of use and adoption rate of it made a good starting point for me to quickly get to a result.
+      In July I wrote a little wrapper for the Moves App API. But I didn&rsquo;t develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I&rsquo;m currently building. I&rsquo;ve drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I&rsquo;ve got some friends who come up with great ideas too!
       
     </div>
   </div>
   
   <div>
-    <h2><a href="http://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/">Datavisualisatie voor het CBS</a></h2>
+    <h2><a href="http://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/">The Curious Corner of the Internet</a></h2>
     <div class="article-style">
       
-      Het CBS organiseert de eerste seminar over interactieve data visualisaties op 3 februari in Den Haag. Voor de seminar is een wedstrijd gemaakt en ik had een vrije middag over om er mee aan de slag te gaan.
-Nadat ik alle drie de data-sets heb bekeken leek het mij het beste om de derde (Landbouw; economische omvang naar omvangsklasse, hoofdbedrijfstype &amp; regio) aan de slag te gaan. Nadat ik de data had gedownload heb ik eerst Google Refine gebruikt om de data schoon te maken en te filteren.
+      I&rsquo;ve been walking around with a newsletter idea for some months now. It all started at Permanent Beta where I gave a talk together with my twin. Basically it wasn&rsquo;t really a talk, just a roadshow of awesome stuff we come across on our daily surf on the web. The audience loved it! Why not curate this content into a newsletter?
+That&rsquo;s just what I did with The Curious Corner of the Internet, a monthly newsletter stocked with the stuff I find during that last month.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="http://jplattel.nl/post/2011-07-18-python-library-fitbit-api/">Python library for the FitBit API</a></h2>
+    <h2><a href="http://jplattel.nl/post/2013-11-15-jawbone-api-python-library/">A Jawbone API Python library</a></h2>
     <div class="article-style">
       
-      My quest of building API wrappers in python continues with the FitBit. The handy devices tracks most of my activities and movements during daytime. So it&rsquo;s an excellent self-tracking device, especially with the wireless sync. There wasn&rsquo;t an API interface available in python, so with some borrowed code I decided to build my own.
-I made an GitHub repository with the code and an example for you to use. Please fork and correct any changes that you think would be useful for me to learn!
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/">Sync Kindle notes and clippings to Evernote</a></h2>
-    <div class="article-style">
-      
-      Since I got my Kindle I started reading a lot more books and articles. And one of the nice things you can do is add notes and clip certain pieces of text. The Kindle saves all those things into a text file for easy access, but I wanted those to be searchable as well in my system.
-I wrote a small python script that extracts all notes and clippings from the text file and creates a new note in Evernote for each of them.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/">My effort for a better readinglist</a></h2>
-    <div class="article-style">
-      
-      I love the Read It Later List service. Each day I save about 20-30 articles from Google Reader or my Twitter client so I can read them later. However, these amounts make it hard for me to process all the things I save. That&rsquo;s why I need a readinglist that has additional filtering/speed/shortcuts.
-As my endeavors with Python continue, for the last few months I&rsquo;ve been developing my own version of the perfect readinglist build upon the API of Read It Later List.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/post/2011-04-10-mobypicture-export/">Mobypicture Export</a></h2>
-    <div class="article-style">
-      
-      I love Mobypicture. It&rsquo;s the service I use to post my pictures onto Twitter, Flickr and Facebook. It makes uploading photos from my mobile phone as simple as it could possibly be. Even better, the service is free to use, unlike Flickr which only allows access to last 200 images if you go with their freemium model. But sadly using Mobypicture isn&rsquo;t without downsides. There is no export functionality as of yet.
+      <p>I&rsquo;ve been wearing a Jawbone UP for the last few months. There are things I like about it, the app, the sleep interface and the options you have for notifications. Some other things I dislike, the 3.5mm jack for syncing for example&hellip; It&rsquo;s annoying. They have it solved with the next version though.</p>
+
+<p>As with all the other devices that I&rsquo;ve been wearing I wanted to get the data out of it.</p>
+
       
     </div>
   </div>

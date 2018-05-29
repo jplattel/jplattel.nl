@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://jplattel.nl/client/vogsy/</loc>
+      <lastmod>2018-05-20T00:19:14+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/post/restoring_an_old_plane/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
     </url>
@@ -690,6 +699,15 @@
     <url>
     
       <loc>http://jplattel.nl/project/mondriaantje/</loc>
+      <lastmod>2013-04-21T22:55:11+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/client/partup/</loc>
       <lastmod>2013-04-21T22:55:11+02:00</lastmod>
     </url>
     
@@ -2171,6 +2189,16 @@
     
       <loc>http://jplattel.nl/tags/cinque-terre/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/client/</loc>
+      <lastmod>2018-05-20T00:19:14+02:00</lastmod>
       <priority>0</priority>
     </url>
     
