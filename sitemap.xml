@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>http://jplattel.nl/client/fundsup/</loc>
+      <lastmod>2018-05-31T00:15:32+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/client/watermelon/</loc>
+      <lastmod>2018-05-30T23:28:49+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/client/colliers/</loc>
+      <lastmod>2018-05-30T23:27:24+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/client/bzk/</loc>
+      <lastmod>2018-05-30T23:25:32+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/client/vogsy/</loc>
       <lastmod>2018-05-20T00:19:14+02:00</lastmod>
     </url>
@@ -113,8 +149,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/curious_corner/</loc>
-      <lastmod>2018-04-21T20:38:30+02:00</lastmod>
+      <loc>http://jplattel.nl/project/brouwerij_nooitgedacht/</loc>
+      <lastmod>2018-04-21T17:56:24+02:00</lastmod>
     </url>
     
   
@@ -122,8 +158,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/brouwerij_nooitgedacht/</loc>
-      <lastmod>2018-04-21T17:56:24+02:00</lastmod>
+      <loc>http://jplattel.nl/project/curious_corner/</loc>
+      <lastmod>2018-04-20T20:38:30+02:00</lastmod>
     </url>
     
   
@@ -167,8 +203,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/berichtenbox-forwarder/</loc>
-      <lastmod>2017-04-21T22:18:35+02:00</lastmod>
+      <loc>http://jplattel.nl/project/permanent-beta/</loc>
+      <lastmod>2017-05-31T00:09:50+02:00</lastmod>
     </url>
     
   
@@ -178,6 +214,15 @@
     
       <loc>http://jplattel.nl/project/quantifiedself/</loc>
       <lastmod>2017-04-21T21:10:30+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/project/berichtenbox-forwarder/</loc>
+      <lastmod>2017-04-20T22:18:35+02:00</lastmod>
     </url>
     
   
@@ -2198,7 +2243,7 @@
     <url>
     
       <loc>http://jplattel.nl/client/</loc>
-      <lastmod>2018-05-20T00:19:14+02:00</lastmod>
+      <lastmod>2018-05-31T00:15:32+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4698,7 +4743,7 @@
     <url>
     
       <loc>http://jplattel.nl/project/</loc>
-      <lastmod>2018-04-21T20:38:30+02:00</lastmod>
+      <lastmod>2018-04-21T17:56:24+02:00</lastmod>
       <priority>0</priority>
     </url>
     

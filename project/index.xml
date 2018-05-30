@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 21 Apr 2018 20:38:30 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Apr 2018 17:56:24 +0200</lastBuildDate>
     
 	<atom:link href="http://jplattel.nl/project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Curious Corner of the Internet</title>
-      <link>http://jplattel.nl/project/curious_corner/</link>
-      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/curious_corner/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Brouwerij Nooitgedacht</title>
@@ -31,11 +22,20 @@
     </item>
     
     <item>
-      <title>Berichtenbox Forwarder</title>
-      <link>http://jplattel.nl/project/berichtenbox-forwarder/</link>
-      <pubDate>Fri, 21 Apr 2017 22:18:35 +0200</pubDate>
+      <title>The Curious Corner of the Internet</title>
+      <link>http://jplattel.nl/project/curious_corner/</link>
+      <pubDate>Fri, 20 Apr 2018 20:38:30 +0200</pubDate>
       
-      <guid>http://jplattel.nl/project/berichtenbox-forwarder/</guid>
+      <guid>http://jplattel.nl/project/curious_corner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Permanent Beta</title>
+      <link>http://jplattel.nl/project/permanent-beta/</link>
+      <pubDate>Wed, 31 May 2017 00:09:50 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/permanent-beta/</guid>
       <description></description>
     </item>
     
@@ -45,6 +45,15 @@
       <pubDate>Fri, 21 Apr 2017 21:10:30 +0200</pubDate>
       
       <guid>http://jplattel.nl/project/quantifiedself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berichtenbox Forwarder</title>
+      <link>http://jplattel.nl/project/berichtenbox-forwarder/</link>
+      <pubDate>Thu, 20 Apr 2017 22:18:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/berichtenbox-forwarder/</guid>
       <description></description>
     </item>
     

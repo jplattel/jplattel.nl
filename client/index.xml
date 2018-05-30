@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 20 May 2018 00:19:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:15:32 +0200</lastBuildDate>
     
 	<atom:link href="http://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fundsup</title>
+      <link>http://jplattel.nl/client/fundsup/</link>
+      <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/fundsup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watermelon</title>
+      <link>http://jplattel.nl/client/watermelon/</link>
+      <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/watermelon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colliers</title>
+      <link>http://jplattel.nl/client/colliers/</link>
+      <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/colliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
+      <link>http://jplattel.nl/client/bzk/</link>
+      <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/bzk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vogsy</title>

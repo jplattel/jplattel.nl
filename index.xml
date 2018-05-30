@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Fundsup</title>
+      <link>http://jplattel.nl/client/fundsup/</link>
+      <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/fundsup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watermelon</title>
+      <link>http://jplattel.nl/client/watermelon/</link>
+      <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/watermelon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colliers</title>
+      <link>http://jplattel.nl/client/colliers/</link>
+      <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/colliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
+      <link>http://jplattel.nl/client/bzk/</link>
+      <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/bzk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vogsy</title>
       <link>http://jplattel.nl/client/vogsy/</link>
       <pubDate>Sun, 20 May 2018 00:19:14 +0200</pubDate>
@@ -182,44 +218,6 @@
 &lt;li&gt;Zeo Sleep Coach (Thanks Zeo!)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Article: Groene Amsterdammer, Het alziend oog van de baas</title>
-      <link>http://jplattel.nl/media/groene_amsterdammer/</link>
-      <pubDate>Sat, 21 Apr 2018 21:05:01 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/media/groene_amsterdammer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Curious Corner of the Internet</title>
-      <link>http://jplattel.nl/project/curious_corner/</link>
-      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/curious_corner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brouwerij Nooitgedacht</title>
-      <link>http://jplattel.nl/project/brouwerij_nooitgedacht/</link>
-      <pubDate>Sat, 21 Apr 2018 17:56:24 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/project/brouwerij_nooitgedacht/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talking about my phone usage</title>
-      <link>http://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</link>
-      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</guid>
-      <description>&lt;p&gt;Last year before I went on holiday to Portugal I had the opportunity to give a talk at the Quantified Self 2017 Conference in Amsterdam. I decided just the night before to talk about how much I use my phone (or better how much I shouldn&#39;t use it!). The wonderful folks over at QS Labs created a page with &lt;a href=&#34;http://qs17.quantifiedself.com/program/&#34;&gt;all the videos&lt;/a&gt; with transcripts. I&#39;ve embedded my video below: &lt;/p&gt;
-
-&lt;iframe src=&#34;https://player.vimeo.com/video/227178744?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
   </channel>
