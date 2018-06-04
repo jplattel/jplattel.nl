@@ -327,20 +327,9 @@ a[data-fancybox] img {
  *  Home Sections
  **************************************************/
 
-@keyframes intro {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
 .home-section {
   background-color: #ffffff;
   padding: 110px 0 110px 0;
-  animation: intro 0.3s both;
-  animation-delay: 0.15s;
 }
 
 .home-section:first-of-type {
@@ -381,9 +370,6 @@ a[data-fancybox] img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  animation: intro 0.3s both;
-  animation-delay: 0s;
-  animation-delay: 0.25s;
 }
 
 .hero-title {
@@ -585,11 +571,6 @@ ul.share li:hover .fa {
 /*************************************************
  *  Blog Articles
  **************************************************/
-
-article {
-  animation: intro 0.3s both;
-  animation-delay: 0.15s;
-}
 
 .article-container {
   max-width: 760px;
