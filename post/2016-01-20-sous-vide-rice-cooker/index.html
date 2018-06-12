@@ -535,6 +535,45 @@ Now I only need to close it with a bottom plate and add Sugru feet to it. Then i
       });
     </script>
 
+    <script>
+      
+      var $allVideos = $("iframe[src^='https://player.vimeo.com'], iframe[src^='https://www.youtube.com']")
+
+      console.log($allVideos)
+      
+      $fluidEl = $(".article-style");
+
+      
+      $allVideos.each(function() {
+
+        $(this)
+          .data('aspectRatio', this.height / this.width)
+
+          
+          .removeAttr('height')
+          .removeAttr('width');
+
+      });
+
+      
+      $(window).resize(function() {
+
+        var newWidth = $fluidEl.width();
+
+        
+        $allVideos.each(function() {
+
+          var $el = $(this);
+          $el
+            .width(newWidth)
+            .height(newWidth * $el.data('aspectRatio'));
+
+        });
+
+      
+      }).resize();
+    </script>
+
   </body>
 </html>
 

@@ -467,6 +467,45 @@ During the Big Improvement Day we showcased our concept and I&rsquo;ve created a
       });
     </script>
 
+    <script>
+      
+      var $allVideos = $("iframe[src^='https://player.vimeo.com'], iframe[src^='https://www.youtube.com']")
+
+      console.log($allVideos)
+      
+      $fluidEl = $(".article-style");
+
+      
+      $allVideos.each(function() {
+
+        $(this)
+          .data('aspectRatio', this.height / this.width)
+
+          
+          .removeAttr('height')
+          .removeAttr('width');
+
+      });
+
+      
+      $(window).resize(function() {
+
+        var newWidth = $fluidEl.width();
+
+        
+        $allVideos.each(function() {
+
+          var $el = $(this);
+          $el
+            .width(newWidth)
+            .height(newWidth * $el.data('aspectRatio'));
+
+        });
+
+      
+      }).resize();
+    </script>
+
   </body>
 </html>
 
