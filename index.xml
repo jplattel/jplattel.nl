@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Making and Fixing Things</title>
+      <link>http://jplattel.nl/post/making-and-fixing-things/</link>
+      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/making-and-fixing-things/</guid>
+      <description>&lt;p&gt;I bougth a &lt;a href=&#34;https://shop.prusa3d.com/en/3d-printers/53-original-prusa-i3-mk2s-3d-printer.html&#34;&gt;3D printer&lt;/a&gt; together with &lt;a href=&#34;http://ikbenke.es/&#34;&gt;my brother&lt;/a&gt;. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!&lt;/p&gt;
+
+&lt;p&gt;As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like &lt;a href=&#34;https://www.autodesk.com/products/fusion-360/students-teachers-educators&#34;&gt;Fusion360&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Configuring the printer and slicing the 3D model takes a little bit of time, but then you&amp;rsquo;re off to the races!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jplattel.nl/img/prusa-3d-printer.jpg&#34; alt=&#34;The Prusa Mk III printer&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;In the mean time I&amp;rsquo;ve been drawing up some improvements for the 3D printer itself as well! My brother had an idea about a custom lighting fixture that can be mounted just below the filament carrier, that way you can have sufficient lighting when working with the printer.&lt;/p&gt;
+
+&lt;p&gt;So right now the thing we can print are limited by our skills with 3D designing and what the printer is can do, but both are increasing with time! I have some other ideas i&amp;rsquo;d like to work on, for example custom knobs for a synthesizer or for custom brackets for mounting wires in projects that use makerbeams. Stay tuned for more updates!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Article: Mag jouw baas je bloeddruk weten als hij jou ermee kan helpen?</title>
       <link>http://jplattel.nl/media/intermediar/</link>
       <pubDate>Fri, 22 Jun 2018 14:51:29 +0200</pubDate>
@@ -157,15 +177,6 @@
       <pubDate>Sat, 21 Apr 2018 22:17:10 +0200</pubDate>
       
       <guid>http://jplattel.nl/media/po-actueel-qwp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talk: TEDxYouth Groningen, 8:36pm</title>
-      <link>http://jplattel.nl/media/tedxyouth-groningen/</link>
-      <pubDate>Sat, 21 Apr 2018 21:23:09 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/media/tedxyouth-groningen/</guid>
       <description></description>
     </item>
     

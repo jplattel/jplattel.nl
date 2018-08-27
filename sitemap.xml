@@ -5,6 +5,17 @@
     
     <url>
     
+      <loc>http://jplattel.nl/post/making-and-fixing-things/</loc>
+      <lastmod>2018-08-27T21:25:18+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/media/intermediar/</loc>
       <lastmod>2018-06-22T14:51:29+02:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -1897,6 +1908,17 @@
     
     <url>
     
+      <loc>http://jplattel.nl/tags/3d-printing/</loc>
+      <lastmod>2018-08-27T21:25:18+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/tags/836pm/</loc>
       <lastmod>2016-01-02T17:34:51+01:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -3118,6 +3140,17 @@
     
     <url>
     
+      <loc>http://jplattel.nl/tags/diy/</loc>
+      <lastmod>2018-04-29T20:12:17+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/tags/django/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -3472,6 +3505,17 @@
     
       <loc>http://jplattel.nl/tags/fitlog/</loc>
       <lastmod>2013-08-15T18:54:46+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/fixing/</loc>
+      <lastmod>2018-08-27T21:25:18+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -4451,6 +4495,28 @@
     
       <loc>http://jplattel.nl/tags/mailchimp/</loc>
       <lastmod>2013-11-27T20:47:26+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/maker/</loc>
+      <lastmod>2018-08-27T21:25:18+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/making/</loc>
+      <lastmod>2018-08-27T21:25:18+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
