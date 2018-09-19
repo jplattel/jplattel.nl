@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ambassador for the Digital Society School Amsterdam</title>
+      <link>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
+      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Making and Fixing Things</title>
       <link>http://jplattel.nl/post/making-and-fixing-things/</link>
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
@@ -169,15 +178,6 @@
 &lt;blockquote&gt;&lt;p&gt;Joost Plattel is a very enthousiastic and motivated speaker, a ambassador of the Quantified Self community. ~ &lt;strong&gt;Erdinç Saçan&lt;/strong&gt;, &lt;em&gt;Marketingfacts&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;&lt;p&gt;Joost can&#39;t get enough of his own data. His story about the possibilities with the Quantified Self is fascinating and makes you wonder. ~ &lt;strong&gt;Chris van &#39;t Hof&lt;/strong&gt;, &lt;em&gt;Tek-Tok&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Article: P&amp;O Actueel, The Quantified Workplace</title>
-      <link>http://jplattel.nl/media/po-actueel-qwp/</link>
-      <pubDate>Sat, 21 Apr 2018 22:17:10 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/media/po-actueel-qwp/</guid>
-      <description></description>
     </item>
     
   </channel>
