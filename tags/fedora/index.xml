@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fedora on Joost Plattel</title>
+    <title>fedora on Joost Plattel</title>
     <link>http://jplattel.nl/tags/fedora/</link>
-    <description>Recent content in Fedora on Joost Plattel</description>
+    <description>Recent content in fedora on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>

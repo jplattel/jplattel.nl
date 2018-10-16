@@ -11,6 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>iPhone XS NFC Shortcuts</title>
+      <link>http://jplattel.nl/post/iphone-xs-nfc-shortcuts/</link>
+      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/iphone-xs-nfc-shortcuts/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a &lt;a href=&#34;https://www.acs.com.hk/en/products/403/acr1255u-j1-secure-bluetooth%C2%AE-nfc-reader/&#34;&gt;NFC reader&lt;/a&gt;. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)&lt;/p&gt;
+
+&lt;p&gt;Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag. The way it works is simple, the NFC tags stores a url with custom scheme &lt;code&gt;shortcuts://run-shortcut?name=Wekker&amp;rdquo;&lt;/code&gt;. When the tag is touched, it opens the custom url om my phone triggering a shortcut. This enables the alarm. Presto!&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;And I&amp;rsquo;ve got some ideas for more:&lt;/i&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Trigger a count in water intake when touching the tag that you can mount to your water bottle.&lt;/li&gt;
+&lt;li&gt;Auto navigate to home (if you want you can choose the method of traveling) when touching &lt;a href=&#34;http://casiomod.club/&#34;&gt;my watch&lt;/a&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Set a timer for a amount of time when scannign the tag next to the washing machine.&lt;/li&gt;
+&lt;li&gt;Set a reminder for a task, for example buying toilet paper.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The tasks you can automate this way are mostly highly specific and repeatable.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ambassador for the Digital Society School Amsterdam</title>
       <link>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
       <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
@@ -157,27 +180,6 @@
       
       <guid>http://jplattel.nl/media/een-leuk-boek/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Speaking</title>
-      <link>http://jplattel.nl/speaking/</link>
-      <pubDate>Sat, 21 Apr 2018 22:44:44 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/speaking/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://jplattel.nl/img/speaking.jpg&#34; alt=&#34;Speaking&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;
-  I&#39;m often asked for a lecture or as a public speaker on topics like the Quantified Self, data, the Internet of Things and any related fields. If you&#39;re curious about the content, have a look at my slides on &lt;a href=&#34;http://slideshare.net/jsplattel&#34;&gt;Slideshare&lt;/a&gt; or &lt;a href=&#34;https://vimeo.com/63226010&#34;&gt;look at the video from my talk at Cross Media Cafe&lt;/a&gt;. The length varies, depending on the time available I&#39;m able to accommodate ideas in 10 minutes, or an in-depth view of the field in 45 minutes or more.
-&lt;/p&gt;
-
-&lt;p&gt;Get in &lt;a href=&#34;http://jplattel.nl/#contact&#34;&gt;touch with me&lt;/a&gt; or book me trough &lt;a href=&#34;http://www.athenas.nl/sprekers/joost-plattel&#34;&gt;Athenas&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;What other people say about me:&lt;/h4&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Joost Plattel is a very enthousiastic and motivated speaker, a ambassador of the Quantified Self community. ~ &lt;strong&gt;Erdinç Saçan&lt;/strong&gt;, &lt;em&gt;Marketingfacts&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;&lt;p&gt;Joost can&#39;t get enough of his own data. His story about the possibilities with the Quantified Self is fascinating and makes you wonder. ~ &lt;strong&gt;Chris van &#39;t Hof&lt;/strong&gt;, &lt;em&gt;Tek-Tok&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-</description>
     </item>
     
   </channel>
