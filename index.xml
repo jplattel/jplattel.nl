@@ -11,11 +11,36 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>8:36pm 2018</title>
+      <link>http://jplattel.nl/post/2019-01-06-836pm-2018/</link>
+      <pubDate>Sun, 06 Jan 2019 20:48:47 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2019-01-06-836pm-2018/</guid>
+      <description>&lt;p&gt;As we close out 2018 and start out the new year fresh, the one thing left to do is make a video of all the 8:36pm photos that I took that year. And when uploading this video I checked out when I started, which is 2010. Thus this marks the 10th year that I&amp;rsquo;m doing this&amp;hellip; Here&amp;rsquo;s the video:&lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/309760850&#34; width=&#34;640&#34; height=&#34;400&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Phew, racking in around 3000 photos so far&amp;hellip; For all I can say is that I will probably be going somewhere with this.. But who knows where.&lt;/p&gt;
+
+&lt;p&gt;I also started a second habit and that is filing the &lt;a href=&#34;https://yearcompass.com/&#34; target=&#34;_blank&#34;&gt;Year Compass&lt;/a&gt; together with &lt;a href=&#34;http://chantalvankempen.nl/&#34; target=&#34;_blank&#34;&gt;Chantal&lt;/a&gt;. And that&amp;rsquo;s a wonderfull way of reflecting and looking ahead for each year. My goals for this year are focussed on my health, hiking and making things!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nolostcapital</title>
+      <link>http://jplattel.nl/client/nolostcapital/</link>
+      <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/client/nolostcapital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>iPhone XS NFC Shortcuts</title>
-      <link>http://jplattel.nl/post/iphone-xs-nfc-shortcuts/</link>
+      <link>http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/iphone-xs-nfc-shortcuts/</guid>
+      <guid>http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a &lt;a href=&#34;https://www.acs.com.hk/en/products/403/acr1255u-j1-secure-bluetooth%C2%AE-nfc-reader/&#34;&gt;NFC reader&lt;/a&gt;. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)&lt;/p&gt;
 
 &lt;p&gt;Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag. The way it works is simple, the NFC tags stores a url with custom scheme &lt;code&gt;shortcuts://run-shortcut?name=Wekker&amp;rdquo;&lt;/code&gt;. When the tag is touched, it opens the custom url om my phone triggering a shortcut. This enables the alarm. Presto!&lt;/p&gt;
@@ -44,10 +69,10 @@
     
     <item>
       <title>Making and Fixing Things</title>
-      <link>http://jplattel.nl/post/making-and-fixing-things/</link>
+      <link>http://jplattel.nl/post/2018-08-27-making-and-fixing-things/</link>
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/making-and-fixing-things/</guid>
+      <guid>http://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
       <description>&lt;p&gt;I bougth a &lt;a href=&#34;https://shop.prusa3d.com/en/3d-printers/53-original-prusa-i3-mk2s-3d-printer.html&#34;&gt;3D printer&lt;/a&gt; together with &lt;a href=&#34;http://ikbenke.es/&#34;&gt;my brother&lt;/a&gt;. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!&lt;/p&gt;
 
 &lt;p&gt;As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like &lt;a href=&#34;https://www.autodesk.com/products/fusion-360/students-teachers-educators&#34;&gt;Fusion360&lt;/a&gt;.&lt;/p&gt;
@@ -118,10 +143,10 @@
     
     <item>
       <title>Restoring an old plane</title>
-      <link>http://jplattel.nl/post/restoring_an_old_plane/</link>
+      <link>http://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/restoring_an_old_plane/</guid>
+      <guid>http://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</guid>
       <description>&lt;p&gt;At one of the stands of a flea market during Kingsday here in the Netherlands, I found an old plane. And for only 2 euro I couldn&amp;rsquo;t leave it behind. I took it on me to restore it to its former glory. First step, dismantle the broken off handle, removing any drops of paint and cleaning the chisel from all the rust. I also took measurements of the old handle and started designing that in Fusion 360. I love it how I just started using that and more projects come my way that need some kind of modeling. I also had to remove a big bolt that was mounted up front:&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-permalink=&#34;https://www.instagram.com/p/BiKbHSHF7qr/&#34; data-instgrm-version=&#34;8&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BiKbHSHF7qr/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by Joost Plattel (@jplattel)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2018-04-29T17:32:58+00:00&#34;&gt;Apr 29, 2018 at 10:32am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//www.instagram.com/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -134,10 +159,10 @@
     
     <item>
       <title>Brewing a new batch of beer</title>
-      <link>http://jplattel.nl/post/new_batch_nooitop_kratfunding/</link>
+      <link>http://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/new_batch_nooitop_kratfunding/</guid>
+      <guid>http://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
       <description>&lt;p&gt;Past week we spend a day at a brewery! We made a new batch for our brewery&lt;a href=&#34;http://brouwerijnooitgedacht.nl&#34;&gt;Nooitgedacht&lt;/a&gt;. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough &lt;a href=&#34;//kratfunding.nl&#34;&gt;Kratfunding&lt;/a&gt;, we only ship to the Netherlands currently!&lt;/p&gt;
 
 &lt;p&gt;Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.&lt;/p&gt;
@@ -161,24 +186,6 @@
       <pubDate>Sun, 22 Apr 2018 00:16:25 +0200</pubDate>
       
       <guid>http://jplattel.nl/media/arte-tv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interview: Volmaakte Mens (VPRO)</title>
-      <link>http://jplattel.nl/media/volmaakte-mens/</link>
-      <pubDate>Sun, 22 Apr 2018 00:15:14 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/media/volmaakte-mens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interview: Een Leuk Boek, slimmer en productiever werken</title>
-      <link>http://jplattel.nl/media/een-leuk-boek/</link>
-      <pubDate>Sat, 21 Apr 2018 23:01:21 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/media/een-leuk-boek/</guid>
       <description></description>
     </item>
     

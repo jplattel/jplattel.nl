@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 31 May 2018 00:15:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Nov 2018 21:49:56 +0100</lastBuildDate>
     
 	<atom:link href="http://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nolostcapital</title>
+      <link>http://jplattel.nl/client/nolostcapital/</link>
+      <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/client/nolostcapital/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fundsup</title>
