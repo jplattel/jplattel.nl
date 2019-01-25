@@ -5,6 +5,17 @@
     
     <url>
     
+      <loc>http://jplattel.nl/media/big-brother-awards/</loc>
+      <lastmod>2019-01-24T13:59:47+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/project/personalstats/</loc>
       <lastmod>2019-01-08T00:05:29+01:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -2073,6 +2084,17 @@
     
     <url>
     
+      <loc>http://jplattel.nl/tags/bits-of-freedom/</loc>
+      <lastmod>2019-01-24T13:59:47+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/categories/brouwerij-nooitgedacht/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -2128,8 +2150,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/chemistry/</loc>
-      <lastmod>2010-04-05T10:06:21+02:00</lastmod>
+      <loc>http://jplattel.nl/tags/chemistry/</loc>
+      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -2139,8 +2161,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/chemistry/</loc>
-      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
+      <loc>http://jplattel.nl/categories/chemistry/</loc>
+      <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -2183,8 +2205,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/code/</loc>
-      <lastmod>2016-05-02T22:19:59+02:00</lastmod>
+      <loc>http://jplattel.nl/tags/code/</loc>
+      <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -2194,8 +2216,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/code/</loc>
-      <lastmod>2015-02-02T12:45:05+01:00</lastmod>
+      <loc>http://jplattel.nl/categories/code/</loc>
+      <lastmod>2016-05-02T22:19:59+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -2249,7 +2271,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/diy/</loc>
+      <loc>http://jplattel.nl/tags/diy/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
@@ -2260,7 +2282,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/diy/</loc>
+      <loc>http://jplattel.nl/categories/diy/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
@@ -2469,7 +2491,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/lifehacking/</loc>
+      <loc>http://jplattel.nl/tags/lifehacking/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
@@ -2480,7 +2502,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lifehacking/</loc>
+      <loc>http://jplattel.nl/categories/lifehacking/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
@@ -2558,7 +2580,7 @@
     <url>
     
       <loc>http://jplattel.nl/media/</loc>
-      <lastmod>2018-06-22T14:51:29+02:00</lastmod>
+      <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -2821,8 +2843,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/quantified-self/</loc>
-      <lastmod>2016-03-08T14:32:49+01:00</lastmod>
+      <loc>http://jplattel.nl/tags/quantified-self/</loc>
+      <lastmod>2015-06-08T07:55:14+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -2832,8 +2854,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantified-self/</loc>
-      <lastmod>2015-06-08T07:55:14+02:00</lastmod>
+      <loc>http://jplattel.nl/categories/quantified-self/</loc>
+      <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
@@ -5131,7 +5153,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/lifehacking/</loc>
+      <loc>http://jplattel.nl/tags/lifehacking/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
@@ -5142,7 +5164,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lifehacking/</loc>
+      <loc>http://jplattel.nl/categories/lifehacking/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
@@ -5990,7 +6012,7 @@
     <url>
     
       <loc>http://jplattel.nl/tags/privacy/</loc>
-      <lastmod>2016-03-08T14:32:49+01:00</lastmod>
+      <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>
