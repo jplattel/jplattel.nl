@@ -313,7 +313,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-01-03-836pm---2017/</loc>
+      <loc>http://jplattel.nl/post/2018-01-03-836pm-2017/</loc>
       <lastmod>2018-01-03T00:00:00+00:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -1897,7 +1897,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/qs2011/</loc>
+      <loc>http://jplattel.nl/tags/#qs2011/</loc>
       <lastmod>2011-12-19T13:02:30+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
@@ -1908,7 +1908,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/dvtnb11/</loc>
+      <loc>http://jplattel.nl/tags/#dvtnb11/</loc>
       <lastmod>2011-01-23T13:04:01+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
