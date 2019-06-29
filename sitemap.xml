@@ -391,7 +391,7 @@
     <url>
     
       <loc>http://jplattel.nl/post/</loc>
-      <lastmod>2017-01-01T00:00:00+03:30</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
@@ -446,7 +446,7 @@
     <url>
     
       <loc>http://jplattel.nl/post/2016-06-02-many-things-little-experiment/</loc>
-      <lastmod>2016-06-02T10:04:02+04:30</lastmod>
+      <lastmod>2016-06-02T10:04:02+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
@@ -2459,7 +2459,7 @@
     <url>
     
       <loc>http://jplattel.nl/</loc>
-      <lastmod>2016-04-20T00:00:00+04:30</lastmod>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0</priority>
     </url>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0430</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://jplattel.nl/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>http://jplattel.nl/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0430</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>http://jplattel.nl/home/about/</guid>
       <description>Hello! I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. I create experimental models, data visualizations, APIs and dashboards to solve these questions or explore the opportunities.
@@ -26,7 +26,7 @@ The question I try to answer is:
     <item>
       <title>Recent Posts</title>
       <link>http://jplattel.nl/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0430</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>http://jplattel.nl/home/posts/</guid>
       <description></description>
@@ -35,7 +35,7 @@ The question I try to answer is:
     <item>
       <title>Clients</title>
       <link>http://jplattel.nl/home/clients/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0430</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>http://jplattel.nl/home/clients/</guid>
       <description></description>
@@ -44,7 +44,7 @@ The question I try to answer is:
     <item>
       <title>Recent Projects</title>
       <link>http://jplattel.nl/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0430</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>http://jplattel.nl/home/projects/</guid>
       <description></description>
@@ -53,7 +53,7 @@ The question I try to answer is:
     <item>
       <title>Media</title>
       <link>http://jplattel.nl/home/media/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0430</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>http://jplattel.nl/home/media/</guid>
       <description></description>
@@ -62,7 +62,7 @@ The question I try to answer is:
     <item>
       <title>Contact</title>
       <link>http://jplattel.nl/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0430</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>http://jplattel.nl/home/contact/</guid>
       <description>The easiest way to get in touch with me is by email, and remember:
