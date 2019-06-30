@@ -50,7 +50,8 @@
       <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
       
       <guid>http://jplattel.nl/client/nolostcapital/</guid>
-      <description></description>
+      <description>&lt;p&gt;For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act. The backend service was done in Django and the front-end in Vue.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -120,7 +121,8 @@
       <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
       
       <guid>http://jplattel.nl/client/fundsup/</guid>
-      <description></description>
+      <description>&lt;p&gt;To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -129,7 +131,8 @@
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
       
       <guid>http://jplattel.nl/client/watermelon/</guid>
-      <description></description>
+      <description>&lt;p&gt;In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -138,7 +141,8 @@
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
       
       <guid>http://jplattel.nl/client/colliers/</guid>
-      <description></description>
+      <description>&lt;p&gt;Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -147,7 +151,10 @@
       <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
       
       <guid>http://jplattel.nl/client/bzk/</guid>
-      <description></description>
+      <description>&lt;p&gt;Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.&lt;/p&gt;
+
+&lt;p&gt;My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -156,7 +163,8 @@
       <pubDate>Sun, 20 May 2018 00:19:14 +0200</pubDate>
       
       <guid>http://jplattel.nl/client/vogsy/</guid>
-      <description></description>
+      <description>&lt;p&gt;For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -181,7 +189,7 @@
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
       
       <guid>http://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
-      <description>&lt;p&gt;Past week we spend a day at a brewery! We made a new batch for our brewery&lt;a href=&#34;http://brouwerijnooitgedacht.nl&#34;&gt;Nooitgedacht&lt;/a&gt;. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough &lt;a href=&#34;//kratfunding.nl&#34;&gt;Kratfunding&lt;/a&gt;, we only ship to the Netherlands currently!&lt;/p&gt;
+      <description>&lt;p&gt;Past week we spend a day at a brewery! We made a new batch for our brewery &lt;a href=&#34;http://brouwerijnooitgedacht.nl&#34;&gt;Nooitgedacht&lt;/a&gt;. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough &lt;a href=&#34;//kratfunding.nl&#34;&gt;Kratfunding&lt;/a&gt;, we only ship to the Netherlands currently!&lt;/p&gt;
 
 &lt;p&gt;Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.&lt;/p&gt;
 
