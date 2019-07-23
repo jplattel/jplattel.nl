@@ -1,0 +1,30 @@
+---
+layout: post
+title: Building a Personal Health Dashboard with Panic's Statusboard
+date: 2013-04-15 22:43:23.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Code
+- Quantified Self
+tags: []
+meta:
+  _yoast_wpseo_metadesc: A short introduction on how Panic's app Statusboard can help
+    you build a personal health dashboard.
+  _yoast_wpseo_title: Building a Personal Health Dashboard with Panic's Statusboard
+  _yoast_wpseo_focuskw: personal health dashboard
+  dsq_thread_id: '1213601213'
+  _edit_last: '1'
+  _yoast_wpseo_linkdex: '71'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1445206414;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2783;}i:1;a:1:{s:2:"id";i:2918;}i:2;a:1:{s:2:"id";i:2087;}}}}
+author:
+  login: Joost Plattel
+  email: jsplattel@gmail.com
+  display_name: Joost Plattel
+  first_name: Joost
+  last_name: Plattel
+---
+<p>When Panic released their <a href="http://panic.com/statusboard/">Statusboard app</a> and I discovered it was possible to use JSON and html to embed it into pages, my mind raced with ideas about what to build. Both the Zeo and Fitbit API offer JSON output thus could be embeddable. To give a quick overview what it looks like with dummy data embedded, have a look at the following image:</p>
+<p style="text-align: center;"><a href="http://jplattel.nl/img/photo.PNG"><img class="aligncenter" alt="Personal Health Dashboard" src="/img/photo.PNG" width="717" height="538" /></a></p>
+<p>The next step is to implement a simple server side script that shapes and caches the JSON data in the correct format. We'll make that a weekend project. And you're not limited to Fitbit or Zeo data any more, any API or maybe even trough <a href="https://www.stathat.com/">StatHat</a> could offer a way for making it visual for the personal health dashboard :)</p>

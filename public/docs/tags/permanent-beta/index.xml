@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Permanent beta on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/permanent-beta/</link>
+    <description>Recent content in Permanent beta on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 02 Feb 2015 12:45:05 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/permanent-beta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating the Intelligence Room</title>
+      <link>http://jplattel.nl/post/2015-02-02-creating-intelligence-room/</link>
+      <pubDate>Mon, 02 Feb 2015 12:45:05 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2015-02-02-creating-intelligence-room/</guid>
+      <description>Over the past few months I&#39;ve been steadily involved with a project that aims to recreate an war/control/intelligence room that you see in movies. The one difference is that the room is ment for decision-makers within bigger companies. Often, urgent en relevant questions go unanswered, but the Intelligence Room helps fixing this.
+During the Big Improvement Day we showcased our concept and I&#39;ve created a little Django app that matches all attendees based on topics they provided when signing up for the event.</description>
+    </item>
+    
+    <item>
+      <title>Tinkering with the Meetup API</title>
+      <link>http://jplattel.nl/post/2014-07-02-meetup-api-tinkering/</link>
+      <pubDate>Wed, 02 Jul 2014 13:46:39 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-07-02-meetup-api-tinkering/</guid>
+      <description>Meetup.com is a service that I use and have been using to organize events for networks. Even though I like Meetup as a service, there are some thing you just cannot do. For example it&#39;s kind of hard to make use of the internal knowledge or connections that people have within the network itself. And you are limited to Meetup for sending messages to everyone.
+About a week ago I sat down to explore their API, to see if you could somehow build upon their service.</description>
+    </item>
+    
+    <item>
+      <title>The curious corner on video</title>
+      <link>http://jplattel.nl/post/2014-04-19-curious-corner-video/</link>
+      <pubDate>Sat, 19 Apr 2014 20:21:11 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-04-19-curious-corner-video/</guid>
+      <description>I&#39;ve curated 6 editions of the Curious Corner of the Internet until this day. It started out as an experiment of just showing my saved-for-later links in a presentation. The newsletter essentially was a second format, and I didn&#39;t explore my chances for a talk much further. Until now, during the Week for the Entrepreneur in the Netherlands, that I&#39;d give it another shot. Sadly, it&#39;s in dutch, but here&#39;s the video:</description>
+    </item>
+    
+  </channel>
+</rss>

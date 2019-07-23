@@ -1,0 +1,65 @@
+---
+layout: post
+title: Self-tracking & QR Codes een prima combinatie!
+date: 2009-07-20 19:24:04.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Lifehacking
+tags:
+- daytum
+- Generator
+- PHP
+- QR-code
+- Selftracking
+- YFD
+meta:
+  aktt_notify_twitter: 'yes'
+  _edit_last: '1'
+  aktt_tweeted: '1'
+  _oembed_d702346c92b9e8f5b4ce7150ae9f743b: '{{unknown}}'
+  _oembed_1a180b5382ee0c1c2152e619c78fbd74: '{{unknown}}'
+  dsq_thread_id: '368633360'
+  _oembed_5ebb1dd3c92b86b784037b3a0ad2ecf2: '{{unknown}}'
+  _oembed_3960f1a4ada1ac926eb8b4a4f8a2738b: '{{unknown}}'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1443197528;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:244;}i:1;a:1:{s:2:"id";i:465;}i:2;a:1:{s:2:"id";i:2121;}}}}
+author:
+  login: Joost Plattel
+  email: jsplattel@gmail.com
+  display_name: Joost Plattel
+  first_name: Joost
+  last_name: Plattel
+---
+<p><img class="alignright" title="QR-Code " src="/img/img.php?s=6&amp;d=http%3A%2F%2Flaborantje.nl" alt="" width="162" height="162" />Een barcode kent iedereen wel, dat is een balk met streepjes die bij de kassa word ingescand, aan de hand daarvan word het product afgerekend. De barcode bestaat uit een vast aantal getallen, maar tegenwoordig zijn er ook <a title="Wikipedia - QRcode" href="http://en.wikipedia.org/wiki/QR_Code">QR-codes</a>, deze kunnen meer bevatten dan alleen data ( zoals URL's ;) ).</p>
+<p>Hiernaast vind je een voorbeeld van een QR-code. Hoe gebruik je nu precies een QR-code? Schiet er een foto van met een telefoon die het gebruik ervan ondersteund. Voor zowel de iPhone als de G1 en sommige nokia telefoons zijn er applicaties die het gebruik van een QR-code mogelijk maken :)</p>
+<p>Nu kregen Joris en ik een geniale ingeving, want deze QR-codes kan je prima gebruiken voor self-tracking. Stel je voor:</p>
+<ul>
+<li>Koffie! Mjum, je rent met je mok naar de koffie automaat.</li>
+<li>Schenkt jezelf koffie in, maar voordat je wegloopt schiet je een foto van een QR-code die aan het koffie apparaat zit.</li>
+<li>Deze QR-code stuurt je browser van je mobiel naar een webpagina toe waar een klein scriptje wordt uitgevoerd.</li>
+<li>Dit scriptje stuurt een Direct Message vanaf <a href="http://www.twitter.com/Ietwat">twitter</a> naar <a title="Daytum" href="http://www.daytum.com">Daytum</a> of <a href="http://your.flowingdata.com">YourFlowingData</a> (YFD)</li>
+<li>Vervolgens wordt de DM door Daytum of YFD verwerkt en heb je alleen een foto hoeven te schieten om 1 koffie bij je drinken op te tellen ;)</li>
+</ul>
+<p>Dus zo zat het concept in elkaar, nu nog de uitvoering! ;)</p>
+<p><a title="Kaywa" href="http://qrcode.kaywa.com/">Kaywa</a> heeft een prima QR-code generator, waarin je mooi een url kan ingeven en de code er zo uit komt rollen. Daarnaast heeft de webapp ook een API wat het mogelijk maakt zelfs automatisch QR-codes te genereren ;)</p>
+<p>De API is tot nu toe enigzins overbodig want met dit kwamen we al een heel eind:</p>
+<blockquote>
+<pre>&lt;?php</pre>
+<pre>//url format:
+//http://www.laborantje.nl/yfd_ietwat.php?qr=Item+1</pre>
+<pre>include('includes.php');</pre>
+<pre>$username = '';
+$password = '';</pre>
+<pre>$qr = urldecode($_GET['qr']);</pre>
+<pre>$result = shell_exec
+('
+curl -u '.$username.':'.$password.'
+-d "text='.$qr.'&amp;user=yfd"
+http://twitter.com/direct_messages/new.xml
+');</pre>
+<pre>if($result) { echo 'Succesfully added: '.$qr; }
+else { echo 'Error!'; }</pre>
+<pre>?&gt;</pre>
+</blockquote>
+<p>Dankzij Joris met zijn kunsten in PHP scheelde het mij wat leerwerk, en was het eerste werkende exemplaar al snel van de pers :)  Binnen de kortste keren hangt ons kantoor vol met QR-codes omdat we allemaal dingen bij willen houden, maar ik houd het lekker bij mijn drinken en broodbeleg ;) Misschien dat ik nog de tijden bijhoud dat ik op sta en naar bed ga, waarbij je uit de foto's van de QR-codes de EXIF data haalt om de tijd te bepalen :)</p>

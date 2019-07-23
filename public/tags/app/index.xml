@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/app/</link>
+    <description>Recent content in app on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 18 Dec 2013 18:29:35 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Moves data for?</title>
+      <link>http://jplattel.nl/post/2013-12-18-using-moves-data/</link>
+      <pubDate>Wed, 18 Dec 2013 18:29:35 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-12-18-using-moves-data/</guid>
+      <description>In July I wrote a little wrapper for the Moves App API. But I didn&#39;t develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I&#39;m currently building. I&#39;ve drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I&#39;ve got some friends who come up with great ideas too!</description>
+    </item>
+    
+    <item>
+      <title>A python library for the Moves App API</title>
+      <link>http://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</link>
+      <pubDate>Tue, 09 Jul 2013 19:52:23 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</guid>
+      <description>For Quantified Self starters I recommend the really nice Moves App. The interface is really nice and the battery drain isn&#39;t that bad if you recharge it twice a day. They recently opened up their API enabling developers like me to create apps based on their platform. For me the first step towards creating an app is a easier way to communicate with the API.
+As with the fitbit, I&#39;ve written a open-source library for you to use!</description>
+    </item>
+    
+    <item>
+      <title>Showertrack!</title>
+      <link>http://jplattel.nl/post/2012-07-15-showertrack/</link>
+      <pubDate>Sun, 15 Jul 2012 22:06:18 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2012-07-15-showertrack/</guid>
+      <description>So much projects, so little time... But hey, let&#39;s just use some of my spare time for keeping you guys updated on the stuff I do. I&#39;ve been doing several things, but the most interesting right now is a new iPhone app concept that we&#39;ve been developing since last month. Together with Nils Waanders and Willemijn Edens we are creating an app which helps people save water while showering. It&#39;s called Showertrack.</description>
+    </item>
+    
+  </channel>
+</rss>

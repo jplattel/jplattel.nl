@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8" />
+<link href='/blog/articles.atom' rel='alternate' title='Signals Blog Feed' type='application/atom+xml' />
+
+
+  <title>Chempedia Lab - Closed | Metamolecular</title>
+  <meta name="twitter:title" content="Chempedia Lab - Closed">
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/resets.css">
+<link rel="stylesheet" href="/css/global.css">
+<link rel="stylesheet" href="/css/code.css">
+
+
+  <link rel="stylesheet" href="/css/page.css">
+
+
+
+  
+
+
+
+  
+
+
+
+  </head>
+  <body>
+    <div class="page">
+      <aside class="header">
+  <div class="horizontal-margin">
+    <h2 hidden>Site Identification</h2>
+    <div class="search">
+  <form method="get" action="https://www.google.com/search">
+    <input name="as_sitesearch" value="metamolecular.com" type="hidden">
+    <input name="q" placeholder="Search" type="text">
+  </form>
+</div>
+    <nav class="site">
+      <ul class="links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+      <h2 class="site-id"><a href="/"><img src="/images/site-id.svg" alt="Metamolecular, LLC"></a></h2>
+    </nav>
+  </div>
+</aside>
+      <div class="body horizontal-margin">
+        <header>
+          
+            <h1 class="page-title">Chempedia Lab - Closed</h1>
+          
+        </header>
+        <div class="content">
+          
+            <div class="sidebar">
+  <hgroup>
+    <h2>Metamolecular, LLC</h2>
+  </hgroup>
+  <address class="vcard"> 
+    <div class="street-address"> 
+      <div class="address-line">8070 La Jolla Shores Drive #464</div> 
+      <div class="address-line">La Jolla, CA 92037</div>  
+    </div> 
+    <div class="tel">Tel: (858) 754-9396</div> 
+    <div class="tel">Fax: <span class="fax">(858) 683-3918</span></div>
+    <div class="email"><a href="mailto:support@metamolecular.com">support@metamolecular.com</a></div> 
+  </address>
+</div>
+          
+          <div class="main">
+            
+              <p>Thank you for visiting. Chempedia Lab is now closed for new submissions. The database of questions and answers may be made available in archived form in the future.</p>
+
+            
+          </div>
+        </div>
+      </div>
+      <footer class="page-footer">
+  <a href="/"><img src="/images/logo-footer.svg" alt="Metamolecular Footer Logo"></a>
+  <p class="copyright">
+    &copy;&nbsp;2016 <a href="/">Metamolecular, LLC</a>
+  </p>
+</footer>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23800755-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,61 @@
+
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class="universal-wrapper">
+
+    <h1>Clients</h1>
+
+    {{ $page := . }}
+    {{ $clients := where $.Site.RegularPages "Type" ($page.Params.folder | default "client") }}
+    
+
+    <div class="row isotope projects-container js-layout-masonry">
+
+        <div class="isotope-item col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            <div class="card">
+                <div class="card-text">
+                    <h4>Interested in working together?</h4>
+                    <p>
+                        Get in touch with me via email at: <a href="mailto:jsplattel@gmail.com">jsplattel@gmail.com</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        {{ range $client := $clients }}
+        {{ $.Scratch.Set "client_url" $client.Permalink }}
+        {{ $.Scratch.Set "target" "" }}
+        {{ if $client.Params.external_link }}
+        {{   $.Scratch.Set "client_url" $client.Params.external_link }}
+        {{   $.Scratch.Set "target" "target=\"_blank\"" }}
+        {{ end }}
+        
+        <div class="isotope-item col-xs-12 col-sm-6 col-md-6 col-lg-6 {{ delimit $client.Params.tags " " }}">
+            <div class="card">
+                <div class="card-text">
+                    {{ if $client.Params.image_preview }}
+                        {{ with $client.Params.image_preview }}
+                            <a href="{{ $.Scratch.Get "client_url" }}" title=""
+                                {{ $.Scratch.Get "target" | safeHTMLAttr }}>
+                                <img style="width: 140px; float: right;" data-src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
+                            </a>
+                        {{ end }}
+                    {{ end }}
+                    <h4 style="margin-bottom: 40px;">
+                        {{$client.Params.title}}
+                    </h4>
+                    <p>
+                        {{ with $client.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+                    </p>
+                </div>
+            </div>
+        </div>
+    
+        {{ end }}
+    </div>
+    
+
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

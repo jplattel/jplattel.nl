@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openaccess on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/openaccess/</link>
+    <description>Recent content in openaccess on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 29 Oct 2009 11:41:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/openaccess/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenAccess.nl voor wetenschappers</title>
+      <link>http://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</link>
+      <pubDate>Thu, 29 Oct 2009 11:41:21 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</guid>
+      <description>Ik ben voorstander van open en linked data, gratis af te halen en makkelijk online te scrapen. Het grote voordeel van open en linked data is dat iedereen ermee kan werken en er dus dingen ontstaan die normaal niet bedacht worden. Zulke &#39;mashups&#39; maken het makkelijker om bijvoorbeeld overzicht te krijgen over data. Voorbeeld van open data: Huizenzoeker , Alarmeringen en Buurtlink.
+
+Openaccess.nl is een website waar ook data aangeboden word er is momenteel nog niet heel veel te vinden, maar er is al wel een apart kopje voor scheikunde onder de categorie wetenschap.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Informatics on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/personal-informatics/</link>
+    <description>Recent content in Personal Informatics on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 27 Sep 2010 11:41:42 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/personal-informatics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>QS Amsterdam Recap #1</title>
+      <link>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro! I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+    </item>
+    
+    <item>
+      <title>Self-tracking in de NY Times</title>
+      <link>http://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</link>
+      <pubDate>Fri, 21 May 2010 13:19:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</guid>
+      <description>Op 26 april verscheen er een enorm artikel over self-tracking in de New York Times. Een must-read voor iedereen die wil beginnen met self-tracking of er al mee bezig is!
+Vooral medische toepassingen lijken veel mensen te overtuigen van het voordeel van self-tracking. Maar er zijn ook mensen die er negatief tegenover staan. Laat je het zo ver gaan dat je alles meet en ben je dan nog wel menselijk. Kortom waar ligt de grens en wordt het hinderlijk voor je omgeving?</description>
+    </item>
+    
+    <item>
+      <title>Lifelogging met de ViconRevue</title>
+      <link>http://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/</link>
+      <pubDate>Wed, 06 Jan 2010 14:49:19 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/</guid>
+      <description>De Sensecam is een apparaat waarmee iemand zijn eigen leven kan vastleggen. Een soort black-box, maar dan voor een mensenleven. Eind vorig jaar zou Vicon het mogelijk maken om een Sensecam onder hun naam aan te schaffen voor persoonlijk gebruik.
+Op de manier waarop ik het bekijk zitten hier talloze voordelen aan, en wordt het voordeel in de toekomst steeds groter. De ViconRevue is in combinatie met de juiste software en databases geeft een fotografisch geheugen aan iedereen.</description>
+    </item>
+    
+    <item>
+      <title>Gereedschap voor self-tracking</title>
+      <link>http://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</link>
+      <pubDate>Wed, 28 Oct 2009 12:37:14 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</guid>
+      <description>Onlangs ben ik gestopt met Daytum, dat ik gebruikte voor self-tracking. Het was een handige tool met leuke visualisaties, maar na meer dan 100 dagen werd de barriere om dagelijks gegevens in te voeren mij te hoog, desondanks heb ik er een aantal leuk dingen uit kunnen halen en heb ik er veel van kunnen leren. Een iPhone applicatie zou Daytum in ieder geval makkelijker maken!
+Ik ben nu opzoek naar een andere tool, met een nog mindere barriere.</description>
+    </item>
+    
+  </channel>
+</rss>

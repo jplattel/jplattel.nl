@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>showertrack on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/showertrack/</link>
+    <description>Recent content in showertrack on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Jul 2012 22:06:18 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/showertrack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Showertrack!</title>
+      <link>http://jplattel.nl/post/2012-07-15-showertrack/</link>
+      <pubDate>Sun, 15 Jul 2012 22:06:18 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2012-07-15-showertrack/</guid>
+      <description>So much projects, so little time... But hey, let&#39;s just use some of my spare time for keeping you guys updated on the stuff I do. I&#39;ve been doing several things, but the most interesting right now is a new iPhone app concept that we&#39;ve been developing since last month. Together with Nils Waanders and Willemijn Edens we are creating an app which helps people save water while showering. It&#39;s called Showertrack.</description>
+    </item>
+    
+  </channel>
+</rss>

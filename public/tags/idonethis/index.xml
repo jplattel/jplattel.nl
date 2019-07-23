@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>idonethis on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/idonethis/</link>
+    <description>Recent content in idonethis on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 02 Jan 2016 17:34:51 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/idonethis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data and reflections about 2015</title>
+      <link>http://jplattel.nl/post/2016-01-02-data-reflections-2015/</link>
+      <pubDate>Sat, 02 Jan 2016 17:34:51 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-01-02-data-reflections-2015/</guid>
+      <description>Another year passed an I&#39;m due to update my projects page and create another one for next year! To close past year and explore the next I&#39;ve used YearCompass for my reflections. It took me over 3 afternoons to completely fill it out, but it&#39;s an enjoyable ride! It&#39;s great looking backwards into your calendar and see all that you have achieved.
+I&#39;ve also concatenated all my 8:36pm photos into a video like I do every year.</description>
+    </item>
+    
+  </channel>
+</rss>

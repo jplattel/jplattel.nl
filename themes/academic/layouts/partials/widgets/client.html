@@ -1,0 +1,56 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $client_len := len (where (where $.Site.RegularPages "Type" "client") ".Params.notonhomepage" nil) }}
+
+<!-- Clients widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+  
+  </div>
+  <div class="col-xs-12 col-md-8">  
+    <div class="row">
+      {{ $clients := where $.Site.RegularPages "Type" ($page.Params.folder | default "client") }}
+
+      {{ range $client := first $page.Params.count $clients }}
+      {{ $.Scratch.Set "client_url" $client.Permalink }}
+      {{ $.Scratch.Set "target" "" }}
+      {{ if $client.Params.external_link }}
+      {{   $.Scratch.Set "client_url" $client.Params.external_link }}
+      {{   $.Scratch.Set "target" "target=\"_blank\"" }}
+      {{ end }}
+      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 {{ delimit $client.Params.tags " " }}">
+        <div>
+          {{ if $client.Params.image_preview }}
+            {{ with $client.Params.image_preview }}
+            <a href="{{ $.Scratch.Get "client_url" }}" title="" class="card-image"
+               {{ $.Scratch.Get "target" | safeHTMLAttr }}>
+              <img data-src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
+            </a>
+          {{ else }}
+            <div class="card-text">
+            <h4><a href="{{ $.Scratch.Get "client_url" }}" {{ $.Scratch.Get "target" | safeHTMLAttr }}>{{ .Title }}</a></h4>
+            <div class="card-desription">
+              {{ with $client.Params.summary }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+          </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{ if gt $client_len $page.Params.count }}
+      <div class="col-md-12">
+        <p class="view-all">
+          <a style="float:right" href="{{ ($.Site.GetPage "section" "client").Permalink }}">
+            More Clients &raquo;
+          </a>
+        </p>
+      </div>
+      {{ end }}
+
+
+  </div>
+</div>

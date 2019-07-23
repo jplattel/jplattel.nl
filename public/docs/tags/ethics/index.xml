@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/ethics/</link>
+    <description>Recent content in Ethics on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 08 Mar 2016 14:32:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making Waves</title>
+      <link>http://jplattel.nl/post/2016-03-08-making-waves/</link>
+      <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-03-08-making-waves/</guid>
+      <description>So far today has been enjoyable, until around noon when someone texted me with a url pointing to nu.nl, showing an article about the Data Protection Authority telling me it is forbidden for employers to use wearables to track their employees (also on tweakers.net). The research the article points to is actually two companies that run my dashboards. Before I get into details, let me state the following:
+ The privacy of an employee is of utmost importance!</description>
+    </item>
+    
+    <item>
+      <title>Privacy &amp; Gracefully revealing depth</title>
+      <link>http://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</link>
+      <pubDate>Tue, 23 Feb 2016 14:11:46 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</guid>
+      <description>Just a couple of days ago I read a post from Atlassian explaining some new features, but the most interesting aspect was that they explore gracefully revealing depth. To me this same concept can also be applied to privacy, ethics and more problems. Even though it&#39;s about functionality, the same can be applied to complexity.
+As we are faced with interesting problems about privacy and ethics, would the way of gracefully revealing complexity work for making the right choices or settings the right parameters?</description>
+    </item>
+    
+    <item>
+      <title>Musings on transparency</title>
+      <link>http://jplattel.nl/post/2016-02-16-musings-on-transparency/</link>
+      <pubDate>Tue, 16 Feb 2016 15:10:08 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-02-16-musings-on-transparency/</guid>
+      <description>I&#39;ve been thinking about and exploring transparency a lot lately. As I&#39;m building dashboards for employees, transparency is one of the key factors of integration within the workforce. But there are some funny things about transparency and this is why most companies and organisations are having difficulty adopting a transparant way of working.
+ Ownership is spread when sharing processes, this lessens your level of power, but this world is not just about ownership any more, access is what it is all about.</description>
+    </item>
+    
+  </channel>
+</rss>

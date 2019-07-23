@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personalstats on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/personalstats/</link>
+    <description>Recent content in personalstats on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 23 Aug 2010 21:47:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/personalstats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantified Self Meetup Amsterdam</title>
+      <link>http://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</link>
+      <pubDate>Mon, 23 Aug 2010 21:47:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</guid>
+      <description>Samen met Maarten Den Braber (@mdbraber) en James Burke (@lifesized) organiseer ik de eerste Quantified Self Meetup in Amsterdam. Op 20 september hebben wij de primeur in Nederland, en zelfs europa. Al komt QSLondon eer toe, omdat ik anders nog geen idee had over de opzet hier in Nederland.
+The Quantified Self (QS) letterlijk vertaald is de gekwantificeerde zelf. Met onderwerpen zoals lifelogging, self-tracking of personal genomics, proberen mensen zo veel mogelijk informatie in kaart te brengen over zichzelf.</description>
+    </item>
+    
+    <item>
+      <title>Self-tracking in de NY Times</title>
+      <link>http://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</link>
+      <pubDate>Fri, 21 May 2010 13:19:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</guid>
+      <description>Op 26 april verscheen er een enorm artikel over self-tracking in de New York Times. Een must-read voor iedereen die wil beginnen met self-tracking of er al mee bezig is!
+Vooral medische toepassingen lijken veel mensen te overtuigen van het voordeel van self-tracking. Maar er zijn ook mensen die er negatief tegenover staan. Laat je het zo ver gaan dat je alles meet en ben je dan nog wel menselijk. Kortom waar ligt de grens en wordt het hinderlijk voor je omgeving?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amsterdam on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/amsterdam/</link>
+    <description>Recent content in Amsterdam on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 02 Jun 2014 18:33:45 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/amsterdam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thought Kinetics at Coded Matters: Extended Senses</title>
+      <link>http://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</link>
+      <pubDate>Mon, 02 Jun 2014 18:33:45 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</guid>
+      <description>Last sunday my brother and I had an exhibition with Thought Kinetics and artist-talk at Coded Matters: Extended Senses. We showed our static prototype exploring the visualization of datasets that are collect and visualized in a static way. This is our first step towards a more realtime system where we can use any data and visualize it on a canvas in an abstract way.
+
+We also gave a talk about our process how we got from a prototype towards a more solid system that uses Node.</description>
+    </item>
+    
+    <item>
+      <title>QS Amsterdam Recap #1</title>
+      <link>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro! I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+    </item>
+    
+    <item>
+      <title>Quantified Self Meetup Amsterdam</title>
+      <link>http://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</link>
+      <pubDate>Mon, 23 Aug 2010 21:47:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</guid>
+      <description>Samen met Maarten Den Braber (@mdbraber) en James Burke (@lifesized) organiseer ik de eerste Quantified Self Meetup in Amsterdam. Op 20 september hebben wij de primeur in Nederland, en zelfs europa. Al komt QSLondon eer toe, omdat ik anders nog geen idee had over de opzet hier in Nederland.
+The Quantified Self (QS) letterlijk vertaald is de gekwantificeerde zelf. Met onderwerpen zoals lifelogging, self-tracking of personal genomics, proberen mensen zo veel mogelijk informatie in kaart te brengen over zichzelf.</description>
+    </item>
+    
+  </channel>
+</rss>
