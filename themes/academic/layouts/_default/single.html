@@ -6,6 +6,7 @@
   {{ partial "header_image.html" . }}
 
   <div class="article-container">
+
     <h1 itemprop="name">{{ .Title }}</h1>
 
     {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
@@ -14,31 +15,17 @@
       {{ .Content }}
     </div>
 
-    {{ partial "tags.html" . }}
+    {{ partial "tags" . }}
 
-    {{ $related := .Site.RegularPages.Related . | first 5 }}
-    {{ with $related }}
+    {{ if site.Params.section_pager }}
     <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>{{ i18n "related" }}</h3>
-      <ul>
-        {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      </ul>
+      {{ partial "section_pager" . }}
     </div>
     {{ end }}
 
-    {{ if .Site.Params.section_pager }}
-    <div class="article-widget">
-      {{ partial "section_pager.html" . }}
-    </div>
-    {{ end }}
-
-    {{ partial "comments.html" . }}
+    {{ partial "comments" . }}
 
   </div>
 </article>
 
 {{ partial "footer_container.html" . }}
-{{ partial "footer.html" . }}
