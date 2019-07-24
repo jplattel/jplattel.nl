@@ -6,7 +6,6 @@
 baseurl = "http://jplattel.nl/"
 
 publishDir = "docs"
-ignorefiles = [ "docs" ] 
 
 # Title of your site
 title = "Joost Plattel"
@@ -18,7 +17,7 @@ copyright = "&copy; 2019"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "docs" ]
 preserveTaxonomyNames = true
 paginate = 10
 
