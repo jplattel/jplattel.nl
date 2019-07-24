@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calorie on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/calorie/</link>
+    <description>Recent content in calorie on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 27 Sep 2011 09:24:16 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/calorie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publishing personal caloric values</title>
+      <link>http://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/</link>
+      <pubDate>Tue, 27 Sep 2011 09:24:16 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/</guid>
+      <description>I&#39;ve started tracking my food intake with Foodzy about 13 days ago. And while doing that I already came across some interesting things. I&#39;ve never been fully tracking my food intake, but the Foodzy app on my iPhone with extensive database (including typical dutch food) makes it quite easy. I&#39;ve been tracking for thirteen days now.
+The first step I wanted to take is to generate a baseline of my typical food consumption(and thus caloric values), this way I can see where I can make improvements and measure the changes.</description>
+    </item>
+    
+  </channel>
+</rss>

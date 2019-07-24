@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phases on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/phases/</link>
+    <description>Recent content in phases on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 06 Oct 2011 10:54:09 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/phases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moon phases and sleep patterns</title>
+      <link>http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</link>
+      <pubDate>Thu, 06 Oct 2011 10:54:09 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</guid>
+      <description>Even before I got a Zeo, I was wondering if the phases of the moon are of influence of my sleep quality. With the Zeo that offers an API, I finally had a chance to investigate. As it turns out after four months of experimenting: the phase of the moon doesn&#39;t have any influence on my sleep quality or the time it takes to fall asleep.
+I&#39;ve been building my own interface for the Zeo, because the flash based website doesn&#39;t suit my needs, here&#39;s a small screenshot:</description>
+    </item>
+    
+  </channel>
+</rss>

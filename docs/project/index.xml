@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Joost Plattel</title>
+    <link>http://jplattel.nl/project/</link>
+    <description>Recent content in Projects on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 08 Jan 2019 00:05:29 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalstats</title>
+      <link>http://jplattel.nl/project/personalstats/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/project/personalstats/</guid>
+      <description>A little web application that pulls in data from Workflowy to make it more understandable</description>
+    </item>
+    
+    <item>
+      <title>Ambassador for the Digital Society School Amsterdam</title>
+      <link>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
+      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
+      <description>In &lt;em&gt;2018 - 2019&lt;/em&gt; I am one of the ambassadors for the Digital Society School located in Amsterdam</description>
+    </item>
+    
+    <item>
+      <title>Sous-vide Rice Cooker</title>
+      <link>http://jplattel.nl/project/sous-vide-ricecooker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/sous-vide-ricecooker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIY Longboard</title>
+      <link>http://jplattel.nl/project/diy-longboard/</link>
+      <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/diy-longboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Padvinders</title>
+      <link>http://jplattel.nl/project/de-padvinders/</link>
+      <pubDate>Sat, 21 Apr 2018 23:07:36 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/de-padvinders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mondriaantje</title>
+      <link>http://jplattel.nl/project/mondriaantje/</link>
+      <pubDate>Sat, 21 Apr 2018 22:55:11 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/mondriaantje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berichtenbox Forwarder</title>
+      <link>http://jplattel.nl/project/berichtenbox-forwarder/</link>
+      <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/berichtenbox-forwarder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifiedself</title>
+      <link>http://jplattel.nl/project/quantifiedself/</link>
+      <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/quantifiedself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curious Corner</title>
+      <link>http://jplattel.nl/project/curious_corner/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/curious_corner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brouwerij Nooitgedacht</title>
+      <link>http://jplattel.nl/project/brouwerij_nooitgedacht/</link>
+      <pubDate>Sat, 21 Apr 2018 17:56:24 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/brouwerij_nooitgedacht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Permanent Beta</title>
+      <link>http://jplattel.nl/project/permanent-beta/</link>
+      <pubDate>Wed, 31 May 2017 00:09:50 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/permanent-beta/</guid>
+      <description>For the Permanent Beta community I build tools that help them organize the community in a more fluid way.</description>
+    </item>
+    
+    <item>
+      <title>Qountus</title>
+      <link>http://jplattel.nl/project/qountus/</link>
+      <pubDate>Sun, 05 Jun 2016 16:29:59 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/qountus/</guid>
+      <description>How can we use personal data to improve the way we do our work? Qount.us was a dashboard collecting personal data with a goal to increase insights that might boost the quality of life surrounding work.</description>
+    </item>
+    
+  </channel>
+</rss>

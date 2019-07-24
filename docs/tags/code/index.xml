@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/code/</link>
+    <description>Recent content in Code on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 02 Feb 2015 12:45:05 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating the Intelligence Room</title>
+      <link>http://jplattel.nl/post/2015-02-02-creating-intelligence-room/</link>
+      <pubDate>Mon, 02 Feb 2015 12:45:05 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2015-02-02-creating-intelligence-room/</guid>
+      <description>Over the past few months I&#39;ve been steadily involved with a project that aims to recreate an war/control/intelligence room that you see in movies. The one difference is that the room is ment for decision-makers within bigger companies. Often, urgent en relevant questions go unanswered, but the Intelligence Room helps fixing this.
+During the Big Improvement Day we showcased our concept and I&#39;ve created a little Django app that matches all attendees based on topics they provided when signing up for the event.</description>
+    </item>
+    
+    <item>
+      <title>3D printing lampshades or any object based on data.</title>
+      <link>http://jplattel.nl/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</link>
+      <pubDate>Sun, 14 Dec 2014 23:23:25 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</guid>
+      <description>&lt;p&gt;Last week I stayed at &lt;a href=&#34;http://herman.kopinga.nl/&#34;&gt;Herman&#39;s&lt;/a&gt; place for a couple of days. While there we primarily discussed buttons, 3D printers and other nerdy stuff. As it happend I&#39;d look over on his desk and found some test prints for lampshades made of ABS. That got me thinking.. Just a few hours later I was knees deep in code trying to generate something that would look like a 3D model: &lt;a href=&#34;http://www.jplattel.nl/img/Screen-Shot-2014-12-12-at-11.56.18-AM.png&#34;&gt;&lt;img class=&#34;aligncenter size-large wp-image-3153&#34; src=&#34;http://jplattel.nl/img/Screen-Shot-2014-12-12-at-11.56.18-AM-1024x655.png&#34; alt=&#34;A 3D model in Openscad&#34; width=&#34;620&#34; height=&#34;396&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning about power-usage data from my home</title>
+      <link>http://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/</link>
+      <pubDate>Fri, 21 Nov 2014 10:32:23 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/</guid>
+      <description>I recently moved to a new home, and I got a freshly installed new electricity meter that&#39;s a little bit more intelligent. It was now possible for me to sign up for slimmemeterportal.nl, that let&#39;s you access the power-usage data from the meter by a 15 minute window. That&#39;s quite some data to play with!
+Being interested in the data, I wrote a little scraper that collects it for me and stores it in a SQL database, from there on, with Flask and Peewee it was quite simple to create a little API for my own dataset.</description>
+    </item>
+    
+    <item>
+      <title>Lessons learned building Django projects</title>
+      <link>http://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</link>
+      <pubDate>Sun, 09 Mar 2014 23:39:23 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</guid>
+      <description>I&#39;ve been using Django as my go-to framework for the past few months. So far I&#39;ve enjoyed the ride, but have learned some things that I&#39;d like to share with you:
+ During project setup, create a virtual environment for yourself to work in. Use the &#39;pip freeze&#39; for creating a requirements.txt that helps you manage dependencies. Don&#39;t use any paths within the views. Instead, use the reverse function for looking up routes that correspond to the url.</description>
+    </item>
+    
+    <item>
+      <title>The Curious Corner of the Internet</title>
+      <link>http://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</link>
+      <pubDate>Wed, 27 Nov 2013 20:47:26 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</guid>
+      <description>I&#39;ve been walking around with a newsletter idea for some months now. It all started at Permanent Beta where I gave a talk together with my twin. Basically it wasn&#39;t really a talk, just a roadshow of awesome stuff we come across on our daily surf on the web. The audience loved it! Why not curate this content into a newsletter?
+That&#39;s just what I did with The Curious Corner of the Internet, a monthly newsletter stocked with the stuff I find during that last month.</description>
+    </item>
+    
+    <item>
+      <title>A Jawbone API Python library</title>
+      <link>http://jplattel.nl/post/2013-11-15-jawbone-api-python-library/</link>
+      <pubDate>Fri, 15 Nov 2013 20:15:23 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-11-15-jawbone-api-python-library/</guid>
+      <description>I&#39;ve been wearing a Jawbone UP for the last few months. There are things I like about it, the app, the sleep interface and the options you have for notifications. Some other things I dislike, the 3.5mm jack for syncing for example... It&#39;s annoying. They have it solved with the next version though.
+
+As with all the other devices that I&#39;ve been wearing I wanted to get the data out of it.</description>
+    </item>
+    
+    <item>
+      <title>A python library for the Moves App API</title>
+      <link>http://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</link>
+      <pubDate>Tue, 09 Jul 2013 19:52:23 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</guid>
+      <description>For Quantified Self starters I recommend the really nice Moves App. The interface is really nice and the battery drain isn&#39;t that bad if you recharge it twice a day. They recently opened up their API enabling developers like me to create apps based on their platform. For me the first step towards creating an app is a easier way to communicate with the API.
+As with the fitbit, I&#39;ve written a open-source library for you to use!</description>
+    </item>
+    
+    <item>
+      <title>Generating Mondrian like art with D3 &amp; Javascript</title>
+      <link>http://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/</link>
+      <pubDate>Tue, 05 Mar 2013 15:38:34 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/</guid>
+      <description>SETUP is holding a competition to get programming known as modern day craftwork. I whole-fully agree to this and decided to enter the contest!
+With a small part of my time spend while traveling I and finally finishing up I&#39;ve gotten my last version up and running. I use javascript and D3 (SVG) for drawing the elements as this is a library that I wanted to explore. The ease of use and adoption rate of it made a good starting point for me to quickly get to a result.</description>
+    </item>
+    
+    <item>
+      <title>My effort for a better readinglist</title>
+      <link>http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/</link>
+      <pubDate>Sun, 08 May 2011 10:24:29 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/</guid>
+      <description>I love the Read It Later List service. Each day I save about 20-30 articles from Google Reader or my Twitter client so I can read them later. However, these amounts make it hard for me to process all the things I save. That&#39;s why I need a readinglist that has additional filtering/speed/shortcuts.
+As my endeavors with Python continue, for the last few months I&#39;ve been developing my own version of the perfect readinglist build upon the API of Read It Later List.</description>
+    </item>
+    
+    <item>
+      <title>Dabblings in Processing</title>
+      <link>http://jplattel.nl/post/2011-01-08-dabblings-in-processing/</link>
+      <pubDate>Sat, 08 Jan 2011 14:20:30 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-01-08-dabblings-in-processing/</guid>
+      <description>The collected data of 2010, mostly trough PersonalStats, but Foursquare and Twitter too, is a huge amount. Next to interpreting this data and using the information to create a feedback moment, the data can also turned into art. Nicholas Felton makes a perfect example: his highly interesting Annual Report fascinates me in both visual and informational ways.
+As Kees discovered Processing, it left me wondering what I could do with it.</description>
+    </item>
+    
+  </channel>
+</rss>

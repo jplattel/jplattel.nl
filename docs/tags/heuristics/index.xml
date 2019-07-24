@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heuristics on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/heuristics/</link>
+    <description>Recent content in heuristics on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 24 Sep 2012 09:21:34 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/heuristics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plugin Heuristics</title>
+      <link>http://jplattel.nl/post/2012-09-24-plugin-heuristics/</link>
+      <pubDate>Mon, 24 Sep 2012 09:21:34 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2012-09-24-plugin-heuristics/</guid>
+      <description>At the third Quantified Self Conference in Stanford last week I gave a talk about Plugin Heuristcs, a term that describes something I&#39;ve come across during my years of self-tracking experiments. Here are the slides:
+
+Plugin Heuristics confines an architecture that I propose for self-tracking things with a side-effect. For example when tracking my food intake for at least a month, it changed the way my brain remembers all the things I&#39;ve eaten.</description>
+    </item>
+    
+  </channel>
+</rss>

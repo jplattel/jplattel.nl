@@ -1,0 +1,1458 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8" />
+<link href='/blog/articles.atom' rel='alternate' title='Signals Blog Feed' type='application/atom+xml' />
+
+
+  <title>Signals Blog | Metamolecular</title>
+  <meta name="twitter:title" content="Signals Blog">
+
+
+
+  <meta name="description" content="Signals is a blog about chemistry and software by Metamolecular, LLC.">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@metamolecular">
+  <meta name="twitter:description" content="Signals is a blog about chemistry and software by Metamolecular, LLC.">
+
+
+
+
+<link rel="stylesheet" href="/css/resets.css">
+<link rel="stylesheet" href="/css/global.css">
+<link rel="stylesheet" href="/css/code.css">
+
+
+  <link rel="stylesheet" href="/css/page.css">
+
+
+
+  
+    <link rel="stylesheet" href="/css/archive.css">
+  
+
+
+
+  
+
+
+
+  </head>
+  <body>
+    <div class="page">
+      <aside class="header">
+  <div class="horizontal-margin">
+    <h2 hidden>Site Identification</h2>
+    <div class="search">
+  <form method="get" action="https://www.google.com/search">
+    <input name="as_sitesearch" value="metamolecular.com" type="hidden">
+    <input name="q" placeholder="Search" type="text">
+  </form>
+</div>
+    <nav class="site">
+      <ul class="links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+      <h2 class="site-id"><a href="/"><img src="/images/site-id.svg" alt="Metamolecular, LLC"></a></h2>
+    </nav>
+  </div>
+</aside>
+      <div class="body horizontal-margin">
+        <header>
+          
+            <h1 class="page-title">Signals Blog</h1>
+          
+        </header>
+        <div class="content">
+          
+            <nav class="sidebar">
+  <hgroup>
+    <h2>Signals Blog</h2>
+    <h3>Notes on Chemistry and Software</h3>
+  </hgroup>
+  <ul>
+    <li><a href="/blog/">Front Page</a></li>
+    <li><a href="/blog/articles.atom">Article Feed</a></li>
+    <li><a href="http://twitter.com/metamolecular">Follow on Twitter</a></li>
+  </ul>
+</nav>
+          
+          <div class="main">
+            
+              
+
+<div class="articles">
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/11/06/shorten-long-iupac-chemical-names-with-this-one-weird-css-trick/">Shorten Long IUPAC Chemical Names with this One Weird CSS Trick</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Nov 6, 2013
+        </div>
+      </header>
+      
+        <p>Names that break page layouts can be tamed with some simple techniques.</p>
+        <p><a href="/blog/2013/11/06/shorten-long-iupac-chemical-names-with-this-one-weird-css-trick/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/11/05/ryan-scientific-does-chemical-structure-search/">Ryan Scientific Does Chemical Structure Search</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Nov 5, 2013
+        </div>
+      </header>
+      
+        <p>A ChemWriter customer unveils an improved chemical ordering system.</p>
+        <p><a href="/blog/2013/11/05/ryan-scientific-does-chemical-structure-search/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/10/31/computer-translation-of-iupac-chemical-nomenclature/">Computer Translation of IUPAC Chemical Nomenclature</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Oct 31, 2013
+        </div>
+      </header>
+      
+        <p>Chemical name to structure conversion plays a key role in chemistry. This article discusses some important works in the field.</p>
+        <p><a href="/blog/2013/10/31/computer-translation-of-iupac-chemical-nomenclature/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/10/23/styling-the-chemwriter-editor-with-css/">Styling the ChemWriter Editor with CSS</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Oct 23, 2013
+        </div>
+      </header>
+      
+        <p>Sometimes default appearance isn't good enough. The latest ChemWriter release enables reliable UI customization using CSS.</p>
+        <p><a href="/blog/2013/10/23/styling-the-chemwriter-editor-with-css/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/10/11/validating-cas-numbers-in-javascript/">Validating CAS Numbers in JavaScript</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Oct 11, 2013
+        </div>
+      </header>
+      
+        <p>The origin and format of CAS Numbers is explained. HTML source for a working validator is given.</p>
+        <p><a href="/blog/2013/10/11/validating-cas-numbers-in-javascript/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/10/07/create-a-smiles-parser-and-grammar-with-pegjs/">Create a SMILES Grammar and Parser with PEG.js</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Oct 7, 2013
+        </div>
+      </header>
+      
+        <p>An iterative two-step approach to building a SMILES parser from scratch is illustrated.</p>
+        <p><a href="/blog/2013/10/07/create-a-smiles-parser-and-grammar-with-pegjs/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/09/18/visualizing-the-smiles-language-with-railroad-diagrams/">Visualizing the SMILES Language with Railroad Diagrams</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 18, 2013
+        </div>
+      </header>
+      
+        <p>A complete visual system for understanding the SMILES language is described.</p>
+        <p><a href="/blog/2013/09/18/visualizing-the-smiles-language-with-railroad-diagrams/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/09/11/smidge-a-lightweight-smiles-validator-and-parser-written-in-javascript/">Smidge: A Lightweight SMILES Validator and Parser Written in JavaScript</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 11, 2013
+        </div>
+      </header>
+      
+        <p>A new online tool that can validate and parse SMILES strings into an array of descriptive tokens is described.</p>
+        <p><a href="/blog/2013/09/11/smidge-a-lightweight-smiles-validator-and-parser-written-in-javascript/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/09/10/parsing-smiles-from-scratch-in-javascript/">Parsing SMILES from Scratch in JavaScript</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 10, 2013
+        </div>
+      </header>
+      
+        <p>This first article in a series explains why the best person to write a SMILES parser may actually be a computer.</p>
+        <p><a href="/blog/2013/09/10/parsing-smiles-from-scratch-in-javascript/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/09/06/opensmiles/">OpenSMILES</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 6, 2013
+        </div>
+      </header>
+      
+        <p>The OpenSMILES specification is a valuable resource for anyone using or considering using SMILES.</p>
+        <p><a href="/blog/2013/09/06/opensmiles/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/09/03/quickly-move-and-resize-chemical-drawings-in-chemwriter/">Quickly Move and Resize Chemical Drawings in ChemWriter</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 3, 2013
+        </div>
+      </header>
+      
+        <p>Efficient zooming and panning were important design goals for the ChemWriter Editor. A live demo shows how the new system works.</p>
+        <p><a href="/blog/2013/09/03/quickly-move-and-resize-chemical-drawings-in-chemwriter/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/29/how-to-display-chemwriter-components-after-page-load/">How to Display ChemWriter Components after Page Load</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 29, 2013
+        </div>
+      </header>
+      
+        <p>Sometimes loading all Images and Editors at startup doesn't make sense. This article shows how to load components in response to page events.</p>
+        <p><a href="/blog/2013/08/29/how-to-display-chemwriter-components-after-page-load/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/27/build-interconnected-chemistry-applications-with-cross-origin-resource-sharing/">Build Interconnected Chemistry Applications with Cross-Origin Resource Sharing (CORS)</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 27, 2013
+        </div>
+      </header>
+      
+        <p>For many years it wasn't possible for browser-based applications to directly access data stored on remote servers. CORS changes that.</p>
+        <p><a href="/blog/2013/08/27/build-interconnected-chemistry-applications-with-cross-origin-resource-sharing/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/23/the-strucure-data-grid-in-html/">The Structure-Data Grid in HTML</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 23, 2013
+        </div>
+      </header>
+      
+        <p>Chemical structure datasets can be efficiently inspected using a compact grid layout. The table element, along with some CSS, makes this possible.</p>
+        <p><a href="/blog/2013/08/23/the-strucure-data-grid-in-html/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/21/viewing-large-collections-of-chemical-structures-with-molecule-cloud/">Viewing Large Collections of Chemical Structures with Molecule Cloud</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 21, 2013
+        </div>
+      </header>
+      
+        <p>A new method for viewing large chemical datasets draws inspiration from the venerable word cloud.</p>
+        <p><a href="/blog/2013/08/21/viewing-large-collections-of-chemical-structures-with-molecule-cloud/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/20/sending-chemical-structures-to-a-server-from-a-web-page/">Sending Chemical Structures to a Server from a Web Page</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 20, 2013
+        </div>
+      </header>
+      
+        <p>Chemical structures can be easily sent to a server for processing. This article illustrates two approaches with sample code.</p>
+        <p><a href="/blog/2013/08/20/sending-chemical-structures-to-a-server-from-a-web-page/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/14/chemical-structure-kerning/">Chemical Structure Kerning</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 14, 2013
+        </div>
+      </header>
+      
+        <p>Good layout of chemical structures on a line is surprisingly complex. Kerning offers a solution to this tricky problem.</p>
+        <p><a href="/blog/2013/08/14/chemical-structure-kerning/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/12/fast-client-side-chemical-structure-rendering-with-chemwriter/">Fast Client-Side Chemical Structure Rendering with ChemWriter</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 12, 2013
+        </div>
+      </header>
+      
+        <p>Fast structure rendering is now available through a powerful new feature of ChemWriter 3. This article shows how to get started.</p>
+        <p><a href="/blog/2013/08/12/fast-client-side-chemical-structure-rendering-with-chemwriter/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/08/07/reading-chemical-structures-from-images-with-osra-2-0/">Reading Chemical Structures from Images with OSRA 2.0</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 7, 2013
+        </div>
+      </header>
+      
+        <p>OSRA 2.0 has been released. This article shows how to compile it from source on Ubuntu 13.04.</p>
+        <p><a href="/blog/2013/08/07/reading-chemical-structures-from-images-with-osra-2-0/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/07/23/build-a-working-chemwriter-editor-page-in-13-lines-of-html/">Build a Working ChemWriter Editor Page in 13 Lines of HTML</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 23, 2013
+        </div>
+      </header>
+      
+        <p>Adding ChemWriter's Editor to any page is simple. This article shows how with sample code.</p>
+        <p><a href="/blog/2013/07/23/build-a-working-chemwriter-editor-page-in-13-lines-of-html/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/07/19/chemwriter-3/">ChemWriter 3</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 19, 2013
+        </div>
+      </header>
+      
+        <p>Highlights of this major update include a streamlined editor, a new fullscreen mode, unobtrusive deployment, and high-performance structure rendering.</p>
+        <p><a href="/blog/2013/07/19/chemwriter-3/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/05/22/substructure-search-for-websites/">Substructure Search for Websites</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 22, 2013
+        </div>
+      </header>
+      
+        <p>Building a website with chemical structure search can be a daunting task. This article discusses the key concepts.</p>
+        <p><a href="/blog/2013/05/22/substructure-search-for-websites/">More...</a></p>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/02/20/how-to-balance-any-chemical-equation/">How to Balance Any Chemical Equation</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 20, 2013
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2013/02/20/how-to-balance-any-chemical-equation/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/02/06/chemwriter-keyboard-shortcuts-for-faster-structure-drawing/">ChemWriter Keyboard Shortcuts for Faster Structure Drawing</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 6, 2013
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2013/02/06/chemwriter-keyboard-shortcuts-for-faster-structure-drawing/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/01/22/product-preview-chemwriter-app-for-ipad/">Product Preview: ChemWriter App for iPad</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jan 22, 2013
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2013/01/22/product-preview-chemwriter-app-for-ipad/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/01/16/optimizing-organic-reactions-with-design-of-experiments-and-principal-component-analysis/">Optimizing Organic Reactions with Design of Experiments and Principal Component Analysis</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jan 16, 2013
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2013/01/16/optimizing-organic-reactions-with-design-of-experiments-and-principal-component-analysis/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/01/10/interactive-browser-based-3d-molecule-visualizations-with-glmol-and-webgl/">Interactive, Browser-Based 3D Molecule Visualizations with GLmol and WebGL</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jan 10, 2013
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2013/01/10/interactive-browser-based-3d-molecule-visualizations-with-glmol-and-webgl/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2013/01/02/opening-sd-files-from-dropbox-with-structure-mate/">Opening SD Files from Dropbox with StructureMate</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jan 2, 2013
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2013/01/02/opening-sd-files-from-dropbox-with-structure-mate/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/12/17/structuremate-the-chemistry-dataset-browser-for-ipad-and-iphone/">StructureMate: The Chemistry Dataset Browser for iPad and iPhone</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Dec 17, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/12/17/structuremate-the-chemistry-dataset-browser-for-ipad-and-iphone/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/12/12/twelve-things-organic-chemists-should-know-about-inchi-and-inchi-key/">Twelve Things Organic Chemists Should Know About InChI and InChIKey</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Dec 12, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/12/12/twelve-things-organic-chemists-should-know-about-inchi-and-inchi-key/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/11/28/in-house-development-of-a-chemical-registration-system-a-case-study/">In-House Development of a Chemical Registration System: A Case Study</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Nov 28, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/11/28/in-house-development-of-a-chemical-registration-system-a-case-study/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/11/21/your-chemistry-anywhere-preview-of-structuremate-for-iphone-and-ipad/">Your Chemistry Anywhere: Preview of StructureMate for iPhone and iPad</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Nov 21, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/11/21/your-chemistry-anywhere-preview-of-structuremate-for-iphone-and-ipad/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/11/14/deprecation-of-chemwriter-structure-paste-via-java-plugin/">Deprecation of ChemWriter Structure Paste Via Java Plugin</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Nov 14, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/11/14/deprecation-of-chemwriter-structure-paste-via-java-plugin/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/11/05/cliffs-and-ridges-in-structure-activity-relationships/">Cliffs and Ridges in Structure Activity Relationships</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Nov 5, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/11/05/cliffs-and-ridges-in-structure-activity-relationships/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/10/05/nine-things-every-organic-chemist-should-know-about-structure-data-files-sdfiles/">Nine Things Every (Organic) Chemist Should Know About Structure Data Files, aka SDfiles</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Oct 5, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/10/05/nine-things-every-organic-chemist-should-know-about-structure-data-files-sdfiles/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/09/26/structure-drawing-tools-for-ipad-and-android-whats-your-dream-app/">Structure Drawing Tools for iPad and Android: What's Your Dream App?</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 26, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/09/26/structure-drawing-tools-for-ipad-and-android-whats-your-dream-app/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/06/08/firefox-13-svg-event-bug-and-a-workaround-for-chemwriter/">Firefox 13 SVG Event Bug and a Workaround for ChemWriter</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jun 8, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/06/08/firefox-13-svg-event-bug-and-a-workaround-for-chemwriter/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/05/29/ie9-error-when-pasting-from-chemdraw-to-chemwriter-and-a-fix/">IE9 Error When Pasting from ChemDraw to ChemWriter - and a Fix</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 29, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/05/29/ie9-error-when-pasting-from-chemdraw-to-chemwriter-and-a-fix/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2012/02/02/foundational-cheminformatics-software-and-why-chemistry-may-need-something-better/">Foundational Cheminformatics Software and Why Chemistry May Need Something Better</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 2, 2012
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2012/02/02/foundational-cheminformatics-software-and-why-chemistry-may-need-something-better/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/10/26/an-introduction-to-chemvector/">An Introduction to ChemVector</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Oct 26, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/10/26/an-introduction-to-chemvector/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/09/21/how-to-run-a-presentation-from-an-ipad-using-keynote-video/">How to run a Presentation from an iPad Using Keynote [Video]</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 21, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/09/21/how-to-run-a-presentation-from-an-ipad-using-keynote-video/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/09/05/cross-platform-mobile-chemistry-apps/">Cross-Platform Mobile Chemistry Apps</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 5, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/09/05/cross-platform-mobile-chemistry-apps/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/09/02/chemvector-1-0-fast-client-side-chemical-structure-rendering/">ChemVector 1.0: Fast Client-Side Chemical Structure Rendering</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Sep 2, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/09/02/chemvector-1-0-fast-client-side-chemical-structure-rendering/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/08/24/the-chemwriter-special-tools-palette-selectively-hiding-complexity-in-chemistry-software/">The ChemWriter Special Tools Palette: Selectively Hiding Complexity in Chemistry Software</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 24, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/08/24/the-chemwriter-special-tools-palette-selectively-hiding-complexity-in-chemistry-software/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/08/10/fast-chemical-structure-rendering-on-all-browsers-with-chemvector/">Fast Chemical Structure Rendering on All Browsers with ChemVector</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 10, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/08/10/fast-chemical-structure-rendering-on-all-browsers-with-chemvector/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/08/08/five-tools-for-managing-complexity-in-large-scale-javascript-projects/">Five Tools for Managing Complexity in Large-Scale JavaScript Projects</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Aug 8, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/08/08/five-tools-for-managing-complexity-in-large-scale-javascript-projects/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/28/saving-the-last-drawn-chemical-structure-using-html5-local-storage-with-chemwriter/">Saving the Last-Drawn Chemical Structure: Using HTML5 Local Storage with ChemWriter</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 28, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/28/saving-the-last-drawn-chemical-structure-using-html5-local-storage-with-chemwriter/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/26/3d-chemwriter-buttons-with-css3-gradients/">3D ChemWriter Buttons with CSS3 Gradients</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 26, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/26/3d-chemwriter-buttons-with-css3-gradients/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/25/high-performance-chemical-structure-image-rendering-in-javascript/">High-Performance Chemical Structure Image Rendering in JavaScript</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 25, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/25/high-performance-chemical-structure-image-rendering-in-javascript/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/21/cheminformatics-for-ipad-chemtab-now-running-on-ios-simulator/">Cheminformatics for iPad: ChemTab Now Running on iOS Simulator</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 21, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/21/cheminformatics-for-ipad-chemtab-now-running-on-ios-simulator/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/20/four-speculations-on-future-enterprise-software-demand/">Four Speculations on Future Enterprise Software Demand</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 20, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/20/four-speculations-on-future-enterprise-software-demand/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/19/building-chemtab-displaying-a-grid-of-chemical-structures-in-a-browser/">Building ChemTab: Displaying a Grid of Chemical Structures in a Browser</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 19, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/19/building-chemtab-displaying-a-grid-of-chemical-structures-in-a-browser/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/18/chembot-convert-chemdraw-cdx-files-into-png-images-using-applescript/">ChemBot: Batch Convert ChemDraw CDX Files Into PNG Images Using AppleScript</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 18, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/18/chembot-convert-chemdraw-cdx-files-into-png-images-using-applescript/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/14/building-chemtab-cheminformatics-on-the-ipad/">Building ChemTab: Cheminformatics on the iPad</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 14, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/14/building-chemtab-cheminformatics-on-the-ipad/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/13/gchem-access-predicted-and-calculated-chemical-substance-properties-in-google-spreadsheets/">gChem: Access Predicted and Calculated Chemical Substance Properties in Google Spreadsheets</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 13, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/13/gchem-access-predicted-and-calculated-chemical-substance-properties-in-google-spreadsheets/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/07/browser-based-chemical-structure-depiction-chemwriter-geometry-parameters/">Browser-Based Chemical Structure Depiction: ChemWriter Geometry Parameters</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 7, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/07/browser-based-chemical-structure-depiction-chemwriter-geometry-parameters/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/07/01/tablet-computers-in-the-lab-five-entry-points-to-watch/">Tablet Computers in the Lab: Five Entry Points to Watch</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jul 1, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/07/01/tablet-computers-in-the-lab-five-entry-points-to-watch/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/06/29/five-solved-problems-in-optimizing-chemwriter-for-ipad/">Five Solved Problems in Optimizing ChemWriter for iPad</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jun 29, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/06/29/five-solved-problems-in-optimizing-chemwriter-for-ipad/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/06/14/why-chemwriter-doesnt-follow-iupacs-recommendations-for-depicting-unknown-double-bond-stereochemistry/">Why ChemWriter Doesn't Follow IUPAC's Recommendations on Depicting Unknown Double Bond Stereochemistry</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jun 14, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/06/14/why-chemwriter-doesnt-follow-iupacs-recommendations-for-depicting-unknown-double-bond-stereochemistry/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/06/02/windows-8-touch-enabled-and-javascript-powered/">Windows 8: Touch-Enabled and JavaScript-Powered</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Jun 2, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/06/02/windows-8-touch-enabled-and-javascript-powered/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/05/31/gchem-convert-names-and-cas-numbers-to-chemical-structures-in-google-spreadsheets/">gChem: Convert Names and CAS Numbers to Chemical Structures in Google Spreadsheets [Video]</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 31, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/05/31/gchem-convert-names-and-cas-numbers-to-chemical-structures-in-google-spreadsheets/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/05/26/javascript-curious-six-must-see-videos/">JavaScript-Curious? Six Must-See Videos</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 26, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/05/26/javascript-curious-six-must-see-videos/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/05/25/how-to-create-a-simple-structure-search-form-with-chemwriter-and-chemspider/">How to Create A Simple Structure Search Form with ChemWriter and ChemSpider [Video]</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 25, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/05/25/how-to-create-a-simple-structure-search-form-with-chemwriter-and-chemspider/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/05/24/how-to-enable-exact-structure-search-and-substructure-search-on-your-website/">How to Enable Exact Structure Search and Substructure Search on Your Website</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 24, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/05/24/how-to-enable-exact-structure-search-and-substructure-search-on-your-website/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/05/23/paste-structures-from-chemdraw-into-chemwriter-video/">Paste Structures from ChemDraw into ChemWriter [Video]</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 23, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/05/23/paste-structures-from-chemdraw-into-chemwriter-video/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/05/06/coming-soon-copy-structures-from-chemdraw-and-paste-them-into-chemwriter/">Coming Soon: Copy Structures from ChemDraw and Paste Them into ChemWriter</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 6, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/05/06/coming-soon-copy-structures-from-chemdraw-and-paste-them-into-chemwriter/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/05/03/one-more-reason-why-the-killer-tablet-app-for-laboratory-informatics-is-the-browser/">One More Reason Why the Killer Tablet App for Laboratory Informatics is the Browser</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on May 3, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/05/03/one-more-reason-why-the-killer-tablet-app-for-laboratory-informatics-is-the-browser/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/04/28/how-to-draw-chemical-structures-on-your-ipad-or-android-tablet/">How to Draw Chemical Structures on Your iPad or Android Tablet</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Apr 28, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/04/28/how-to-draw-chemical-structures-on-your-ipad-or-android-tablet/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/04/26/9-reasons-why-the-killer-tablet-app-for-laboratory-informatics-is-the-web-browser/">9 Reasons Why the Killer Tablet App for Laboratory Informatics is the Browser</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Apr 26, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/04/26/9-reasons-why-the-killer-tablet-app-for-laboratory-informatics-is-the-web-browser/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/04/21/building-mobile-and-web-applications-in-chemistry-part-3-styling-and-theming-chemwriter-with-css/">Building Mobile and Web Applications in Chemistry Part 3: Styling and Theming ChemWriter with CSS</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Apr 21, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/04/21/building-mobile-and-web-applications-in-chemistry-part-3-styling-and-theming-chemwriter-with-css/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/04/14/ten-reasons-chemical-structure-images-should-be-rendered-on-the-browser-not-the-server/">Ten Reasons Chemical Structure Images Should Be Rendered on the Browser, Not the Server</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Apr 14, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/04/14/ten-reasons-chemical-structure-images-should-be-rendered-on-the-browser-not-the-server/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/04/13/bond-james-bond/">WebGL for Chemistry Part 4: Bond, James Bond</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Apr 13, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/04/13/bond-james-bond/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/04/09/how-can-better-collaboration-tools-lead-to-better-drug-discovery/">How Can Better Collaboration Tools Lead to Better Drug Discovery?</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Apr 9, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/04/09/how-can-better-collaboration-tools-lead-to-better-drug-discovery/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/30/building-mobile-and-web-applications-in-chemistry-part-2-ipad-stylesheets-and-startup-parameters/">Building Mobile and Web Applications in Chemistry Part 2: iPad Stylesheet and Startup Parameters</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 30, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/30/building-mobile-and-web-applications-in-chemistry-part-2-ipad-stylesheets-and-startup-parameters/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/25/webgl-for-chemistry-part-3-hello-benzene/">WebGL for Chemistry Part 3: Hello, Benzene!</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 25, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/25/webgl-for-chemistry-part-3-hello-benzene/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/22/building-mobile-and-web-applications-in-chemistry-getting-started-with-chemwriter/">Building Mobile and Web Applications in Chemistry: Getting Started with ChemWriter</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 22, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/22/building-mobile-and-web-applications-in-chemistry-getting-started-with-chemwriter/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/21/cross-platform-mobile-apps-in-chemistry-structure-drawing-on-ipad-with-chemwriter/">Cross-Platform Mobile Apps in Chemistry: Structure Drawing on iPad with ChemWriter</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 21, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/21/cross-platform-mobile-apps-in-chemistry-structure-drawing-on-ipad-with-chemwriter/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/18/steve-blank-on-rethinking-product-development/">Steve Blank on Rethinking Product Development</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 18, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/18/steve-blank-on-rethinking-product-development/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/15/web-gl-for-chemistry-part-2-displaying-a-sphere-in-a-view/">WebGL for Chemistry Part 2: Displaying a Sphere in a View</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 15, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/15/web-gl-for-chemistry-part-2-displaying-a-sphere-in-a-view/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/14/single-molecule-dna-sequencing/">Single Molecule DNA Sequencing</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 14, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/14/single-molecule-dna-sequencing/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/08/plugin-free-spectrum-and-chromatograph-analysis-for-the-web-browser-preview-of-spex-and-chromatogray-/">Plugin-Free Spectrum and Chromatogram Analysis for the Web Browser: Preview of Spex</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 8, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/08/plugin-free-spectrum-and-chromatograph-analysis-for-the-web-browser-preview-of-spex-and-chromatogray-/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/07/webgl-for-chemistry-part-1-introduction/">WebGL for Chemistry Part 1: Introduction</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 7, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/07/webgl-for-chemistry-part-1-introduction/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/03/02/chemwriter-on-ie9-release-candidate/">ChemWriter on IE9 Release Candidate</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Mar 2, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/03/02/chemwriter-on-ie9-release-candidate/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/02/24/chemistry-in-mobile-apps-session-at-fall-acs/">Chemistry in Mobile Apps Session at Fall ACS</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 24, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/02/24/chemistry-in-mobile-apps-session-at-fall-acs/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/02/22/gchem-easily-convert-names-and-cas-numbers-to-chemical-structures-in-google-spreadsheets/">gChem: Easily Convert Names and CAS Numbers to Chemical Structures in Google Spreadsheets</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 22, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/02/22/gchem-easily-convert-names-and-cas-numbers-to-chemical-structures-in-google-spreadsheets/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/02/16/programming-kinect-with-javascript-and-depthjs/">Programming Kinect with JavaScript and DepthJS</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 16, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/02/16/programming-kinect-with-javascript-and-depthjs/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/02/15/svg-rendering-on-konqueror-with-webkit/">SVG Rendering on Konqueror with WebKit</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 15, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/02/15/svg-rendering-on-konqueror-with-webkit/">Read Article</a>
+      
+    </article>
+  
+    
+    <article>
+      <header>
+        <h1 class="article-title">
+          <a href="/blog/2011/02/13/hello-world/">Hello World</a>
+        </h1>
+        <div class="byline">
+          Written by Rich Apodaca on Feb 13, 2011
+        </div>
+      </header>
+      
+        <p class="not-available"><a href="/blog/2011/02/13/hello-world/">Read Article</a>
+      
+    </article>
+  
+</div>
+            
+          </div>
+        </div>
+      </div>
+      <footer class="page-footer">
+  <a href="/"><img src="/images/logo-footer.svg" alt="Metamolecular Footer Logo"></a>
+  <p class="copyright">
+    &copy;&nbsp;2016 <a href="/">Metamolecular, LLC</a>
+  </p>
+</footer>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23800755-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </div>
+  </body>
+</html>

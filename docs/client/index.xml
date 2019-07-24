@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clients on Joost Plattel</title>
+    <link>http://jplattel.nl/client/</link>
+    <description>Recent content in Clients on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 27 Nov 2018 21:49:56 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nolostcapital</title>
+      <link>http://jplattel.nl/client/nolostcapital/</link>
+      <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/client/nolostcapital/</guid>
+      <description>For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act. The backend service was done in Django and the front-end in Vue.</description>
+    </item>
+    
+    <item>
+      <title>Fundsup</title>
+      <link>http://jplattel.nl/client/fundsup/</link>
+      <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/fundsup/</guid>
+      <description>To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform.</description>
+    </item>
+    
+    <item>
+      <title>Watermelon</title>
+      <link>http://jplattel.nl/client/watermelon/</link>
+      <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/watermelon/</guid>
+      <description>In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.</description>
+    </item>
+    
+    <item>
+      <title>Colliers</title>
+      <link>http://jplattel.nl/client/colliers/</link>
+      <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/colliers/</guid>
+      <description>Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.</description>
+    </item>
+    
+    <item>
+      <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
+      <link>http://jplattel.nl/client/bzk/</link>
+      <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/bzk/</guid>
+      <description>Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.
+My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.</description>
+    </item>
+    
+    <item>
+      <title>Vogsy</title>
+      <link>http://jplattel.nl/client/vogsy/</link>
+      <pubDate>Sun, 20 May 2018 00:19:14 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/vogsy/</guid>
+      <description>For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.</description>
+    </item>
+    
+    <item>
+      <title>Part-up</title>
+      <link>http://jplattel.nl/client/partup/</link>
+      <pubDate>Sun, 21 Apr 2013 22:55:11 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/client/partup/</guid>
+      <description>Data strategy &amp;amp; API</description>
+    </item>
+    
+  </channel>
+</rss>

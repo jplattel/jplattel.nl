@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curious on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/curious/</link>
+    <description>Recent content in curious on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 19 Apr 2014 20:21:11 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/curious/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The curious corner on video</title>
+      <link>http://jplattel.nl/post/2014-04-19-curious-corner-video/</link>
+      <pubDate>Sat, 19 Apr 2014 20:21:11 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-04-19-curious-corner-video/</guid>
+      <description>I&#39;ve curated 6 editions of the Curious Corner of the Internet until this day. It started out as an experiment of just showing my saved-for-later links in a presentation. The newsletter essentially was a second format, and I didn&#39;t explore my chances for a talk much further. Until now, during the Week for the Entrepreneur in the Netherlands, that I&#39;d give it another shot. Sadly, it&#39;s in dutch, but here&#39;s the video:</description>
+    </item>
+    
+    <item>
+      <title>The Curious Corner of the Internet</title>
+      <link>http://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</link>
+      <pubDate>Wed, 27 Nov 2013 20:47:26 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</guid>
+      <description>I&#39;ve been walking around with a newsletter idea for some months now. It all started at Permanent Beta where I gave a talk together with my twin. Basically it wasn&#39;t really a talk, just a roadshow of awesome stuff we come across on our daily surf on the web. The audience loved it! Why not curate this content into a newsletter?
+That&#39;s just what I did with The Curious Corner of the Internet, a monthly newsletter stocked with the stuff I find during that last month.</description>
+    </item>
+    
+  </channel>
+</rss>

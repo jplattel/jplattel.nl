@@ -6,6 +6,7 @@
 baseurl = "http://jplattel.nl/"
 
 publishDir = "docs"
+ignorefiles = [ "docs" ] 
 
 # Title of your site
 title = "Joost Plattel"

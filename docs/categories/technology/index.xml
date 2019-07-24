@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Joost Plattel</title>
+    <link>http://jplattel.nl/categories/technology/</link>
+    <description>Recent content in Technology on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 08 Mar 2016 14:32:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making Waves</title>
+      <link>http://jplattel.nl/post/2016-03-08-making-waves/</link>
+      <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-03-08-making-waves/</guid>
+      <description>So far today has been enjoyable, until around noon when someone texted me with a url pointing to nu.nl, showing an article about the Data Protection Authority telling me it is forbidden for employers to use wearables to track their employees (also on tweakers.net). The research the article points to is actually two companies that run my dashboards. Before I get into details, let me state the following:
+ The privacy of an employee is of utmost importance!</description>
+    </item>
+    
+    <item>
+      <title>Privacy &amp; Gracefully revealing depth</title>
+      <link>http://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</link>
+      <pubDate>Tue, 23 Feb 2016 14:11:46 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</guid>
+      <description>Just a couple of days ago I read a post from Atlassian explaining some new features, but the most interesting aspect was that they explore gracefully revealing depth. To me this same concept can also be applied to privacy, ethics and more problems. Even though it&#39;s about functionality, the same can be applied to complexity.
+As we are faced with interesting problems about privacy and ethics, would the way of gracefully revealing complexity work for making the right choices or settings the right parameters?</description>
+    </item>
+    
+    <item>
+      <title>Sous-vide food with a rice cooker</title>
+      <link>http://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/</link>
+      <pubDate>Wed, 20 Jan 2016 15:56:41 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/</guid>
+      <description>&lt;p&gt;This has been on my &lt;em&gt;tinker-list &lt;/em&gt;for around 4 years, and I&#39;ve finally got around doing it. I made a little temperature controlled relay to my rice-cooker which enables me to use it as a sous-vide apparatus. That&#39;s wonderful, because it&#39;s now easier to prepare meat, and most importantly, eat 67 °C eggs. So how did I do it? I bought a really cheap PID &lt;a href=&#34;http://www.dx.com/p/digital-temperature-controller-66334?r=41389038&#34;&gt;from DealExtreme&lt;/a&gt;, and with some help of Martin Deen I had everything set up.&lt;/p&gt;
+&lt;p&gt;But that&#39;s where things got wrong 4 years ago... The PID didn&#39;t seem to function properly, I couldn&#39;t find a way to calibrate it and I was missing tools and manuals to create a good enclosure for the PID. So I left the project catching dust in a drawer..</description>
+    </item>
+    
+    <item>
+      <title>Gradual Privacy for personal data</title>
+      <link>http://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/</link>
+      <pubDate>Thu, 26 Feb 2015 11:03:57 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/</guid>
+      <description>In the past few months I&#39;ve been building more and more dashboards for clients. The idea of collecting personal data however always raises questions about privacy. To solve this, I&#39;ve been developing a way to implement gradual privacy.
+Gradual privacy is a way to let the end-user decide who can see what data. The best way to explain, is just to show it:
+
+The columns are the kind of data.</description>
+    </item>
+    
+    <item>
+      <title>My server got hacked, this is what I did</title>
+      <link>http://jplattel.nl/post/2014-11-10-my-server-got-hacked/</link>
+      <pubDate>Mon, 10 Nov 2014 09:18:36 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-11-10-my-server-got-hacked/</guid>
+      <description>&lt;p&gt;On friday evening local time (GMT+1) around 21:00 hours my server got hacked, it&#39;s CPU immediately shot up towards 100% and my provider removed the box from it&#39;s hypervisor node around 18 hours later. Just a few minutes later I got a call from a friend who uses one of my developed applications that it doesn&#39;t seem to work anymore.&lt;/p&gt;
+&lt;p&gt;After trying SSH-ing into the server (which failed), I logged on to the dashboard for managing my VPS, looking at the CPU usage:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jplattel.nl/img/Screen-Shot-2014-11-08-at-4.24.59-PM.png&#34;&gt;&lt;img class=&#34;aligncenter wp-image-3128&#34; src=&#34;http://jplattel.nl/img/Screen-Shot-2014-11-08-at-4.24.59-PM.png&#34; alt=&#34;My server got hacked: CPU-usage of a hacked server&#34; width=&#34;600&#34; height=&#34;204&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That isn&#39;t looking too good...</description>
+    </item>
+    
+    <item>
+      <title>Tinkering with the Meetup API</title>
+      <link>http://jplattel.nl/post/2014-07-02-meetup-api-tinkering/</link>
+      <pubDate>Wed, 02 Jul 2014 13:46:39 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-07-02-meetup-api-tinkering/</guid>
+      <description>Meetup.com is a service that I use and have been using to organize events for networks. Even though I like Meetup as a service, there are some thing you just cannot do. For example it&#39;s kind of hard to make use of the internal knowledge or connections that people have within the network itself. And you are limited to Meetup for sending messages to everyone.
+About a week ago I sat down to explore their API, to see if you could somehow build upon their service.</description>
+    </item>
+    
+    <item>
+      <title>Thought Kinetics at Coded Matters: Extended Senses</title>
+      <link>http://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</link>
+      <pubDate>Mon, 02 Jun 2014 18:33:45 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</guid>
+      <description>Last sunday my brother and I had an exhibition with Thought Kinetics and artist-talk at Coded Matters: Extended Senses. We showed our static prototype exploring the visualization of datasets that are collect and visualized in a static way. This is our first step towards a more realtime system where we can use any data and visualize it on a canvas in an abstract way.
+
+We also gave a talk about our process how we got from a prototype towards a more solid system that uses Node.</description>
+    </item>
+    
+    <item>
+      <title>Using Moves data for?</title>
+      <link>http://jplattel.nl/post/2013-12-18-using-moves-data/</link>
+      <pubDate>Wed, 18 Dec 2013 18:29:35 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-12-18-using-moves-data/</guid>
+      <description>In July I wrote a little wrapper for the Moves App API. But I didn&#39;t develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I&#39;m currently building. I&#39;ve drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I&#39;ve got some friends who come up with great ideas too!</description>
+    </item>
+    
+    <item>
+      <title>A quick list of all my recent things in the media</title>
+      <link>http://jplattel.nl/post/2013-09-30-recent-media/</link>
+      <pubDate>Mon, 30 Sep 2013 09:22:26 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-09-30-recent-media/</guid>
+      <description>September has been good on me so far. I&#39;ve started my third year of my bachelor degree while on the opposite end my work seems to increase. I&#39;ve been interviewed for a new TV-programme called Toekomstmakers. It&#39;s in dutch but the video is can be found here:
+I&#39;ve also written a column about the Quantified Self an the influences it could create within the health sector. The column has been added to the book Diagnose Zorginnovatie and has been presented at the Diagnose Zorg Innovatie congres.</description>
+    </item>
+    
+    <item>
+      <title>Diving into hardware!</title>
+      <link>http://jplattel.nl/post/2013-06-12-moving-into-hardware/</link>
+      <pubDate>Wed, 12 Jun 2013 20:34:13 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-06-12-moving-into-hardware/</guid>
+      <description>Software is not all there is, I&#39;m diving into hardware! For the last month a lot of electronics have passed my hands, including sensors, arduinos and others. I&#39;ve been given a Makey Makey by Loes and now doing a hardware project in collaboration with Setup and it involves this big red button:
+I&#39;ll try my best to keep you posted of my hardware adventures!</description>
+    </item>
+    
+    <item>
+      <title>Data-visualisation for the Hogeschool van Amsterdam</title>
+      <link>http://jplattel.nl/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</link>
+      <pubDate>Thu, 11 Apr 2013 21:49:08 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</guid>
+      <description>Together with Heinze I&#39;ve guided and taught several students from the Hogeschool van Amsterdam about data and data-visualisation. In 3 days packed with GPS-trackers, stories, examples and code we&#39;ve made some interesting visualisations.
+Some were shown in Carre during the education conference organised by the Hogeschool van Amsterdam. Thanks Captain Video for the awesome setup with a cube:
+Ofcourse I&#39;ve also made my own data-visualisation. The data consists of minute-by-minute data available trough the Fitbit data API.</description>
+    </item>
+    
+    <item>
+      <title>Going interactive!</title>
+      <link>http://jplattel.nl/post/2011-11-21-going-interactive/</link>
+      <pubDate>Mon, 21 Nov 2011 11:24:26 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-11-21-going-interactive/</guid>
+      <description>Some of you may have noticed it already, but from now on, I&#39;m available as freelancer! I&#39;ve made the last step towards it two weeks ago and I&#39;m now registered at the Chamber of Commerce. Most of the projects are covered with this. And one of them is an interactive showcase for the Freemote festival in Utrecht in the beginning of December.
+Together with my brother we are building a hybrid manifestation of visualizing brainwaves and other personal metrics.</description>
+    </item>
+    
+    <item>
+      <title>Moon phases and sleep patterns</title>
+      <link>http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</link>
+      <pubDate>Thu, 06 Oct 2011 10:54:09 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</guid>
+      <description>Even before I got a Zeo, I was wondering if the phases of the moon are of influence of my sleep quality. With the Zeo that offers an API, I finally had a chance to investigate. As it turns out after four months of experimenting: the phase of the moon doesn&#39;t have any influence on my sleep quality or the time it takes to fall asleep.
+I&#39;ve been building my own interface for the Zeo, because the flash based website doesn&#39;t suit my needs, here&#39;s a small screenshot:</description>
+    </item>
+    
+    <item>
+      <title>Mobypicture Export</title>
+      <link>http://jplattel.nl/post/2011-04-10-mobypicture-export/</link>
+      <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-04-10-mobypicture-export/</guid>
+      <description>I love Mobypicture. It&#39;s the service I use to post my pictures onto Twitter, Flickr and Facebook. It makes uploading photos from my mobile phone as simple as it could possibly be. Even better, the service is free to use, unlike Flickr which only allows access to last 200 images if you go with their freemium model. But sadly using Mobypicture isn&#39;t without downsides. There is no export functionality as of yet.</description>
+    </item>
+    
+    <item>
+      <title>The evolution of the Internet of Things</title>
+      <link>http://jplattel.nl/post/2011-02-16-the-evolution-of-the-internet-of-things/</link>
+      <pubDate>Wed, 16 Feb 2011 10:56:19 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-02-16-the-evolution-of-the-internet-of-things/</guid>
+      <description>I&#39;ve seen a fair bit of infographics and I don&#39;t like them very much anymore. But this one is worth sharing:
+
+Be sure to check out the Health Internet of Things (HIT) as well! </description>
+    </item>
+    
+    <item>
+      <title>Thoughts on data portability</title>
+      <link>http://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/</link>
+      <pubDate>Thu, 25 Nov 2010 14:24:10 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/</guid>
+      <description>I am troubled by data portability. It is a highly overlooked factor. And in many services I used for collecting the export function was simply not present.. If i left the service I lost my data, a sad case... Recent actions of social networks like facebook allow a user to export data, but only by rules set by facebook. Another example could be Runkeeper, which i use to collect my efforts of exercising.</description>
+    </item>
+    
+    <item>
+      <title>Why shoot a photo at 8:36pm?</title>
+      <link>http://jplattel.nl/post/2010-11-09-why-shoot-a-photo-at-836pm/</link>
+      <pubDate>Tue, 09 Nov 2010 11:24:17 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-11-09-why-shoot-a-photo-at-836pm/</guid>
+      <description>On the second of January 2010 I started shooting a picture everyday at 8:36pm, inspired by Buster Benson. Curiosity brought me into it, and if people asked me why I often could not give a sufficient answer. As if it were a form of art.
+But now I often wonder about history... How people lived and how further back you go, the less we remember or can find. Technology nowadays could help us bring a more complete image to our future.</description>
+    </item>
+    
+    <item>
+      <title>Der Mensch als Industriepalast</title>
+      <link>http://jplattel.nl/post/2010-10-18-der-mensch-als-industriepalast/</link>
+      <pubDate>Mon, 18 Oct 2010 13:02:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-10-18-der-mensch-als-industriepalast/</guid>
+      <description>Der Mensch als Industriepalast [Man as Industrial Palace] from Henning Lederer on Vimeo. Via Kees. Visions of The Quantified Self during history...</description>
+    </item>
+    
+    <item>
+      <title>My view of technology</title>
+      <link>http://jplattel.nl/post/2010-10-06-my-view-of-technology/</link>
+      <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-10-06-my-view-of-technology/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;random&lt;/strong&gt; train of thoughts:&lt;/p&gt;
+&lt;p&gt;When biology is technology and man tries to grasp the amount of data generated and collected, most people think of this as unnatural. Yet it&#39;s true that mankind can not yet understand the potential of ambient measuring of information streams. Ubiquitous capture of data could bring insight in how technology and specifically our body (which is a perfect example of technology in it&#39;s own right) works.&lt;/p&gt;
+&lt;p&gt;The Quantified Life is inevitable as technology progresses and realizes tracking without human interference. This so called ubiqutous or ambient tracking is already happening in this moment. GPS is a perfect example on how people changed and got used to a certain type of technology. &lt;/p&gt;
+&lt;p&gt;While GPS is not ambient yet as it does require human input, it is an example on how people are dependant on technology we ourselves create.&lt;br /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behaviour on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/behaviour/</link>
+    <description>Recent content in behaviour on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 12 Oct 2015 11:35:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/behaviour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantified Phone Usage with iPython</title>
+      <link>http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</link>
+      <pubDate>Mon, 12 Oct 2015 11:35:38 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</guid>
+      <description>&lt;p&gt;Technology is making it easier to collect data, for example phone usage. From the 1st of January I tracked how much I&#39;ve used my phone by installing an app called &lt;a href=&#34;https://itunes.apple.com/us/app/moment-track-how-much-you/id771541926?mt=8&#34;&gt;Moment&lt;/a&gt;. It runs in the background and silently tracks how much you use your phone. As said, the first step towards behaviour-change is providing insight in current behaviour. &lt;/p&gt;
+&lt;p&gt;Lately I&#39;ve been exploring iPython for data-analysis and sharing snippets of data. I&#39;ve started a Github &lt;a href=&#34;https://github.com/jplattel/notebooks&#34;&gt;repository&lt;/a&gt; that contains some notebooks I&#39;m working on. And I&#39;ve embedded the one below where I analyse my phone usage:</description>
+    </item>
+    
+  </channel>
+</rss>

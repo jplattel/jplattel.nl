@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>database on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/database/</link>
+    <description>Recent content in database on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 18 Dec 2013 18:29:35 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Moves data for?</title>
+      <link>http://jplattel.nl/post/2013-12-18-using-moves-data/</link>
+      <pubDate>Wed, 18 Dec 2013 18:29:35 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2013-12-18-using-moves-data/</guid>
+      <description>In July I wrote a little wrapper for the Moves App API. But I didn&#39;t develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I&#39;m currently building. I&#39;ve drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I&#39;ve got some friends who come up with great ideas too!</description>
+    </item>
+    
+    <item>
+      <title>Sociale chemie met Chempedia</title>
+      <link>http://jplattel.nl/post/2009-11-01-sociale-chemie-met-chempedia/</link>
+      <pubDate>Sun, 01 Nov 2009 13:01:04 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2009-11-01-sociale-chemie-met-chempedia/</guid>
+      <description>&lt;p&gt;Altijd al opzoek geweest naar die ene structuur met die ene naam? Kon je het niet vinden op &lt;a href=&#34;http://nl.wikipedia.org&#34;&gt;wikipedia&lt;/a&gt; met voldoende onderbouwing of paste de structuur niet bij de naam?&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://jplattel.nl/img/chempedia.png&#34; alt=&#34;Chempedia - Social Chemistry&#34; /&gt;Gelukkig is sindskort &lt;a href=&#34;http://www.chempedia.com&#34;&gt;Chempedia&lt;/a&gt; geopend, het beloofd een database van structuren te worden met brede toepassingen en er zit ook een sociale kant aan. Chempedia beloofd werelds grootste database te worden voor stoffen met kloppende naamgeving (en misschien later ook CAS-nummers?) Chempedia word gemaakt door &lt;a href=&#34; http://products.metamolecular.com/&#34;&gt;Metamolecular&lt;/a&gt; onder andere bekend van producten zoals Chemwriter &amp;amp; Chemcaster. </description>
+    </item>
+    
+  </channel>
+</rss>

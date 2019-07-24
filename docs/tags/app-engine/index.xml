@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app engine on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/app-engine/</link>
+    <description>Recent content in app engine on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 08 Dec 2010 12:19:55 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/app-engine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RadBox for the iPad</title>
+      <link>http://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/</link>
+      <pubDate>Wed, 08 Dec 2010 12:19:55 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/</guid>
+      <description>I use Read It Later for saving webpages, but if those pages contained video&#39;s I had to visit the webpages, load the video etcetera... It simply does not fulfill my needs for watching video...
+While searching Google I discovered RadBox, which does exactly what I want: use a bookmarklet to save video&#39;s to watch later. They offered an API and RSS-feed of my video&#39;s so I decided to build my own based on App Engine.</description>
+    </item>
+    
+    <item>
+      <title>GeoTracking: streaming GPS locations</title>
+      <link>http://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</link>
+      <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.&lt;/p&gt;
+&lt;p&gt;&lt;iframe height=&#34;450&#34; src=&#34;http://player.vimeo.com/video/8545134&#34; frameborder=&#34;0&#34; width=&#34;600&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone. So I ventured into python and after reading &lt;a href=&#34;http://eric-blue.com/2010/08/28/geolocation-gps-and-self-tracking/&#34;&gt;Eric Blue’s blog&lt;/a&gt; I came up with a solution.&lt;br /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hacking on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/hacking/</link>
+    <description>Recent content in hacking on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 10 Nov 2014 09:18:36 +0100</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My server got hacked, this is what I did</title>
+      <link>http://jplattel.nl/post/2014-11-10-my-server-got-hacked/</link>
+      <pubDate>Mon, 10 Nov 2014 09:18:36 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2014-11-10-my-server-got-hacked/</guid>
+      <description>&lt;p&gt;On friday evening local time (GMT+1) around 21:00 hours my server got hacked, it&#39;s CPU immediately shot up towards 100% and my provider removed the box from it&#39;s hypervisor node around 18 hours later. Just a few minutes later I got a call from a friend who uses one of my developed applications that it doesn&#39;t seem to work anymore.&lt;/p&gt;
+&lt;p&gt;After trying SSH-ing into the server (which failed), I logged on to the dashboard for managing my VPS, looking at the CPU usage:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jplattel.nl/img/Screen-Shot-2014-11-08-at-4.24.59-PM.png&#34;&gt;&lt;img class=&#34;aligncenter wp-image-3128&#34; src=&#34;http://jplattel.nl/img/Screen-Shot-2014-11-08-at-4.24.59-PM.png&#34; alt=&#34;My server got hacked: CPU-usage of a hacked server&#34; width=&#34;600&#34; height=&#34;204&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That isn&#39;t looking too good...</description>
+    </item>
+    
+  </channel>
+</rss>

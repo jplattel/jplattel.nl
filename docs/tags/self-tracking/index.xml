@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self-tracking on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/self-tracking/</link>
+    <description>Recent content in self-tracking on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 28 Oct 2012 01:45:21 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/self-tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Quantified Self and the New Aesthetic</title>
+      <link>http://jplattel.nl/post/2012-10-28-the-quantified-self-new-aesthetic/</link>
+      <pubDate>Sun, 28 Oct 2012 01:45:21 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2012-10-28-the-quantified-self-new-aesthetic/</guid>
+      <description>The Quantified Self is all about getting data about ourselves. We distill information and use that to our knowledge to improve our lives and that of others. Self-knowledge trough numbers. As we use algorithms in our lives we don&#39;t think that often about how they see us, but this is exactly what the New Aesthetic is about.
+And here&#39;s the cross-over between the New Aesthetic and QS. Machines and algorithms run our lives, and how they look at the world causes us to act.</description>
+    </item>
+    
+    <item>
+      <title>So what am I tracking?</title>
+      <link>http://jplattel.nl/post/2011-03-31-what-am-i-tracking/</link>
+      <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2011-03-31-what-am-i-tracking/</guid>
+      <description>I&#39;ll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I&#39;m tracking to function as an archive or feedback loop. If I have some more time, I&#39;ll explain the things I use to make this all possible.
+ Distance travelled (which cities did I visit?) Which people do I meet everyday?</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on data portability</title>
+      <link>http://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/</link>
+      <pubDate>Thu, 25 Nov 2010 14:24:10 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/</guid>
+      <description>I am troubled by data portability. It is a highly overlooked factor. And in many services I used for collecting the export function was simply not present.. If i left the service I lost my data, a sad case... Recent actions of social networks like facebook allow a user to export data, but only by rules set by facebook. Another example could be Runkeeper, which i use to collect my efforts of exercising.</description>
+    </item>
+    
+    <item>
+      <title>QS Amsterdam Recap #1</title>
+      <link>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro! I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+    </item>
+    
+    <item>
+      <title>Self-tracking in de NY Times</title>
+      <link>http://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</link>
+      <pubDate>Fri, 21 May 2010 13:19:35 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</guid>
+      <description>Op 26 april verscheen er een enorm artikel over self-tracking in de New York Times. Een must-read voor iedereen die wil beginnen met self-tracking of er al mee bezig is!
+Vooral medische toepassingen lijken veel mensen te overtuigen van het voordeel van self-tracking. Maar er zijn ook mensen die er negatief tegenover staan. Laat je het zo ver gaan dat je alles meet en ben je dan nog wel menselijk. Kortom waar ligt de grens en wordt het hinderlijk voor je omgeving?</description>
+    </item>
+    
+  </channel>
+</rss>
