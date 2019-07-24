@@ -38,7 +38,7 @@
                         {{ with $client.Params.image_preview }}
                             <a href="{{ $.Scratch.Get "client_url" }}" title=""
                                 {{ $.Scratch.Get "target" | safeHTMLAttr }}>
-                                <img style="width: 140px; float: right;" data-src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
+                                <img style="width: 140px; float: right;" src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
                             </a>
                         {{ end }}
                     {{ end }}

@@ -7,21 +7,16 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 ### Physical stuff
 
-*   [Pocket Operators](https://www.teenageengineering.com/products/po) from Teenage Engineering (PO-32 microtonic, PO-16 factory, PO-20 arcade or PO-24 office)
 *   A [knityak](https://knityak.com/) scarf
 *   [A meural](https://meural.com)
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
 *   Blue [Miir Growler](https://www.miir.com/products/the-growler?variant=27677677825)
-*   [Letratags](https://www.bol.com/nl/p/labeltape-dymo-letratag-91201-plastic-12mm-zwart-op-wit/9200000005145996/?suggestionType=typedsearch)
 *   A [Feynman](https://teespring.com/new-feynman?tsmac=store&tsmic=fermats-library#pid=228&cid=5923&sid=front) t-shirt.
-*   [Firestarter](https://www.uberleben.co/collections/fire-starters) from Uberleben.co
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
-*   [WeMo thingies](http://www.wemos.cc/)
 *   [This puzzle](https://puzzle.lamingtondrive.com/)
 *   Sortimo boxes
 *   A full size wired Dremel kit
 *   The [minimalist knife](https://grovemade.com/journal/minimalist-knife/).
-*   [Tribe of Mentors](https://www.amazon.de/Tribe-Mentors-Short-Advice-World/dp/1328994961/ref=sr_1_1?ie=UTF8&qid=1510156336&sr=8-1&keywords=tribe+of+mentors&dpID=518gtZ-ZdqL&preST=_SX198_BO1,204,203,200_QL40_&dpSrc=srch&tag=jplattel-21)
 
 ### Experience
 
