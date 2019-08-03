@@ -16,7 +16,9 @@
       
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &lsquo;tell me five ways I can save an hour a day.&rsquo; Whatever you need to pay for this service, it will pay for itself in a week. ~ Seth Godin">
+
+  <link rel="icon" href="/img/favicon.ico">
 
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/project/de-padvinders/">
@@ -89,7 +91,7 @@
   <meta property="og:site_name" content="Joost Plattel">
   <meta property="og:url" content="http://jplattel.nl/project/de-padvinders/">
   <meta property="og:title" content="De Padvinders | Joost Plattel">
-  <meta property="og:description" content="">
+  <meta property="og:description" content="Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &lsquo;tell me five ways I can save an hour a day.&rsquo; Whatever you need to pay for this service, it will pay for itself in a week. ~ Seth Godin">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-04-21T23:07:36&#43;02:00">
@@ -388,6 +390,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

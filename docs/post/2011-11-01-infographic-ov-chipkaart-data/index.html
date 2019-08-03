@@ -19,6 +19,8 @@
   <meta name="description" content="Ik heb al eerder met de export data van de OV-chipkaart iets gemaakt. Vroeger kon je de locaties van alle stations (inclusief steden en straten) exporteren. Tegenwoordig kan dat niet meer, dus werkte mijn gebouwde app niet meer. De kaart bevat echter teveel waardevolle data die als die op de juiste manier kan worden gerepresenteerd voor inzicht kan zorgen in je gebruik:
  Heb jij een idee op welke dagen je het meeste reist?">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/">
 
@@ -479,6 +481,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

@@ -2,13 +2,13 @@
 title = "De Padvinders"
 date = 2018-04-21T23:07:36+02:00
 draft = false
-year = 2017
+year = 2011
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, 'tell me five ways I can save an hour a day.' Whatever you need to pay for this service, it will pay for itself in a week. ~ Seth Godin"
 
 # Optional image to display on homepage.
 image_preview = "de-padvinders.png"

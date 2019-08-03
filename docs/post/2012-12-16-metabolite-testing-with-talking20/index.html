@@ -20,6 +20,8 @@
 
 It&#39;s quick and easy to get started, but I also got some helpful assistance from my mother :).">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2012-12-16-metabolite-testing-with-talking20/">
 
@@ -483,6 +485,22 @@ Posting it to the mail tomorrow and then let's see when I get the results, very 
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

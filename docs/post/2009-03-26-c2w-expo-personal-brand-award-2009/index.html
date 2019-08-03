@@ -22,6 +22,8 @@ Pauze! Even snel wat broodjes gescoord en nog even wat stands van bedrijven bezo
 Om 14:00 starte de presentatie van Tom Scholte. Tom is specialist omtrend personal branding. Alvorens zijn presentatie wilde hij graag eerst een prijs uitreiken. Aan wie? Tsja, ik wist het zelf ook niet, maar ik was de winnaar van de C2W Personal Branding Award :) ! Tom had ik alleen een aantal dagen via twitter aangesproken omdat ik benieuwd was naar zijn presentatie! Nou hier heb je hem, de presentatie die daarna volgde, en waarin ik zonder dat ik het wist een grote rol zou spelen:
 ">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2009-03-26-c2w-expo-personal-brand-award-2009/">
 
@@ -463,6 +465,22 @@ Om 14:00 starte de presentatie van Tom Scholte. Tom is specialist omtrend person
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

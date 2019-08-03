@@ -18,6 +18,8 @@
   
   <meta name="description" content="How can we use personal data to improve the way we do our work? Qount.us was a dashboard collecting personal data with a goal to increase insights that might boost the quality of life surrounding work.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/project/qountus/">
 
@@ -388,6 +390,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

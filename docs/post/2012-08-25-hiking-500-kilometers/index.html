@@ -19,6 +19,8 @@
   <meta name="description" content="That&#39;s what I did this summer, together with a friend. And here&#39;s one of the pictures I took:
 (if your interested, you can find the route as KML here)">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2012-08-25-hiking-500-kilometers/">
 
@@ -439,6 +441,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

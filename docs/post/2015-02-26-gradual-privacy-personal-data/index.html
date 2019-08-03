@@ -21,6 +21,8 @@ Gradual privacy is a way to let the end-user decide who can see what data. The b
 
 The columns are the kind of data.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/">
 
@@ -447,6 +449,22 @@ The columns are the kind of data. And the rows are the parties you could share w
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

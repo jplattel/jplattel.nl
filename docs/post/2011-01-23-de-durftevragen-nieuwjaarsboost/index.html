@@ -18,6 +18,8 @@
   
   <meta name="description" content="Via Jeroen was ik uitgenodigd om een workshop te geven bij de Durftevragen Nieuwjaarsboost 2011. Helemaal in Eindhoven! Maar na een lange reis vanuit het zuidwesten van Friesland belandde ik op mijn bestemming. Ik liep naar buiten en keek op mijn iPhone waar ik naar toe moest.... Oei, dat was nog wel een kilometer of 2 te voet. Een goed moment om de LifeLapse uit te testen, daarover in een andere blogpost meer!">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-01-23-de-durftevragen-nieuwjaarsboost/">
 
@@ -461,6 +463,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

@@ -19,6 +19,8 @@
   <meta name="description" content="[caption id=&#34;attachment_2476&#34; align=&#34;aligncenter&#34; width=&#34;612&#34; caption=&#34;Karlskrona - Sweden&#34;][/caption]
 Just here for a few days, united with my brother. Travelling trough Kopenhagen and the lower country-side of Sweden. Visiting Hyper Island while my brother finishes his project and going by train to Malmö on the last day. ">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2012-10-18-karlskrona-sweden/">
 
@@ -456,6 +458,22 @@ Just here for a few days, united with my brother. Travelling trough Kopenhagen a
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

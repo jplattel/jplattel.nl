@@ -18,6 +18,8 @@
   
   <meta name="description" content="I am troubled by data portability. It is a highly overlooked factor. And in many services I used for collecting the export function was simply not present.. If i left the service I lost my data, a sad case... Recent actions of social networks like facebook allow a user to export data, but only by rules set by facebook. Another example could be Runkeeper, which i use to collect my efforts of exercising.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/">
 
@@ -466,6 +468,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

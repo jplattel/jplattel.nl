@@ -20,6 +20,8 @@
 Om de hele actie een boost te geven heb ik het volgende bedacht:
 Ik verloot 1 middag sparren/hulp/brainstormen/(invullen) met mij over bijvoorbeeld Slimmer Werken of The Quantified Self of een ander onderwerp waarbij ik jou kan helpen.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-03-18-actie-voor-mijn-reis-naar-san-francisco/">
 
@@ -474,6 +476,22 @@ Ik verloot 1 middag sparren/hulp/brainstormen/(invullen) met mij over bijvoorbee
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

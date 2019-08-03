@@ -2,14 +2,14 @@
 title = "Curious Corner"
 date = 2018-04-21T20:38:30+02:00
 draft = false
-year = ""
+year = 2019
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!"
 
 # Optional image to display on homepage.
 image_preview = "corner.png"

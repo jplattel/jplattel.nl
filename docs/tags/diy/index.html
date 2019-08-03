@@ -16,6 +16,8 @@
   
   <meta name="description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/tags/diy/">
 
@@ -291,6 +293,15 @@ As for what you can do with it? Fixing stuff for example, a custom bracket that 
     </div>
   </div>
   
+  <div>
+    <h2><a href="http://jplattel.nl/project/sous-vide-ricecooker/">Sous-vide Rice Cooker</a></h2>
+    <div class="article-style">
+      
+      I modified my rice-cooker so I can use it as a sous-vide apparatus.
+      
+    </div>
+  </div>
+  
 
   
 
@@ -378,6 +389,22 @@ As for what you can do with it? Fixing stuff for example, a custom bracket that 
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

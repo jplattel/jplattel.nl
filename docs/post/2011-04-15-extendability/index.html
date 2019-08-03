@@ -18,6 +18,8 @@
   
   <meta name="description" content="It started millions of years ago with fire and the invention of language. Then simple tools and in later stages, clothing and shoes. Nowadays the trend continues with more sophisticated technology. Smartphones and watches are some of the things we keep on us at all times. Humans have developed the habit to extend themselves by using technology. In such a way that it sprouted a certain feeling of loss when not having access to the technology of which we&#39;ve made our own.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-04-15-extendability/">
 
@@ -459,6 +461,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

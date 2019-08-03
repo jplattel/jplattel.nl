@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware on Joost Plattel</title>
+    <link>http://jplattel.nl/tags/hardware/</link>
+    <description>Recent content in hardware on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:14:12 +0200</lastBuildDate>
+    
+	<atom:link href="http://jplattel.nl/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sous-vide Rice Cooker</title>
+      <link>http://jplattel.nl/project/sous-vide-ricecooker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/sous-vide-ricecooker/</guid>
+      <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,6 +20,8 @@
 I’m typing, even though strictly speaking I am using the TM-31’s cognitive-visual-motor-sound-activated recording module, which operates, as you might guess, by simultaneously tracking output from the user’s neural activity, voice, finger movements, retinal movements, and facial muscle contractions. It’s part keyboard, part microphone, part optical scan, and part brain scan.
 When I want to type, I raise my hands up in front of me, palms down, in a position approximating typing, and a virtual QWERTY layout materializes in front of me.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/">
 
@@ -441,6 +443,22 @@ When I want to type, I raise my hands up in front of me, palms down, in a positi
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

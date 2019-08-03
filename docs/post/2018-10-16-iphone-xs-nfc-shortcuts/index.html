@@ -19,6 +19,8 @@
   <meta name="description" content="I&rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a NFC reader. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)
 Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/">
 
@@ -476,6 +478,22 @@ Anyhow, one of the ideas I wanted to work out was the action of turning on an al
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

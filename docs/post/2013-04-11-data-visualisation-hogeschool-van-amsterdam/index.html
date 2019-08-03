@@ -20,6 +20,8 @@
 Some were shown in Carre during the education conference organised by the Hogeschool van Amsterdam. Thanks Captain Video for the awesome setup with a cube:
 Ofcourse I&#39;ve also made my own data-visualisation. The data consists of minute-by-minute data available trough the Fitbit data API.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/">
 
@@ -444,6 +446,22 @@ Ofcourse I&#39;ve also made my own data-visualisation. The data consists of minu
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

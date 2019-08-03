@@ -19,6 +19,8 @@
   <meta name="description" content="For the people who sponsored me for my trip to San Francisco, I&#39;m building a report inspired my Nicholas Felton about my trip. I wanted to show you a small preview on the right:
 I&#39;m aiming to have at least 4 page worth of data to show you. Since I&#39;ve never dived deep into Processing, the building time is somewhat extended, so I don&#39;t know when it&#39;ll be finished. I started studying Media Technology as well, so spare time is a little bit limited.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/">
 
@@ -471,6 +473,22 @@ I&#39;m aiming to have at least 4 page worth of data to show you. Since I&#39;ve
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

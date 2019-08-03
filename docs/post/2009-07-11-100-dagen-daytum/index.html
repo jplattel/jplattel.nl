@@ -19,6 +19,8 @@
   <meta name="description" content="Self-tracking, personal informatics of voor de lol, Daytum houd ik inmiddels al 100 dagen bij, daar om even een lijst met punten wat ik inmiddels van mezelf heb geleerd.
 In 100 dagen heb ik:  1226 keer gedronken, alles totaal dus  257 keer water 206 keer koffie 118 keer limonade 387 keer bier (diverse soorten)   411 boterhammen gegeten  vruchtenhageslag is het lekkerste met 41 keer daarna sandwichspread met 39 keer ook krentenbollen zijn goed te kanen met 32 keer   35 ijsjes, waarvan 20 raketten :) Mjum!">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2009-07-11-100-dagen-daytum/">
 
@@ -486,6 +488,22 @@ In 100 dagen heb ik:  1226 keer gedronken, alles totaal dus  257 keer water 206 
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

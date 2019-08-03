@@ -19,6 +19,8 @@
   <meta name="description" content="In one year I started with my idea to go the the first Quantified Self Conference in San Francisco, Mountain View. The idea brought me there, with all the helping hands of people supporting me. When Martijn and me got back, we agreed to organize a second conference in Amsterdam.
 The QS Amsterdam crew joined in and at the 26 &amp; 27th of November we organized QS Europe. I never organized a conference so big and it was truly fantastic to see 250 people enjoying their time at the conference.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-12-19-qs-europe-2011/">
 
@@ -470,6 +472,22 @@ The QS Amsterdam crew joined in and at the 26 &amp; 27th of November we organiz
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

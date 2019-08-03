@@ -15,6 +15,8 @@
   
   <meta name="description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/">
 
@@ -980,13 +982,18 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
       
       
       
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item ">
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item hardware diy ricecooker food">
         <div class="card">
+          
+          <a href="http://jplattel.nl/project/sous-vide-ricecooker/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/sous-vide-ricecooker.jpg" alt="" class="img-responsive">
+          </a>
           
           <div class="card-text">
             <h4><a href="http://jplattel.nl/project/sous-vide-ricecooker/" >Sous-vide Rice Cooker</a></h4>
             <div class="card-desription">
-              
+              <p>I modified my rice-cooker so I can use it as a sous-vide apparatus.</p>
             </div>
           </div>
         </div>
@@ -998,10 +1005,15 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item ">
         <div class="card">
           
+          <a href="http://jplattel.nl/project/diy-longboard/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/longboard.jpg" alt="" class="img-responsive">
+          </a>
+          
           <div class="card-text">
             <h4><a href="http://jplattel.nl/project/diy-longboard/" >DIY Longboard</a></h4>
             <div class="card-desription">
-              
+              <p>I created my own longboard from scratch (with a Mondrian pattern on the back).</p>
             </div>
           </div>
         </div>
@@ -1024,7 +1036,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
           <div class="card-text">
             <h4><a href="https://depadvinders.nl/" target="_blank">De Padvinders</a></h4>
             <div class="card-desription">
-              
+              <p>Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &lsquo;tell me five ways I can save an hour a day.&rsquo; Whatever you need to pay for this service, it will pay for itself in a week. ~ Seth Godin</p>
             </div>
           </div>
         </div>
@@ -1047,7 +1059,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
           <div class="card-text">
             <h4><a href="https://github.com/jplattel/Mondriaantje" target="_blank">Mondriaantje</a></h4>
             <div class="card-desription">
-              
+              <p>Input your name and get your own personalized Mondrian!</p>
             </div>
           </div>
         </div>
@@ -1093,7 +1105,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
           <div class="card-text">
             <h4><a href="https://www.meetup.com/qsnetherlands/" target="_blank">Quantifiedself</a></h4>
             <div class="card-desription">
-              
+              <p>I co-founded the QS Amsterdam group &amp; started the QS Conference in Europe.</p>
             </div>
           </div>
         </div>
@@ -1116,7 +1128,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
           <div class="card-text">
             <h4><a href="https://curiouscorner.nl" target="_blank">Curious Corner</a></h4>
             <div class="card-desription">
-              
+              <p>A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!</p>
             </div>
           </div>
         </div>
@@ -1139,7 +1151,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
           <div class="card-text">
             <h4><a href="http://brouwerijnooitgedacht.nl" target="_blank">Brouwerij Nooitgedacht</a></h4>
             <div class="card-desription">
-              
+              <p>Brouwerij Nooitgedacht is our brewery that I run together with friends.</p>
             </div>
           </div>
         </div>
@@ -1495,6 +1507,22 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

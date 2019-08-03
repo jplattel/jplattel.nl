@@ -9,7 +9,7 @@ year = 2013
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Input your name and get your own personalized Mondrian!"
 
 # Optional image to display on homepage.
 image_preview = "vbw.png"

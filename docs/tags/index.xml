@@ -274,6 +274,33 @@
     </item>
     
     <item>
+      <title>food</title>
+      <link>http://jplattel.nl/tags/food/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>http://jplattel.nl/tags/hardware/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ricecooker</title>
+      <link>http://jplattel.nl/tags/ricecooker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/tags/ricecooker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Corniglia</title>
       <link>http://jplattel.nl/tags/corniglia/</link>
       <pubDate>Thu, 25 Aug 2016 15:42:46 +0200</pubDate>
@@ -751,20 +778,20 @@
     </item>
     
     <item>
-      <title>Quantified Self</title>
-      <link>http://jplattel.nl/tags/quantified-self/</link>
-      <pubDate>Wed, 02 Dec 2015 11:25:13 +0100</pubDate>
-      
-      <guid>http://jplattel.nl/tags/quantified-self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ghent</title>
       <link>http://jplattel.nl/tags/ghent/</link>
       <pubDate>Wed, 02 Dec 2015 11:25:13 +0100</pubDate>
       
       <guid>http://jplattel.nl/tags/ghent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantified self</title>
+      <link>http://jplattel.nl/tags/quantified-self/</link>
+      <pubDate>Wed, 02 Dec 2015 11:25:13 +0100</pubDate>
+      
+      <guid>http://jplattel.nl/tags/quantified-self/</guid>
       <description></description>
     </item>
     
@@ -1678,7 +1705,7 @@
     </item>
     
     <item>
-      <title>Chemistry</title>
+      <title>chemistry</title>
       <link>http://jplattel.nl/tags/chemistry/</link>
       <pubDate>Fri, 27 Dec 2013 15:54:56 +0100</pubDate>
       
@@ -2844,15 +2871,6 @@
       <pubDate>Tue, 27 Sep 2011 09:24:16 +0200</pubDate>
       
       <guid>http://jplattel.nl/tags/calories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>food</title>
-      <link>http://jplattel.nl/tags/food/</link>
-      <pubDate>Tue, 27 Sep 2011 09:24:16 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/tags/food/</guid>
       <description></description>
     </item>
     

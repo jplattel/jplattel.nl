@@ -13,10 +13,8 @@ Below is my wishlist, if you want to trade something in return for something or 
 *   Blue [Miir Growler](https://www.miir.com/products/the-growler?variant=27677677825)
 *   A [Feynman](https://teespring.com/new-feynman?tsmac=store&tsmic=fermats-library#pid=228&cid=5923&sid=front) t-shirt.
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
-*   [This puzzle](https://puzzle.lamingtondrive.com/)
-*   Sortimo boxes
+*   Sortimo boxes (contact me if you want to give these, I might have some specific ones!)
 *   A full size wired Dremel kit
-*   The [minimalist knife](https://grovemade.com/journal/minimalist-knife/).
 
 ### Experience
 
@@ -25,6 +23,7 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 ### People already gave me
 
+*   [This puzzle](https://puzzle.lamingtondrive.com/) (thanks Nathalie!)
 *   The [Cool Tools](https://www.bol.com/nl/p/cool-tools/9200000020982860/) book, thanks [Vitamine Communicatie](https://www.vitaminecommunicatie.nl/)!
 *   The [cooking book](https://www.taschen.com/pages/en/catalogue/art/all/04639/facts.dali_les_diners_de_gala.htm?gclid=Cj0KEQjwg8i_BRCT9dHt5ZSGi90BEiQAItdjpMqOS3gORWwVrFL8DHsHtD0IkavXJryJbxaRuclqvKYaAnVa8P8HAQ) by Dali
 *   Moebius Library: The World of Edena, thanks [Daan](https://www.linkedin.com/in/daanbuse?ppe=1)!

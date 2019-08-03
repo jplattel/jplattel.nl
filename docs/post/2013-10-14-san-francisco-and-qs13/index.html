@@ -18,6 +18,8 @@
   
   <meta name="description" content="Taking a week off from my study, hopping on the plane to San Francisco on monday morning at 10 o&#39;clock. Arrived at noon and we managed to hack our way into the AirBnB place. Uptime: 24 hours. Grab a beer with Yuri and Peter. Decide to visit the Apple Store and do some misc shopping. Italian dinner. Crash on a couch. Conclusion: way better then classes I&#39;m supposed to be in.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-10-14-san-francisco-and-qs13/">
 
@@ -473,6 +475,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

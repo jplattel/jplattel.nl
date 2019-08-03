@@ -19,6 +19,8 @@
   <meta name="description" content="I use Read It Later for saving webpages, but if those pages contained video&#39;s I had to visit the webpages, load the video etcetera... It simply does not fulfill my needs for watching video...
 While searching Google I discovered RadBox, which does exactly what I want: use a bookmarklet to save video&#39;s to watch later. They offered an API and RSS-feed of my video&#39;s so I decided to build my own based on App Engine.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/">
 
@@ -472,6 +474,22 @@ A basic interface for watching video's:</p>
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

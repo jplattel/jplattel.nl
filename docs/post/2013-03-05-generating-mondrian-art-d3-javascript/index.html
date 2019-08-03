@@ -19,6 +19,8 @@
   <meta name="description" content="SETUP is holding a competition to get programming known as modern day craftwork. I whole-fully agree to this and decided to enter the contest!
 With a small part of my time spend while traveling I and finally finishing up I&#39;ve gotten my last version up and running. I use javascript and D3 (SVG) for drawing the elements as this is a library that I wanted to explore. The ease of use and adoption rate of it made a good starting point for me to quickly get to a result.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/">
 
@@ -474,6 +476,22 @@ With a small part of my time spend while traveling I and finally finishing up I&
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

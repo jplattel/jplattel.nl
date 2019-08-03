@@ -19,6 +19,8 @@
   <meta name="description" content="Onlangs ben ik gestopt met Daytum, dat ik gebruikte voor self-tracking. Het was een handige tool met leuke visualisaties, maar na meer dan 100 dagen werd de barriere om dagelijks gegevens in te voeren mij te hoog, desondanks heb ik er een aantal leuk dingen uit kunnen halen en heb ik er veel van kunnen leren. Een iPhone applicatie zou Daytum in ieder geval makkelijker maken!
 Ik ben nu opzoek naar een andere tool, met een nog mindere barriere.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/">
 
@@ -470,6 +472,22 @@ Ik ben nu opzoek naar een andere tool, met een nog mindere barriere.">
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

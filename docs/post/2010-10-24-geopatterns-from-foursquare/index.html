@@ -18,6 +18,8 @@
   
   <meta name="description" content="Visualization of my foursquare checkins since I started using it. Quite nice patterns and it would be awesome to use your own geo-data!  Joost Plattel&#39;s Checkins by WeePlaces.com.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2010-10-24-geopatterns-from-foursquare/">
 
@@ -437,6 +439,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

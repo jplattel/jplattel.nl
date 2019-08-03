@@ -6,13 +6,13 @@ year = 2015
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["hardware", "diy", "ricecooker", "food"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "I modified my rice-cooker so I can use it as a sous-vide apparatus."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "sous-vide-ricecooker.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

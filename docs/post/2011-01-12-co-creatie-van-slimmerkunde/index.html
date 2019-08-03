@@ -19,6 +19,8 @@
   <meta name="description" content="Het begon in het voorjaar toen Tjeu het idee over slimmerkunde mee nam naar Seats 2 Meet in Utrecht. In de zomer werd het via de basecamp van lifehacking.nl verder opgepakt en besloot ik ook mee te helpen. Mijn bescheiden bijdrage werd meegenomen en ik werd uitgenodigd om een dag naar Den Bosch te komen om te komen werken aan slimmerkunde.
 In november werd de tekst in een mooi jasje gegoten en had Bas de filmpjes gereed gemaakt.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-01-12-co-creatie-van-slimmerkunde/">
 
@@ -450,6 +452,22 @@ In november werd de tekst in een mooi jasje gegoten en had Bas de filmpjes geree
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

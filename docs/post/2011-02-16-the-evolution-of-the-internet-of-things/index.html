@@ -20,6 +20,8 @@
 
 Be sure to check out the Health Internet of Things (HIT) as well! ">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-02-16-the-evolution-of-the-internet-of-things/">
 
@@ -449,6 +451,22 @@ Be sure to check out the Health Internet of Things (HIT) as well! ">
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

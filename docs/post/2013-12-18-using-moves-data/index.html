@@ -18,6 +18,8 @@
   
   <meta name="description" content="In July I wrote a little wrapper for the Moves App API. But I didn&#39;t develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I&#39;m currently building. I&#39;ve drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I&#39;ve got some friends who come up with great ideas too!">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-12-18-using-moves-data/">
 
@@ -478,6 +480,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

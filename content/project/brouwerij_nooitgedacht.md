@@ -9,7 +9,7 @@ draft = false
 tags = ['brewery', 'beer']
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Brouwerij Nooitgedacht is our brewery that I run together with friends."
 
 # Optional image to display on homepage.
 image_preview = "brouwerij_nooitgedacht.jpg"

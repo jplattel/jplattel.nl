@@ -19,6 +19,8 @@
   <meta name="description" content="De Sensecam is een apparaat waarmee iemand zijn eigen leven kan vastleggen. Een soort black-box, maar dan voor een mensenleven. Eind vorig jaar zou Vicon het mogelijk maken om een Sensecam onder hun naam aan te schaffen voor persoonlijk gebruik.
 Op de manier waarop ik het bekijk zitten hier talloze voordelen aan, en wordt het voordeel in de toekomst steeds groter. De ViconRevue is in combinatie met de juiste software en databases geeft een fotografisch geheugen aan iedereen.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/">
 
@@ -474,6 +476,22 @@ remember what they experienced during the day.</p></blockquote>
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

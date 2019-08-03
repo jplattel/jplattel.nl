@@ -19,6 +19,8 @@
   <meta name="description" content="Another year passed an I&#39;m due to update my projects page and create another one for next year! To close past year and explore the next I&#39;ve used YearCompass for my reflections. It took me over 3 afternoons to completely fill it out, but it&#39;s an enjoyable ride! It&#39;s great looking backwards into your calendar and see all that you have achieved.
 I&#39;ve also concatenated all my 8:36pm photos into a video like I do every year.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2016-01-02-data-reflections-2015/">
 
@@ -476,6 +478,22 @@ I&#39;ve also concatenated all my 8:36pm photos into a video like I do every yea
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

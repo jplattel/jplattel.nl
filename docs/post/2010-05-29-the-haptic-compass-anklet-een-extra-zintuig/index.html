@@ -23,6 +23,8 @@ Om uit te leggen wat ik precies bedoel, The North Paw, een haptic compass anklet
 Eric Boyd - The North Paw: A Haptic Compass Anklet from Loren Risker on Vimeo.
 The North Paw gebruik je dus eigenlijk als uitbreiding op de normale zintuigen die je tot je beschikking hebt.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2010-05-29-the-haptic-compass-anklet-een-extra-zintuig/">
 
@@ -482,6 +484,22 @@ The North Paw gebruik je dus eigenlijk als uitbreiding op de normale zintuigen d
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

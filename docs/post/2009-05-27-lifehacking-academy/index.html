@@ -19,6 +19,8 @@
   <meta name="description" content="Gister was lifehacking academy in Groningen, met 6 man gingen we dinsdag vroeg op pad. Eenmaal de groep bij elkaar, en zittend in de trein, werd ik gebeld door Martijn Aslander, of wij op het Palace of Wisdom zouden willen staan met ons zessen. Natuurlijk willen wij dat, als beginnende groep slimmer werken coaches kunnen wij de experts uithangen en de nodige reclame maken en connecties gebruiken.
 Om ongeveer 11 uur waren wij aanwezig in Images, en zochten wij een mooie plaats uit in de grote zaal.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2009-05-27-lifehacking-academy/">
 
@@ -457,6 +459,22 @@ Om ongeveer 11 uur waren wij aanwezig in Images, en zochten wij een mooie plaats
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

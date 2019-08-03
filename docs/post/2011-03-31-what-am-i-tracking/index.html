@@ -19,6 +19,8 @@
   <meta name="description" content="I&#39;ll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I&#39;m tracking to function as an archive or feedback loop. If I have some more time, I&#39;ll explain the things I use to make this all possible.
  Distance travelled (which cities did I visit?) Which people do I meet everyday?">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-03-31-what-am-i-tracking/">
 
@@ -508,6 +510,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

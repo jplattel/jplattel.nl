@@ -8,10 +8,10 @@ year = 2017
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "I created my own longboard from scratch (with a Mondrian pattern on the back)."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "longboard.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

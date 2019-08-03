@@ -18,6 +18,8 @@
   
   <meta name="description" content="Telephone companies tend to have a lot of data about a user. This data includes some information that could help you decide whether you could pay for another subscription that fits more to your usage. To fix that problem I&#39;ve build a dashboard which uses all the information available trough the invoices my current company (T-mobile) provides in a PDF. (FYI, I got a version running that&#39;s also working with receipts from Vodafone)">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/">
 
@@ -484,6 +486,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

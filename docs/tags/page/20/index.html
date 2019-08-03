@@ -16,6 +16,8 @@
   
   <meta name="description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/tags/">
 
@@ -273,6 +275,27 @@
   
   
   <div>
+    <h2><a href="http://jplattel.nl/tags/app/">app</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="http://jplattel.nl/tags/calendar/">calendar</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="http://jplattel.nl/tags/database/">database</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="http://jplattel.nl/tags/moves/">moves</a></h2>
     <div class="article-style">
       
@@ -316,27 +339,6 @@
   
   <div>
     <h2><a href="http://jplattel.nl/tags/library/">library</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/tags/rest/">rest</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/tags/ny/">NY</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/tags/nyc/">NYC</a></h2>
     <div class="article-style">
       
     </div>
@@ -440,6 +442,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

@@ -19,6 +19,8 @@
   <meta name="description" content="Last weekend I participated in Startup Weekend Utrecht. At almost 100 attendees, we&#39;ve got the 8th floor of the Nijenoord building pretty stocked.
 As I predicted, I got an idea during the pitching process. Luckily I was able to pitch it anyhow and after the voting procedure the announcement was made that I made it to the top 13 viable ideas. So now I had to go and create a team!">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2012-11-20-startup-weekend-utrecht/">
 
@@ -464,6 +466,22 @@ As I predicted, I got an idea during the pitching process. Luckily I was able to
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

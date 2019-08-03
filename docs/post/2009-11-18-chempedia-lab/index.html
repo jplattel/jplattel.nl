@@ -19,6 +19,8 @@
   <meta name="description" content="Soms kan je alleen maar wensen, maar wat ik twee dagen geleden graag in wou zien is vandaag al gerealiseerd. Chempedia is inmiddels uitgebreid met het systeem van Stack Overflow. Dus naast dat het een sociale database van structuren en stoffen is, is het nu ook een vragenfora.
 Zowel de database als de fora zijn gebonden aan reputatie. Zowel het toevoegen en benoemen van stoffen telt evenveel mee als het beantwoorden van vragen.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2009-11-18-chempedia-lab/">
 
@@ -458,6 +460,22 @@ Zowel de database als de fora zijn gebonden aan reputatie. Zowel het toevoegen e
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

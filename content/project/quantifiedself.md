@@ -9,7 +9,7 @@ year = 2017
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "I co-founded the QS Amsterdam group & started the QS Conference in Europe."
 
 # Optional image to display on homepage.
 image_preview = "quantifiedself.png"

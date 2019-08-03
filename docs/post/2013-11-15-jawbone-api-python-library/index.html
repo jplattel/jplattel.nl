@@ -20,6 +20,8 @@
 
 As with all the other devices that I&#39;ve been wearing I wanted to get the data out of it.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-11-15-jawbone-api-python-library/">
 
@@ -477,6 +479,22 @@ As with all the other devices that I&#39;ve been wearing I wanted to get the dat
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

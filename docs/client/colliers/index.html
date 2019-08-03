@@ -18,6 +18,8 @@
   
   <meta name="description" content="Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/client/colliers/">
 
@@ -381,6 +383,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

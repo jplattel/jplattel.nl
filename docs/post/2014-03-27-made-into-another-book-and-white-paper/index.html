@@ -20,6 +20,8 @@
 
 I made a scan of the page and it&#39;s available on Scribd. And together with the working group of patient generated data, we&#39;ve written a white paper about the data that persons generate that healthcare could use.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2014-03-27-made-into-another-book-and-white-paper/">
 
@@ -457,6 +459,22 @@ I made a scan of the page and it's <a href="http://www.scribd.com/doc/211599572/
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

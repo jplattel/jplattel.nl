@@ -21,6 +21,8 @@
 I&#39;ve been running the Lifeslice program for over 3 years now and I thought it was about time to do something with it! The picture above is generated with over 4000 webcamshots taken during that time.
 There&#39;s a trove of other data in too.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2014-10-04-3-years-computing/">
 
@@ -446,6 +448,22 @@ I've been running the <a href="https://github.com/wanderingstan/Lifeslice">Lifes
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

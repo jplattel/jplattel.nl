@@ -16,6 +16,8 @@
   
   <meta name="description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/tags/quantified-self/">
 
@@ -86,7 +88,7 @@
   
   <meta property="og:site_name" content="Joost Plattel">
   <meta property="og:url" content="http://jplattel.nl/tags/quantified-self/">
-  <meta property="og:title" content="Quantified Self | Joost Plattel">
+  <meta property="og:title" content="quantified self | Joost Plattel">
   <meta property="og:description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
   <meta property="og:locale" content="en-us">
   
@@ -97,7 +99,7 @@
 
   
 
-  <title>Quantified Self | Joost Plattel</title>
+  <title>quantified self | Joost Plattel</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -266,7 +268,7 @@
 
 <div class="universal-wrapper">
 
-  <h1>Quantified Self</h1>
+  <h1>quantified self</h1>
 
   
 
@@ -452,6 +454,22 @@ Vooral medische toepassingen lijken veel mensen te overtuigen van het voordeel v
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

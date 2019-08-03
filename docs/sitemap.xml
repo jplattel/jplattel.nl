@@ -555,6 +555,36 @@
     
     <url>
     
+      <loc>http://jplattel.nl/tags/food/</loc>
+      <lastmod>2018-04-22T00:14:12+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/hardware/</loc>
+      <lastmod>2018-04-22T00:14:12+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/tags/ricecooker/</loc>
+      <lastmod>2018-04-22T00:14:12+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/project/diy-longboard/</loc>
       <lastmod>2018-04-22T00:13:25+02:00</lastmod>
     </url>
@@ -1451,7 +1481,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantified-self/</loc>
+      <loc>http://jplattel.nl/tags/ghent/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1461,7 +1491,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ghent/</loc>
+      <loc>http://jplattel.nl/tags/quantified-self/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2716,9 +2746,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/chemistry/</loc>
+      <loc>http://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
       <lastmod>2013-12-27T15:54:56+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -2726,8 +2755,9 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
+      <loc>http://jplattel.nl/tags/chemistry/</loc>
       <lastmod>2013-12-27T15:54:56+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -4367,16 +4397,6 @@
     <url>
     
       <loc>http://jplattel.nl/tags/calories/</loc>
-      <lastmod>2011-09-27T09:24:16+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/food/</loc>
       <lastmod>2011-09-27T09:24:16+02:00</lastmod>
       <priority>0</priority>
     </url>

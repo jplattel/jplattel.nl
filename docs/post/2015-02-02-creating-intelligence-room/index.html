@@ -19,6 +19,8 @@
   <meta name="description" content="Over the past few months I&#39;ve been steadily involved with a project that aims to recreate an war/control/intelligence room that you see in movies. The one difference is that the room is ment for decision-makers within bigger companies. Often, urgent en relevant questions go unanswered, but the Intelligence Room helps fixing this.
 During the Big Improvement Day we showcased our concept and I&#39;ve created a little Django app that matches all attendees based on topics they provided when signing up for the event.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2015-02-02-creating-intelligence-room/">
 
@@ -478,6 +480,22 @@ Over 120 people used the service on the day itself, and that's only in the time 
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

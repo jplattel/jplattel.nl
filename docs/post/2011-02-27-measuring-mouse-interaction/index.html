@@ -19,6 +19,8 @@
   <meta name="description" content="I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&#39;t draw any conclusions about it because I switched my operating system too!
 However more recently I started using MacLogger and together with Jelle I&#39;ve made some custom python and processing scripts that should offer more insight into my mouse usage.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/">
 
@@ -471,6 +473,22 @@ However more recently I started using MacLogger and together with Jelle I&#39;ve
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

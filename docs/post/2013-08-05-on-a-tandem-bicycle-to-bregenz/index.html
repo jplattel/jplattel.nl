@@ -20,6 +20,8 @@
 A total distance around 2300km was meant to be covered. In the fourth day, we left the Netherlands and went into Germany.. Traveling trough the Ruhr area and cycling next to the Rhine.
 Next, the Swabian Jura and with 2 weeks we covered most of Germany.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/">
 
@@ -467,6 +469,22 @@ Next, the Swabian Jura and with 2 weeks we covered most of Germany.">
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

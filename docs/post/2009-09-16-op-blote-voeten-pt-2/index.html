@@ -20,6 +20,8 @@
 Naar aanleiding van mijn vorige post even een vervolg. Ik loop nu al 2 en een halve week op de Vibram Five Fingers. Niet elke dag, want af en toe wil ik ook wel wat anders, omdat ik last heb van spierpijn in mijn voeten.
 Ik ben inmiddels al 3 keer wezen hardlopen, driemaal 5 kilometer. Maar toch krijg ik het niet voor elkaar om alles in een keer uit te lopen.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2009-09-16-op-blote-voeten-pt-2/">
 
@@ -468,6 +470,22 @@ Ik ben inmiddels al 3 keer wezen hardlopen, driemaal 5 kilometer. Maar toch krij
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

@@ -19,6 +19,8 @@
   <meta name="description" content="I made a small visit to Paris at the start of November and I had the opportunity to visit the Lab Store. I&#39;ve read about the concept in a book called The Lab that I&#39;ve bought during my first visit to San Francisco. It&#39;s just pure luck that I come across that book in a little bookstore, but it feels like the adventure is just about to start..
 While visiting the Lab Store I had to buy one of the Le Whaf&#39;s.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/">
 
@@ -465,6 +467,22 @@ While visiting the Lab Store I had to buy one of the Le Whaf&#39;s.">
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

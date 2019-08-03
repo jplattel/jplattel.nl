@@ -19,6 +19,8 @@
   <meta name="description" content="I love the Read It Later List service. Each day I save about 20-30 articles from Google Reader or my Twitter client so I can read them later. However, these amounts make it hard for me to process all the things I save. That&#39;s why I need a readinglist that has additional filtering/speed/shortcuts.
 As my endeavors with Python continue, for the last few months I&#39;ve been developing my own version of the perfect readinglist build upon the API of Read It Later List.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/">
 
@@ -484,6 +486,22 @@ As my endeavors with Python continue, for the last few months I&#39;ve been de
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

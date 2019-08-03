@@ -19,6 +19,8 @@
   <meta name="description" content="Meetup.com is a service that I use and have been using to organize events for networks. Even though I like Meetup as a service, there are some thing you just cannot do. For example it&#39;s kind of hard to make use of the internal knowledge or connections that people have within the network itself. And you are limited to Meetup for sending messages to everyone.
 About a week ago I sat down to explore their API, to see if you could somehow build upon their service.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2014-07-02-meetup-api-tinkering/">
 
@@ -478,6 +480,22 @@ About a week ago I sat down to explore their API, to see if you could somehow bu
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

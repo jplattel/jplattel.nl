@@ -19,6 +19,8 @@
   <meta name="description" content="During the QS Conference the awesome guys from Zeo gifted me one of their sleep monitors. And 1 week ago it arrived by mail. I promised to create as much value in return if I liked the Zeo. And I do, I absolutely do. Here is why:
 As an average person sleep 8 hours a day you spend 1/3 of your life lying in bed... That&#39;s a lot of time spend.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/">
 
@@ -465,6 +467,22 @@ As an average person sleep 8 hours a day you spend 1/3 of your life lying in bed
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

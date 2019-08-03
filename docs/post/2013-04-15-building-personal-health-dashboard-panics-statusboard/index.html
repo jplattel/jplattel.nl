@@ -20,6 +20,8 @@
 
 The next step is to implement a simple server side script that shapes and caches the JSON data in the correct format.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/">
 
@@ -441,6 +443,22 @@ The next step is to implement a simple server side script that shapes and caches
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

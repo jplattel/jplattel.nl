@@ -19,6 +19,8 @@
   <meta name="description" content="Technology is making it easier to collect data, for example phone usage. From the 1st of January I tracked how much I&#39;ve used my phone by installing an app called Moment. It runs in the background and silently tracks how much you use your phone. As said, the first step towards behaviour-change is providing insight in current behaviour. 
 Lately I&#39;ve been exploring iPython for data-analysis and sharing snippets of data. I&#39;ve started a Github repository that contains some notebooks I&#39;m working on. And I&#39;ve embedded the one below where I analyse my phone usage:">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/">
 
@@ -476,6 +478,22 @@ Lately I&#39;ve been exploring iPython for data-analysis and sharing snippets of
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

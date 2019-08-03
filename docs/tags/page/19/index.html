@@ -16,6 +16,8 @@
   
   <meta name="description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/tags/">
 
@@ -273,6 +275,27 @@
   
   
   <div>
+    <h2><a href="http://jplattel.nl/tags/2013/">2013</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="http://jplattel.nl/tags/arte/">arte</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="http://jplattel.nl/tags/camera/">camera</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="http://jplattel.nl/tags/interview/">interview</a></h2>
     <div class="article-style">
       
@@ -308,7 +331,7 @@
   </div>
   
   <div>
-    <h2><a href="http://jplattel.nl/tags/chemistry/">Chemistry</a></h2>
+    <h2><a href="http://jplattel.nl/tags/chemistry/">chemistry</a></h2>
     <div class="article-style">
       
     </div>
@@ -316,27 +339,6 @@
   
   <div>
     <h2><a href="http://jplattel.nl/tags/vaporizer/">vaporizer</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/tags/app/">app</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/tags/calendar/">calendar</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://jplattel.nl/tags/database/">database</a></h2>
     <div class="article-style">
       
     </div>
@@ -440,6 +442,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

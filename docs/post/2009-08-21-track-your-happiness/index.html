@@ -18,6 +18,8 @@
   
   <meta name="description" content="De afgelopen 2 maanden heb ik meegewerkt aan het Track Your Happiness project. Dat is een wetenschappelijk onderzoek in een online jasje, dat onderzoek doet naar de &#39;happiness&#39; van alle mensen die eraan meewerken. Elke dag kreeg je 3 keer een email met een link naar een interview, deze vulde je in. En 2 maanden later was er een rapport van jezelf opgesteld, voor mij waren dit de meest opzienbarende resultaten:">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2009-08-21-track-your-happiness/">
 
@@ -462,6 +464,22 @@
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

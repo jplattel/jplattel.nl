@@ -19,6 +19,8 @@
   <meta name="description" content="I&#39;ve been on a little holiday!The destination was Moniga del Garda, Italy. And I&#39;ve shot some great panorama&#39;s that I wanted to share with you:
 This summer I&#39;m visiting Sri Lanka and I bought a little pocket camera to help me with some better pictures. I chose the S120, because of Neistat.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2015-05-14-lago-di-garda/">
 
@@ -466,6 +468,22 @@ This summer I&#39;m visiting Sri Lanka and I bought a little pocket camera to he
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

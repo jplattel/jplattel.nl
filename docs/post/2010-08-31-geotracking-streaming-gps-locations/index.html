@@ -22,6 +22,8 @@ Since reading about self-tracking I was fascinated by GPS location and geospatia
 I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone. So I ventured into python and after reading Eric Blue’s blog I came up with a solution.
 ">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/">
 
@@ -563,6 +565,22 @@ if __name__ == "__main__":
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

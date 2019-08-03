@@ -16,6 +16,8 @@
   
   <meta name="description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/tags/food/">
 
@@ -90,7 +92,7 @@
   <meta property="og:description" content="Data-strategist, API builder, beerbrewer, longboarder &amp; long distance hiker">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2011-09-27T09:24:16&#43;02:00">
+  <meta property="og:updated_time" content="2018-04-22T00:14:12&#43;02:00">
   
 
   
@@ -273,6 +275,15 @@
   
   
   <div>
+    <h2><a href="http://jplattel.nl/project/sous-vide-ricecooker/">Sous-vide Rice Cooker</a></h2>
+    <div class="article-style">
+      
+      I modified my rice-cooker so I can use it as a sous-vide apparatus.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="http://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/">Publishing personal caloric values</a></h2>
     <div class="article-style">
       
@@ -369,6 +380,22 @@ The first step I wanted to take is to generate a baseline of my typical food con
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>

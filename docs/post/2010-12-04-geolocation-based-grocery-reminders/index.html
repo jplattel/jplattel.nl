@@ -19,6 +19,8 @@
   <meta name="description" content="I really don&#39;t like shopping for groceries and I developed the habit to forget half of my groceries.... A digital grocery list would be perfect.... shortly after discussing todo-lists with Martijn Aslander I was inspired to build a mashup to solve my problem.
 Based on information gathered by Instamapper in combination with the Haversine formula it is possible to calcuate the distance between two points on a sphere. When the distance is small enough a push notification including a link to my digital grocery list is send to my iPhone trough the Notifo API.">
 
+  <link rel="icon" href="/img/favicon.ico">
+
   
   <link rel="alternate" hreflang="en-us" href="http://jplattel.nl/post/2010-12-04-geolocation-based-grocery-reminders/">
 
@@ -441,6 +443,22 @@ Based on information gathered by Instamapper in combination with the Haversine f
 
     
     
+
+    <script>  
+      function ReLoadImages(){
+          $('img[data-src]').each( function(){
+              
+              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
+              }
+          );
+      }
+      
+      document.addEventListener('readystatechange', event => {
+          if (event.target.readyState === "interactive") {  
+              ReLoadImages();
+          }
+      });
+      </script>
 
   </body>
 </html>
