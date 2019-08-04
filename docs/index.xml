@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 24 Jan 2019 13:59:47 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:05:13 +0200</lastBuildDate>
     <atom:link href="http://jplattel.nl/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EHBA</title>
+      <link>http://jplattel.nl/project/ehba/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>http://jplattel.nl/project/ehba/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Panel member @ Big Brother Awards</title>
@@ -179,20 +188,6 @@
 &lt;p&gt;Right now the chisel is submerged in vinegar to get started with the rust removal. I have some ideas to improve this plane a bit, for example: finding a way to mount stuff on the plane itself (like a sharpening stone). Or other tools you might need, like an embedded hammer? I might need to design something for that, just like the handle:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://jplattel.nl/img/plane-handle.png&#34; alt=&#34;The plane handle in Fusion 360&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Brewing a new batch of beer</title>
-      <link>http://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
-      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      
-      <guid>http://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
-      <description>&lt;p&gt;Past week we spend a day at a brewery! We made a new batch for our brewery &lt;a href=&#34;http://brouwerijnooitgedacht.nl&#34;&gt;Nooitgedacht&lt;/a&gt;. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough &lt;a href=&#34;//kratfunding.nl&#34;&gt;Kratfunding&lt;/a&gt;, we only ship to the Netherlands currently!&lt;/p&gt;
-
-&lt;p&gt;Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a picture of the kettles we used to brew our beer. &lt;img src=&#34;http://jplattel.nl/img/b.jpg&#34; alt=&#34;&#34;&gt; If everything goes according to plan we will have our beer ready in about 6 weeks!&lt;/p&gt;
 </description>
     </item>
     

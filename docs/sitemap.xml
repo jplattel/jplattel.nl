@@ -4,6 +4,35 @@
     
     <url>
     
+      <loc>http://jplattel.nl/project/ehba/</loc>
+      <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/</loc>
+      <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/project/</loc>
+      <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/tags/</loc>
       <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <priority>0</priority>
@@ -25,16 +54,6 @@
     <url>
     
       <loc>http://jplattel.nl/tags/data/</loc>
-      <lastmod>2019-01-24T13:59:47+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/</loc>
       <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -95,16 +114,6 @@
     
       <loc>http://jplattel.nl/project/personalstats/</loc>
       <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/project/</loc>
-      <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -180,7 +189,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/lifehacking/</loc>
+      <loc>http://jplattel.nl/tags/lifehacking/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,7 +199,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lifehacking/</loc>
+      <loc>http://jplattel.nl/categories/lifehacking/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1499,7 +1508,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantified-self/</loc>
+      <loc>http://jplattel.nl/tags/ghent/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1509,7 +1518,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ghent/</loc>
+      <loc>http://jplattel.nl/tags/quantified-self/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
       <priority>0</priority>
     </url>
