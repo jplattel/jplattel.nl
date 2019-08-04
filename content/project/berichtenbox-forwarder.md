@@ -9,7 +9,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "A small utility that enables automagic fetching of messages of our government."
 
 # Optional image to display on homepage.
 image_preview = "mijn-overheid.png"

@@ -12,11 +12,4 @@ image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
-
-# Does the project detail page use math formatting?
-math = false
-
-# Does the project detail page use source code highlighting?
-highlight = false
-
 +++
