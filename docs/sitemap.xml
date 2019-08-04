@@ -729,6 +729,15 @@
     
     <url>
     
+      <loc>http://jplattel.nl/client/sustrans/</loc>
+      <lastmod>2017-08-04T19:01:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jplattel.nl/post/2017-06-03-getting-started-with-a-lorawan-gateway/</loc>
       <lastmod>2017-06-03T00:00:00+00:00</lastmod>
     </url>
@@ -905,6 +914,15 @@
       <loc>http://jplattel.nl/tags/rome/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jplattel.nl/client/setup/</loc>
+      <lastmod>2016-08-04T19:01:06+02:00</lastmod>
     </url>
     
   
@@ -1481,7 +1499,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ghent/</loc>
+      <loc>http://jplattel.nl/tags/quantified-self/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1491,7 +1509,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantified-self/</loc>
+      <loc>http://jplattel.nl/tags/ghent/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2746,8 +2764,9 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
+      <loc>http://jplattel.nl/tags/chemistry/</loc>
       <lastmod>2013-12-27T15:54:56+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -2755,9 +2774,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/chemistry/</loc>
+      <loc>http://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
       <lastmod>2013-12-27T15:54:56+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
