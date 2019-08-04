@@ -14,7 +14,7 @@ summary = "Eerste hulp bij abonnement offers a data-based recommendations train 
 image_preview = "ehba.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://ehba.app"
 
 # Does the project detail page use math formatting?
 math = false
