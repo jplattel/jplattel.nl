@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Eerste hulp bij abonnement offers a data-based recommendations train travel subscriptions."
+summary = "Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions."
 
 # Optional image to display on homepage.
 image_preview = "ehba.png"
