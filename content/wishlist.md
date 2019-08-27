@@ -7,6 +7,7 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 ### Physical stuff
 
+*   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   A [knityak](https://knityak.com/) scarf
 *   [A meural](https://meural.com)
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
