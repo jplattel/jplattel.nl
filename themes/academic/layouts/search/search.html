@@ -1,0 +1,118 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<!-- Flag for jQuery -->
+<span id="homepage" style="display: none"></span>
+
+{{ if .IsHome }}
+  {{ .Scratch.Set "section" "home" }}
+{{ else }}
+  {{ .Scratch.Set "section" .Section }}
+{{ end }}
+{{ $section := .Scratch.Get "section" }}
+
+<!-- Search deps -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js"></script>
+
+<!-- Search -->
+<div class="search-container">
+    <span class="fa fa-search"></span>
+    <input autocomplete="off" id="search" class="search-input" aria-label="Search blog" type="search">
+</div>
+
+
+<script>
+function initSearchIndex() {
+  // this file is built by the Grunt task, and
+  $.getJSON('js/search/index.json')
+    .done(function(documents) {
+      pagesIndex = documents;
+      searchIndex = lunr(function() {
+        this.field('title');
+        this.field('categories');
+        this.field('content');
+        this.ref('href');
+
+        // This will add all the documents to the index. This is
+        // different compared to older versions of Lunr, where
+        // documents could be added after index initialisation
+        for (var i = 0; i < documents.length; ++i) {
+          this.add(documents[i])
+        }
+      });
+    })
+    .fail(function(jqxhr, textStatus, error) {
+      var err = textStatus + ', ' + error;
+      console.error('Error getting index file:', err);
+    }
+  );
+}
+
+initSearchIndex();
+
+function initUI() {
+  $results = $('.posts');
+  // or whatever element is supposed to hold your results
+  $('#search').keyup(function() {
+    $results.empty();
+    // only search when query has 2 characters or more
+    var query = $(this).val();
+    if (query.length < 2) {
+      return;
+    }
+    var results = searchSite(query);
+    renderResults(results);
+  });
+}
+
+
+$(document).ready(function() {
+  initUI();
+});
+
+function simpleSearchSite(query_string) {
+  return searchIndex.search(query_string).map(function(result) {
+    return pagesIndex.filter(function(page) {
+      return page.href === result.ref;
+    })[0];
+  });
+}
+
+// I want a typeahead search, so if a user types a query like
+// "pyth", it should show results that contain the word "Python",
+// rather than just the entire word.
+function searchSite(query_string) {
+  return searchIndex.query(function(q) {
+    // look for an exact match and give that a massive positive boost
+    q.term(query_string, { usePipeline: true, boost: 100 });
+    // prefix matches should not use stemming, and lower positive boost
+    q.term(query_string, { usePipeline: false, boost: 10, wildcard: lunr.Query.wildcard.TRAILING });
+  }).map(function(result) {
+    return pagesIndex.filter(function(page) {
+      return page.href === result.ref;
+    })[0];
+  });
+}
+
+function renderResults(results) {
+  if (!results.length) {
+    return;
+  }
+
+  results.slice(0, 10).forEach(function(hit) {
+    var $result = $('<li>');
+    $result.append($('<a>', {
+      href: hit.href,
+      text: '» ' + hit.title
+    }));
+    $result.append($('<p/>', { text: hit.content.slice(0, 100) + '...' }));
+    $results.append($result);
+  });
+}
+</script>
+<!-- Page Footer -->
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
+
