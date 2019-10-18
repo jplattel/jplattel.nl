@@ -272,6 +272,13 @@ defaultContentLanguageInSubdir = false
   weight = 8
 
 [[menu.main]]
+  name = 'Search'
+  url = "/search/"
+  weight = 9
+
+
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 10

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to Gitlab...\033[0m"
+echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Build the project.
 hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`

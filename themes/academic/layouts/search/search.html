@@ -16,17 +16,24 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js"></script>
 
-<!-- Search -->
-<div class="search-container">
-    <span class="fa fa-search"></span>
-    <input autocomplete="off" id="search" class="search-input" aria-label="Search blog" type="search">
-</div>
+<article class="article" itemscope itemtype="http://schema.org/Article">
+  <div class="article-container">
+    <!-- Search -->
+    <div class="search-container">
+        <input autocomplete="off" style="width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #337ab7; display: block;" id="search" class="search-input" aria-label="Search blog" type="search" placeholder="Search..">
+    </div>
+
+    <div class="" id="search-results">
+      <p>Posts will show once you start searching..</p>
+    </div>
+  </div>
+</article>
 
 
 <script>
 function initSearchIndex() {
   // this file is built by the Grunt task, and
-  $.getJSON('js/search/index.json')
+  $.getJSON('{{ .Site.BaseURL }}/index.json')
     .done(function(documents) {
       pagesIndex = documents;
       searchIndex = lunr(function() {
@@ -42,6 +49,7 @@ function initSearchIndex() {
           this.add(documents[i])
         }
       });
+      console.log(searchIndex)
     })
     .fail(function(jqxhr, textStatus, error) {
       var err = textStatus + ', ' + error;
@@ -53,7 +61,7 @@ function initSearchIndex() {
 initSearchIndex();
 
 function initUI() {
-  $results = $('.posts');
+  $results = $('#search-results');
   // or whatever element is supposed to hold your results
   $('#search').keyup(function() {
     $results.empty();
@@ -63,6 +71,7 @@ function initUI() {
       return;
     }
     var results = searchSite(query);
+    console.log(results)
     renderResults(results);
   });
 }
@@ -102,12 +111,12 @@ function renderResults(results) {
   }
 
   results.slice(0, 10).forEach(function(hit) {
-    var $result = $('<li>');
+    var $result = $('<span>');
     $result.append($('<a>', {
       href: hit.href,
-      text: '» ' + hit.title
+      text: hit.title
     }));
-    $result.append($('<p/>', { text: hit.content.slice(0, 100) + '...' }));
+    $result.append($('<p/>', { text: hit.content.slice(0, 130) + '...' }));
     $results.append($result);
   });
 }

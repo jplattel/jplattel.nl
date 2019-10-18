@@ -95,6 +95,10 @@
     <script async src="//cdnjs.cloudflare.com/ajax/libs/autotrack/{{- $sri.js.autotrack.version -}}/autotrack.js"></script>
     {{ end }}
   {{ end }}
+  <!-- Lunr.js for search -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js" integrity="sha256-M/Awbb/BYh+Rh0aGjpQid26p1b2OBsrk2k9yAvQxPV0=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
 
   {{ with .Site.Params.OutputFormats.Get "RSS" }}
   <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ .Site.Title }}">
