@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QSAmsterdam on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/qsamsterdam/</link>
+    <link>https://jplattel.nl/tags/qsamsterdam/</link>
     <description>Recent content in QSAmsterdam on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 23 Aug 2010 21:47:35 +0200</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/qsamsterdam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/qsamsterdam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quantified Self Meetup Amsterdam</title>
-      <link>http://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</link>
+      <link>https://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</link>
       <pubDate>Mon, 23 Aug 2010 21:47:35 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</guid>
+      <guid>https://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</guid>
       <description>Samen met Maarten Den Braber (@mdbraber) en James Burke (@lifesized) organiseer ik de eerste Quantified Self Meetup in Amsterdam. Op 20 september hebben wij de primeur in Nederland, en zelfs europa. Al komt QSLondon eer toe, omdat ik anders nog geen idee had over de opzet hier in Nederland.
 The Quantified Self (QS) letterlijk vertaald is de gekwantificeerde zelf. Met onderwerpen zoals lifelogging, self-tracking of personal genomics, proberen mensen zo veel mogelijk informatie in kaart te brengen over zichzelf.</description>
     </item>

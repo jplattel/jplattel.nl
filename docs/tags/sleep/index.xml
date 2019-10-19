@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sleep on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/sleep/</link>
+    <link>https://jplattel.nl/tags/sleep/</link>
     <description>Recent content in sleep on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 06 Oct 2011 10:54:09 +0200</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moon phases and sleep patterns</title>
-      <link>http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</link>
+      <link>https://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</link>
       <pubDate>Thu, 06 Oct 2011 10:54:09 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</guid>
+      <guid>https://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</guid>
       <description>Even before I got a Zeo, I was wondering if the phases of the moon are of influence of my sleep quality. With the Zeo that offers an API, I finally had a chance to investigate. As it turns out after four months of experimenting: the phase of the moon doesn&#39;t have any influence on my sleep quality or the time it takes to fall asleep.
 I&#39;ve been building my own interface for the Zeo, because the flash based website doesn&#39;t suit my needs, here&#39;s a small screenshot:</description>
     </item>
     
     <item>
       <title>First nights with the Zeo sleep monitor</title>
-      <link>http://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</link>
+      <link>https://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</link>
       <pubDate>Wed, 22 Jun 2011 21:53:57 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</guid>
+      <guid>https://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</guid>
       <description>During the QS Conference the awesome guys from Zeo gifted me one of their sleep monitors. And 1 week ago it arrived by mail. I promised to create as much value in return if I liked the Zeo. And I do, I absolutely do. Here is why:
 As an average person sleep 8 hours a day you spend 1/3 of your life lying in bed... That&#39;s a lot of time spend.</description>
     </item>
     
     <item>
       <title>My method for improving dream recall</title>
-      <link>http://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</link>
+      <link>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</guid>
+      <guid>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</guid>
       <description>&lt;p&gt;On average, a human spends one third (8 hours) of it&#39;s time sleeping. That&#39;s a lot and one of the reasons I decided to dip my interest into dreaming and dream recall.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://www.jplattel.nl/img/f04c71f48e4c3002feac28c5ed05f94d.jpeg&#34;&gt;&lt;img class=&#34;size-full wp-image-1993 aligncenter&#34; title=&#34;The mind is a curious object&#34; src=&#34;http://jplattel.nl/img/f04c71f48e4c3002feac28c5ed05f94d.jpeg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;334&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://www.jplattel.nl/img/f04c71f48e4c3002feac28c5ed05f94d.jpeg&#34;&gt;&lt;img class=&#34;size-full wp-image-1993 aligncenter&#34; title=&#34;The mind is a curious object&#34; src=&#34;https://jplattel.nl/img/f04c71f48e4c3002feac28c5ed05f94d.jpeg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;334&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;With trial and error, I&#39;ve made a modified version of the WILD ((&lt;a href=&#34;http://www.world-of-lucid-dreaming.com/wake-induced-lucid-dreams.html&#34;&gt;http://www.world-of-lucid-dreaming.com/wake-induced-lucid-dreams.html&lt;/a&gt;)) method that works for me with a success-rate of about 80% for dream recall, no lucid state yet. So here is how it works:  </description>
     </item>
     

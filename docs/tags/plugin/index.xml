@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plugin on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/plugin/</link>
+    <link>https://jplattel.nl/tags/plugin/</link>
     <description>Recent content in plugin on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 02 May 2016 22:19:59 +0200</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fixing (LinkedIn) interfaces with Chrome plugins</title>
-      <link>http://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</link>
+      <link>https://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</link>
       <pubDate>Mon, 02 May 2016 22:19:59 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</guid>
+      <guid>https://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</guid>
       <description>Online services tend to change their functionality or interaction. Sometimes in a good way, other times in a bad way. Most recently LinkedIn made a little change in the way accepting (and replying to) invites works. I personally use LinkedIn as a address book and leave it alone at times, never inviting people but combing trough the invites. I used to reply with a text-expander snippet too see if a connection is valuable, but this seemed to be impossible lately.</description>
     </item>
     
     <item>
       <title>Plugin Heuristics</title>
-      <link>http://jplattel.nl/post/2012-09-24-plugin-heuristics/</link>
+      <link>https://jplattel.nl/post/2012-09-24-plugin-heuristics/</link>
       <pubDate>Mon, 24 Sep 2012 09:21:34 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2012-09-24-plugin-heuristics/</guid>
+      <guid>https://jplattel.nl/post/2012-09-24-plugin-heuristics/</guid>
       <description>At the third Quantified Self Conference in Stanford last week I gave a talk about Plugin Heuristcs, a term that describes something I&#39;ve come across during my years of self-tracking experiments. Here are the slides:
 
 Plugin Heuristics confines an architecture that I propose for self-tracking things with a side-effect. For example when tracking my food intake for at least a month, it changed the way my brain remembers all the things I&#39;ve eaten.</description>

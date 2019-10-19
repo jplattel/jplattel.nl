@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ethical on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/ethical/</link>
+    <link>https://jplattel.nl/tags/ethical/</link>
     <description>Recent content in ethical on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 07 Feb 2014 14:44:58 +0100</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/ethical/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/ethical/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Experimenting with company activity dashboards</title>
-      <link>http://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</link>
+      <link>https://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</link>
       <pubDate>Fri, 07 Feb 2014 14:44:58 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</guid>
+      <guid>https://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</guid>
       <description>As an experiment, I&#39;m collecting data from the Moves app from multiple persons within a organisation. The goal is to find out what&#39;s possible with the amount of data the persons generate each day. Currently, the collection of data is ongoing and the next step would be the visualization of the data. Here are some simple graphs you can make with the data:
 
 Further steps could be exploring what a group wants from visualisations like this.</description>

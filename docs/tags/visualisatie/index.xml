@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualisatie on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/visualisatie/</link>
+    <link>https://jplattel.nl/tags/visualisatie/</link>
     <description>Recent content in Visualisatie on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 16 Jan 2012 11:43:23 +0100</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/visualisatie/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/visualisatie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datavisualisatie voor het CBS</title>
-      <link>http://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/</link>
+      <link>https://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/</link>
       <pubDate>Mon, 16 Jan 2012 11:43:23 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/</guid>
+      <guid>https://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/</guid>
       <description>Het CBS organiseert de eerste seminar over interactieve data visualisaties op 3 februari in Den Haag. Voor de seminar is een wedstrijd gemaakt en ik had een vrije middag over om er mee aan de slag te gaan.
 Nadat ik alle drie de data-sets heb bekeken leek het mij het beste om de derde (Landbouw; economische omvang naar omvangsklasse, hoofdbedrijfstype &amp;amp; regio) aan de slag te gaan. Nadat ik de data had gedownload heb ik eerst Google Refine gebruikt om de data schoon te maken en te filteren.</description>
     </item>
     
     <item>
       <title>Infographic van OV-chipkaart data</title>
-      <link>http://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/</link>
+      <link>https://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/</link>
       <pubDate>Tue, 01 Nov 2011 00:06:02 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/</guid>
+      <guid>https://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/</guid>
       <description>Ik heb al eerder met de export data van de OV-chipkaart iets gemaakt. Vroeger kon je de locaties van alle stations (inclusief steden en straten) exporteren. Tegenwoordig kan dat niet meer, dus werkte mijn gebouwde app niet meer. De kaart bevat echter teveel waardevolle data die als die op de juiste manier kan worden gerepresenteerd voor inzicht kan zorgen in je gebruik:
  Heb jij een idee op welke dagen je het meeste reist?</description>
     </item>

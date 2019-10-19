@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YFD on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/yfd/</link>
+    <link>https://jplattel.nl/tags/yfd/</link>
     <description>Recent content in YFD on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 28 Oct 2009 12:37:14 +0100</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/yfd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/yfd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gereedschap voor self-tracking</title>
-      <link>http://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</link>
+      <link>https://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</link>
       <pubDate>Wed, 28 Oct 2009 12:37:14 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</guid>
+      <guid>https://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</guid>
       <description>Onlangs ben ik gestopt met Daytum, dat ik gebruikte voor self-tracking. Het was een handige tool met leuke visualisaties, maar na meer dan 100 dagen werd de barriere om dagelijks gegevens in te voeren mij te hoog, desondanks heb ik er een aantal leuk dingen uit kunnen halen en heb ik er veel van kunnen leren. Een iPhone applicatie zou Daytum in ieder geval makkelijker maken!
 Ik ben nu opzoek naar een andere tool, met een nog mindere barriere.</description>
     </item>
     
     <item>
       <title>Self-tracking &amp; QR Codes een prima combinatie!</title>
-      <link>http://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</link>
+      <link>https://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</link>
       <pubDate>Mon, 20 Jul 2009 19:24:04 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</guid>
+      <guid>https://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</guid>
       <description>Een barcode kent iedereen wel, dat is een balk met streepjes die bij de kassa word ingescand, aan de hand daarvan word het product afgerekend. De barcode bestaat uit een vast aantal getallen, maar tegenwoordig zijn er ook QR-codes, deze kunnen meer bevatten dan alleen data ( zoals URL&#39;s ;) ).
 Hiernaast vind je een voorbeeld van een QR-code. Hoe gebruik je nu precies een QR-code? Schiet er een foto van met een telefoon die het gebruik ervan ondersteund.</description>
     </item>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mashup on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/mashup/</link>
+    <link>https://jplattel.nl/tags/mashup/</link>
     <description>Recent content in mashup on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 02 Feb 2015 12:45:05 +0100</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/mashup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/mashup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating the Intelligence Room</title>
-      <link>http://jplattel.nl/post/2015-02-02-creating-intelligence-room/</link>
+      <link>https://jplattel.nl/post/2015-02-02-creating-intelligence-room/</link>
       <pubDate>Mon, 02 Feb 2015 12:45:05 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2015-02-02-creating-intelligence-room/</guid>
+      <guid>https://jplattel.nl/post/2015-02-02-creating-intelligence-room/</guid>
       <description>Over the past few months I&#39;ve been steadily involved with a project that aims to recreate an war/control/intelligence room that you see in movies. The one difference is that the room is ment for decision-makers within bigger companies. Often, urgent en relevant questions go unanswered, but the Intelligence Room helps fixing this.
 During the Big Improvement Day we showcased our concept and I&#39;ve created a little Django app that matches all attendees based on topics they provided when signing up for the event.</description>
     </item>

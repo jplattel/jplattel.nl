@@ -1,25 +1,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joost Plattel on Joost Plattel</title>
-    <link>http://jplattel.nl/</link>
+    <link>https://jplattel.nl/</link>
     <description>Recent content in Joost Plattel on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sat, 17 Aug 2019 20:01:21 +0200</lastBuildDate>
-    <atom:link href="http://jplattel.nl/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Eerst Hulp Bij Abonnementen (EHBA)</title>
-      <link>http://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</link>
+      <link>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</link>
       <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</guid>
+      <guid>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</guid>
       <description>&lt;p&gt;One of my first projects for learning programming and navigating around the digitale sphere was building a visualization based on transport data. As I use public transport for all travel I naturally wanted to know how I spend my money on it.&lt;/p&gt;
 
 &lt;p&gt;This question has been popping in and out of my mind ever since and more recently I had some time to tinker again. This time I was wonder if I could recommend subscriptions based on historical data from a person. And lo and behold: &lt;a href=&#34;https://ehba.app&#34; target=&#34;_blank&#34;&gt;EHBA&lt;/a&gt; (eerste hulp bij abonnementen) was born!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jplattel.nl/img/ehba.png&#34; alt=&#34;ehba.app&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/ehba.png&#34; alt=&#34;ehba.app&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s a small little app that enables you to upload your personal public transport data from different sources and then offers you insight into the past months and based on your average spending recommends the best subscription!&lt;/p&gt;
 
@@ -29,37 +29,37 @@
     
     <item>
       <title>EHBA</title>
-      <link>http://jplattel.nl/project/ehba/</link>
+      <link>https://jplattel.nl/project/ehba/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
       
-      <guid>http://jplattel.nl/project/ehba/</guid>
+      <guid>https://jplattel.nl/project/ehba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panel member @ Big Brother Awards</title>
-      <link>http://jplattel.nl/media/big-brother-awards/</link>
+      <link>https://jplattel.nl/media/big-brother-awards/</link>
       <pubDate>Thu, 24 Jan 2019 13:59:47 +0100</pubDate>
       
-      <guid>http://jplattel.nl/media/big-brother-awards/</guid>
+      <guid>https://jplattel.nl/media/big-brother-awards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalstats</title>
-      <link>http://jplattel.nl/project/personalstats/</link>
+      <link>https://jplattel.nl/project/personalstats/</link>
       <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
       
-      <guid>http://jplattel.nl/project/personalstats/</guid>
+      <guid>https://jplattel.nl/project/personalstats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>8:36pm 2018</title>
-      <link>http://jplattel.nl/post/2019-01-06-836pm-2018/</link>
+      <link>https://jplattel.nl/post/2019-01-06-836pm-2018/</link>
       <pubDate>Sun, 06 Jan 2019 20:48:47 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2019-01-06-836pm-2018/</guid>
+      <guid>https://jplattel.nl/post/2019-01-06-836pm-2018/</guid>
       <description>&lt;p&gt;As we close out 2018 and start out the new year fresh, the one thing left to do is make a video of all the 8:36pm photos that I took that year. And when uploading this video I checked out when I started, which is 2010. Thus this marks the 10th year that I&amp;rsquo;m doing this&amp;hellip; Here&amp;rsquo;s the video:&lt;/p&gt;
 
 &lt;iframe src=&#34;https://player.vimeo.com/video/309760850&#34; width=&#34;640&#34; height=&#34;400&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -72,20 +72,20 @@
     
     <item>
       <title>Nolostcapital</title>
-      <link>http://jplattel.nl/client/nolostcapital/</link>
+      <link>https://jplattel.nl/client/nolostcapital/</link>
       <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
       
-      <guid>http://jplattel.nl/client/nolostcapital/</guid>
+      <guid>https://jplattel.nl/client/nolostcapital/</guid>
       <description>&lt;p&gt;For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act. The backend service was done in Django and the front-end in Vue.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iPhone XS NFC Shortcuts</title>
-      <link>http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
+      <link>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
+      <guid>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a &lt;a href=&#34;https://www.acs.com.hk/en/products/403/acr1255u-j1-secure-bluetooth%C2%AE-nfc-reader/&#34;&gt;NFC reader&lt;/a&gt;. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)&lt;/p&gt;
 
 &lt;p&gt;Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag. The way it works is simple, the NFC tags stores a url with custom scheme &lt;code&gt;shortcuts://run-shortcut?name=Wekker&amp;rdquo;&lt;/code&gt;. When the tag is touched, it opens the custom url om my phone triggering a shortcut. This enables the alarm. Presto!&lt;/p&gt;
@@ -105,26 +105,26 @@
     
     <item>
       <title>Ambassador for the Digital Society School Amsterdam</title>
-      <link>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
+      <link>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
       <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
       
-      <guid>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
+      <guid>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making and Fixing Things</title>
-      <link>http://jplattel.nl/post/2018-08-27-making-and-fixing-things/</link>
+      <link>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</link>
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
+      <guid>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
       <description>&lt;p&gt;I bougth a &lt;a href=&#34;https://shop.prusa3d.com/en/3d-printers/53-original-prusa-i3-mk2s-3d-printer.html&#34;&gt;3D printer&lt;/a&gt; together with &lt;a href=&#34;http://ikbenke.es/&#34;&gt;my brother&lt;/a&gt;. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!&lt;/p&gt;
 
 &lt;p&gt;As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like &lt;a href=&#34;https://www.autodesk.com/products/fusion-360/students-teachers-educators&#34;&gt;Fusion360&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Configuring the printer and slicing the 3D model takes a little bit of time, but then you&amp;rsquo;re off to the races!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jplattel.nl/img/prusa-3d-printer.jpg&#34; alt=&#34;The Prusa Mk III printer&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/prusa-3d-printer.jpg&#34; alt=&#34;The Prusa Mk III printer&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;In the mean time I&amp;rsquo;ve been drawing up some improvements for the 3D printer itself as well! My brother had an idea about a custom lighting fixture that can be mounted just below the filament carrier, that way you can have sufficient lighting when working with the printer.&lt;/p&gt;
 
@@ -134,49 +134,49 @@
     
     <item>
       <title>Article: Mag jouw baas je bloeddruk weten als hij jou ermee kan helpen?</title>
-      <link>http://jplattel.nl/media/intermediar/</link>
+      <link>https://jplattel.nl/media/intermediar/</link>
       <pubDate>Fri, 22 Jun 2018 14:51:29 +0200</pubDate>
       
-      <guid>http://jplattel.nl/media/intermediar/</guid>
+      <guid>https://jplattel.nl/media/intermediar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundsup</title>
-      <link>http://jplattel.nl/client/fundsup/</link>
+      <link>https://jplattel.nl/client/fundsup/</link>
       <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
       
-      <guid>http://jplattel.nl/client/fundsup/</guid>
+      <guid>https://jplattel.nl/client/fundsup/</guid>
       <description>&lt;p&gt;To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Watermelon</title>
-      <link>http://jplattel.nl/client/watermelon/</link>
+      <link>https://jplattel.nl/client/watermelon/</link>
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
       
-      <guid>http://jplattel.nl/client/watermelon/</guid>
+      <guid>https://jplattel.nl/client/watermelon/</guid>
       <description>&lt;p&gt;In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Colliers</title>
-      <link>http://jplattel.nl/client/colliers/</link>
+      <link>https://jplattel.nl/client/colliers/</link>
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
       
-      <guid>http://jplattel.nl/client/colliers/</guid>
+      <guid>https://jplattel.nl/client/colliers/</guid>
       <description>&lt;p&gt;Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
-      <link>http://jplattel.nl/client/bzk/</link>
+      <link>https://jplattel.nl/client/bzk/</link>
       <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
       
-      <guid>http://jplattel.nl/client/bzk/</guid>
+      <guid>https://jplattel.nl/client/bzk/</guid>
       <description>&lt;p&gt;Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.&lt;/p&gt;
 
 &lt;p&gt;My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.&lt;/p&gt;
@@ -185,10 +185,10 @@
     
     <item>
       <title>Vogsy</title>
-      <link>http://jplattel.nl/client/vogsy/</link>
+      <link>https://jplattel.nl/client/vogsy/</link>
       <pubDate>Sun, 20 May 2018 00:19:14 +0200</pubDate>
       
-      <guid>http://jplattel.nl/client/vogsy/</guid>
+      <guid>https://jplattel.nl/client/vogsy/</guid>
       <description>&lt;p&gt;For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.&lt;/p&gt;
 </description>
     </item>

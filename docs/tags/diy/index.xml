@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diy on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/diy/</link>
+    <link>https://jplattel.nl/tags/diy/</link>
     <description>Recent content in diy on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 27 Aug 2018 21:25:18 +0200</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Making and Fixing Things</title>
-      <link>http://jplattel.nl/post/2018-08-27-making-and-fixing-things/</link>
+      <link>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</link>
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
+      <guid>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
       <description>I bougth a 3D printer together with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
 As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like Fusion360.</description>
     </item>
     
     <item>
       <title>Restoring an old plane</title>
-      <link>http://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</link>
+      <link>https://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</guid>
+      <guid>https://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</guid>
       <description>At one of the stands of a flea market during Kingsday here in the Netherlands, I found an old plane. And for only 2 euro I couldn&amp;rsquo;t leave it behind. I took it on me to restore it to its former glory. First step, dismantle the broken off handle, removing any drops of paint and cleaning the chisel from all the rust. I also took measurements of the old handle and started designing that in Fusion 360.</description>
     </item>
     
     <item>
       <title>Sous-vide Rice Cooker</title>
-      <link>http://jplattel.nl/project/sous-vide-ricecooker/</link>
+      <link>https://jplattel.nl/project/sous-vide-ricecooker/</link>
       <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
       
-      <guid>http://jplattel.nl/project/sous-vide-ricecooker/</guid>
+      <guid>https://jplattel.nl/project/sous-vide-ricecooker/</guid>
       <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
     </item>
     

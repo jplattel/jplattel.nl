@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iphone on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/iphone/</link>
+    <link>https://jplattel.nl/tags/iphone/</link>
     <description>Recent content in iphone on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 16 Oct 2018 23:38:39 +0200</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>iPhone XS NFC Shortcuts</title>
-      <link>http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
+      <link>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
+      <guid>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
       <description>I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a NFC reader. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)
 Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag.</description>
     </item>
     
     <item>
       <title>Quantified Phone Usage with iPython</title>
-      <link>http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</link>
+      <link>https://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</link>
       <pubDate>Mon, 12 Oct 2015 11:35:38 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</guid>
+      <guid>https://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</guid>
       <description>&lt;p&gt;Technology is making it easier to collect data, for example phone usage. From the 1st of January I tracked how much I&#39;ve used my phone by installing an app called &lt;a href=&#34;https://itunes.apple.com/us/app/moment-track-how-much-you/id771541926?mt=8&#34;&gt;Moment&lt;/a&gt;. It runs in the background and silently tracks how much you use your phone. As said, the first step towards behaviour-change is providing insight in current behaviour. &lt;/p&gt;
 &lt;p&gt;Lately I&#39;ve been exploring iPython for data-analysis and sharing snippets of data. I&#39;ve started a Github &lt;a href=&#34;https://github.com/jplattel/notebooks&#34;&gt;repository&lt;/a&gt; that contains some notebooks I&#39;m working on. And I&#39;ve embedded the one below where I analyse my phone usage:</description>
     </item>
     
     <item>
       <title>Showertrack!</title>
-      <link>http://jplattel.nl/post/2012-07-15-showertrack/</link>
+      <link>https://jplattel.nl/post/2012-07-15-showertrack/</link>
       <pubDate>Sun, 15 Jul 2012 22:06:18 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2012-07-15-showertrack/</guid>
+      <guid>https://jplattel.nl/post/2012-07-15-showertrack/</guid>
       <description>&lt;p&gt;So much projects, so little time... But hey, let&#39;s just use some of my spare time for keeping you guys updated on the stuff I do. I&#39;ve been doing several things, but the most interesting right now is a new iPhone app concept that we&#39;ve been developing since last month. Together with Nils Waanders and Willemijn Edens we are creating an app which helps people save water while showering. It&#39;s called &lt;strong&gt;&lt;a href=&#34;http://www.showertrack.com/&#34;&gt;Showertrack&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The way we are building Showertrack is an excellent example on how to create something in a more freeform way, or lean if you want to call it that way. We don&#39;t seem to have office hours or office space. We are however supported by people like &lt;a href=&#34;http://twitter.com/arjanharing&#34;&gt;Arjan Haring&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/mattwallaert&#34;&gt;Matt Wallaert&lt;/a&gt;. Utrecht Inc. also lends us space for creative processes.&lt;/p&gt;
 &lt;p&gt;The concept is coming along nicely, we&#39;re done with our first wireframes, have a look below:</description>

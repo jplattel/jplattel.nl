@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>berichtenbox on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/berichtenbox/</link>
+    <link>https://jplattel.nl/tags/berichtenbox/</link>
     <description>Recent content in berichtenbox on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 29 Jan 2016 10:33:56 +0100</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/berichtenbox/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/berichtenbox/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On solving annoying things</title>
-      <link>http://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</link>
+      <link>https://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</link>
       <pubDate>Fri, 29 Jan 2016 10:33:56 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</guid>
+      <guid>https://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</guid>
       <description>The dutch government and other (bigger) organisations seem to have a habit to annoy people. One of the reasons they do so is security by obscurity. It has it’s flaw as shown in this blogpost by @levelsio.
 He wrote a little script that fetches and forwards all the email, which everyone can do after loggin in with DigiD. As shown, this takes a lot of steps. Automating it can be done with less then 50 lines of code.</description>
     </item>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plos on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/plos/</link>
+    <link>https://jplattel.nl/tags/plos/</link>
     <description>Recent content in plos on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 29 Oct 2009 11:41:21 +0100</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/plos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/plos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenAccess.nl voor wetenschappers</title>
-      <link>http://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</link>
+      <link>https://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</link>
       <pubDate>Thu, 29 Oct 2009 11:41:21 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</guid>
+      <guid>https://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</guid>
       <description>&lt;p&gt;Ik ben voorstander van open en linked data, gratis af te halen en makkelijk online te scrapen. Het grote voordeel van open en linked data is dat iedereen ermee kan werken en er dus dingen ontstaan die normaal niet bedacht worden. Zulke &#39;mashups&#39; maken het makkelijker om bijvoorbeeld overzicht te krijgen over data. Voorbeeld van open data:  &lt;a href=&#34;http://www.huizenzoeker.nl&#34;&gt;Huizenzoeker&lt;/a&gt; , &lt;a href=&#34;http://www.alarmeringen.nl/&#34;&gt;Alarmeringen&lt;/a&gt; en &lt;a href=&#34;http://buurtlink.nl/&#34;&gt;Buurtlink&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;Linking Open Data&#34; src=&#34;http://jplattel.nl/img/Linking-Open-Data-diagram_2007-09.png&#34; alt=&#34;&#34; width=&#34;461&#34; height=&#34;364&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;Linking Open Data&#34; src=&#34;https://jplattel.nl/img/Linking-Open-Data-diagram_2007-09.png&#34; alt=&#34;&#34; width=&#34;461&#34; height=&#34;364&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.openaccess.nl&#34;&gt;Openaccess.nl&lt;/a&gt; is een website waar ook data aangeboden word er is momenteel nog niet heel veel te vinden, maar er is al wel een apart kopje voor scheikunde onder de categorie wetenschap. Als deze over een verloop van tijd voller raakt wordt hij stukje meer waard en kunnen er misschien ook nog mooie dingen ontstaan zoals een gezamenlijk onderzoek.. of een mashup zoals hierboven genoemd. </description>
     </item>
     

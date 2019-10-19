@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biography on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/biography/</link>
+    <link>https://jplattel.nl/tags/biography/</link>
     <description>Recent content in biography on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sat, 07 Jun 2014 22:04:13 +0200</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/biography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/biography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Metabiography, written in the cloud</title>
-      <link>http://jplattel.nl/post/2014-06-07-metabiography-written-cloud/</link>
+      <link>https://jplattel.nl/post/2014-06-07-metabiography-written-cloud/</link>
       <pubDate>Sat, 07 Jun 2014 22:04:13 +0200</pubDate>
       
-      <guid>http://jplattel.nl/post/2014-06-07-metabiography-written-cloud/</guid>
+      <guid>https://jplattel.nl/post/2014-06-07-metabiography-written-cloud/</guid>
       <description>Last month, most of my time was spend on a project for Yuri Veerman &amp;amp; Elsbeth Fraanje, who are part of the Quantified Reality project by het Mediafonds &amp;amp; the Sandberg Institute. Elsbeth and Yuri are exploring the possiblities of (auto)generating a biography from somebody&#39;s meta-data and created the the aptly named Metabiography.
 I was asked by Yuri &amp;amp; Elsbeth to build a working prototype For now, it&#39;s in pre-beta phase, but below is a screenshot how it could look like.</description>
     </item>

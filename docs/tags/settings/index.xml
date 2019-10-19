@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>settings on Joost Plattel</title>
-    <link>http://jplattel.nl/tags/settings/</link>
+    <link>https://jplattel.nl/tags/settings/</link>
     <description>Recent content in settings on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 23 Feb 2016 14:11:46 +0100</lastBuildDate>
     
-	<atom:link href="http://jplattel.nl/tags/settings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/settings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy &amp; Gracefully revealing depth</title>
-      <link>http://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</link>
+      <link>https://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</link>
       <pubDate>Tue, 23 Feb 2016 14:11:46 +0100</pubDate>
       
-      <guid>http://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</guid>
+      <guid>https://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</guid>
       <description>Just a couple of days ago I read a post from Atlassian explaining some new features, but the most interesting aspect was that they explore gracefully revealing depth. To me this same concept can also be applied to privacy, ethics and more problems. Even though it&#39;s about functionality, the same can be applied to complexity.
 As we are faced with interesting problems about privacy and ethics, would the way of gracefully revealing complexity work for making the right choices or settings the right parameters?</description>
     </item>

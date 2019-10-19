@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/</loc>
+      <loc>https://jplattel.nl/tags/</loc>
       <lastmod>2019-08-17T20:01:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ehba/</loc>
+      <loc>https://jplattel.nl/tags/ehba/</loc>
       <lastmod>2019-08-17T20:01:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -24,7 +24,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</loc>
+      <loc>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</loc>
       <lastmod>2019-08-17T20:01:21+02:00</lastmod>
     </url>
     
@@ -33,17 +33,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/</loc>
-      <lastmod>2019-08-17T20:01:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/</loc>
+      <loc>https://jplattel.nl/</loc>
       <lastmod>2019-08-17T20:01:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -53,7 +43,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/abonnementen/</loc>
+      <loc>https://jplattel.nl/tags/</loc>
       <lastmod>2019-08-17T20:01:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -63,7 +53,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/app/</loc>
+      <loc>https://jplattel.nl/tags/abonnementen/</loc>
       <lastmod>2019-08-17T20:01:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -73,7 +63,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ns/</loc>
+      <loc>https://jplattel.nl/tags/app/</loc>
       <lastmod>2019-08-17T20:01:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -83,7 +73,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/ehba/</loc>
+      <loc>https://jplattel.nl/tags/ns/</loc>
+      <lastmod>2019-08-17T20:01:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/project/ehba/</loc>
       <lastmod>2019-08-05T00:05:13+02:00</lastmod>
     </url>
     
@@ -92,7 +92,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/</loc>
+      <loc>https://jplattel.nl/project/</loc>
       <lastmod>2019-08-05T00:05:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -102,7 +102,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/bits-of-freedom/</loc>
+      <loc>https://jplattel.nl/tags/bits-of-freedom/</loc>
       <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -112,7 +112,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/data/</loc>
+      <loc>https://jplattel.nl/tags/data/</loc>
       <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/</loc>
+      <loc>https://jplattel.nl/media/</loc>
       <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -132,7 +132,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/big-brother-awards/</loc>
+      <loc>https://jplattel.nl/media/big-brother-awards/</loc>
       <lastmod>2019-01-24T13:59:47+01:00</lastmod>
     </url>
     
@@ -141,7 +141,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/privacy/</loc>
+      <loc>https://jplattel.nl/tags/privacy/</loc>
       <lastmod>2019-01-24T13:59:47+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/personalstats/</loc>
+      <loc>https://jplattel.nl/tags/personalstats/</loc>
       <lastmod>2019-01-08T00:05:29+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,7 +161,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/personalstats/</loc>
+      <loc>https://jplattel.nl/project/personalstats/</loc>
       <lastmod>2019-01-08T00:05:29+01:00</lastmod>
     </url>
     
@@ -170,17 +170,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/qs/</loc>
-      <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/quantifiedself/</loc>
+      <loc>https://jplattel.nl/tags/qs/</loc>
       <lastmod>2019-01-08T00:05:29+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,7 +180,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/workflowy/</loc>
+      <loc>https://jplattel.nl/tags/quantifiedself/</loc>
       <lastmod>2019-01-08T00:05:29+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -200,7 +190,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2019-01-06-836pm-2018/</loc>
+      <loc>https://jplattel.nl/tags/workflowy/</loc>
+      <lastmod>2019-01-08T00:05:29+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2019-01-06-836pm-2018/</loc>
       <lastmod>2019-01-06T20:48:47+01:00</lastmod>
     </url>
     
@@ -209,7 +209,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/</loc>
+      <loc>https://jplattel.nl/client/</loc>
       <lastmod>2018-11-27T21:49:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -219,7 +219,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/nolostcapital/</loc>
+      <loc>https://jplattel.nl/client/nolostcapital/</loc>
       <lastmod>2018-11-27T21:49:56+01:00</lastmod>
     </url>
     
@@ -228,7 +228,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/</loc>
+      <loc>https://jplattel.nl/categories/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -238,7 +238,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/lifehacking/</loc>
+      <loc>https://jplattel.nl/categories/lifehacking/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -248,7 +248,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lifehacking/</loc>
+      <loc>https://jplattel.nl/tags/lifehacking/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -258,7 +258,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</loc>
+      <loc>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
     </url>
     
@@ -267,17 +267,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/iphone/</loc>
-      <lastmod>2018-10-16T23:38:39+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/nfc/</loc>
+      <loc>https://jplattel.nl/tags/iphone/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -287,7 +277,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/shortcuts/</loc>
+      <loc>https://jplattel.nl/tags/nfc/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -297,7 +287,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/xs/</loc>
+      <loc>https://jplattel.nl/tags/shortcuts/</loc>
       <lastmod>2018-10-16T23:38:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -307,7 +297,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</loc>
+      <loc>https://jplattel.nl/tags/xs/</loc>
+      <lastmod>2018-10-16T23:38:39+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</loc>
       <lastmod>2018-09-18T17:17:26+02:00</lastmod>
     </url>
     
@@ -316,7 +316,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/3d-printing/</loc>
+      <loc>https://jplattel.nl/tags/3d-printing/</loc>
       <lastmod>2018-08-27T21:25:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -326,7 +326,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-08-27-making-and-fixing-things/</loc>
+      <loc>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</loc>
       <lastmod>2018-08-27T21:25:18+02:00</lastmod>
     </url>
     
@@ -335,17 +335,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/diy/</loc>
-      <lastmod>2018-08-27T21:25:18+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/fixing/</loc>
+      <loc>https://jplattel.nl/tags/diy/</loc>
       <lastmod>2018-08-27T21:25:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -355,7 +345,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/maker/</loc>
+      <loc>https://jplattel.nl/tags/fixing/</loc>
       <lastmod>2018-08-27T21:25:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -365,7 +355,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/making/</loc>
+      <loc>https://jplattel.nl/tags/maker/</loc>
       <lastmod>2018-08-27T21:25:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -375,7 +365,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/intermediar/</loc>
+      <loc>https://jplattel.nl/tags/making/</loc>
+      <lastmod>2018-08-27T21:25:18+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/media/intermediar/</loc>
       <lastmod>2018-06-22T14:51:29+02:00</lastmod>
     </url>
     
@@ -384,7 +384,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/fundsup/</loc>
+      <loc>https://jplattel.nl/client/fundsup/</loc>
       <lastmod>2018-05-31T00:15:32+02:00</lastmod>
     </url>
     
@@ -393,7 +393,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/watermelon/</loc>
+      <loc>https://jplattel.nl/client/watermelon/</loc>
       <lastmod>2018-05-30T23:28:49+02:00</lastmod>
     </url>
     
@@ -402,7 +402,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/colliers/</loc>
+      <loc>https://jplattel.nl/client/colliers/</loc>
       <lastmod>2018-05-30T23:27:24+02:00</lastmod>
     </url>
     
@@ -411,7 +411,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/bzk/</loc>
+      <loc>https://jplattel.nl/client/bzk/</loc>
       <lastmod>2018-05-30T23:25:32+02:00</lastmod>
     </url>
     
@@ -420,7 +420,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/vogsy/</loc>
+      <loc>https://jplattel.nl/client/vogsy/</loc>
       <lastmod>2018-05-20T00:19:14+02:00</lastmod>
     </url>
     
@@ -429,7 +429,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/diy/</loc>
+      <loc>https://jplattel.nl/categories/diy/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -439,7 +439,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</loc>
+      <loc>https://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
     </url>
     
@@ -448,17 +448,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/fusion-360/</loc>
-      <lastmod>2018-04-29T20:12:17+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/plane/</loc>
+      <loc>https://jplattel.nl/tags/fusion-360/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -468,7 +458,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/restoration/</loc>
+      <loc>https://jplattel.nl/tags/plane/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -478,7 +468,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tools/</loc>
+      <loc>https://jplattel.nl/tags/restoration/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -488,7 +478,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/woodworking/</loc>
+      <loc>https://jplattel.nl/tags/tools/</loc>
       <lastmod>2018-04-29T20:12:17+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -498,7 +488,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</loc>
+      <loc>https://jplattel.nl/tags/woodworking/</loc>
+      <lastmod>2018-04-29T20:12:17+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
     </url>
     
@@ -507,7 +507,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/brouwerij-nooitgedacht/</loc>
+      <loc>https://jplattel.nl/categories/brouwerij-nooitgedacht/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -517,7 +517,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/beer/</loc>
+      <loc>https://jplattel.nl/tags/beer/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -527,7 +527,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/brewer/</loc>
+      <loc>https://jplattel.nl/tags/brewer/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -537,7 +537,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/brewery/</loc>
+      <loc>https://jplattel.nl/tags/brewery/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -547,7 +547,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/brewing/</loc>
+      <loc>https://jplattel.nl/tags/brewing/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -557,7 +557,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/brouwerij/</loc>
+      <loc>https://jplattel.nl/tags/brouwerij/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -567,7 +567,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/kratfunding/</loc>
+      <loc>https://jplattel.nl/tags/kratfunding/</loc>
       <lastmod>2018-04-26T13:51:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -577,7 +577,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/zorgvisie-ict/</loc>
+      <loc>https://jplattel.nl/media/zorgvisie-ict/</loc>
       <lastmod>2018-04-22T00:19:43+02:00</lastmod>
     </url>
     
@@ -586,7 +586,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/arte-tv/</loc>
+      <loc>https://jplattel.nl/media/arte-tv/</loc>
       <lastmod>2018-04-22T00:16:25+02:00</lastmod>
     </url>
     
@@ -595,7 +595,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/volmaakte-mens/</loc>
+      <loc>https://jplattel.nl/media/volmaakte-mens/</loc>
       <lastmod>2018-04-22T00:15:14+02:00</lastmod>
     </url>
     
@@ -604,7 +604,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/sous-vide-ricecooker/</loc>
+      <loc>https://jplattel.nl/project/sous-vide-ricecooker/</loc>
       <lastmod>2018-04-22T00:14:12+02:00</lastmod>
     </url>
     
@@ -613,17 +613,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/food/</loc>
-      <lastmod>2018-04-22T00:14:12+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/hardware/</loc>
+      <loc>https://jplattel.nl/tags/food/</loc>
       <lastmod>2018-04-22T00:14:12+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -633,7 +623,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ricecooker/</loc>
+      <loc>https://jplattel.nl/tags/hardware/</loc>
       <lastmod>2018-04-22T00:14:12+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -643,7 +633,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/diy-longboard/</loc>
+      <loc>https://jplattel.nl/tags/ricecooker/</loc>
+      <lastmod>2018-04-22T00:14:12+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/project/diy-longboard/</loc>
       <lastmod>2018-04-22T00:13:25+02:00</lastmod>
     </url>
     
@@ -652,7 +652,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/de-padvinders/</loc>
+      <loc>https://jplattel.nl/project/de-padvinders/</loc>
       <lastmod>2018-04-21T23:07:36+02:00</lastmod>
     </url>
     
@@ -661,7 +661,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/een-leuk-boek/</loc>
+      <loc>https://jplattel.nl/media/een-leuk-boek/</loc>
       <lastmod>2018-04-21T23:01:21+02:00</lastmod>
     </url>
     
@@ -670,7 +670,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/mondriaantje/</loc>
+      <loc>https://jplattel.nl/project/mondriaantje/</loc>
       <lastmod>2018-04-21T22:55:11+02:00</lastmod>
     </url>
     
@@ -679,7 +679,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/speaking/</loc>
+      <loc>https://jplattel.nl/speaking/</loc>
       <lastmod>2018-04-21T22:44:44+02:00</lastmod>
     </url>
     
@@ -688,7 +688,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/berichtenbox-forwarder/</loc>
+      <loc>https://jplattel.nl/project/berichtenbox-forwarder/</loc>
       <lastmod>2018-04-21T22:18:35+02:00</lastmod>
     </url>
     
@@ -697,7 +697,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/po-actueel-qwp/</loc>
+      <loc>https://jplattel.nl/media/po-actueel-qwp/</loc>
       <lastmod>2018-04-21T22:17:10+02:00</lastmod>
     </url>
     
@@ -706,7 +706,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/tedxyouth-groningen/</loc>
+      <loc>https://jplattel.nl/media/tedxyouth-groningen/</loc>
       <lastmod>2018-04-21T21:23:09+02:00</lastmod>
     </url>
     
@@ -715,7 +715,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/wishlist/</loc>
+      <loc>https://jplattel.nl/wishlist/</loc>
       <lastmod>2018-04-21T21:17:28+02:00</lastmod>
     </url>
     
@@ -724,7 +724,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/quantifiedself/</loc>
+      <loc>https://jplattel.nl/project/quantifiedself/</loc>
       <lastmod>2018-04-21T21:10:30+02:00</lastmod>
     </url>
     
@@ -733,7 +733,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/media/groene_amsterdammer/</loc>
+      <loc>https://jplattel.nl/media/groene_amsterdammer/</loc>
       <lastmod>2018-04-21T21:05:01+02:00</lastmod>
     </url>
     
@@ -742,7 +742,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/curious_corner/</loc>
+      <loc>https://jplattel.nl/project/curious_corner/</loc>
       <lastmod>2018-04-21T20:38:30+02:00</lastmod>
     </url>
     
@@ -751,7 +751,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/brouwerij_nooitgedacht/</loc>
+      <loc>https://jplattel.nl/project/brouwerij_nooitgedacht/</loc>
       <lastmod>2018-04-21T17:56:24+02:00</lastmod>
     </url>
     
@@ -760,7 +760,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</loc>
+      <loc>https://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</loc>
       <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -769,7 +769,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</loc>
+      <loc>https://jplattel.nl/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</loc>
       <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -778,7 +778,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2018-01-03-836pm-2017/</loc>
+      <loc>https://jplattel.nl/post/2018-01-03-836pm-2017/</loc>
       <lastmod>2018-01-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -787,7 +787,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/sustrans/</loc>
+      <loc>https://jplattel.nl/client/sustrans/</loc>
       <lastmod>2017-08-04T19:01:15+02:00</lastmod>
     </url>
     
@@ -796,7 +796,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2017-06-03-getting-started-with-a-lorawan-gateway/</loc>
+      <loc>https://jplattel.nl/post/2017-06-03-getting-started-with-a-lorawan-gateway/</loc>
       <lastmod>2017-06-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -805,7 +805,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/permanent-beta/</loc>
+      <loc>https://jplattel.nl/project/permanent-beta/</loc>
       <lastmod>2017-05-31T00:09:50+02:00</lastmod>
     </url>
     
@@ -814,7 +814,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2017-03-16-predicting-energy-usage-with-prophet/</loc>
+      <loc>https://jplattel.nl/post/2017-03-16-predicting-energy-usage-with-prophet/</loc>
       <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -823,7 +823,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2017-01-02-yearly-movie-836pm/</loc>
+      <loc>https://jplattel.nl/post/2017-01-02-yearly-movie-836pm/</loc>
       <lastmod>2017-01-02T20:42:46+02:00</lastmod>
     </url>
     
@@ -832,7 +832,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/</loc>
+      <loc>https://jplattel.nl/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -841,7 +841,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-11-15-brewing-beer-in-a-modified-kettle/</loc>
+      <loc>https://jplattel.nl/post/2016-11-15-brewing-beer-in-a-modified-kettle/</loc>
       <lastmod>2016-11-15T15:42:46+02:00</lastmod>
     </url>
     
@@ -850,7 +850,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/corniglia/</loc>
+      <loc>https://jplattel.nl/tags/corniglia/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -860,7 +860,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/joost/</loc>
+      <loc>https://jplattel.nl/categories/joost/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -870,7 +870,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/manarole/</loc>
+      <loc>https://jplattel.nl/tags/manarole/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -880,7 +880,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/monterosso/</loc>
+      <loc>https://jplattel.nl/tags/monterosso/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -890,7 +890,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-08-25-holiday-italy-cinque-terre/</loc>
+      <loc>https://jplattel.nl/post/2016-08-25-holiday-italy-cinque-terre/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
     </url>
     
@@ -899,17 +899,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/riomaggiore/</loc>
-      <lastmod>2016-08-25T15:42:46+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/vernazza/</loc>
+      <loc>https://jplattel.nl/tags/riomaggiore/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -919,7 +909,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/cinque-terre/</loc>
+      <loc>https://jplattel.nl/tags/vernazza/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -929,7 +919,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/florence/</loc>
+      <loc>https://jplattel.nl/tags/cinque-terre/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -939,7 +929,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/holida/</loc>
+      <loc>https://jplattel.nl/tags/florence/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -949,7 +939,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/italy/</loc>
+      <loc>https://jplattel.nl/tags/holida/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -959,7 +949,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/la-spezia/</loc>
+      <loc>https://jplattel.nl/tags/italy/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -969,7 +959,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/rome/</loc>
+      <loc>https://jplattel.nl/tags/la-spezia/</loc>
       <lastmod>2016-08-25T15:42:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -979,7 +969,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/setup/</loc>
+      <loc>https://jplattel.nl/tags/rome/</loc>
+      <lastmod>2016-08-25T15:42:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/client/setup/</loc>
       <lastmod>2016-08-04T19:01:06+02:00</lastmod>
     </url>
     
@@ -988,7 +988,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-07-25-double-bike-london/</loc>
+      <loc>https://jplattel.nl/post/2016-07-25-double-bike-london/</loc>
       <lastmod>2016-07-25T13:09:06+02:00</lastmod>
     </url>
     
@@ -997,17 +997,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/random/</loc>
-      <lastmod>2016-07-25T13:09:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/biking/</loc>
+      <loc>https://jplattel.nl/categories/random/</loc>
       <lastmod>2016-07-25T13:09:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1017,7 +1007,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/cycling/</loc>
+      <loc>https://jplattel.nl/tags/biking/</loc>
       <lastmod>2016-07-25T13:09:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1027,7 +1017,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/double-bike/</loc>
+      <loc>https://jplattel.nl/tags/cycling/</loc>
       <lastmod>2016-07-25T13:09:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1037,7 +1027,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/england/</loc>
+      <loc>https://jplattel.nl/tags/double-bike/</loc>
       <lastmod>2016-07-25T13:09:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1047,7 +1037,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/holiday/</loc>
+      <loc>https://jplattel.nl/tags/england/</loc>
       <lastmod>2016-07-25T13:09:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1057,7 +1047,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/london/</loc>
+      <loc>https://jplattel.nl/tags/holiday/</loc>
       <lastmod>2016-07-25T13:09:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1067,7 +1057,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/project/qountus/</loc>
+      <loc>https://jplattel.nl/tags/london/</loc>
+      <lastmod>2016-07-25T13:09:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/project/qountus/</loc>
       <lastmod>2016-06-05T16:29:59+02:00</lastmod>
     </url>
     
@@ -1076,7 +1076,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-06-02-many-things-little-experiment/</loc>
+      <loc>https://jplattel.nl/post/2016-06-02-many-things-little-experiment/</loc>
       <lastmod>2016-06-02T10:04:02+02:00</lastmod>
     </url>
     
@@ -1085,7 +1085,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/code/</loc>
+      <loc>https://jplattel.nl/categories/code/</loc>
       <lastmod>2016-05-02T22:19:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1095,7 +1095,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</loc>
+      <loc>https://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</loc>
       <lastmod>2016-05-02T22:19:59+02:00</lastmod>
     </url>
     
@@ -1104,17 +1104,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/chrome/</loc>
-      <lastmod>2016-05-02T22:19:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/interface/</loc>
+      <loc>https://jplattel.nl/tags/chrome/</loc>
       <lastmod>2016-05-02T22:19:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1124,7 +1114,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/linkedin/</loc>
+      <loc>https://jplattel.nl/tags/interface/</loc>
       <lastmod>2016-05-02T22:19:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1134,7 +1124,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/plugin/</loc>
+      <loc>https://jplattel.nl/tags/linkedin/</loc>
       <lastmod>2016-05-02T22:19:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1144,7 +1134,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-03-08-making-waves/</loc>
+      <loc>https://jplattel.nl/tags/plugin/</loc>
+      <lastmod>2016-05-02T22:19:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2016-03-08-making-waves/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
     </url>
     
@@ -1153,7 +1153,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/quantified-self/</loc>
+      <loc>https://jplattel.nl/categories/quantified-self/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1163,7 +1163,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/technology/</loc>
+      <loc>https://jplattel.nl/categories/technology/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1173,7 +1173,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/authority/</loc>
+      <loc>https://jplattel.nl/tags/authority/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1183,7 +1183,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/dpa/</loc>
+      <loc>https://jplattel.nl/tags/dpa/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1193,7 +1193,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/employee/</loc>
+      <loc>https://jplattel.nl/tags/employee/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1203,7 +1203,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/employer/</loc>
+      <loc>https://jplattel.nl/tags/employer/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1213,7 +1213,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ethics/</loc>
+      <loc>https://jplattel.nl/tags/ethics/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1223,7 +1223,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/protection/</loc>
+      <loc>https://jplattel.nl/tags/protection/</loc>
       <lastmod>2016-03-08T14:32:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1233,7 +1233,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/philosophy/</loc>
+      <loc>https://jplattel.nl/categories/philosophy/</loc>
       <lastmod>2016-02-23T14:11:46+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1243,7 +1243,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</loc>
+      <loc>https://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</loc>
       <lastmod>2016-02-23T14:11:46+01:00</lastmod>
     </url>
     
@@ -1252,17 +1252,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/depth/</loc>
-      <lastmod>2016-02-23T14:11:46+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/gracefully/</loc>
+      <loc>https://jplattel.nl/tags/depth/</loc>
       <lastmod>2016-02-23T14:11:46+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1272,7 +1262,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/revealing/</loc>
+      <loc>https://jplattel.nl/tags/gracefully/</loc>
       <lastmod>2016-02-23T14:11:46+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1282,7 +1272,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/settings/</loc>
+      <loc>https://jplattel.nl/tags/revealing/</loc>
       <lastmod>2016-02-23T14:11:46+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1292,7 +1282,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-02-16-musings-on-transparency/</loc>
+      <loc>https://jplattel.nl/tags/settings/</loc>
+      <lastmod>2016-02-23T14:11:46+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2016-02-16-musings-on-transparency/</loc>
       <lastmod>2016-02-16T15:10:08+01:00</lastmod>
     </url>
     
@@ -1301,17 +1301,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/dashboard/</loc>
-      <lastmod>2016-02-16T15:10:08+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/transparency/</loc>
+      <loc>https://jplattel.nl/tags/dashboard/</loc>
       <lastmod>2016-02-16T15:10:08+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1321,7 +1311,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</loc>
+      <loc>https://jplattel.nl/tags/transparency/</loc>
+      <lastmod>2016-02-16T15:10:08+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
     </url>
     
@@ -1330,7 +1330,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/berichtenbox/</loc>
+      <loc>https://jplattel.nl/tags/berichtenbox/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1340,7 +1340,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/forward/</loc>
+      <loc>https://jplattel.nl/tags/forward/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1350,7 +1350,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mijn/</loc>
+      <loc>https://jplattel.nl/tags/mijn/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1360,7 +1360,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/overheid/</loc>
+      <loc>https://jplattel.nl/tags/overheid/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1370,7 +1370,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/python/</loc>
+      <loc>https://jplattel.nl/tags/python/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1380,7 +1380,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/scraper/</loc>
+      <loc>https://jplattel.nl/tags/scraper/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1390,7 +1390,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/script/</loc>
+      <loc>https://jplattel.nl/tags/script/</loc>
       <lastmod>2016-01-29T10:33:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1400,7 +1400,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/</loc>
+      <loc>https://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/</loc>
       <lastmod>2016-01-20T15:56:41+01:00</lastmod>
     </url>
     
@@ -1409,27 +1409,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/cooker/</loc>
-      <lastmod>2016-01-20T15:56:41+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/cooking/</loc>
-      <lastmod>2016-01-20T15:56:41+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/rice/</loc>
+      <loc>https://jplattel.nl/tags/cooker/</loc>
       <lastmod>2016-01-20T15:56:41+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1439,7 +1419,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sous/</loc>
+      <loc>https://jplattel.nl/tags/cooking/</loc>
       <lastmod>2016-01-20T15:56:41+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1449,7 +1429,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tech/</loc>
+      <loc>https://jplattel.nl/tags/rice/</loc>
       <lastmod>2016-01-20T15:56:41+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1459,7 +1439,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/vide/</loc>
+      <loc>https://jplattel.nl/tags/sous/</loc>
       <lastmod>2016-01-20T15:56:41+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1469,7 +1449,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/2015/</loc>
+      <loc>https://jplattel.nl/tags/tech/</loc>
+      <lastmod>2016-01-20T15:56:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/vide/</loc>
+      <lastmod>2016-01-20T15:56:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/2015/</loc>
       <lastmod>2016-01-02T17:34:51+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1479,7 +1479,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/836pm/</loc>
+      <loc>https://jplattel.nl/tags/836pm/</loc>
       <lastmod>2016-01-02T17:34:51+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1489,7 +1489,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2016-01-02-data-reflections-2015/</loc>
+      <loc>https://jplattel.nl/post/2016-01-02-data-reflections-2015/</loc>
       <lastmod>2016-01-02T17:34:51+01:00</lastmod>
     </url>
     
@@ -1498,17 +1498,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/idonethis/</loc>
-      <lastmod>2016-01-02T17:34:51+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/moment/</loc>
+      <loc>https://jplattel.nl/tags/idonethis/</loc>
       <lastmod>2016-01-02T17:34:51+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1518,7 +1508,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/reflection/</loc>
+      <loc>https://jplattel.nl/tags/moment/</loc>
       <lastmod>2016-01-02T17:34:51+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1528,7 +1518,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/yearcompass/</loc>
+      <loc>https://jplattel.nl/tags/reflection/</loc>
       <lastmod>2016-01-02T17:34:51+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1538,7 +1528,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-12-02-a-lecture-in-ghent/</loc>
+      <loc>https://jplattel.nl/tags/yearcompass/</loc>
+      <lastmod>2016-01-02T17:34:51+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2015-12-02-a-lecture-in-ghent/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
     </url>
     
@@ -1547,27 +1547,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/presentatie/</loc>
-      <lastmod>2015-12-02T11:25:13+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/quantified-self/</loc>
-      <lastmod>2015-12-02T11:25:13+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/ghent/</loc>
+      <loc>https://jplattel.nl/tags/presentatie/</loc>
       <lastmod>2015-12-02T11:25:13+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1577,7 +1557,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</loc>
+      <loc>https://jplattel.nl/tags/quantified-self/</loc>
+      <lastmod>2015-12-02T11:25:13+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/ghent/</loc>
+      <lastmod>2015-12-02T11:25:13+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</loc>
       <lastmod>2015-10-12T11:35:38+02:00</lastmod>
     </url>
     
@@ -1586,7 +1586,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/behaviour/</loc>
+      <loc>https://jplattel.nl/tags/behaviour/</loc>
       <lastmod>2015-10-12T11:35:38+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1596,7 +1596,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/phone/</loc>
+      <loc>https://jplattel.nl/tags/phone/</loc>
       <lastmod>2015-10-12T11:35:38+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1606,7 +1606,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantified/</loc>
+      <loc>https://jplattel.nl/tags/quantified/</loc>
       <lastmod>2015-10-12T11:35:38+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1616,7 +1616,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/self/</loc>
+      <loc>https://jplattel.nl/tags/self/</loc>
       <lastmod>2015-10-12T11:35:38+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1626,7 +1626,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tracking/</loc>
+      <loc>https://jplattel.nl/tags/tracking/</loc>
       <lastmod>2015-10-12T11:35:38+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1636,7 +1636,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/usage/</loc>
+      <loc>https://jplattel.nl/tags/usage/</loc>
       <lastmod>2015-10-12T11:35:38+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1646,7 +1646,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-09-22-sri-lanka-for-holiday/</loc>
+      <loc>https://jplattel.nl/post/2015-09-22-sri-lanka-for-holiday/</loc>
       <lastmod>2015-09-22T14:30:38+02:00</lastmod>
     </url>
     
@@ -1655,7 +1655,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sri-lanka/</loc>
+      <loc>https://jplattel.nl/tags/sri-lanka/</loc>
       <lastmod>2015-09-22T14:30:38+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1665,7 +1665,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-07-28-holiday-to-denmark-berlin-and-the-south-of-france/</loc>
+      <loc>https://jplattel.nl/post/2015-07-28-holiday-to-denmark-berlin-and-the-south-of-france/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
     </url>
     
@@ -1674,17 +1674,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/avignon/</loc>
-      <lastmod>2015-07-28T10:11:18+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/berlin/</loc>
+      <loc>https://jplattel.nl/tags/avignon/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1694,7 +1684,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/bicycle/</loc>
+      <loc>https://jplattel.nl/tags/berlin/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1704,7 +1694,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/denmark/</loc>
+      <loc>https://jplattel.nl/tags/bicycle/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1714,7 +1704,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/france/</loc>
+      <loc>https://jplattel.nl/tags/denmark/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1724,7 +1714,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/haervejsmarchen/</loc>
+      <loc>https://jplattel.nl/tags/france/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1734,7 +1724,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/orange/</loc>
+      <loc>https://jplattel.nl/tags/haervejsmarchen/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1744,7 +1734,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/paris/</loc>
+      <loc>https://jplattel.nl/tags/orange/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1754,7 +1744,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tandem/</loc>
+      <loc>https://jplattel.nl/tags/paris/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1764,7 +1754,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/travel/</loc>
+      <loc>https://jplattel.nl/tags/tandem/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1774,7 +1764,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/walk/</loc>
+      <loc>https://jplattel.nl/tags/travel/</loc>
       <lastmod>2015-07-28T10:11:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1784,7 +1774,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-06-08-perfect-human-vpro-tv-publications/</loc>
+      <loc>https://jplattel.nl/tags/walk/</loc>
+      <lastmod>2015-07-28T10:11:18+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2015-06-08-perfect-human-vpro-tv-publications/</loc>
       <lastmod>2015-06-08T07:55:14+02:00</lastmod>
     </url>
     
@@ -1793,17 +1793,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tv/</loc>
-      <lastmod>2015-06-08T07:55:14+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/vpro/</loc>
+      <loc>https://jplattel.nl/tags/tv/</loc>
       <lastmod>2015-06-08T07:55:14+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1813,7 +1803,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/dvm/</loc>
+      <loc>https://jplattel.nl/tags/vpro/</loc>
       <lastmod>2015-06-08T07:55:14+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1823,7 +1813,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/human/</loc>
+      <loc>https://jplattel.nl/tags/dvm/</loc>
       <lastmod>2015-06-08T07:55:14+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1833,7 +1823,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantified-workplace/</loc>
+      <loc>https://jplattel.nl/tags/human/</loc>
       <lastmod>2015-06-08T07:55:14+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1843,7 +1833,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/volmaakte-mens/</loc>
+      <loc>https://jplattel.nl/tags/quantified-workplace/</loc>
       <lastmod>2015-06-08T07:55:14+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1853,7 +1843,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-05-18-somethings-brewing/</loc>
+      <loc>https://jplattel.nl/tags/volmaakte-mens/</loc>
+      <lastmod>2015-06-08T07:55:14+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2015-05-18-somethings-brewing/</loc>
       <lastmod>2015-05-18T11:12:35+02:00</lastmod>
     </url>
     
@@ -1862,7 +1862,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/backyard/</loc>
+      <loc>https://jplattel.nl/tags/backyard/</loc>
       <lastmod>2015-05-18T11:12:35+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1872,7 +1872,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-05-14-lago-di-garda/</loc>
+      <loc>https://jplattel.nl/post/2015-05-14-lago-di-garda/</loc>
       <lastmod>2015-05-14T17:43:30+02:00</lastmod>
     </url>
     
@@ -1881,17 +1881,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/del/</loc>
-      <lastmod>2015-05-14T17:43:30+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/garda/</loc>
+      <loc>https://jplattel.nl/tags/del/</loc>
       <lastmod>2015-05-14T17:43:30+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1901,7 +1891,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lake/</loc>
+      <loc>https://jplattel.nl/tags/garda/</loc>
       <lastmod>2015-05-14T17:43:30+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1911,7 +1901,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/moniga/</loc>
+      <loc>https://jplattel.nl/tags/lake/</loc>
       <lastmod>2015-05-14T17:43:30+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1921,7 +1911,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/</loc>
+      <loc>https://jplattel.nl/tags/moniga/</loc>
+      <lastmod>2015-05-14T17:43:30+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/</loc>
       <lastmod>2015-02-26T11:03:57+01:00</lastmod>
     </url>
     
@@ -1930,7 +1930,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/code/</loc>
+      <loc>https://jplattel.nl/tags/code/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1940,7 +1940,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-02-02-creating-intelligence-room/</loc>
+      <loc>https://jplattel.nl/post/2015-02-02-creating-intelligence-room/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
     </url>
     
@@ -1949,17 +1949,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/mashups/</loc>
-      <lastmod>2015-02-02T12:45:05+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/caesar-groep/</loc>
+      <loc>https://jplattel.nl/categories/mashups/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1969,7 +1959,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/django/</loc>
+      <loc>https://jplattel.nl/tags/caesar-groep/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1979,7 +1969,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/intelligence-room/</loc>
+      <loc>https://jplattel.nl/tags/django/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1989,7 +1979,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mashup/</loc>
+      <loc>https://jplattel.nl/tags/intelligence-room/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1999,7 +1989,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/permanent-beta/</loc>
+      <loc>https://jplattel.nl/tags/mashup/</loc>
       <lastmod>2015-02-02T12:45:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2009,7 +1999,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2015-01-06-836pm-2014-video/</loc>
+      <loc>https://jplattel.nl/tags/permanent-beta/</loc>
+      <lastmod>2015-02-02T12:45:05+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2015-01-06-836pm-2014-video/</loc>
       <lastmod>2015-01-06T01:16:54+01:00</lastmod>
     </url>
     
@@ -2018,17 +2018,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/video/</loc>
-      <lastmod>2015-01-06T01:16:54+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/photos/</loc>
+      <loc>https://jplattel.nl/tags/video/</loc>
       <lastmod>2015-01-06T01:16:54+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2038,7 +2028,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/yearly/</loc>
+      <loc>https://jplattel.nl/tags/photos/</loc>
       <lastmod>2015-01-06T01:16:54+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2048,7 +2038,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/3d/</loc>
+      <loc>https://jplattel.nl/tags/yearly/</loc>
+      <lastmod>2015-01-06T01:16:54+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/3d/</loc>
       <lastmod>2014-12-14T23:23:25+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2058,7 +2058,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</loc>
+      <loc>https://jplattel.nl/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</loc>
       <lastmod>2014-12-14T23:23:25+01:00</lastmod>
     </url>
     
@@ -2067,17 +2067,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/model/</loc>
-      <lastmod>2014-12-14T23:23:25+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/printing/</loc>
+      <loc>https://jplattel.nl/tags/model/</loc>
       <lastmod>2014-12-14T23:23:25+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2087,7 +2077,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tangible/</loc>
+      <loc>https://jplattel.nl/tags/printing/</loc>
       <lastmod>2014-12-14T23:23:25+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2097,17 +2087,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/</loc>
-      <lastmod>2014-11-21T10:32:23+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/electricity/</loc>
-      <lastmod>2014-11-21T10:32:23+01:00</lastmod>
+      <loc>https://jplattel.nl/tags/tangible/</loc>
+      <lastmod>2014-12-14T23:23:25+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2116,9 +2097,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/github/</loc>
+      <loc>https://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/</loc>
       <lastmod>2014-11-21T10:32:23+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -2126,7 +2106,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/power/</loc>
+      <loc>https://jplattel.nl/tags/electricity/</loc>
       <lastmod>2014-11-21T10:32:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2136,7 +2116,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/slimmemeterportal/</loc>
+      <loc>https://jplattel.nl/tags/github/</loc>
       <lastmod>2014-11-21T10:32:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2146,7 +2126,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-11-10-my-server-got-hacked/</loc>
+      <loc>https://jplattel.nl/tags/power/</loc>
+      <lastmod>2014-11-21T10:32:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/slimmemeterportal/</loc>
+      <lastmod>2014-11-21T10:32:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2014-11-10-my-server-got-hacked/</loc>
       <lastmod>2014-11-10T09:18:36+01:00</lastmod>
     </url>
     
@@ -2155,7 +2155,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/fail2ban/</loc>
+      <loc>https://jplattel.nl/tags/fail2ban/</loc>
       <lastmod>2014-11-10T09:18:36+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2165,7 +2165,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/hacked/</loc>
+      <loc>https://jplattel.nl/tags/hacked/</loc>
       <lastmod>2014-11-10T09:18:36+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2175,7 +2175,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/hacking/</loc>
+      <loc>https://jplattel.nl/tags/hacking/</loc>
       <lastmod>2014-11-10T09:18:36+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2185,7 +2185,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/server/</loc>
+      <loc>https://jplattel.nl/tags/server/</loc>
       <lastmod>2014-11-10T09:18:36+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2195,7 +2195,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ssh/</loc>
+      <loc>https://jplattel.nl/tags/ssh/</loc>
       <lastmod>2014-11-10T09:18:36+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2205,7 +2205,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-10-04-3-years-computing/</loc>
+      <loc>https://jplattel.nl/post/2014-10-04-3-years-computing/</loc>
       <lastmod>2014-10-04T22:42:13+02:00</lastmod>
     </url>
     
@@ -2214,7 +2214,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-09-16-lessons-learned-building-django-projects-2/</loc>
+      <loc>https://jplattel.nl/post/2014-09-16-lessons-learned-building-django-projects-2/</loc>
       <lastmod>2014-09-16T11:42:19+02:00</lastmod>
     </url>
     
@@ -2223,7 +2223,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-08-07-east-west-netherlands/</loc>
+      <loc>https://jplattel.nl/post/2014-08-07-east-west-netherlands/</loc>
       <lastmod>2014-08-07T15:53:28+02:00</lastmod>
     </url>
     
@@ -2232,7 +2232,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/api/</loc>
+      <loc>https://jplattel.nl/tags/api/</loc>
       <lastmod>2014-07-02T13:46:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2242,7 +2242,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/community/</loc>
+      <loc>https://jplattel.nl/tags/community/</loc>
       <lastmod>2014-07-02T13:46:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2252,7 +2252,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-07-02-meetup-api-tinkering/</loc>
+      <loc>https://jplattel.nl/post/2014-07-02-meetup-api-tinkering/</loc>
       <lastmod>2014-07-02T13:46:39+02:00</lastmod>
     </url>
     
@@ -2261,17 +2261,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/meetup/</loc>
-      <lastmod>2014-07-02T13:46:39+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/network/</loc>
+      <loc>https://jplattel.nl/tags/meetup/</loc>
       <lastmod>2014-07-02T13:46:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2281,7 +2271,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/open-source/</loc>
+      <loc>https://jplattel.nl/tags/network/</loc>
       <lastmod>2014-07-02T13:46:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2291,7 +2281,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tinkering/</loc>
+      <loc>https://jplattel.nl/tags/open-source/</loc>
       <lastmod>2014-07-02T13:46:39+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2301,7 +2291,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-06-07-metabiography-written-cloud/</loc>
+      <loc>https://jplattel.nl/tags/tinkering/</loc>
+      <lastmod>2014-07-02T13:46:39+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2014-06-07-metabiography-written-cloud/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
     </url>
     
@@ -2310,7 +2310,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/algorithm/</loc>
+      <loc>https://jplattel.nl/tags/algorithm/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2320,7 +2320,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/biografie/</loc>
+      <loc>https://jplattel.nl/tags/biografie/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2330,7 +2330,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/biography/</loc>
+      <loc>https://jplattel.nl/tags/biography/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2340,7 +2340,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/elsbeth/</loc>
+      <loc>https://jplattel.nl/tags/elsbeth/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2350,7 +2350,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/meta/</loc>
+      <loc>https://jplattel.nl/tags/meta/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2360,7 +2360,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/metabiography/</loc>
+      <loc>https://jplattel.nl/tags/metabiography/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2370,7 +2370,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/yuri/</loc>
+      <loc>https://jplattel.nl/tags/yuri/</loc>
       <lastmod>2014-06-07T22:04:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2380,7 +2380,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/amsterdam/</loc>
+      <loc>https://jplattel.nl/tags/amsterdam/</loc>
       <lastmod>2014-06-02T18:33:45+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2390,7 +2390,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</loc>
+      <loc>https://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</loc>
       <lastmod>2014-06-02T18:33:45+02:00</lastmod>
     </url>
     
@@ -2399,17 +2399,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/brakke-grond/</loc>
-      <lastmod>2014-06-02T18:33:45+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/coded-matters/</loc>
+      <loc>https://jplattel.nl/tags/brakke-grond/</loc>
       <lastmod>2014-06-02T18:33:45+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2419,7 +2409,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/thought-kinetics/</loc>
+      <loc>https://jplattel.nl/tags/coded-matters/</loc>
       <lastmod>2014-06-02T18:33:45+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2429,7 +2419,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/twin/</loc>
+      <loc>https://jplattel.nl/tags/thought-kinetics/</loc>
       <lastmod>2014-06-02T18:33:45+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2439,7 +2429,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/visualization/</loc>
+      <loc>https://jplattel.nl/tags/twin/</loc>
       <lastmod>2014-06-02T18:33:45+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2449,7 +2439,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-05-14-quantified-self-europe-conference-3/</loc>
+      <loc>https://jplattel.nl/tags/visualization/</loc>
+      <lastmod>2014-06-02T18:33:45+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2014-05-14-quantified-self-europe-conference-3/</loc>
       <lastmod>2014-05-14T10:35:11+02:00</lastmod>
     </url>
     
@@ -2458,7 +2458,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-04-19-curious-corner-video/</loc>
+      <loc>https://jplattel.nl/post/2014-04-19-curious-corner-video/</loc>
       <lastmod>2014-04-19T20:21:11+02:00</lastmod>
     </url>
     
@@ -2467,17 +2467,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/corner/</loc>
-      <lastmod>2014-04-19T20:21:11+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/curious/</loc>
+      <loc>https://jplattel.nl/tags/corner/</loc>
       <lastmod>2014-04-19T20:21:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2487,7 +2477,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/internet/</loc>
+      <loc>https://jplattel.nl/tags/curious/</loc>
       <lastmod>2014-04-19T20:21:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2497,7 +2487,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/videologic/</loc>
+      <loc>https://jplattel.nl/tags/internet/</loc>
       <lastmod>2014-04-19T20:21:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2507,7 +2497,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/week-van-de-ondernemer/</loc>
+      <loc>https://jplattel.nl/tags/videologic/</loc>
       <lastmod>2014-04-19T20:21:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2517,7 +2507,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wvdo/</loc>
+      <loc>https://jplattel.nl/tags/week-van-de-ondernemer/</loc>
       <lastmod>2014-04-19T20:21:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2527,7 +2517,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-03-27-made-into-another-book-and-white-paper/</loc>
+      <loc>https://jplattel.nl/tags/wvdo/</loc>
+      <lastmod>2014-04-19T20:21:11+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2014-03-27-made-into-another-book-and-white-paper/</loc>
       <lastmod>2014-03-27T22:52:32+01:00</lastmod>
     </url>
     
@@ -2536,7 +2536,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/book/</loc>
+      <loc>https://jplattel.nl/tags/book/</loc>
       <lastmod>2014-03-27T22:52:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2546,7 +2546,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/crossmedia/</loc>
+      <loc>https://jplattel.nl/tags/crossmedia/</loc>
       <lastmod>2014-03-27T22:52:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2556,7 +2556,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/hilversum/</loc>
+      <loc>https://jplattel.nl/tags/hilversum/</loc>
       <lastmod>2014-03-27T22:52:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2566,7 +2566,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/publishing/</loc>
+      <loc>https://jplattel.nl/tags/publishing/</loc>
       <lastmod>2014-03-27T22:52:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2576,7 +2576,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/scribd/</loc>
+      <loc>https://jplattel.nl/tags/scribd/</loc>
       <lastmod>2014-03-27T22:52:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2586,7 +2586,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/white-paper/</loc>
+      <loc>https://jplattel.nl/tags/white-paper/</loc>
       <lastmod>2014-03-27T22:52:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2596,7 +2596,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</loc>
+      <loc>https://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</loc>
       <lastmod>2014-03-09T23:39:23+01:00</lastmod>
     </url>
     
@@ -2605,17 +2605,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/development/</loc>
-      <lastmod>2014-03-09T23:39:23+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/docker/</loc>
+      <loc>https://jplattel.nl/tags/development/</loc>
       <lastmod>2014-03-09T23:39:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2625,7 +2615,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/south/</loc>
+      <loc>https://jplattel.nl/tags/docker/</loc>
       <lastmod>2014-03-09T23:39:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2635,7 +2625,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/virtualenv/</loc>
+      <loc>https://jplattel.nl/tags/south/</loc>
       <lastmod>2014-03-09T23:39:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2645,7 +2635,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wsgi/</loc>
+      <loc>https://jplattel.nl/tags/virtualenv/</loc>
       <lastmod>2014-03-09T23:39:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2655,7 +2645,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</loc>
+      <loc>https://jplattel.nl/tags/wsgi/</loc>
+      <lastmod>2014-03-09T23:39:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</loc>
       <lastmod>2014-02-07T14:44:58+01:00</lastmod>
     </url>
     
@@ -2664,7 +2664,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/activity/</loc>
+      <loc>https://jplattel.nl/tags/activity/</loc>
       <lastmod>2014-02-07T14:44:58+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2674,7 +2674,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ethical/</loc>
+      <loc>https://jplattel.nl/tags/ethical/</loc>
       <lastmod>2014-02-07T14:44:58+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2684,7 +2684,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/experiment/</loc>
+      <loc>https://jplattel.nl/tags/experiment/</loc>
       <lastmod>2014-02-07T14:44:58+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2694,7 +2694,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/graphs/</loc>
+      <loc>https://jplattel.nl/tags/graphs/</loc>
       <lastmod>2014-02-07T14:44:58+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2704,7 +2704,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/organisation/</loc>
+      <loc>https://jplattel.nl/tags/organisation/</loc>
       <lastmod>2014-02-07T14:44:58+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2714,7 +2714,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/pilot/</loc>
+      <loc>https://jplattel.nl/tags/pilot/</loc>
       <lastmod>2014-02-07T14:44:58+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2724,7 +2724,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/2013/</loc>
+      <loc>https://jplattel.nl/tags/2013/</loc>
       <lastmod>2014-01-20T00:06:54+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2734,7 +2734,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-01-20-836pm-photos-2013/</loc>
+      <loc>https://jplattel.nl/post/2014-01-20-836pm-photos-2013/</loc>
       <lastmod>2014-01-20T00:06:54+01:00</lastmod>
     </url>
     
@@ -2743,7 +2743,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2014-01-13-taping-interviews/</loc>
+      <loc>https://jplattel.nl/post/2014-01-13-taping-interviews/</loc>
       <lastmod>2014-01-13T13:23:32+01:00</lastmod>
     </url>
     
@@ -2752,17 +2752,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/arte/</loc>
-      <lastmod>2014-01-13T13:23:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/camera/</loc>
+      <loc>https://jplattel.nl/tags/arte/</loc>
       <lastmod>2014-01-13T13:23:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2772,7 +2762,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/interview/</loc>
+      <loc>https://jplattel.nl/tags/camera/</loc>
       <lastmod>2014-01-13T13:23:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2782,7 +2772,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/rtl-nieuws/</loc>
+      <loc>https://jplattel.nl/tags/interview/</loc>
       <lastmod>2014-01-13T13:23:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2792,7 +2782,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/taping/</loc>
+      <loc>https://jplattel.nl/tags/rtl-nieuws/</loc>
       <lastmod>2014-01-13T13:23:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2802,7 +2792,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/television/</loc>
+      <loc>https://jplattel.nl/tags/taping/</loc>
       <lastmod>2014-01-13T13:23:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2812,7 +2802,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wearables/</loc>
+      <loc>https://jplattel.nl/tags/television/</loc>
       <lastmod>2014-01-13T13:23:32+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2822,7 +2812,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/chemistry/</loc>
+      <loc>https://jplattel.nl/tags/wearables/</loc>
+      <lastmod>2014-01-13T13:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/chemistry/</loc>
       <lastmod>2013-12-27T15:54:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2832,7 +2832,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
+      <loc>https://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
       <lastmod>2013-12-27T15:54:56+01:00</lastmod>
     </url>
     
@@ -2841,7 +2841,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/vaporizer/</loc>
+      <loc>https://jplattel.nl/tags/vaporizer/</loc>
       <lastmod>2013-12-27T15:54:56+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2851,7 +2851,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-12-18-using-moves-data/</loc>
+      <loc>https://jplattel.nl/post/2013-12-18-using-moves-data/</loc>
       <lastmod>2013-12-18T18:29:35+01:00</lastmod>
     </url>
     
@@ -2860,17 +2860,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/calendar/</loc>
-      <lastmod>2013-12-18T18:29:35+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/database/</loc>
+      <loc>https://jplattel.nl/tags/calendar/</loc>
       <lastmod>2013-12-18T18:29:35+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2880,7 +2870,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/moves/</loc>
+      <loc>https://jplattel.nl/tags/database/</loc>
       <lastmod>2013-12-18T18:29:35+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2890,7 +2880,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/peewee/</loc>
+      <loc>https://jplattel.nl/tags/moves/</loc>
       <lastmod>2013-12-18T18:29:35+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2900,7 +2890,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</loc>
+      <loc>https://jplattel.nl/tags/peewee/</loc>
+      <lastmod>2013-12-18T18:29:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</loc>
       <lastmod>2013-11-27T20:47:26+01:00</lastmod>
     </url>
     
@@ -2909,17 +2909,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mailchimp/</loc>
-      <lastmod>2013-11-27T20:47:26+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/newsletter/</loc>
+      <loc>https://jplattel.nl/tags/mailchimp/</loc>
       <lastmod>2013-11-27T20:47:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2929,7 +2919,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/nodejs/</loc>
+      <loc>https://jplattel.nl/tags/newsletter/</loc>
       <lastmod>2013-11-27T20:47:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2939,17 +2929,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-11-15-jawbone-api-python-library/</loc>
-      <lastmod>2013-11-15T20:15:23+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/jawbone/</loc>
-      <lastmod>2013-11-15T20:15:23+01:00</lastmod>
+      <loc>https://jplattel.nl/tags/nodejs/</loc>
+      <lastmod>2013-11-27T20:47:26+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2958,9 +2939,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/library/</loc>
+      <loc>https://jplattel.nl/post/2013-11-15-jawbone-api-python-library/</loc>
       <lastmod>2013-11-15T20:15:23+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -2968,7 +2948,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/rest/</loc>
+      <loc>https://jplattel.nl/tags/jawbone/</loc>
       <lastmod>2013-11-15T20:15:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2978,7 +2958,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ny/</loc>
+      <loc>https://jplattel.nl/tags/library/</loc>
+      <lastmod>2013-11-15T20:15:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/rest/</loc>
+      <lastmod>2013-11-15T20:15:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/ny/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2988,7 +2988,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/nyc/</loc>
+      <loc>https://jplattel.nl/tags/nyc/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2998,7 +2998,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-10-29-twins-in-new-york/</loc>
+      <loc>https://jplattel.nl/post/2013-10-29-twins-in-new-york/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
     </url>
     
@@ -3007,17 +3007,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/us/</loc>
-      <lastmod>2013-10-29T21:31:49+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/brooklyn/</loc>
+      <loc>https://jplattel.nl/tags/us/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3027,7 +3017,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/highline/</loc>
+      <loc>https://jplattel.nl/tags/brooklyn/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3037,7 +3027,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/kees/</loc>
+      <loc>https://jplattel.nl/tags/highline/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3047,7 +3037,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/skyline/</loc>
+      <loc>https://jplattel.nl/tags/kees/</loc>
       <lastmod>2013-10-29T21:31:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3057,7 +3047,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/</loc>
+      <loc>https://jplattel.nl/tags/skyline/</loc>
+      <lastmod>2013-10-29T21:31:49+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
     </url>
     
@@ -3066,7 +3066,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/pdf/</loc>
+      <loc>https://jplattel.nl/tags/pdf/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3076,7 +3076,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/calls/</loc>
+      <loc>https://jplattel.nl/tags/calls/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3086,7 +3086,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/dataset/</loc>
+      <loc>https://jplattel.nl/tags/dataset/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3096,7 +3096,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/invoice/</loc>
+      <loc>https://jplattel.nl/tags/invoice/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3106,7 +3106,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/numpy/</loc>
+      <loc>https://jplattel.nl/tags/numpy/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3116,7 +3116,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/pypdf/</loc>
+      <loc>https://jplattel.nl/tags/pypdf/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3126,7 +3126,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/regex/</loc>
+      <loc>https://jplattel.nl/tags/regex/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3136,7 +3136,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sms/</loc>
+      <loc>https://jplattel.nl/tags/sms/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3146,7 +3146,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/texts/</loc>
+      <loc>https://jplattel.nl/tags/texts/</loc>
       <lastmod>2013-10-21T10:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3156,7 +3156,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/conference/</loc>
+      <loc>https://jplattel.nl/tags/conference/</loc>
       <lastmod>2013-10-14T03:56:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3166,7 +3166,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/san-francisco/</loc>
+      <loc>https://jplattel.nl/tags/san-francisco/</loc>
       <lastmod>2013-10-14T03:56:31+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3176,7 +3176,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-10-14-san-francisco-and-qs13/</loc>
+      <loc>https://jplattel.nl/post/2013-10-14-san-francisco-and-qs13/</loc>
       <lastmod>2013-10-14T03:56:31+02:00</lastmod>
     </url>
     
@@ -3185,7 +3185,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-09-30-recent-media/</loc>
+      <loc>https://jplattel.nl/post/2013-09-30-recent-media/</loc>
       <lastmod>2013-09-30T09:22:26+02:00</lastmod>
     </url>
     
@@ -3194,17 +3194,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/column/</loc>
-      <lastmod>2013-09-30T09:22:26+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/diagnose/</loc>
+      <loc>https://jplattel.nl/tags/column/</loc>
       <lastmod>2013-09-30T09:22:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3214,7 +3204,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/glass/</loc>
+      <loc>https://jplattel.nl/tags/diagnose/</loc>
       <lastmod>2013-09-30T09:22:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3224,7 +3214,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/google/</loc>
+      <loc>https://jplattel.nl/tags/glass/</loc>
       <lastmod>2013-09-30T09:22:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3234,7 +3224,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/media/</loc>
+      <loc>https://jplattel.nl/tags/google/</loc>
       <lastmod>2013-09-30T09:22:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3244,7 +3234,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/technologie/</loc>
+      <loc>https://jplattel.nl/tags/media/</loc>
       <lastmod>2013-09-30T09:22:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3254,7 +3244,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/technology/</loc>
+      <loc>https://jplattel.nl/tags/technologie/</loc>
       <lastmod>2013-09-30T09:22:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3264,7 +3254,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-08-15-fitbit-organisation-dashboard/</loc>
+      <loc>https://jplattel.nl/tags/technology/</loc>
+      <lastmod>2013-09-30T09:22:26+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2013-08-15-fitbit-organisation-dashboard/</loc>
       <lastmod>2013-08-15T18:54:46+02:00</lastmod>
     </url>
     
@@ -3273,17 +3273,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/fitbit/</loc>
-      <lastmod>2013-08-15T18:54:46+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/fitlog/</loc>
+      <loc>https://jplattel.nl/tags/fitbit/</loc>
       <lastmod>2013-08-15T18:54:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3293,7 +3283,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</loc>
+      <loc>https://jplattel.nl/tags/fitlog/</loc>
+      <lastmod>2013-08-15T18:54:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</loc>
       <lastmod>2013-08-05T17:40:13+02:00</lastmod>
     </url>
     
@@ -3302,7 +3302,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/route/</loc>
+      <loc>https://jplattel.nl/tags/route/</loc>
       <lastmod>2013-08-05T17:40:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3312,7 +3312,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/austria/</loc>
+      <loc>https://jplattel.nl/tags/austria/</loc>
       <lastmod>2013-08-05T17:40:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3322,7 +3322,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/germany/</loc>
+      <loc>https://jplattel.nl/tags/germany/</loc>
       <lastmod>2013-08-05T17:40:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3332,7 +3332,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/reitsma/</loc>
+      <loc>https://jplattel.nl/tags/reitsma/</loc>
       <lastmod>2013-08-05T17:40:13+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3342,7 +3342,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</loc>
+      <loc>https://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</loc>
       <lastmod>2013-07-09T19:52:23+02:00</lastmod>
     </url>
     
@@ -3351,7 +3351,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-07-04-late-night-tektok-talking-qs-and-education/</loc>
+      <loc>https://jplattel.nl/post/2013-07-04-late-night-tektok-talking-qs-and-education/</loc>
       <lastmod>2013-07-04T22:22:41+02:00</lastmod>
     </url>
     
@@ -3360,7 +3360,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-06-12-moving-into-hardware/</loc>
+      <loc>https://jplattel.nl/post/2013-06-12-moving-into-hardware/</loc>
       <lastmod>2013-06-12T20:34:13+02:00</lastmod>
     </url>
     
@@ -3369,7 +3369,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-05-15-qs-europe-conference/</loc>
+      <loc>https://jplattel.nl/post/2013-05-15-qs-europe-conference/</loc>
       <lastmod>2013-05-15T11:42:07+02:00</lastmod>
     </url>
     
@@ -3378,17 +3378,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/casa400/</loc>
-      <lastmod>2013-05-15T11:42:07+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/europe/</loc>
+      <loc>https://jplattel.nl/tags/casa400/</loc>
       <lastmod>2013-05-15T11:42:07+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3398,7 +3388,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-05-07-small-news/</loc>
+      <loc>https://jplattel.nl/tags/europe/</loc>
+      <lastmod>2013-05-15T11:42:07+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2013-05-07-small-news/</loc>
       <lastmod>2013-05-07T20:12:21+02:00</lastmod>
     </url>
     
@@ -3407,7 +3407,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/krant/</loc>
+      <loc>https://jplattel.nl/tags/krant/</loc>
       <lastmod>2013-05-07T20:12:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3417,7 +3417,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/newspaper/</loc>
+      <loc>https://jplattel.nl/tags/newspaper/</loc>
       <lastmod>2013-05-07T20:12:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3427,7 +3427,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/nieuws/</loc>
+      <loc>https://jplattel.nl/tags/nieuws/</loc>
       <lastmod>2013-05-07T20:12:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3437,7 +3437,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/rode-kater/</loc>
+      <loc>https://jplattel.nl/tags/rode-kater/</loc>
       <lastmod>2013-05-07T20:12:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3447,7 +3447,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/spits/</loc>
+      <loc>https://jplattel.nl/tags/spits/</loc>
       <lastmod>2013-05-07T20:12:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3457,7 +3457,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/client/partup/</loc>
+      <loc>https://jplattel.nl/client/partup/</loc>
       <lastmod>2013-04-21T22:55:11+02:00</lastmod>
     </url>
     
@@ -3466,7 +3466,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/</loc>
+      <loc>https://jplattel.nl/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/</loc>
       <lastmod>2013-04-15T22:43:23+02:00</lastmod>
     </url>
     
@@ -3475,7 +3475,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</loc>
+      <loc>https://jplattel.nl/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</loc>
       <lastmod>2013-04-11T21:49:08+02:00</lastmod>
     </url>
     
@@ -3484,7 +3484,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/</loc>
+      <loc>https://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/</loc>
       <lastmod>2013-03-05T15:38:34+01:00</lastmod>
     </url>
     
@@ -3493,17 +3493,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/d3/</loc>
-      <lastmod>2013-03-05T15:38:34+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/javascript/</loc>
+      <loc>https://jplattel.nl/tags/d3/</loc>
       <lastmod>2013-03-05T15:38:34+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3513,7 +3503,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mondriaantje/</loc>
+      <loc>https://jplattel.nl/tags/javascript/</loc>
       <lastmod>2013-03-05T15:38:34+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3523,7 +3513,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mondrian/</loc>
+      <loc>https://jplattel.nl/tags/mondriaantje/</loc>
       <lastmod>2013-03-05T15:38:34+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3533,7 +3523,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/programming/</loc>
+      <loc>https://jplattel.nl/tags/mondrian/</loc>
       <lastmod>2013-03-05T15:38:34+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3543,7 +3533,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/setup/</loc>
+      <loc>https://jplattel.nl/tags/programming/</loc>
       <lastmod>2013-03-05T15:38:34+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3553,7 +3543,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-02-26-vpro-labyrint/</loc>
+      <loc>https://jplattel.nl/tags/setup/</loc>
+      <lastmod>2013-03-05T15:38:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2013-02-26-vpro-labyrint/</loc>
       <lastmod>2013-02-26T09:47:05+01:00</lastmod>
     </url>
     
@@ -3562,17 +3562,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/labyrint/</loc>
-      <lastmod>2013-02-26T09:47:05+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/science/</loc>
+      <loc>https://jplattel.nl/tags/labyrint/</loc>
       <lastmod>2013-02-26T09:47:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3582,7 +3572,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/show/</loc>
+      <loc>https://jplattel.nl/tags/science/</loc>
       <lastmod>2013-02-26T09:47:05+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3592,7 +3582,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/</loc>
+      <loc>https://jplattel.nl/tags/show/</loc>
+      <lastmod>2013-02-26T09:47:05+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/</loc>
       <lastmod>2013-02-12T14:55:38+01:00</lastmod>
     </url>
     
@@ -3601,7 +3601,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/2012/</loc>
+      <loc>https://jplattel.nl/tags/2012/</loc>
       <lastmod>2013-01-29T23:26:09+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3611,7 +3611,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2013-01-29-836pm-2012/</loc>
+      <loc>https://jplattel.nl/post/2013-01-29-836pm-2012/</loc>
       <lastmod>2013-01-29T23:26:09+01:00</lastmod>
     </url>
     
@@ -3620,17 +3620,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lifelogging/</loc>
-      <lastmod>2013-01-29T23:26:09+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/movie/</loc>
+      <loc>https://jplattel.nl/tags/lifelogging/</loc>
       <lastmod>2013-01-29T23:26:09+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3640,7 +3630,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/cholesterol/</loc>
+      <loc>https://jplattel.nl/tags/movie/</loc>
+      <lastmod>2013-01-29T23:26:09+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/cholesterol/</loc>
       <lastmod>2012-12-16T20:13:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3650,7 +3650,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-12-16-metabolite-testing-with-talking20/</loc>
+      <loc>https://jplattel.nl/post/2012-12-16-metabolite-testing-with-talking20/</loc>
       <lastmod>2012-12-16T20:13:53+01:00</lastmod>
     </url>
     
@@ -3659,17 +3659,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/estradiol/</loc>
-      <lastmod>2012-12-16T20:13:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/metabolites/</loc>
+      <loc>https://jplattel.nl/tags/estradiol/</loc>
       <lastmod>2012-12-16T20:13:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3679,7 +3669,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/oestrogen/</loc>
+      <loc>https://jplattel.nl/tags/metabolites/</loc>
       <lastmod>2012-12-16T20:13:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3689,7 +3679,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/talking20/</loc>
+      <loc>https://jplattel.nl/tags/oestrogen/</loc>
       <lastmod>2012-12-16T20:13:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3699,7 +3689,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/testosterone/</loc>
+      <loc>https://jplattel.nl/tags/talking20/</loc>
       <lastmod>2012-12-16T20:13:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3709,7 +3699,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/vitamin-d/</loc>
+      <loc>https://jplattel.nl/tags/testosterone/</loc>
       <lastmod>2012-12-16T20:13:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3719,7 +3709,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-11-20-startup-weekend-utrecht/</loc>
+      <loc>https://jplattel.nl/tags/vitamin-d/</loc>
+      <lastmod>2012-12-16T20:13:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2012-11-20-startup-weekend-utrecht/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
     </url>
     
@@ -3728,7 +3728,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/bootcamp/</loc>
+      <loc>https://jplattel.nl/tags/bootcamp/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3738,7 +3738,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/exercise/</loc>
+      <loc>https://jplattel.nl/tags/exercise/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3748,7 +3748,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/nijenoord/</loc>
+      <loc>https://jplattel.nl/tags/nijenoord/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3758,7 +3758,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/pitching/</loc>
+      <loc>https://jplattel.nl/tags/pitching/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3768,7 +3768,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/popup/</loc>
+      <loc>https://jplattel.nl/tags/popup/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3778,7 +3778,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/startup/</loc>
+      <loc>https://jplattel.nl/tags/startup/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3788,7 +3788,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/utrecht/</loc>
+      <loc>https://jplattel.nl/tags/utrecht/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3798,7 +3798,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/utrechtinc/</loc>
+      <loc>https://jplattel.nl/tags/utrechtinc/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3808,7 +3808,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/weekend/</loc>
+      <loc>https://jplattel.nl/tags/weekend/</loc>
       <lastmod>2012-11-20T11:31:27+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3818,7 +3818,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/cv/</loc>
+      <loc>https://jplattel.nl/tags/cv/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3828,7 +3828,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-10-28-the-quantified-self-new-aesthetic/</loc>
+      <loc>https://jplattel.nl/post/2012-10-28-the-quantified-self-new-aesthetic/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
     </url>
     
@@ -3837,17 +3837,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/algorithms/</loc>
-      <lastmod>2012-10-28T01:45:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/art/</loc>
+      <loc>https://jplattel.nl/tags/algorithms/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3857,7 +3847,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/computers/</loc>
+      <loc>https://jplattel.nl/tags/art/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3867,7 +3857,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/devices/</loc>
+      <loc>https://jplattel.nl/tags/computers/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3877,7 +3867,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mapping/</loc>
+      <loc>https://jplattel.nl/tags/devices/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3887,7 +3877,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/new-aesthetic/</loc>
+      <loc>https://jplattel.nl/tags/mapping/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3897,7 +3887,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/self-tracking/</loc>
+      <loc>https://jplattel.nl/tags/new-aesthetic/</loc>
       <lastmod>2012-10-28T01:45:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3907,7 +3897,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-10-18-karlskrona-sweden/</loc>
+      <loc>https://jplattel.nl/tags/self-tracking/</loc>
+      <lastmod>2012-10-28T01:45:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2012-10-18-karlskrona-sweden/</loc>
       <lastmod>2012-10-18T00:07:05+02:00</lastmod>
     </url>
     
@@ -3916,27 +3916,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/hyper/</loc>
-      <lastmod>2012-10-18T00:07:05+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/island/</loc>
-      <lastmod>2012-10-18T00:07:05+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/karlskrona/</loc>
+      <loc>https://jplattel.nl/tags/hyper/</loc>
       <lastmod>2012-10-18T00:07:05+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3946,7 +3926,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/kopenhagen/</loc>
+      <loc>https://jplattel.nl/tags/island/</loc>
       <lastmod>2012-10-18T00:07:05+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3956,7 +3936,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/project/</loc>
+      <loc>https://jplattel.nl/tags/karlskrona/</loc>
       <lastmod>2012-10-18T00:07:05+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3966,7 +3946,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sweden/</loc>
+      <loc>https://jplattel.nl/tags/kopenhagen/</loc>
       <lastmod>2012-10-18T00:07:05+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3976,7 +3956,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-09-24-plugin-heuristics/</loc>
+      <loc>https://jplattel.nl/tags/project/</loc>
+      <lastmod>2012-10-18T00:07:05+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/sweden/</loc>
+      <lastmod>2012-10-18T00:07:05+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2012-09-24-plugin-heuristics/</loc>
       <lastmod>2012-09-24T09:21:34+02:00</lastmod>
     </url>
     
@@ -3985,27 +3985,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/heuristics/</loc>
-      <lastmod>2012-09-24T09:21:34+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/palo-alto/</loc>
-      <lastmod>2012-09-24T09:21:34+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/qs-conference/</loc>
+      <loc>https://jplattel.nl/tags/heuristics/</loc>
       <lastmod>2012-09-24T09:21:34+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4015,7 +3995,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/stanford/</loc>
+      <loc>https://jplattel.nl/tags/palo-alto/</loc>
       <lastmod>2012-09-24T09:21:34+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4025,7 +4005,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-08-25-hiking-500-kilometers/</loc>
+      <loc>https://jplattel.nl/tags/qs-conference/</loc>
+      <lastmod>2012-09-24T09:21:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/stanford/</loc>
+      <lastmod>2012-09-24T09:21:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2012-08-25-hiking-500-kilometers/</loc>
       <lastmod>2012-08-25T18:50:59+02:00</lastmod>
     </url>
     
@@ -4034,7 +4034,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-07-15-showertrack/</loc>
+      <loc>https://jplattel.nl/post/2012-07-15-showertrack/</loc>
       <lastmod>2012-07-15T22:06:18+02:00</lastmod>
     </url>
     
@@ -4043,17 +4043,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/concept/</loc>
-      <lastmod>2012-07-15T22:06:18+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/showertrack/</loc>
+      <loc>https://jplattel.nl/tags/concept/</loc>
       <lastmod>2012-07-15T22:06:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4063,7 +4053,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-05-31-storify-as-slides-for-talks/</loc>
+      <loc>https://jplattel.nl/tags/showertrack/</loc>
+      <lastmod>2012-07-15T22:06:18+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2012-05-31-storify-as-slides-for-talks/</loc>
       <lastmod>2012-05-31T15:34:18+02:00</lastmod>
     </url>
     
@@ -4072,7 +4072,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/bottle.py/</loc>
+      <loc>https://jplattel.nl/tags/bottle.py/</loc>
       <lastmod>2012-05-31T15:34:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4082,7 +4082,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/storify/</loc>
+      <loc>https://jplattel.nl/tags/storify/</loc>
       <lastmod>2012-05-31T15:34:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4092,7 +4092,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/timeline/</loc>
+      <loc>https://jplattel.nl/tags/timeline/</loc>
       <lastmod>2012-05-31T15:34:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4102,7 +4102,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/verite/</loc>
+      <loc>https://jplattel.nl/tags/verite/</loc>
       <lastmod>2012-05-31T15:34:18+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4112,7 +4112,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-03-27-using-zeo-raw-data-for-performances/</loc>
+      <loc>https://jplattel.nl/post/2012-03-27-using-zeo-raw-data-for-performances/</loc>
       <lastmod>2012-03-27T22:11:55+02:00</lastmod>
     </url>
     
@@ -4121,7 +4121,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/</loc>
+      <loc>https://jplattel.nl/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/</loc>
       <lastmod>2012-02-15T13:03:22+01:00</lastmod>
     </url>
     
@@ -4130,7 +4130,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/</loc>
+      <loc>https://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/</loc>
       <lastmod>2012-01-16T11:43:23+01:00</lastmod>
     </url>
     
@@ -4139,17 +4139,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/visualisatie/</loc>
-      <lastmod>2012-01-16T11:43:23+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/cbs/</loc>
+      <loc>https://jplattel.nl/tags/visualisatie/</loc>
       <lastmod>2012-01-16T11:43:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4159,7 +4149,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/landbouw/</loc>
+      <loc>https://jplattel.nl/tags/cbs/</loc>
       <lastmod>2012-01-16T11:43:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4169,7 +4159,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/nederland/</loc>
+      <loc>https://jplattel.nl/tags/landbouw/</loc>
       <lastmod>2012-01-16T11:43:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4179,7 +4169,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/raphael/</loc>
+      <loc>https://jplattel.nl/tags/nederland/</loc>
       <lastmod>2012-01-16T11:43:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4189,7 +4179,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wedstrijd/</loc>
+      <loc>https://jplattel.nl/tags/raphael/</loc>
       <lastmod>2012-01-16T11:43:23+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4199,7 +4189,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2012-01-01-2011-a-summary/</loc>
+      <loc>https://jplattel.nl/tags/wedstrijd/</loc>
+      <lastmod>2012-01-16T11:43:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2012-01-01-2011-a-summary/</loc>
       <lastmod>2012-01-01T16:35:05+01:00</lastmod>
     </url>
     
@@ -4208,7 +4208,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/qs-europe/</loc>
+      <loc>https://jplattel.nl/tags/qs-europe/</loc>
       <lastmod>2011-12-19T13:02:30+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4218,7 +4218,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-12-19-qs-europe-2011/</loc>
+      <loc>https://jplattel.nl/post/2011-12-19-qs-europe-2011/</loc>
       <lastmod>2011-12-19T13:02:30+01:00</lastmod>
     </url>
     
@@ -4227,7 +4227,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/qs2011/</loc>
+      <loc>https://jplattel.nl/tags/qs2011/</loc>
       <lastmod>2011-12-19T13:02:30+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4237,7 +4237,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-11-21-going-interactive/</loc>
+      <loc>https://jplattel.nl/post/2011-11-21-going-interactive/</loc>
       <lastmod>2011-11-21T11:24:26+01:00</lastmod>
     </url>
     
@@ -4246,17 +4246,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/brainwaves/</loc>
-      <lastmod>2011-11-21T11:24:26+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/headset/</loc>
+      <loc>https://jplattel.nl/tags/brainwaves/</loc>
       <lastmod>2011-11-21T11:24:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4266,7 +4256,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/hoofdbeelden/</loc>
+      <loc>https://jplattel.nl/tags/headset/</loc>
       <lastmod>2011-11-21T11:24:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4276,7 +4266,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/interactive/</loc>
+      <loc>https://jplattel.nl/tags/hoofdbeelden/</loc>
       <lastmod>2011-11-21T11:24:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4286,7 +4276,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/neurosky/</loc>
+      <loc>https://jplattel.nl/tags/interactive/</loc>
       <lastmod>2011-11-21T11:24:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4296,7 +4286,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/</loc>
+      <loc>https://jplattel.nl/tags/neurosky/</loc>
+      <lastmod>2011-11-21T11:24:26+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/</loc>
       <lastmod>2011-11-01T00:06:02+01:00</lastmod>
     </url>
     
@@ -4305,17 +4305,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/infographic/</loc>
-      <lastmod>2011-11-01T00:06:02+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/ov-chipkaart/</loc>
+      <loc>https://jplattel.nl/tags/infographic/</loc>
       <lastmod>2011-11-01T00:06:02+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4325,7 +4315,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ov-graphic/</loc>
+      <loc>https://jplattel.nl/tags/ov-chipkaart/</loc>
       <lastmod>2011-11-01T00:06:02+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4335,7 +4325,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sui34/</loc>
+      <loc>https://jplattel.nl/tags/ov-graphic/</loc>
+      <lastmod>2011-11-01T00:06:02+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/sui34/</loc>
       <lastmod>2011-10-10T17:41:01+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4345,7 +4345,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/</loc>
+      <loc>https://jplattel.nl/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/</loc>
       <lastmod>2011-10-10T17:41:01+02:00</lastmod>
     </url>
     
@@ -4354,17 +4354,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/stand-up-inspiration/</loc>
-      <lastmod>2011-10-10T17:41:01+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/sui/</loc>
+      <loc>https://jplattel.nl/tags/stand-up-inspiration/</loc>
       <lastmod>2011-10-10T17:41:01+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4374,17 +4364,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</loc>
-      <lastmod>2011-10-06T10:54:09+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/zeo/</loc>
-      <lastmod>2011-10-06T10:54:09+02:00</lastmod>
+      <loc>https://jplattel.nl/tags/sui/</loc>
+      <lastmod>2011-10-10T17:41:01+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4393,9 +4374,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/moon/</loc>
+      <loc>https://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</loc>
       <lastmod>2011-10-06T10:54:09+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -4403,7 +4383,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/moonphases/</loc>
+      <loc>https://jplattel.nl/tags/zeo/</loc>
       <lastmod>2011-10-06T10:54:09+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4413,7 +4393,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/phases/</loc>
+      <loc>https://jplattel.nl/tags/moon/</loc>
       <lastmod>2011-10-06T10:54:09+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4423,7 +4403,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sleep/</loc>
+      <loc>https://jplattel.nl/tags/moonphases/</loc>
       <lastmod>2011-10-06T10:54:09+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4433,7 +4413,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/</loc>
+      <loc>https://jplattel.nl/tags/phases/</loc>
+      <lastmod>2011-10-06T10:54:09+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/sleep/</loc>
+      <lastmod>2011-10-06T10:54:09+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/</loc>
       <lastmod>2011-09-27T09:24:16+02:00</lastmod>
     </url>
     
@@ -4442,7 +4442,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/burned/</loc>
+      <loc>https://jplattel.nl/tags/burned/</loc>
       <lastmod>2011-09-27T09:24:16+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4452,7 +4452,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/calorie/</loc>
+      <loc>https://jplattel.nl/tags/calorie/</loc>
       <lastmod>2011-09-27T09:24:16+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4462,7 +4462,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/calories/</loc>
+      <loc>https://jplattel.nl/tags/calories/</loc>
       <lastmod>2011-09-27T09:24:16+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4472,7 +4472,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/foodzy/</loc>
+      <loc>https://jplattel.nl/tags/foodzy/</loc>
       <lastmod>2011-09-27T09:24:16+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4482,7 +4482,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/intake/</loc>
+      <loc>https://jplattel.nl/tags/intake/</loc>
       <lastmod>2011-09-27T09:24:16+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4492,7 +4492,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/</loc>
+      <loc>https://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/</loc>
       <lastmod>2011-09-01T10:39:03+02:00</lastmod>
     </url>
     
@@ -4501,17 +4501,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/processing/</loc>
-      <lastmod>2011-09-01T10:39:03+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/sf-report/</loc>
+      <loc>https://jplattel.nl/tags/processing/</loc>
       <lastmod>2011-09-01T10:39:03+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4521,7 +4511,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/</loc>
+      <loc>https://jplattel.nl/tags/sf-report/</loc>
+      <lastmod>2011-09-01T10:39:03+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/</loc>
       <lastmod>2011-08-17T09:50:01+02:00</lastmod>
     </url>
     
@@ -4530,7 +4530,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-07-18-python-library-fitbit-api/</loc>
+      <loc>https://jplattel.nl/post/2011-07-18-python-library-fitbit-api/</loc>
       <lastmod>2011-07-18T20:50:56+02:00</lastmod>
     </url>
     
@@ -4539,7 +4539,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wrapper/</loc>
+      <loc>https://jplattel.nl/tags/wrapper/</loc>
       <lastmod>2011-07-18T20:50:56+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4549,7 +4549,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</loc>
+      <loc>https://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
     </url>
     
@@ -4558,17 +4558,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/evernote/</loc>
-      <lastmod>2011-07-08T12:11:46+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/kindle/</loc>
+      <loc>https://jplattel.nl/tags/evernote/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4578,7 +4568,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sync/</loc>
+      <loc>https://jplattel.nl/tags/kindle/</loc>
       <lastmod>2011-07-08T12:11:46+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4588,7 +4578,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</loc>
+      <loc>https://jplattel.nl/tags/sync/</loc>
+      <lastmod>2011-07-08T12:11:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</loc>
       <lastmod>2011-06-22T21:53:57+02:00</lastmod>
     </url>
     
@@ -4597,7 +4597,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/rem/</loc>
+      <loc>https://jplattel.nl/tags/rem/</loc>
       <lastmod>2011-06-22T21:53:57+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4607,7 +4607,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mountain-view/</loc>
+      <loc>https://jplattel.nl/tags/mountain-view/</loc>
       <lastmod>2011-06-07T15:49:07+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4617,7 +4617,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sf/</loc>
+      <loc>https://jplattel.nl/tags/sf/</loc>
       <lastmod>2011-06-07T15:49:07+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4627,7 +4627,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-06-07-san-francisco-2011-qs2011/</loc>
+      <loc>https://jplattel.nl/post/2011-06-07-san-francisco-2011-qs2011/</loc>
       <lastmod>2011-06-07T15:49:07+02:00</lastmod>
     </url>
     
@@ -4636,7 +4636,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/crowdfunding/</loc>
+      <loc>https://jplattel.nl/tags/crowdfunding/</loc>
       <lastmod>2011-06-07T15:49:07+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4646,7 +4646,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/gae/</loc>
+      <loc>https://jplattel.nl/tags/gae/</loc>
       <lastmod>2011-05-08T10:24:29+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4656,7 +4656,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/</loc>
+      <loc>https://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/</loc>
       <lastmod>2011-05-08T10:24:29+02:00</lastmod>
     </url>
     
@@ -4665,17 +4665,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/color/</loc>
-      <lastmod>2011-05-08T10:24:29+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/read/</loc>
+      <loc>https://jplattel.nl/tags/color/</loc>
       <lastmod>2011-05-08T10:24:29+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4685,7 +4675,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/reading/</loc>
+      <loc>https://jplattel.nl/tags/read/</loc>
       <lastmod>2011-05-08T10:24:29+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4695,7 +4685,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/readinglist/</loc>
+      <loc>https://jplattel.nl/tags/reading/</loc>
       <lastmod>2011-05-08T10:24:29+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4705,7 +4695,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/readitlater/</loc>
+      <loc>https://jplattel.nl/tags/readinglist/</loc>
       <lastmod>2011-05-08T10:24:29+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4715,7 +4705,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</loc>
+      <loc>https://jplattel.nl/tags/readitlater/</loc>
+      <lastmod>2011-05-08T10:24:29+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
     </url>
     
@@ -4724,7 +4724,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wild/</loc>
+      <loc>https://jplattel.nl/tags/wild/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4734,7 +4734,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/alarm/</loc>
+      <loc>https://jplattel.nl/tags/alarm/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4744,7 +4744,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/cycle/</loc>
+      <loc>https://jplattel.nl/tags/cycle/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4754,7 +4754,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/dream/</loc>
+      <loc>https://jplattel.nl/tags/dream/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4764,7 +4764,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/dreaming/</loc>
+      <loc>https://jplattel.nl/tags/dreaming/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4774,7 +4774,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lucid/</loc>
+      <loc>https://jplattel.nl/tags/lucid/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4784,7 +4784,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/recall/</loc>
+      <loc>https://jplattel.nl/tags/recall/</loc>
       <lastmod>2011-04-19T20:26:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4794,7 +4794,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-04-15-extendability/</loc>
+      <loc>https://jplattel.nl/post/2011-04-15-extendability/</loc>
       <lastmod>2011-04-15T08:52:11+02:00</lastmod>
     </url>
     
@@ -4803,17 +4803,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/augmentation/</loc>
-      <lastmod>2011-04-15T08:52:11+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/extension/</loc>
+      <loc>https://jplattel.nl/tags/augmentation/</loc>
       <lastmod>2011-04-15T08:52:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4823,7 +4813,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/shoes/</loc>
+      <loc>https://jplattel.nl/tags/extension/</loc>
       <lastmod>2011-04-15T08:52:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4833,7 +4823,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/watches/</loc>
+      <loc>https://jplattel.nl/tags/shoes/</loc>
       <lastmod>2011-04-15T08:52:11+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4843,7 +4833,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-04-10-mobypicture-export/</loc>
+      <loc>https://jplattel.nl/tags/watches/</loc>
+      <lastmod>2011-04-15T08:52:11+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-04-10-mobypicture-export/</loc>
       <lastmod>2011-04-10T19:42:06+02:00</lastmod>
     </url>
     
@@ -4852,7 +4852,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/data-portability/</loc>
+      <loc>https://jplattel.nl/tags/data-portability/</loc>
       <lastmod>2011-04-10T19:42:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4862,7 +4862,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/export/</loc>
+      <loc>https://jplattel.nl/tags/export/</loc>
       <lastmod>2011-04-10T19:42:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4872,7 +4872,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/moby/</loc>
+      <loc>https://jplattel.nl/tags/moby/</loc>
       <lastmod>2011-04-10T19:42:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4882,7 +4882,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mobypicture/</loc>
+      <loc>https://jplattel.nl/tags/mobypicture/</loc>
       <lastmod>2011-04-10T19:42:06+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4892,7 +4892,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-03-31-what-am-i-tracking/</loc>
+      <loc>https://jplattel.nl/post/2011-03-31-what-am-i-tracking/</loc>
       <lastmod>2011-03-31T12:26:07+02:00</lastmod>
     </url>
     
@@ -4901,7 +4901,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/data-source/</loc>
+      <loc>https://jplattel.nl/tags/data-source/</loc>
       <lastmod>2011-03-31T12:26:07+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4911,7 +4911,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-03-18-actie-voor-mijn-reis-naar-san-francisco/</loc>
+      <loc>https://jplattel.nl/post/2011-03-18-actie-voor-mijn-reis-naar-san-francisco/</loc>
       <lastmod>2011-03-18T14:30:24+01:00</lastmod>
     </url>
     
@@ -4920,17 +4920,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/actie/</loc>
-      <lastmod>2011-03-18T14:30:24+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/amerika/</loc>
+      <loc>https://jplattel.nl/tags/actie/</loc>
       <lastmod>2011-03-18T14:30:24+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4940,7 +4930,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/reis/</loc>
+      <loc>https://jplattel.nl/tags/amerika/</loc>
       <lastmod>2011-03-18T14:30:24+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4950,7 +4940,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-03-13-trip-to-brussels/</loc>
+      <loc>https://jplattel.nl/tags/reis/</loc>
+      <lastmod>2011-03-18T14:30:24+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-03-13-trip-to-brussels/</loc>
       <lastmod>2011-03-13T21:55:20+01:00</lastmod>
     </url>
     
@@ -4959,7 +4959,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/brussels/</loc>
+      <loc>https://jplattel.nl/tags/brussels/</loc>
       <lastmod>2011-03-13T21:55:20+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4969,7 +4969,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/qsbru/</loc>
+      <loc>https://jplattel.nl/tags/qsbru/</loc>
       <lastmod>2011-03-13T21:55:20+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4979,7 +4979,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/scanadu/</loc>
+      <loc>https://jplattel.nl/tags/scanadu/</loc>
       <lastmod>2011-03-13T21:55:20+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4989,7 +4989,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/maclogger/</loc>
+      <loc>https://jplattel.nl/tags/maclogger/</loc>
       <lastmod>2011-02-27T22:12:40+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4999,7 +4999,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</loc>
+      <loc>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</loc>
       <lastmod>2011-02-27T22:12:40+01:00</lastmod>
     </url>
     
@@ -5008,7 +5008,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/infographics/</loc>
+      <loc>https://jplattel.nl/tags/infographics/</loc>
       <lastmod>2011-02-16T10:56:19+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5018,7 +5018,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/internet-of-things/</loc>
+      <loc>https://jplattel.nl/tags/internet-of-things/</loc>
       <lastmod>2011-02-16T10:56:19+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5028,7 +5028,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-02-16-the-evolution-of-the-internet-of-things/</loc>
+      <loc>https://jplattel.nl/post/2011-02-16-the-evolution-of-the-internet-of-things/</loc>
       <lastmod>2011-02-16T10:56:19+01:00</lastmod>
     </url>
     
@@ -5037,7 +5037,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-01-23-de-durftevragen-nieuwjaarsboost/</loc>
+      <loc>https://jplattel.nl/post/2011-01-23-de-durftevragen-nieuwjaarsboost/</loc>
       <lastmod>2011-01-23T13:04:01+01:00</lastmod>
     </url>
     
@@ -5046,17 +5046,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/durftevragen/</loc>
-      <lastmod>2011-01-23T13:04:01+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/dvtnb11/</loc>
+      <loc>https://jplattel.nl/tags/durftevragen/</loc>
       <lastmod>2011-01-23T13:04:01+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5066,7 +5056,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/nieuwjaarsboost/</loc>
+      <loc>https://jplattel.nl/tags/dvtnb11/</loc>
       <lastmod>2011-01-23T13:04:01+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5076,7 +5066,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/workshop/</loc>
+      <loc>https://jplattel.nl/tags/nieuwjaarsboost/</loc>
       <lastmod>2011-01-23T13:04:01+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5086,7 +5076,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-01-12-co-creatie-van-slimmerkunde/</loc>
+      <loc>https://jplattel.nl/tags/workshop/</loc>
+      <lastmod>2011-01-23T13:04:01+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-01-12-co-creatie-van-slimmerkunde/</loc>
       <lastmod>2011-01-12T20:56:49+01:00</lastmod>
     </url>
     
@@ -5095,17 +5095,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/co-creatie/</loc>
-      <lastmod>2011-01-12T20:56:49+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/lespakket/</loc>
+      <loc>https://jplattel.nl/tags/co-creatie/</loc>
       <lastmod>2011-01-12T20:56:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5115,7 +5105,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/slimmerkunde/</loc>
+      <loc>https://jplattel.nl/tags/lespakket/</loc>
       <lastmod>2011-01-12T20:56:49+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5125,7 +5115,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2011-01-08-dabblings-in-processing/</loc>
+      <loc>https://jplattel.nl/tags/slimmerkunde/</loc>
+      <lastmod>2011-01-12T20:56:49+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2011-01-08-dabblings-in-processing/</loc>
       <lastmod>2011-01-08T14:20:30+01:00</lastmod>
     </url>
     
@@ -5134,7 +5134,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/2010/</loc>
+      <loc>https://jplattel.nl/tags/2010/</loc>
       <lastmod>2010-12-31T12:16:04+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5144,7 +5144,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-12-31-2010-a-summary/</loc>
+      <loc>https://jplattel.nl/post/2010-12-31-2010-a-summary/</loc>
       <lastmod>2010-12-31T12:16:04+01:00</lastmod>
     </url>
     
@@ -5153,17 +5153,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/836pm.-photos/</loc>
-      <lastmod>2010-12-31T12:16:04+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/summary/</loc>
+      <loc>https://jplattel.nl/tags/836pm.-photos/</loc>
       <lastmod>2010-12-31T12:16:04+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5173,7 +5163,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/year/</loc>
+      <loc>https://jplattel.nl/tags/summary/</loc>
       <lastmod>2010-12-31T12:16:04+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5183,7 +5173,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/</loc>
+      <loc>https://jplattel.nl/tags/year/</loc>
+      <lastmod>2010-12-31T12:16:04+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/</loc>
       <lastmod>2010-12-08T12:19:55+01:00</lastmod>
     </url>
     
@@ -5192,7 +5192,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/app-engine/</loc>
+      <loc>https://jplattel.nl/tags/app-engine/</loc>
       <lastmod>2010-12-08T12:19:55+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5202,7 +5202,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ipad/</loc>
+      <loc>https://jplattel.nl/tags/ipad/</loc>
       <lastmod>2010-12-08T12:19:55+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5212,7 +5212,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/radbox/</loc>
+      <loc>https://jplattel.nl/tags/radbox/</loc>
       <lastmod>2010-12-08T12:19:55+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5222,7 +5222,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/watch-it-later/</loc>
+      <loc>https://jplattel.nl/tags/watch-it-later/</loc>
       <lastmod>2010-12-08T12:19:55+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5232,7 +5232,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-12-04-geolocation-based-grocery-reminders/</loc>
+      <loc>https://jplattel.nl/post/2010-12-04-geolocation-based-grocery-reminders/</loc>
       <lastmod>2010-12-04T14:26:44+01:00</lastmod>
     </url>
     
@@ -5241,7 +5241,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/</loc>
+      <loc>https://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/</loc>
       <lastmod>2010-11-25T14:24:10+01:00</lastmod>
     </url>
     
@@ -5250,17 +5250,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/exporting/</loc>
-      <lastmod>2010-11-25T14:24:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/portability/</loc>
+      <loc>https://jplattel.nl/tags/exporting/</loc>
       <lastmod>2010-11-25T14:24:10+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5270,7 +5260,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/quantter/</loc>
+      <loc>https://jplattel.nl/tags/portability/</loc>
       <lastmod>2010-11-25T14:24:10+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5280,7 +5270,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-11-09-why-shoot-a-photo-at-836pm/</loc>
+      <loc>https://jplattel.nl/tags/quantter/</loc>
+      <lastmod>2010-11-25T14:24:10+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2010-11-09-why-shoot-a-photo-at-836pm/</loc>
       <lastmod>2010-11-09T11:24:17+01:00</lastmod>
     </url>
     
@@ -5289,17 +5289,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/history/</loc>
-      <lastmod>2010-11-09T11:24:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/photo/</loc>
+      <loc>https://jplattel.nl/tags/history/</loc>
       <lastmod>2010-11-09T11:24:17+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5309,7 +5299,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-10-24-geopatterns-from-foursquare/</loc>
+      <loc>https://jplattel.nl/tags/photo/</loc>
+      <lastmod>2010-11-09T11:24:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2010-10-24-geopatterns-from-foursquare/</loc>
       <lastmod>2010-10-24T14:44:02+02:00</lastmod>
     </url>
     
@@ -5318,7 +5318,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-10-18-der-mensch-als-industriepalast/</loc>
+      <loc>https://jplattel.nl/post/2010-10-18-der-mensch-als-industriepalast/</loc>
       <lastmod>2010-10-18T13:02:35+02:00</lastmod>
     </url>
     
@@ -5327,7 +5327,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-10-06-my-view-of-technology/</loc>
+      <loc>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</loc>
       <lastmod>2010-10-06T18:42:10+02:00</lastmod>
     </url>
     
@@ -5336,7 +5336,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/personal-informatics/</loc>
+      <loc>https://jplattel.nl/tags/personal-informatics/</loc>
       <lastmod>2010-09-27T11:41:42+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5346,7 +5346,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</loc>
+      <loc>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</loc>
       <lastmod>2010-09-27T11:41:42+02:00</lastmod>
     </url>
     
@@ -5355,7 +5355,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/gps/</loc>
+      <loc>https://jplattel.nl/tags/gps/</loc>
       <lastmod>2010-08-31T21:30:52+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5365,7 +5365,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</loc>
+      <loc>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</loc>
       <lastmod>2010-08-31T21:30:52+02:00</lastmod>
     </url>
     
@@ -5374,17 +5374,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/coding/</loc>
-      <lastmod>2010-08-31T21:30:52+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/location/</loc>
+      <loc>https://jplattel.nl/tags/coding/</loc>
       <lastmod>2010-08-31T21:30:52+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5394,7 +5384,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/qsamsterdam/</loc>
+      <loc>https://jplattel.nl/tags/location/</loc>
+      <lastmod>2010-08-31T21:30:52+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/qsamsterdam/</loc>
       <lastmod>2010-08-23T21:47:35+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5404,7 +5404,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</loc>
+      <loc>https://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/</loc>
       <lastmod>2010-08-23T21:47:35+02:00</lastmod>
     </url>
     
@@ -5413,7 +5413,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-08-18-welkom/</loc>
+      <loc>https://jplattel.nl/post/2010-08-18-welkom/</loc>
       <lastmod>2010-08-18T12:29:02+02:00</lastmod>
     </url>
     
@@ -5422,7 +5422,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/welkom/</loc>
+      <loc>https://jplattel.nl/tags/welkom/</loc>
       <lastmod>2010-08-18T12:29:02+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5432,7 +5432,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/9292/</loc>
+      <loc>https://jplattel.nl/tags/9292/</loc>
       <lastmod>2010-06-09T22:19:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5442,7 +5442,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/9292ov/</loc>
+      <loc>https://jplattel.nl/tags/9292ov/</loc>
       <lastmod>2010-06-09T22:19:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5452,7 +5452,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-06-09-92square-de-9292ov-planner-via-foursquare/</loc>
+      <loc>https://jplattel.nl/post/2010-06-09-92square-de-9292ov-planner-via-foursquare/</loc>
       <lastmod>2010-06-09T22:19:26+02:00</lastmod>
     </url>
     
@@ -5461,17 +5461,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/92square/</loc>
-      <lastmod>2010-06-09T22:19:26+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/foursquare/</loc>
+      <loc>https://jplattel.nl/tags/92square/</loc>
       <lastmod>2010-06-09T22:19:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5481,7 +5471,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/locatie/</loc>
+      <loc>https://jplattel.nl/tags/foursquare/</loc>
       <lastmod>2010-06-09T22:19:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5491,7 +5481,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/mobiel/</loc>
+      <loc>https://jplattel.nl/tags/locatie/</loc>
       <lastmod>2010-06-09T22:19:26+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5501,7 +5491,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-05-29-the-haptic-compass-anklet-een-extra-zintuig/</loc>
+      <loc>https://jplattel.nl/tags/mobiel/</loc>
+      <lastmod>2010-06-09T22:19:26+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2010-05-29-the-haptic-compass-anklet-een-extra-zintuig/</loc>
       <lastmod>2010-05-29T18:50:57+02:00</lastmod>
     </url>
     
@@ -5510,17 +5510,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/compass/</loc>
-      <lastmod>2010-05-29T18:50:57+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/cyborg/</loc>
+      <loc>https://jplattel.nl/tags/compass/</loc>
       <lastmod>2010-05-29T18:50:57+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5530,7 +5520,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/electronics/</loc>
+      <loc>https://jplattel.nl/tags/cyborg/</loc>
       <lastmod>2010-05-29T18:50:57+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5540,7 +5530,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/haptic/</loc>
+      <loc>https://jplattel.nl/tags/electronics/</loc>
       <lastmod>2010-05-29T18:50:57+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5550,7 +5540,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</loc>
+      <loc>https://jplattel.nl/tags/haptic/</loc>
+      <lastmod>2010-05-29T18:50:57+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/</loc>
       <lastmod>2010-05-21T13:19:35+02:00</lastmod>
     </url>
     
@@ -5559,7 +5559,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/windows/</loc>
+      <loc>https://jplattel.nl/tags/windows/</loc>
       <lastmod>2010-05-21T13:19:35+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5569,7 +5569,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-05-18-1-minute-of-fame-stand-up-inspiration-836pm/</loc>
+      <loc>https://jplattel.nl/post/2010-05-18-1-minute-of-fame-stand-up-inspiration-836pm/</loc>
       <lastmod>2010-05-18T13:56:16+02:00</lastmod>
     </url>
     
@@ -5578,17 +5578,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/fijn/</loc>
-      <lastmod>2010-05-18T13:56:16+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/joost-plattel/</loc>
+      <loc>https://jplattel.nl/tags/fijn/</loc>
       <lastmod>2010-05-18T13:56:16+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5598,17 +5588,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-05-13-mede-auteur-van-150-lifehackingtips-2/</loc>
-      <lastmod>2010-05-13T12:34:10+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/auteurs/</loc>
-      <lastmod>2010-05-13T12:34:10+02:00</lastmod>
+      <loc>https://jplattel.nl/tags/joost-plattel/</loc>
+      <lastmod>2010-05-18T13:56:16+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5617,9 +5598,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/boek/</loc>
+      <loc>https://jplattel.nl/post/2010-05-13-mede-auteur-van-150-lifehackingtips-2/</loc>
       <lastmod>2010-05-13T12:34:10+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -5627,7 +5607,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/organisatie/</loc>
+      <loc>https://jplattel.nl/tags/auteurs/</loc>
       <lastmod>2010-05-13T12:34:10+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5637,7 +5617,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tips/</loc>
+      <loc>https://jplattel.nl/tags/boek/</loc>
       <lastmod>2010-05-13T12:34:10+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5647,7 +5627,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wordcloud/</loc>
+      <loc>https://jplattel.nl/tags/organisatie/</loc>
       <lastmod>2010-05-13T12:34:10+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5657,7 +5637,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/categories/chemistry/</loc>
+      <loc>https://jplattel.nl/tags/tips/</loc>
+      <lastmod>2010-05-13T12:34:10+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/wordcloud/</loc>
+      <lastmod>2010-05-13T12:34:10+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/categories/chemistry/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5667,7 +5667,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/open/</loc>
+      <loc>https://jplattel.nl/tags/open/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5677,7 +5677,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/surf/</loc>
+      <loc>https://jplattel.nl/tags/surf/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5687,7 +5687,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-04-05-verrijkte-publicaties-een-workshop-door-surf-academy/</loc>
+      <loc>https://jplattel.nl/post/2010-04-05-verrijkte-publicaties-een-workshop-door-surf-academy/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
     </url>
     
@@ -5696,17 +5696,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/escape/</loc>
-      <lastmod>2010-04-05T10:06:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/fedora/</loc>
+      <loc>https://jplattel.nl/tags/escape/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5716,7 +5706,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/gis/</loc>
+      <loc>https://jplattel.nl/tags/fedora/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5726,7 +5716,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/jalc/</loc>
+      <loc>https://jplattel.nl/tags/gis/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5736,7 +5726,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lore/</loc>
+      <loc>https://jplattel.nl/tags/jalc/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5746,7 +5736,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/maps/</loc>
+      <loc>https://jplattel.nl/tags/lore/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5756,7 +5746,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/public/</loc>
+      <loc>https://jplattel.nl/tags/maps/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5766,7 +5756,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/publicatie/</loc>
+      <loc>https://jplattel.nl/tags/public/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5776,7 +5766,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/rdf/</loc>
+      <loc>https://jplattel.nl/tags/publicatie/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5786,7 +5776,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/repositories/</loc>
+      <loc>https://jplattel.nl/tags/rdf/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5796,7 +5786,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tilburg/</loc>
+      <loc>https://jplattel.nl/tags/repositories/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5806,7 +5796,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/xml/</loc>
+      <loc>https://jplattel.nl/tags/tilburg/</loc>
       <lastmod>2010-04-05T10:06:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5816,7 +5806,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/</loc>
+      <loc>https://jplattel.nl/tags/xml/</loc>
+      <lastmod>2010-04-05T10:06:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/</loc>
       <lastmod>2010-01-06T14:49:19+01:00</lastmod>
     </url>
     
@@ -5825,27 +5825,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/viconrevue/</loc>
-      <lastmod>2010-01-06T14:49:19+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/logging/</loc>
-      <lastmod>2010-01-06T14:49:19+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/routine/</loc>
+      <loc>https://jplattel.nl/tags/viconrevue/</loc>
       <lastmod>2010-01-06T14:49:19+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5855,7 +5835,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/sensecam/</loc>
+      <loc>https://jplattel.nl/tags/logging/</loc>
       <lastmod>2010-01-06T14:49:19+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5865,17 +5845,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-11-26-goede-chemie-blogs-om-te-volgen/</loc>
-      <lastmod>2009-11-26T10:48:12+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/rss/</loc>
-      <lastmod>2009-11-26T10:48:12+01:00</lastmod>
+      <loc>https://jplattel.nl/tags/routine/</loc>
+      <lastmod>2010-01-06T14:49:19+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5884,8 +5855,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/blog/</loc>
-      <lastmod>2009-11-26T10:48:12+01:00</lastmod>
+      <loc>https://jplattel.nl/tags/sensecam/</loc>
+      <lastmod>2010-01-06T14:49:19+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5894,9 +5865,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/blogs/</loc>
+      <loc>https://jplattel.nl/post/2009-11-26-goede-chemie-blogs-om-te-volgen/</loc>
       <lastmod>2009-11-26T10:48:12+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -5904,7 +5874,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/feed/</loc>
+      <loc>https://jplattel.nl/tags/rss/</loc>
       <lastmod>2009-11-26T10:48:12+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5914,7 +5884,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/opml/</loc>
+      <loc>https://jplattel.nl/tags/blog/</loc>
       <lastmod>2009-11-26T10:48:12+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5924,7 +5894,37 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/chempedia/</loc>
+      <loc>https://jplattel.nl/tags/blogs/</loc>
+      <lastmod>2009-11-26T10:48:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/feed/</loc>
+      <lastmod>2009-11-26T10:48:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/opml/</loc>
+      <lastmod>2009-11-26T10:48:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/chempedia/</loc>
       <lastmod>2009-11-18T09:28:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5934,7 +5934,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-11-18-chempedia-lab/</loc>
+      <loc>https://jplattel.nl/post/2009-11-18-chempedia-lab/</loc>
       <lastmod>2009-11-18T09:28:26+01:00</lastmod>
     </url>
     
@@ -5943,17 +5943,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/forum/</loc>
-      <lastmod>2009-11-18T09:28:26+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/lab/</loc>
+      <loc>https://jplattel.nl/tags/forum/</loc>
       <lastmod>2009-11-18T09:28:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5963,7 +5953,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/stack-overflow/</loc>
+      <loc>https://jplattel.nl/tags/lab/</loc>
       <lastmod>2009-11-18T09:28:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5973,7 +5963,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/twitter/</loc>
+      <loc>https://jplattel.nl/tags/stack-overflow/</loc>
       <lastmod>2009-11-18T09:28:26+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5983,7 +5973,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/crowdsourcing/</loc>
+      <loc>https://jplattel.nl/tags/twitter/</loc>
+      <lastmod>2009-11-18T09:28:26+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/crowdsourcing/</loc>
       <lastmod>2009-11-05T12:38:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5993,7 +5993,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/deep-dyve/</loc>
+      <loc>https://jplattel.nl/tags/deep-dyve/</loc>
       <lastmod>2009-11-05T12:38:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6003,7 +6003,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-11-05-deep-dyve-goedkoper-literatuur-onderzoek/</loc>
+      <loc>https://jplattel.nl/post/2009-11-05-deep-dyve-goedkoper-literatuur-onderzoek/</loc>
       <lastmod>2009-11-05T12:38:53+01:00</lastmod>
     </url>
     
@@ -6012,17 +6012,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/friendfeed/</loc>
-      <lastmod>2009-11-05T12:38:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/literatuur/</loc>
+      <loc>https://jplattel.nl/tags/friendfeed/</loc>
       <lastmod>2009-11-05T12:38:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6032,7 +6022,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/onderzoek/</loc>
+      <loc>https://jplattel.nl/tags/literatuur/</loc>
       <lastmod>2009-11-05T12:38:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6042,7 +6032,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/science-direct/</loc>
+      <loc>https://jplattel.nl/tags/onderzoek/</loc>
       <lastmod>2009-11-05T12:38:53+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6052,7 +6042,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/cas-nummers/</loc>
+      <loc>https://jplattel.nl/tags/science-direct/</loc>
+      <lastmod>2009-11-05T12:38:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/cas-nummers/</loc>
       <lastmod>2009-11-01T13:01:04+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6062,7 +6062,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-11-01-sociale-chemie-met-chempedia/</loc>
+      <loc>https://jplattel.nl/post/2009-11-01-sociale-chemie-met-chempedia/</loc>
       <lastmod>2009-11-01T13:01:04+01:00</lastmod>
     </url>
     
@@ -6071,17 +6071,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/naamgeving/</loc>
-      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/structuren/</loc>
+      <loc>https://jplattel.nl/tags/naamgeving/</loc>
       <lastmod>2009-11-01T13:01:04+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6091,17 +6081,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</loc>
-      <lastmod>2009-10-29T11:41:21+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/openaccess/</loc>
-      <lastmod>2009-10-29T11:41:21+01:00</lastmod>
+      <loc>https://jplattel.nl/tags/structuren/</loc>
+      <lastmod>2009-11-01T13:01:04+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -6110,9 +6091,8 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/plos/</loc>
+      <loc>https://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/</loc>
       <lastmod>2009-10-29T11:41:21+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -6120,7 +6100,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/reviews/</loc>
+      <loc>https://jplattel.nl/tags/openaccess/</loc>
       <lastmod>2009-10-29T11:41:21+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6130,7 +6110,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/scrapen/</loc>
+      <loc>https://jplattel.nl/tags/plos/</loc>
       <lastmod>2009-10-29T11:41:21+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6140,7 +6120,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</loc>
+      <loc>https://jplattel.nl/tags/reviews/</loc>
+      <lastmod>2009-10-29T11:41:21+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/scrapen/</loc>
+      <lastmod>2009-10-29T11:41:21+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/</loc>
       <lastmod>2009-10-28T12:37:14+01:00</lastmod>
     </url>
     
@@ -6149,7 +6149,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/grafitter/</loc>
+      <loc>https://jplattel.nl/tags/grafitter/</loc>
       <lastmod>2009-10-28T12:37:14+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6159,7 +6159,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/me-trics/</loc>
+      <loc>https://jplattel.nl/tags/me-trics/</loc>
       <lastmod>2009-10-28T12:37:14+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6169,7 +6169,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/yfd/</loc>
+      <loc>https://jplattel.nl/tags/yfd/</loc>
       <lastmod>2009-10-28T12:37:14+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6179,7 +6179,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/your-flowing-data/</loc>
+      <loc>https://jplattel.nl/tags/your-flowing-data/</loc>
       <lastmod>2009-10-28T12:37:14+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6189,7 +6189,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/daytum/</loc>
+      <loc>https://jplattel.nl/tags/daytum/</loc>
       <lastmod>2009-10-28T12:37:14+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6199,7 +6199,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/martijn-aslander/</loc>
+      <loc>https://jplattel.nl/tags/martijn-aslander/</loc>
       <lastmod>2009-10-26T10:41:30+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6209,7 +6209,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-10-26-totaal-onverwacht-in-de-spits/</loc>
+      <loc>https://jplattel.nl/post/2009-10-26-totaal-onverwacht-in-de-spits/</loc>
       <lastmod>2009-10-26T10:41:30+01:00</lastmod>
     </url>
     
@@ -6218,7 +6218,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/nobiles/</loc>
+      <loc>https://jplattel.nl/tags/nobiles/</loc>
       <lastmod>2009-10-26T10:41:30+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6228,7 +6228,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-10-17-interview-voor-nobiles-magazine/</loc>
+      <loc>https://jplattel.nl/post/2009-10-17-interview-voor-nobiles-magazine/</loc>
       <lastmod>2009-10-17T11:57:58+02:00</lastmod>
     </url>
     
@@ -6237,7 +6237,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/personal-branding/</loc>
+      <loc>https://jplattel.nl/tags/personal-branding/</loc>
       <lastmod>2009-10-17T11:57:58+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6247,7 +6247,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/hardlopen/</loc>
+      <loc>https://jplattel.nl/tags/hardlopen/</loc>
       <lastmod>2009-09-27T18:28:34+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6257,7 +6257,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-09-27-hardlopen-met-runkeeper/</loc>
+      <loc>https://jplattel.nl/post/2009-09-27-hardlopen-met-runkeeper/</loc>
       <lastmod>2009-09-27T18:28:34+02:00</lastmod>
     </url>
     
@@ -6266,17 +6266,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/runkeeper/</loc>
-      <lastmod>2009-09-27T18:28:34+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/selftracking/</loc>
+      <loc>https://jplattel.nl/tags/runkeeper/</loc>
       <lastmod>2009-09-27T18:28:34+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6286,7 +6276,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/vibram-five-fingers/</loc>
+      <loc>https://jplattel.nl/tags/selftracking/</loc>
       <lastmod>2009-09-27T18:28:34+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6296,7 +6286,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-09-16-op-blote-voeten-pt-2/</loc>
+      <loc>https://jplattel.nl/tags/vibram-five-fingers/</loc>
+      <lastmod>2009-09-27T18:28:34+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2009-09-16-op-blote-voeten-pt-2/</loc>
       <lastmod>2009-09-16T13:57:21+02:00</lastmod>
     </url>
     
@@ -6305,17 +6305,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/barefoot/</loc>
-      <lastmod>2009-09-16T13:57:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/blote-voeten/</loc>
+      <loc>https://jplattel.nl/tags/barefoot/</loc>
       <lastmod>2009-09-16T13:57:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6325,7 +6315,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lopen/</loc>
+      <loc>https://jplattel.nl/tags/blote-voeten/</loc>
       <lastmod>2009-09-16T13:57:21+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6335,7 +6325,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-09-06-joost-loopt-op-vibram-five-fingers/</loc>
+      <loc>https://jplattel.nl/tags/lopen/</loc>
+      <lastmod>2009-09-16T13:57:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2009-09-06-joost-loopt-op-vibram-five-fingers/</loc>
       <lastmod>2009-09-06T15:36:57+02:00</lastmod>
     </url>
     
@@ -6344,17 +6344,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/schoenen/</loc>
-      <lastmod>2009-09-06T15:36:57+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/voeten/</loc>
+      <loc>https://jplattel.nl/tags/schoenen/</loc>
       <lastmod>2009-09-06T15:36:57+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6364,7 +6354,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/pc/</loc>
+      <loc>https://jplattel.nl/tags/voeten/</loc>
+      <lastmod>2009-09-06T15:36:57+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/pc/</loc>
       <lastmod>2009-08-26T16:09:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6374,7 +6374,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/software/</loc>
+      <loc>https://jplattel.nl/tags/software/</loc>
       <lastmod>2009-08-26T16:09:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6384,7 +6384,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/tracker/</loc>
+      <loc>https://jplattel.nl/tags/tracker/</loc>
       <lastmod>2009-08-26T16:09:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6394,7 +6394,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/wakoopa/</loc>
+      <loc>https://jplattel.nl/tags/wakoopa/</loc>
       <lastmod>2009-08-26T16:09:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6404,7 +6404,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-08-26-wakoopa-tracking-voor-gebruik-van-software/</loc>
+      <loc>https://jplattel.nl/post/2009-08-26-wakoopa-tracking-voor-gebruik-van-software/</loc>
       <lastmod>2009-08-26T16:09:59+02:00</lastmod>
     </url>
     
@@ -6413,7 +6413,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/web/</loc>
+      <loc>https://jplattel.nl/tags/web/</loc>
       <lastmod>2009-08-26T16:09:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6423,7 +6423,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-08-21-track-your-happiness/</loc>
+      <loc>https://jplattel.nl/post/2009-08-21-track-your-happiness/</loc>
       <lastmod>2009-08-21T11:47:32+02:00</lastmod>
     </url>
     
@@ -6432,27 +6432,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/rapport/</loc>
-      <lastmod>2009-08-21T11:47:32+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/survey/</loc>
-      <lastmod>2009-08-21T11:47:32+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/track-your-happiness/</loc>
+      <loc>https://jplattel.nl/tags/rapport/</loc>
       <lastmod>2009-08-21T11:47:32+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6462,7 +6442,27 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/generator/</loc>
+      <loc>https://jplattel.nl/tags/survey/</loc>
+      <lastmod>2009-08-21T11:47:32+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/track-your-happiness/</loc>
+      <lastmod>2009-08-21T11:47:32+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/generator/</loc>
       <lastmod>2009-07-20T19:24:04+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6472,7 +6472,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/php/</loc>
+      <loc>https://jplattel.nl/tags/php/</loc>
       <lastmod>2009-07-20T19:24:04+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6482,7 +6482,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/qr-code/</loc>
+      <loc>https://jplattel.nl/tags/qr-code/</loc>
       <lastmod>2009-07-20T19:24:04+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6492,7 +6492,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</loc>
+      <loc>https://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</loc>
       <lastmod>2009-07-20T19:24:04+02:00</lastmod>
     </url>
     
@@ -6501,7 +6501,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-07-11-100-dagen-daytum/</loc>
+      <loc>https://jplattel.nl/post/2009-07-11-100-dagen-daytum/</loc>
       <lastmod>2009-07-11T13:46:42+02:00</lastmod>
     </url>
     
@@ -6510,17 +6510,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/appels/</loc>
-      <lastmod>2009-07-11T13:46:42+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/beleg/</loc>
+      <loc>https://jplattel.nl/tags/appels/</loc>
       <lastmod>2009-07-11T13:46:42+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6530,7 +6520,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/drinken/</loc>
+      <loc>https://jplattel.nl/tags/beleg/</loc>
       <lastmod>2009-07-11T13:46:42+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6540,7 +6530,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/ijs/</loc>
+      <loc>https://jplattel.nl/tags/drinken/</loc>
       <lastmod>2009-07-11T13:46:42+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6550,7 +6540,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-05-27-lifehacking-academy/</loc>
+      <loc>https://jplattel.nl/tags/ijs/</loc>
+      <lastmod>2009-07-11T13:46:42+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/post/2009-05-27-lifehacking-academy/</loc>
       <lastmod>2009-05-27T11:44:28+02:00</lastmod>
     </url>
     
@@ -6559,7 +6559,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/padvinders/</loc>
+      <loc>https://jplattel.nl/tags/padvinders/</loc>
       <lastmod>2009-05-27T11:44:28+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6569,7 +6569,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lha/</loc>
+      <loc>https://jplattel.nl/tags/lha/</loc>
       <lastmod>2009-05-27T11:44:28+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6579,7 +6579,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/lifehacking-academy/</loc>
+      <loc>https://jplattel.nl/tags/lifehacking-academy/</loc>
       <lastmod>2009-05-27T11:44:28+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6589,7 +6589,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/slimmer-werken/</loc>
+      <loc>https://jplattel.nl/tags/slimmer-werken/</loc>
       <lastmod>2009-05-27T11:44:28+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6599,7 +6599,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-04-06-daytum/</loc>
+      <loc>https://jplattel.nl/post/2009-04-06-daytum/</loc>
       <lastmod>2009-04-06T20:43:01+02:00</lastmod>
     </url>
     
@@ -6608,17 +6608,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/reflectie/</loc>
-      <lastmod>2009-04-06T20:43:01+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/tellen/</loc>
+      <loc>https://jplattel.nl/tags/reflectie/</loc>
       <lastmod>2009-04-06T20:43:01+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6628,7 +6618,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/web-2.0/</loc>
+      <loc>https://jplattel.nl/tags/tellen/</loc>
       <lastmod>2009-04-06T20:43:01+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6638,7 +6628,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/c2w/</loc>
+      <loc>https://jplattel.nl/tags/web-2.0/</loc>
+      <lastmod>2009-04-06T20:43:01+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/tags/c2w/</loc>
       <lastmod>2009-03-26T12:23:37+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6648,7 +6648,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/post/2009-03-26-c2w-expo-personal-brand-award-2009/</loc>
+      <loc>https://jplattel.nl/post/2009-03-26-c2w-expo-personal-brand-award-2009/</loc>
       <lastmod>2009-03-26T12:23:37+01:00</lastmod>
     </url>
     
@@ -6657,17 +6657,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/expo/</loc>
-      <lastmod>2009-03-26T12:23:37+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jplattel.nl/tags/life-sciences/</loc>
+      <loc>https://jplattel.nl/tags/expo/</loc>
       <lastmod>2009-03-26T12:23:37+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6677,7 +6667,7 @@
     
     <url>
     
-      <loc>http://jplattel.nl/tags/pizza/</loc>
+      <loc>https://jplattel.nl/tags/life-sciences/</loc>
       <lastmod>2009-03-26T12:23:37+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6687,7 +6677,17 @@
     
     <url>
     
-      <loc>http://jplattel.nl/search/</loc>
+      <loc>https://jplattel.nl/tags/pizza/</loc>
+      <lastmod>2009-03-26T12:23:37+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jplattel.nl/search/</loc>
     </url>
     
   
