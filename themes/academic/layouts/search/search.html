@@ -33,7 +33,7 @@
 <script>
 function initSearchIndex() {
   // this file is built by the Grunt task, and
-  $.getJSON('{{ .Site.BaseURL }}/index.json')
+  $.getJSON('{{ .Site.BaseURL }}index.json')
     .done(function(documents) {
       pagesIndex = documents;
       searchIndex = lunr(function() {
