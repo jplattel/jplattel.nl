@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 17 Aug 2019 20:01:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:36:42 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,63 @@
     <item>
       <title></title>
       <link>https://jplattel.nl/tags/</link>
-      <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boredom</title>
+      <link>https://jplattel.nl/tags/boredom/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/boredom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>https://jplattel.nl/tags/coffee/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ideas</title>
+      <link>https://jplattel.nl/tags/ideas/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pi</title>
+      <link>https://jplattel.nl/tags/pi/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>printer</title>
+      <link>https://jplattel.nl/tags/printer/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/printer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry</title>
+      <link>https://jplattel.nl/tags/raspberry/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/raspberry/</guid>
       <description></description>
     </item>
     

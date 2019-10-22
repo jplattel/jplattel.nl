@@ -6,8 +6,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 17 Aug 2019 20:01:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:36:42 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Idea Machine</title>
+      <link>https://jplattel.nl/post/2019-10-21-the-idea-machine/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2019-10-21-the-idea-machine/</guid>
+      <description>&lt;p&gt;Boredom is something we all experience in different ways. And the solution isn’t always that easy. You might dwell for a certain amount of time on the couch.. Or restless as you are think about thinks you might want to do, but they never seem to come up.&lt;/p&gt;
+
+&lt;p&gt;I think a certain part boredom is necessary to facilitate ideas and other serendipitous discoveries. However there might be times, in which you would like for the pure boredom to disappear. After talking to my girlfriend about this we wanted too see what kind of a solution we could think of. And here is the result:
+&lt;img src=&#34;https://images.jplattel.nl/file/jplattel-dropshare/B02CEF3D-4D51-4AC9-A94F-3487D6E89813-1571747019/B02CEF3D-4D51-4AC9-A94F-3487D6E89813.JPG&#34; alt=&#34;The Idea Machine&#34; /&gt;
+It looks like a coffee grinder, but it is an idea machine, meant for only one purpose and only allowing one simple interaction. Instead of grinding coffee,  you pull open the drawer to reveal a print-out of and idea. The way it works is simple, there’s a Raspberry Pi hooked up to the local network offering an interface that allows you to input ideas. Furthermore, a small little thermal printes prints out an idea once the a limit switch is triggered if you pull open the drawer.&lt;/p&gt;
+
+&lt;p&gt;That’s all there is to it, now onto adventures!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Eerst Hulp Bij Abonnementen (EHBA)</title>
@@ -180,16 +196,6 @@
       <description>&lt;p&gt;Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.&lt;/p&gt;
 
 &lt;p&gt;My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vogsy</title>
-      <link>https://jplattel.nl/client/vogsy/</link>
-      <pubDate>Sun, 20 May 2018 00:19:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/vogsy/</guid>
-      <description>&lt;p&gt;For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.&lt;/p&gt;
 </description>
     </item>
     
