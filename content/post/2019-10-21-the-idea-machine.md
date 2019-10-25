@@ -24,6 +24,8 @@ Boredom is something we all experience in different ways. And the solution isn�
 
 I think a certain part boredom is necessary to facilitate ideas and other serendipitous discoveries. However there might be times, in which you would like for the pure boredom to disappear. After talking to my girlfriend about this we wanted too see what kind of a solution we could think of. And here is the result:
 ![The Idea Machine](https://images.jplattel.nl/file/jplattel-dropshare/B02CEF3D-4D51-4AC9-A94F-3487D6E89813-1571747019/B02CEF3D-4D51-4AC9-A94F-3487D6E89813.JPG)
-It looks like a coffee grinder, but it is an idea machine, meant for only one purpose and only allowing one simple interaction. Instead of grinding coffee,  you pull open the drawer to reveal a print-out of and idea. The way it works is simple, there’s a [Raspberry Pi](https://www.raspberrypi.org) hooked up to the local network offering an interface that allows you to input ideas. Furthermore, a [little thermal printer](https://learn.adafruit.com/networked-thermal-printer-using-cups-and-raspberry-pi/connect-and-configure-printer) prints out an idea once you pull open the drawer. 
+It looks like a coffee grinder, but it is an idea machine, meant for only one purpose and only allowing one simple interaction. Instead of grinding coffee,  you pull open the drawer to reveal a print-out of and idea. 
+
+The way it works is simple, there’s a [Raspberry Pi](https://www.raspberrypi.org) hooked up to the local network offering an interface that allows you to input ideas. Furthermore, a [little thermal printer](https://learn.adafruit.com/networked-thermal-printer-using-cups-and-raspberry-pi/connect-and-configure-printer) prints out an idea once you pull open the drawer. 
 
 That’s all there is to it, now onto adventures! 
