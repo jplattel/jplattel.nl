@@ -6,199 +6,142 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 21 Oct 2019 12:36:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2019 19:49:34 +0100</lastBuildDate>
     <atom:link href="https://jplattel.nl/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The Idea Machine</title>
-      <link>https://jplattel.nl/post/2019-10-21-the-idea-machine/</link>
-      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      <title>Clients</title>
+      <link>https://jplattel.nl/client/</link>
+      <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
       
-      <guid>https://jplattel.nl/post/2019-10-21-the-idea-machine/</guid>
-      <description>&lt;p&gt;Boredom is something we all experience in different ways. And the solution isn’t always that easy. You might dwell for a certain amount of time on the couch.. Or restless as you are think about thinks you might want to do, but they never seem to come up.&lt;/p&gt;
-
-&lt;p&gt;I think a certain part boredom is necessary to facilitate ideas and other serendipitous discoveries. However there might be times, in which you would like for the pure boredom to disappear. After talking to my girlfriend about this we wanted too see what kind of a solution we could think of. And here is the result:
-&lt;img src=&#34;https://images.jplattel.nl/file/jplattel-dropshare/B02CEF3D-4D51-4AC9-A94F-3487D6E89813-1571747019/B02CEF3D-4D51-4AC9-A94F-3487D6E89813.JPG&#34; alt=&#34;The Idea Machine&#34; /&gt;
-It looks like a coffee grinder, but it is an idea machine, meant for only one purpose and only allowing one simple interaction. Instead of grinding coffee,  you pull open the drawer to reveal a print-out of and idea.&lt;/p&gt;
-
-&lt;p&gt;The way it works is simple, there’s a &lt;a href=&#34;https://www.raspberrypi.org&#34; target=&#34;_blank&#34;&gt;Raspberry Pi&lt;/a&gt; hooked up to the local network offering an interface that allows you to input ideas. Furthermore, a &lt;a href=&#34;https://learn.adafruit.com/networked-thermal-printer-using-cups-and-raspberry-pi/connect-and-configure-printer&#34; target=&#34;_blank&#34;&gt;little thermal printer&lt;/a&gt; prints out an idea once you pull open the drawer.&lt;/p&gt;
-
-&lt;p&gt;That’s all there is to it, now onto adventures!&lt;/p&gt;
-</description>
+      <guid>https://jplattel.nl/client/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Eerst Hulp Bij Abonnementen (EHBA)</title>
-      <link>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</link>
-      <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</guid>
-      <description>&lt;p&gt;One of my first projects for learning programming and navigating around the digitale sphere was building a visualization based on transport data. As I use public transport for all travel I naturally wanted to know how I spend my money on it.&lt;/p&gt;
-
-&lt;p&gt;This question has been popping in and out of my mind ever since and more recently I had some time to tinker again. This time I was wonder if I could recommend subscriptions based on historical data from a person. And lo and behold: &lt;a href=&#34;https://ehba.app&#34; target=&#34;_blank&#34;&gt;EHBA&lt;/a&gt; (eerste hulp bij abonnementen) was born!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/ehba.png&#34; alt=&#34;ehba.app&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s a small little app that enables you to upload your personal public transport data from different sources and then offers you insight into the past months and based on your average spending recommends the best subscription!&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re curious about the source-code, that&amp;rsquo;s available on &lt;a href=&#34;https://github.com/jplattel/ehba&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;. And if you have more suggestions or ideas, feel free to open issue there or email me at: &lt;a href=&#34;mailto:jsplattel@gmail.com&#34; target=&#34;_blank&#34;&gt;jsplattel@gmail.com&lt;/a&gt;. If you are from the &lt;a href=&#34;https://www.ns.nl&#34; target=&#34;_blank&#34;&gt;NS&lt;/a&gt; or any organization like &lt;a href=&#34;https://www.rover.nl&#34; target=&#34;_blank&#34;&gt;Rover&lt;/a&gt; I&amp;rsquo;d love to drink a cup of coffee!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EHBA</title>
-      <link>https://jplattel.nl/project/ehba/</link>
+      <title>Projects</title>
+      <link>https://jplattel.nl/project/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
       
-      <guid>https://jplattel.nl/project/ehba/</guid>
+      <guid>https://jplattel.nl/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Panel member @ Big Brother Awards</title>
-      <link>https://jplattel.nl/media/big-brother-awards/</link>
+      <title>Media</title>
+      <link>https://jplattel.nl/media/</link>
       <pubDate>Thu, 24 Jan 2019 13:59:47 +0100</pubDate>
       
-      <guid>https://jplattel.nl/media/big-brother-awards/</guid>
+      <guid>https://jplattel.nl/media/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Personalstats</title>
-      <link>https://jplattel.nl/project/personalstats/</link>
-      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      <title>Speaking</title>
+      <link>https://jplattel.nl/speaking/</link>
+      <pubDate>Sat, 21 Apr 2018 22:44:44 +0200</pubDate>
       
-      <guid>https://jplattel.nl/project/personalstats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>8:36pm 2018</title>
-      <link>https://jplattel.nl/post/2019-01-06-836pm-2018/</link>
-      <pubDate>Sun, 06 Jan 2019 20:48:47 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2019-01-06-836pm-2018/</guid>
-      <description>&lt;p&gt;As we close out 2018 and start out the new year fresh, the one thing left to do is make a video of all the 8:36pm photos that I took that year. And when uploading this video I checked out when I started, which is 2010. Thus this marks the 10th year that I&amp;rsquo;m doing this&amp;hellip; Here&amp;rsquo;s the video:&lt;/p&gt;
+      <guid>https://jplattel.nl/speaking/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/speaking.jpg&#34; alt=&#34;Speaking&#34;&gt;&lt;/p&gt;
 
-&lt;iframe src=&#34;https://player.vimeo.com/video/309760850&#34; width=&#34;640&#34; height=&#34;400&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;
+  I&#39;m often asked for a lecture or as a public speaker on topics like the Quantified Self, data, the Internet of Things and any related fields. If you&#39;re curious about the content, have a look at my slides on &lt;a href=&#34;http://slideshare.net/jsplattel&#34;&gt;Slideshare&lt;/a&gt; or &lt;a href=&#34;https://vimeo.com/63226010&#34;&gt;look at the video from my talk at Cross Media Cafe&lt;/a&gt;. The length varies, depending on the time available I&#39;m able to accommodate ideas in 10 minutes, or an in-depth view of the field in 45 minutes or more.
+&lt;/p&gt;
 
-&lt;p&gt;Phew, racking in around 3000 photos so far&amp;hellip; For all I can say is that I will probably be going somewhere with this.. But who knows where.&lt;/p&gt;
+&lt;p&gt;Get in &lt;a href=&#34;https://jplattel.nl/#contact&#34;&gt;touch with me&lt;/a&gt; or book me trough &lt;a href=&#34;http://www.athenas.nl/sprekers/joost-plattel&#34;&gt;Athenas&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I also started a second habit and that is filing the &lt;a href=&#34;https://yearcompass.com/&#34; target=&#34;_blank&#34;&gt;Year Compass&lt;/a&gt; together with &lt;a href=&#34;http://chantalvankempen.nl/&#34; target=&#34;_blank&#34;&gt;Chantal&lt;/a&gt;. And that&amp;rsquo;s a wonderfull way of reflecting and looking ahead for each year. My goals for this year are focussed on my health, hiking and making things!&lt;/p&gt;
+&lt;h4&gt;What other people say about me:&lt;/h4&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Joost Plattel is a very enthousiastic and motivated speaker, a ambassador of the Quantified Self community. ~ &lt;strong&gt;Erdinç Saçan&lt;/strong&gt;, &lt;em&gt;Marketingfacts&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;Joost can&#39;t get enough of his own data. His story about the possibilities with the Quantified Self is fascinating and makes you wonder. ~ &lt;strong&gt;Chris van &#39;t Hof&lt;/strong&gt;, &lt;em&gt;Tek-Tok&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
-      <title>Nolostcapital</title>
-      <link>https://jplattel.nl/client/nolostcapital/</link>
-      <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
+      <title>Wishlist</title>
+      <link>https://jplattel.nl/wishlist/</link>
+      <pubDate>Sat, 21 Apr 2018 21:17:28 +0200</pubDate>
       
-      <guid>https://jplattel.nl/client/nolostcapital/</guid>
-      <description>&lt;p&gt;For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act. The backend service was done in Django and the front-end in Vue.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>iPhone XS NFC Shortcuts</title>
-      <link>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
-      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a &lt;a href=&#34;https://www.acs.com.hk/en/products/403/acr1255u-j1-secure-bluetooth%C2%AE-nfc-reader/&#34;&gt;NFC reader&lt;/a&gt;. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)&lt;/p&gt;
+      <guid>https://jplattel.nl/wishlist/</guid>
+      <description>
 
-&lt;p&gt;Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag. The way it works is simple, the NFC tags stores a url with custom scheme &lt;code&gt;shortcuts://run-shortcut?name=Wekker&amp;rdquo;&lt;/code&gt;. When the tag is touched, it opens the custom url om my phone triggering a shortcut. This enables the alarm. Presto!&lt;/p&gt;
+&lt;p&gt;Below is my wishlist, if you want to trade something in return for something or support me you could help me with the following:&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;And I&amp;rsquo;ve got some ideas for more:&lt;/i&gt;&lt;/p&gt;
+&lt;h3 id=&#34;physical-stuff&#34;&gt;Physical stuff&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Trigger a count in water intake when touching the tag that you can mount to your water bottle.&lt;/li&gt;
-&lt;li&gt;Auto navigate to home (if you want you can choose the method of traveling) when touching &lt;a href=&#34;http://casiomod.club/&#34;&gt;my watch&lt;/a&gt;.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Set a timer for a amount of time when scannign the tag next to the washing machine.&lt;/li&gt;
-&lt;li&gt;Set a reminder for a task, for example buying toilet paper.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472&#34; target=&#34;_blank&#34;&gt;Every tool&amp;rsquo;s a hammer&lt;/a&gt; by Adam Savage&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://knityak.com/&#34; target=&#34;_blank&#34;&gt;knityak&lt;/a&gt; scarf&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meural.com&#34; target=&#34;_blank&#34;&gt;A meural&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A Diresta &lt;a href=&#34;http://shop.jimmydiresta.com/ice-pick/&#34; target=&#34;_blank&#34;&gt;Ice Pick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blue &lt;a href=&#34;https://www.miir.com/products/the-growler?variant=27677677825&#34; target=&#34;_blank&#34;&gt;Miir Growler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://teespring.com/new-feynman?tsmac=store&amp;amp;tsmic=fermats-library#pid=228&amp;amp;cid=5923&amp;amp;sid=front&#34; target=&#34;_blank&#34;&gt;Feynman&lt;/a&gt; t-shirt.&lt;/li&gt;
+&lt;li&gt;Comics drawn by &lt;a href=&#34;http://nl.wikipedia.org/wiki/Jean_Giraud&#34; target=&#34;_blank&#34;&gt;Moebius&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sortimo boxes (contact me if you want to give these, I might have some specific ones!)&lt;/li&gt;
+&lt;li&gt;A full size wired Dremel kit&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The tasks you can automate this way are mostly highly specific and repeatable.&lt;/p&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Play a &lt;a href=&#34;http://en.wikipedia.org/wiki/Hang_(instrument)&#34; target=&#34;_blank&#34;&gt;Hang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Underwater diving&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;people-already-gave-me&#34;&gt;People already gave me&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://puzzle.lamingtondrive.com/&#34; target=&#34;_blank&#34;&gt;This puzzle&lt;/a&gt; (thanks Nathalie!)&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.bol.com/nl/p/cool-tools/9200000020982860/&#34; target=&#34;_blank&#34;&gt;Cool Tools&lt;/a&gt; book, thanks &lt;a href=&#34;https://www.vitaminecommunicatie.nl/&#34; target=&#34;_blank&#34;&gt;Vitamine Communicatie&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.taschen.com/pages/en/catalogue/art/all/04639/facts.dali_les_diners_de_gala.htm?gclid=Cj0KEQjwg8i_BRCT9dHt5ZSGi90BEiQAItdjpMqOS3gORWwVrFL8DHsHtD0IkavXJryJbxaRuclqvKYaAnVa8P8HAQ&#34; target=&#34;_blank&#34;&gt;cooking book&lt;/a&gt; by Dali&lt;/li&gt;
+&lt;li&gt;Moebius Library: The World of Edena, thanks &lt;a href=&#34;https://www.linkedin.com/in/daanbuse?ppe=1&#34; target=&#34;_blank&#34;&gt;Daan&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Isolation_tank&#34; target=&#34;_blank&#34;&gt;Float&lt;/a&gt; in total darkness (thanks marjolein!)&lt;/li&gt;
+&lt;li&gt;Timothy Ferriss: Tools of Titans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lacie.com/us/products/product.htm?id=10564&#34; target=&#34;_blank&#34;&gt;Lacie Rugged Mini&lt;/a&gt; HD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/nl/shop/product/MM4T2ZM/A/apple-remote&#34; target=&#34;_blank&#34;&gt;Apple Remote&lt;/a&gt; (old one, not for the new apple TV)&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;http://cargorecordsdirect.co.uk/collections/fm3-buddha-machines&#34; target=&#34;_blank&#34;&gt;Buddha Machine&lt;/a&gt; thanks Elpine!&lt;/li&gt;
+&lt;li&gt;A Gerber multi-tool, thanks Casper!&lt;/li&gt;
+&lt;li&gt;1Password License for Mac&lt;/li&gt;
+&lt;li&gt;Pulse Sensor for Arduino&lt;/li&gt;
+&lt;li&gt;A Grid It (Thanks, Santa!)&lt;/li&gt;
+&lt;li&gt;Dopper Steel (Thanks Eric!)&lt;/li&gt;
+&lt;li&gt;Soldering station thanks Wouter Groenewold!&lt;/li&gt;
+&lt;li&gt;Soft Brew Coffee pot, thank you Ilse!&lt;/li&gt;
+&lt;li&gt;Makey Makey, thanks Loes!&lt;/li&gt;
+&lt;li&gt;Neurosky Mindband A Zeo with a raw data library is better ;-)&lt;/li&gt;
+&lt;li&gt;Evernote Pro-account&lt;/li&gt;
+&lt;li&gt;Vibram Five Fingers Bikila (maatje 43) (Dankjewel @FiveFingersNL!)&lt;/li&gt;
+&lt;li&gt;Zeo Sleep Coach (Thanks Zeo!)&lt;/li&gt;
+&lt;li&gt;Help mij met mijn reis naar Amerika voor de Quantified Self Conference (Bedankt iedereen die heeft geholpen!)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Ambassador for the Digital Society School Amsterdam</title>
-      <link>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
-      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
+      <title>Posts</title>
+      <link>https://jplattel.nl/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
+      <guid>https://jplattel.nl/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Making and Fixing Things</title>
-      <link>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</link>
-      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      <title></title>
+      <link>https://jplattel.nl/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
-      <description>&lt;p&gt;I bougth a &lt;a href=&#34;https://shop.prusa3d.com/en/3d-printers/53-original-prusa-i3-mk2s-3d-printer.html&#34;&gt;3D printer&lt;/a&gt; together with &lt;a href=&#34;http://ikbenke.es/&#34;&gt;my brother&lt;/a&gt;. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!&lt;/p&gt;
-
-&lt;p&gt;As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like &lt;a href=&#34;https://www.autodesk.com/products/fusion-360/students-teachers-educators&#34;&gt;Fusion360&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Configuring the printer and slicing the 3D model takes a little bit of time, but then you&amp;rsquo;re off to the races!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/prusa-3d-printer.jpg&#34; alt=&#34;The Prusa Mk III printer&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;In the mean time I&amp;rsquo;ve been drawing up some improvements for the 3D printer itself as well! My brother had an idea about a custom lighting fixture that can be mounted just below the filament carrier, that way you can have sufficient lighting when working with the printer.&lt;/p&gt;
-
-&lt;p&gt;So right now the thing we can print are limited by our skills with 3D designing and what the printer is can do, but both are increasing with time! I have some other ideas i&amp;rsquo;d like to work on, for example custom knobs for a synthesizer or for custom brackets for mounting wires in projects that use makerbeams. Stay tuned for more updates!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Article: Mag jouw baas je bloeddruk weten als hij jou ermee kan helpen?</title>
-      <link>https://jplattel.nl/media/intermediar/</link>
-      <pubDate>Fri, 22 Jun 2018 14:51:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/media/intermediar/</guid>
+      <guid>https://jplattel.nl/home/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fundsup</title>
-      <link>https://jplattel.nl/client/fundsup/</link>
-      <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
+      <title>Search</title>
+      <link>https://jplattel.nl/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jplattel.nl/client/fundsup/</guid>
-      <description>&lt;p&gt;To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Watermelon</title>
-      <link>https://jplattel.nl/client/watermelon/</link>
-      <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/watermelon/</guid>
-      <description>&lt;p&gt;In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Colliers</title>
-      <link>https://jplattel.nl/client/colliers/</link>
-      <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/colliers/</guid>
-      <description>&lt;p&gt;Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
-      <link>https://jplattel.nl/client/bzk/</link>
-      <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/bzk/</guid>
-      <description>&lt;p&gt;Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.&lt;/p&gt;
-
-&lt;p&gt;My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.&lt;/p&gt;
-</description>
+      <guid>https://jplattel.nl/search/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -11,12 +11,12 @@ weight = 5
 
 # Hello!
 
-I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. I create _experimental models, data visualizations, APIs and dashboards_ to solve these questions or explore the opportunities. 
+I’m __Joost Plattel__, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. <br />I connect _API's_, work with _large datasets, models or visualizations_. All to solve these question, discover patterns or explore new opportunities. 
 
-The question I try to answer is:
+The main question I try to answer is:
 
 <blockquote>
-	How do we use all the data generated every second? How do we turn it into information, to knowledge and finally wisdom?
+	How do we turn all the data we have available into information, to knowledge and finally wisdom. Can we use if for good?
 </blockquote>
 
-I'm often asked to give lectures and talks about data, experiments, ethics and difficult or weird questions to make people think. My clients range from startups to the government, large organisations or individuals. Wondering what other people say? Check out my <a href="#media">publications and media</a>. For other things, have a look at my other <a href="#projects">projects</a> I run and subscribe to <a href="/project/curious_corner/">my monthly newsletter</a>! 
+My clients range from startups to the government, large organisations or individuals. People recommend my for my unique combination of curiousity with applied solutions. Wondering what else I do? Have a look at my other <a href="#projects">projects</a> I run and subscribe to <a href="/project/curious_corner/">my mostly monthly newsletter</a>! 

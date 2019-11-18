@@ -47,13 +47,14 @@ defaultContentLanguageInSubdir = false
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s` and `custom`.
   color_theme = "custom"
 
+
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "classic"
 
   # Your details.
   name = "Joost Plattel"
-  role = "Data-strategist, API builder, beerbrewer, longboarder & long distance hiker"
+  role = "Data-strategist, API builder, beerbrewer & long distance hiker"
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -258,12 +259,12 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "/project/"
   weight = 4
 
 [[menu.main]]
   name = "Speaking"
-  url = "/speaking"
+  url = "/speaking/"
   weight = 5
 
 [[menu.main]]

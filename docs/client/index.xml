@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clients on Joost Plattel</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 27 Nov 2018 21:49:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2019 15:13:39 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wafl</title>
+      <link>https://jplattel.nl/client/wafl/</link>
+      <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/client/wafl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nolostcapital</title>

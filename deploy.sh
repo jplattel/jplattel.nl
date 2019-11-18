@@ -9,7 +9,7 @@ hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="Rebuilding site: `date`"
 
 if [ $# -eq 1 ]
   then msg="$1"
