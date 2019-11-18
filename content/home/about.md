@@ -11,7 +11,7 @@ weight = 5
 
 # Hello!
 
-I’m __Joost Plattel__, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. <br />I connect _API's_, work with _large datasets, models or visualizations_. All to solve these question, discover patterns or explore new opportunities. 
+I’m __Joost Plattel__, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. <br />I connect _API's_, work with _large datasets, models or visualizations_. All to solve these questions, discover patterns or explore new opportunities. 
 
 The main question I try to answer is:
 
