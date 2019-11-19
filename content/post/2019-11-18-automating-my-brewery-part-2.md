@@ -1,7 +1,7 @@
 +++
-title = "Automating my Brewery (Part 2)"
+title = "Automating my brewery (Part 2)"
 date = 2019-11-18T21:55:31+01:00
-draft = false
+draft = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
