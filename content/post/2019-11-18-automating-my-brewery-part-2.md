@@ -1,7 +1,7 @@
 +++
 title = "Automating my brewery (Part 2)"
-date = 2019-11-18T21:55:31+01:00
-draft = true
+date = 2019-11-21T21:55:31+01:00
+draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -20,7 +20,11 @@ preview = true
 
 +++
 
-In the [first part](https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/), I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality:
+In the [first part](https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/), I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it's being build:
+
+![Enclosure of the brewery controller](https://images.jplattel.nl/file/jplattel-dropshare/2019-11-03-13.15.05-1574201936.jpg)
+
+The enclosure contains the following things:
 
 *   __Backside:__ 
     *   230V IN: Voltage in, the main power supply for all devices in the enclosure
@@ -40,6 +44,4 @@ In the [first part](https://jplattel.nl/post/2019-11-17-automating-my-brewery-pa
     *   Magnetically coupled pump: The main circulation device.
     *   Custom PCB: More on this later! 
 
-Ofcourse everything has to fit inside. Here's a picture of the enclosure while it was under construction:
-
-![Enclosure of the brewery controller](https://images.jplattel.nl/file/jplattel-dropshare/2019-11-03-13.15.05-1574201936.jpg)
+The next post I will talk about hooking all the things up together and a bit more about the electronics, for which I designed my own printed circuit bord (_PCB_). 
