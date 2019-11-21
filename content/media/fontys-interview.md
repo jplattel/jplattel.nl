@@ -6,7 +6,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [""]
 
-exteral_link = "https://fontysblogt.nl/nieuwsgierige-types-ii-joost-plattel-29-data-strateeg-bierbrouwer-ondernemer-kunstenaar-denker-en-spreker/" 
+external_link = "https://fontysblogt.nl/nieuwsgierige-types-ii-joost-plattel-29-data-strateeg-bierbrouwer-ondernemer-kunstenaar-denker-en-spreker/" 
 
 # media type.
 # Legend:
