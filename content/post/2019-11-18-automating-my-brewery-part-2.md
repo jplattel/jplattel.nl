@@ -44,4 +44,6 @@ The enclosure contains the following things:
     *   Magnetically coupled pump: The main circulation device.
     *   Custom PCB: More on this later! 
 
-The next post I will talk about hooking all the things up together and a bit more about the electronics, for which I designed my own printed circuit bord (_PCB_). 
+Most electric wiring is done with couplers, and only the lower voltages for the button and controllers are based on pins or screwterminals, which are less secure, but hey! In the next version I might want to make the shield for the wemo plug into the one for the display, saving another 4 wires.. But that's for another time.
+
+The next post I will talk about hooking all the things up together and a bit more about the electronics, for which I designed my own printed circuit bord (_PCB_). One of the upgrades on the line would be arcade sounds ofcourse, who wouldn't like a brewery with a synth voice!
