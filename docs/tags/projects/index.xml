@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 17 Nov 2019 19:49:34 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automating my brewery (Part 2)</title>
+      <link>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</guid>
+      <description>In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:
+The enclosure contains the following things:
+ Backside:  230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input  Frontside:  Traffic-light interface: lights to indicate what is on.</description>
+    </item>
     
     <item>
       <title>Automating my brewery (Part 1)</title>

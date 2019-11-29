@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 17 Nov 2019 19:49:34 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>automating</title>
       <link>https://jplattel.nl/tags/automating/</link>
-      <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/automating/</guid>
       <description></description>
@@ -24,18 +24,45 @@
     <item>
       <title>beer</title>
       <link>https://jplattel.nl/tags/beer/</link>
-      <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/beer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>diy</title>
+      <title>brewer</title>
+      <link>https://jplattel.nl/tags/brewer/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/brewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brewing</title>
+      <link>https://jplattel.nl/tags/brewing/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/brewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIY</title>
       <link>https://jplattel.nl/tags/diy/</link>
-      <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://jplattel.nl/tags/projects/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/projects/</guid>
       <description></description>
     </item>
     
@@ -45,15 +72,6 @@
       <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/makerbeam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://jplattel.nl/tags/projects/</link>
-      <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/projects/</guid>
       <description></description>
     </item>
     
@@ -337,29 +355,11 @@
     </item>
     
     <item>
-      <title>brewer</title>
-      <link>https://jplattel.nl/tags/brewer/</link>
-      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brewer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>brewery</title>
       <link>https://jplattel.nl/tags/brewery/</link>
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/brewery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brewing</title>
-      <link>https://jplattel.nl/tags/brewing/</link>
-      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brewing/</guid>
       <description></description>
     </item>
     
@@ -1813,7 +1813,7 @@
     </item>
     
     <item>
-      <title>chemistry</title>
+      <title>Chemistry</title>
       <link>https://jplattel.nl/tags/chemistry/</link>
       <pubDate>Fri, 27 Dec 2013 15:54:56 +0100</pubDate>
       
