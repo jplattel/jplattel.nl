@@ -7,12 +7,13 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 ### Physical stuff
 
-*   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
+*   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford
+*   [Dead Astronauts](https://www.amazon.com/Dead-Astronauts-Novel-Jeff-VanderMeer/dp/0374276803) by Jeff van der Meer
 *   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   A [knityak](https://knityak.com/) scarf
 *   [A meural](https://meural.com)
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
-*   Blue [Miir Growler](https://www.miir.com/products/the-growler?variant=27677677825)
+*   A copper colored [GrowlerWerks uKeg 128](https://www.brouwland.com/nl/korting/d/growlerwerks-ukeg-128-verkoperd-3-8-l)
 *   A [Feynman](https://teespring.com/new-feynman?tsmac=store&tsmic=fermats-library#pid=228&cid=5923&sid=front) t-shirt.
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
 *   Sortimo boxes (contact me if you want to give these, I might have some specific ones!)
