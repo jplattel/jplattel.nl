@@ -25,7 +25,7 @@
         {{ range $.Site.Params.social }}
         {{ $pack := or .icon_pack "fa" }}
         <li>
-          <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+          <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="me">
             <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
           </a>
         </li>
