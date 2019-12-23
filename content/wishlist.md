@@ -18,6 +18,7 @@ Below is my wishlist, if you want to trade something in return for something or 
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
 *   Sortimo boxes (contact me if you want to give these, I might have some specific ones!)
 *   A full size wired Dremel kit
+*   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 
 ### Experience
 
