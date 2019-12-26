@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Automating my brewery (Part 3)</title>
+      <link>https://jplattel.nl/post/2019-12-19-automating-my-brewery-part-3/</link>
+      <pubDate>Thu, 19 Dec 2019 23:23:17 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2019-12-19-automating-my-brewery-part-3/</guid>
+      <description>In this part of building my own automated brewery I want to focus on something I have never done before. And that this: Designing my own PCB (printed circuit board) is something I was fascinated in for some time, but I always thought of it as somthing very complex and hard to learn. Luckily I got introducted to EasyEDA by my brother and spend a few afternoons watching video tutorials. After rummaging around a bit and some frustration I ordered my first board.</description>
+    </item>
+    
+    <item>
       <title>Automating my brewery (Part 2)</title>
       <link>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
