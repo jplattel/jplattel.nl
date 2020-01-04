@@ -1,954 +1,954 @@
 [
-    {
-                "id": "0",
+    ,{
+                "id": "2",
                 "href": "https://jplattel.nl/post/2020-01-04-celebrating-ten-years-836pm/",
                 "title": "Celebrating 10 years of 8:36pm",
                 "categories": [],
                 "content": "Today marks something special. Ten years ago, inspired by Buster Benson I started taking a picture at 8:36pm every day. A simple thing you might think, but in the end I kept doing it and to this day I still do.\nKeeping a habit for 10 years makes it a bit extraordinairy and I can say I will continue taking a picture! Below you will find this years movie of all the photos I took. And if you want to have a look at all the videos, checkout this Vimeo collection.\n If you\u0026rsquo;re on one of the photos, thanks for being part of this adventure!\n"
             },{
-                "id": "4",
+                "id": "11",
                 "href": "https://jplattel.nl/post/2019-12-19-automating-my-brewery-part-3/",
                 "title": "Automating my brewery (Part 3)",
                 "categories": [],
                 "content": "In this part of building my own automated brewery I want to focus on something I have never done before. And that this: Designing my own PCB (printed circuit board) is something I was fascinated in for some time, but I always thought of it as somthing very complex and hard to learn. Luckily I got introducted to EasyEDA by my brother and spend a few afternoons watching video tutorials. After rummaging around a bit and some frustration I ordered my first board.. As always, this one only worked partly, temperature input \u0026amp; lcd worked fine, but the buttons lacked a pull up resistor on some pins and I used one pin that didn\u0026rsquo;t have interupt support on the WeMo.\nSo version 1.1.0 was ordered only a few days after I received the first one\u0026hellip; With newly added resistor and a new pin mapping. I choose a WeMo as a base logic board because I was interested in MicroPython as well. With a few utilities like ampy and picocom I was up and running and could tinker around with the code\u0026hellip;\nSo the only thing left is programming in the buttons, creating a PID algorithm (or use a preexisting one?), design a LCD interface and hook up the last electronics like the solid state relay. In the final post I will have some pictures of the brewery working and all the resources required to build your own!\n"
             },{
-                "id": "6",
+                "id": "13",
                 "href": "https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/",
                 "title": "Automating my brewery (Part 2)",
                 "categories": [],
                 "content": "In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it\u0026rsquo;s being build:\nThe enclosure contains the following things:\n Backside:  230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input  Frontside:  Traffic-light interface: lights to indicate what is on. LCD Display (16x4): The main interface on which you can see what is happing and change settings. 4 Arcade buttons: the main input device for controlling everything. Twist dial: controlling the speed of the pump. Pump input \u0026amp; output: Connections for the pump.  Inside:  Solid state relay: switching on the main heating element (230V OUT) Pump power adapter: the pump has it\u0026rsquo;s own power converter Wemo D1 Mini lite: the main brains of the device, running micropython 5 volt adapter: Used by the Wemo D1 Mini lite. Magnetically coupled pump: The main circulation device. Custom PCB: More on this later!   Most electric wiring is done with couplers, and only the lower voltages for the button and controllers are based on pins or screwterminals, which are less secure, but hey! In the next version I might want to make the shield for the wemo plug into the one for the display, saving another 4 wires.. But that\u0026rsquo;s for another time.\nThe next post I will talk about hooking all the things up together and a bit more about the electronics, for which I designed my own printed circuit bord (PCB). One of the upgrades on the line would be arcade sounds ofcourse, who wouldn\u0026rsquo;t like a brewery with a synth voice!\n"
             },{
-                "id": "18",
+                "id": "24",
                 "href": "https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/",
                 "title": "Automating my brewery (Part 1)",
                 "categories": [],
                 "content": "As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.\nMy brewing system consists of a Brew in a Bag (BIAB) system, build on a modified Weck-kettle. I\u0026rsquo;m able to brew a batch of around 20L depending on how well filtration and mashing goes. I\u0026rsquo;ve been driving the mashing schedule based on a temperature meter just in the middle of the kettle and eye-balling it on how well it keeps the temperature. (insulation helps keeping it more stable of longer periods time!)\nAfter a few years with this setup I made some improvements, with bigger valves and the idea started to create a controller based on a microcontroller that could work well with a PID algorithm to keep it even more stable (or even automatically progress through your schedule!).\nOfcourse this controller needed a box where it could fit in and I wanted some other things as well, for example digital temperature sensors, a pump for circulating the mash and maybe even more\u0026hellip; So I needed an enclosure for all the things. My brother has been tinkering for a while with Makerbeam. And with a few sketches I had an idea on what I wanted to build.\nMy enclosure consists of mainly Makerbeams, which make a 30 by 30 cm square as the bottom and top plate. They are connected trough vertical beams of 15cm. The sides are made with black HDPE that is cut manually \u0026amp; with a laser cutter. The top plate is made out of waterjet cut aluminium, to have a solid base on which my kettle can stand. Here\u0026rsquo;s a quick mockup in Fusion:\nAfter I ordered most of my materials from Makerbeam I set out to build it. I also designed and laser-cut some panels with support for LCD-displays, buttons (more on that later!). And I manually drilled holes in the back-panel for in and output voltage.\nIn part 2 I will show the final build of the enclosure itself and in part 3 I hope to dive into the electronics and the wiring!\n"
             },{
-                "id": "28",
+                "id": "34",
                 "href": "https://jplattel.nl/post/2019-10-21-the-idea-machine/",
                 "title": "The Idea Machine",
                 "categories": [],
                 "content": "Boredom is something we all experience in different ways. And the solution isn’t always that easy. You might dwell for a certain amount of time on the couch.. Or restless as you are think about thinks you might want to do, but they never seem to come up.\nI think a certain part boredom is necessary to facilitate ideas and other serendipitous discoveries. However there might be times, in which you would like for the pure boredom to disappear. After talking to my girlfriend about this we wanted too see what kind of a solution we could think of. And here is the result: It looks like a coffee grinder, but it is an idea machine, meant for only one purpose and only allowing one simple interaction. Instead of grinding coffee, you pull open the drawer to reveal a print-out of and idea.\nThe way it works is simple, there’s a Raspberry Pi hooked up to the local network offering an interface that allows you to input ideas. Furthermore, a little thermal printer prints out an idea once you pull open the drawer.\nThat’s all there is to it, now onto adventures!\n"
             },{
-                "id": "31",
+                "id": "37",
                 "href": "https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/",
                 "title": "Eerst Hulp Bij Abonnementen (EHBA)",
                 "categories": [],
                 "content": "One of my first projects for learning programming and navigating around the digitale sphere was building a visualization based on transport data. As I use public transport for all travel I naturally wanted to know how I spend my money on it.\nThis question has been popping in and out of my mind ever since and more recently I had some time to tinker again. This time I was wonder if I could recommend subscriptions based on historical data from a person. And lo and behold: EHBA (eerste hulp bij abonnementen) was born!\nIt\u0026rsquo;s a small little app that enables you to upload your personal public transport data from different sources and then offers you insight into the past months and based on your average spending recommends the best subscription!\nIf you\u0026rsquo;re curious about the source-code, that\u0026rsquo;s available on Github. And if you have more suggestions or ideas, feel free to open issue there or email me at: jsplattel@gmail.com. If you are from the NS or any organization like Rover I\u0026rsquo;d love to drink a cup of coffee!\n"
             },{
-                "id": "42",
+                "id": "48",
                 "href": "https://jplattel.nl/post/2019-01-06-836pm-2018/",
                 "title": "8:36pm 2018",
                 "categories": [],
                 "content": "As we close out 2018 and start out the new year fresh, the one thing left to do is make a video of all the 8:36pm photos that I took that year. And when uploading this video I checked out when I started, which is 2010. Thus this marks the 10th year that I\u0026rsquo;m doing this\u0026hellip; Here\u0026rsquo;s the video:\n Phew, racking in around 3000 photos so far\u0026hellip; For all I can say is that I will probably be going somewhere with this.. But who knows where.\nI also started a second habit and that is filing the Year Compass together with Chantal. And that\u0026rsquo;s a wonderfull way of reflecting and looking ahead for each year. My goals for this year are focussed on my health, hiking and making things!\n"
             },{
-                "id": "43",
+                "id": "49",
                 "href": "https://jplattel.nl/client/nolostcapital/",
                 "title": "Nolostcapital",
                 "categories": [],
                 "content": "For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act. The backend service was done in Django and the front-end in Vue.\n"
             },{
-                "id": "46",
+                "id": "52",
                 "href": "https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/",
                 "title": "iPhone XS NFC Shortcuts",
                 "categories": ["lifehacking"],
                 "content": "I\u0026rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a NFC reader. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)\nAnyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag. The way it works is simple, the NFC tags stores a url with custom scheme shortcuts://run-shortcut?name=Wekker\u0026rdquo;. When the tag is touched, it opens the custom url om my phone triggering a shortcut. This enables the alarm. Presto!\nAnd I\u0026rsquo;ve got some ideas for more:\n Trigger a count in water intake when touching the tag that you can mount to your water bottle. Auto navigate to home (if you want you can choose the method of traveling) when touching my watch.\n Set a timer for a amount of time when scannign the tag next to the washing machine. Set a reminder for a task, for example buying toilet paper.  The tasks you can automate this way are mostly highly specific and repeatable.\n"
             },{
-                "id": "57",
+                "id": "63",
                 "href": "https://jplattel.nl/post/2018-08-27-making-and-fixing-things/",
                 "title": "Making and Fixing Things",
                 "categories": [],
                 "content": "I bougth a 3D printer together with my brother. It\u0026rsquo;s not new technology, but it\u0026rsquo;s at a place where it\u0026rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!\nAs for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like Fusion360.\nConfiguring the printer and slicing the 3D model takes a little bit of time, but then you\u0026rsquo;re off to the races!\nIn the mean time I\u0026rsquo;ve been drawing up some improvements for the 3D printer itself as well! My brother had an idea about a custom lighting fixture that can be mounted just below the filament carrier, that way you can have sufficient lighting when working with the printer.\nSo right now the thing we can print are limited by our skills with 3D designing and what the printer is can do, but both are increasing with time! I have some other ideas i\u0026rsquo;d like to work on, for example custom knobs for a synthesizer or for custom brackets for mounting wires in projects that use makerbeams. Stay tuned for more updates!\n"
             },{
-                "id": "59",
+                "id": "65",
                 "href": "https://jplattel.nl/client/fundsup/",
                 "title": "Fundsup",
                 "categories": [],
                 "content": "To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform.\n"
             },{
-                "id": "60",
+                "id": "66",
                 "href": "https://jplattel.nl/client/watermelon/",
                 "title": "Watermelon",
                 "categories": [],
                 "content": "In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.\n"
             },{
-                "id": "61",
+                "id": "67",
                 "href": "https://jplattel.nl/client/colliers/",
                 "title": "Colliers",
                 "categories": [],
                 "content": "Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.\n"
             },{
-                "id": "62",
+                "id": "68",
                 "href": "https://jplattel.nl/client/bzk/",
                 "title": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
                 "categories": [],
                 "content": "Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.\nMy work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.\n"
             },{
-                "id": "63",
+                "id": "69",
                 "href": "https://jplattel.nl/client/vogsy/",
                 "title": "Vogsy",
                 "categories": [],
                 "content": "For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce \u0026amp; Copper) and financial applications (Quickbooks, Exact \u0026amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.\n"
             },{
-                "id": "68",
+                "id": "74",
                 "href": "https://jplattel.nl/post/2018-04-29-restoring_an_old_plane/",
                 "title": "Restoring an old plane",
                 "categories": ["DIY"],
                 "content": "At one of the stands of a flea market during Kingsday here in the Netherlands, I found an old plane. And for only 2 euro I couldn\u0026rsquo;t leave it behind. I took it on me to restore it to its former glory. First step, dismantle the broken off handle, removing any drops of paint and cleaning the chisel from all the rust. I also took measurements of the old handle and started designing that in Fusion 360. I love it how I just started using that and more projects come my way that need some kind of modeling. I also had to remove a big bolt that was mounted up front:\nA post shared by Joost Plattel (@jplattel) on Apr 29, 2018 at 10:32am PDT\n \nRight now the chisel is submerged in vinegar to get started with the rust removal. I have some ideas to improve this plane a bit, for example: finding a way to mount stuff on the plane itself (like a sharpening stone). Or other tools you might need, like an embedded hammer? I might need to design something for that, just like the handle:\n"
             },{
-                "id": "72",
+                "id": "78",
                 "href": "https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/",
                 "title": "Brewing a new batch of beer",
                 "categories": ["Brouwerij Nooitgedacht"],
                 "content": "Past week we spend a day at a brewery! We made a new batch for our brewery Nooitgedacht. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough Kratfunding, we only ship to the Netherlands currently!\nOur plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.\nHere\u0026rsquo;s a picture of the kettles we used to brew our beer. If everything goes according to plan we will have our beer ready in about 6 weeks!\n"
             },{
-                "id": "87",
+                "id": "93",
                 "href": "https://jplattel.nl/speaking/",
                 "title": "Speaking",
                 "categories": [],
                 "content": " I'm often asked for a lecture or as a public speaker on topics like the Quantified Self, data, the Internet of Things and any related fields. If you're curious about the content, have a look at my slides on Slideshare or look at the video from my talk at Cross Media Cafe. The length varies, depending on the time available I'm able to accommodate ideas in 10 minutes, or an in-depth view of the field in 45 minutes or more. Get in touch with me or book me trough Athenas.\nWhat other people say about me: Joost Plattel is a very enthousiastic and motivated speaker, a ambassador of the Quantified Self community. ~ Erdinç Saçan, Marketingfacts\n Joost can't get enough of his own data. His story about the possibilities with the Quantified Self is fascinating and makes you wonder. ~ Chris van 't Hof, Tek-Tok\n "
             },{
-                "id": "91",
+                "id": "97",
                 "href": "https://jplattel.nl/wishlist/",
                 "title": "Wishlist",
                 "categories": [],
                 "content": " Below is my wishlist, if you want to trade something in return for something or support me you could help me with the following:\nPhysical stuff  The Evening LP by Ford Dead Astronauts by Jeff van der Meer Every tool\u0026rsquo;s a hammer by Adam Savage A knityak scarf A meural A Diresta Ice Pick A copper colored GrowlerWerks uKeg 128 A Feynman t-shirt. Comics drawn by Moebius Sortimo boxes (contact me if you want to give these, I might have some specific ones!) A full size wired Dremel kit A Garmin InReach Mini  Experience  Play a Hang Underwater diving  People already gave me  This puzzle (thanks Nathalie!) The Cool Tools book, thanks Vitamine Communicatie! The cooking book by Dali Moebius Library: The World of Edena, thanks Daan! Float in total darkness (thanks marjolein!) Timothy Ferriss: Tools of Titans Lacie Rugged Mini HD Apple Remote (old one, not for the new apple TV) A Buddha Machine thanks Elpine! A Gerber multi-tool, thanks Casper! 1Password License for Mac Pulse Sensor for Arduino A Grid It (Thanks, Santa!) Dopper Steel (Thanks Eric!) Soldering station thanks Wouter Groenewold! Soft Brew Coffee pot, thank you Ilse! Makey Makey, thanks Loes! Neurosky Mindband A Zeo with a raw data library is better ;-) Evernote Pro-account Vibram Five Fingers Bikila (maatje 43) (Dankjewel @FiveFingersNL!) Zeo Sleep Coach (Thanks Zeo!) Help mij met mijn reis naar Amerika voor de Quantified Self Conference (Bedankt iedereen die heeft geholpen!)  "
             },{
-                "id": "96",
+                "id": "102",
                 "href": "https://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/",
                 "title": "Talking about my phone usage",
                 "categories": [],
                 "content": " Last year before I went on holiday to Portugal I had the opportunity to give a talk at the Quantified Self 2017 Conference in Amsterdam. I decided just the night before to talk about how much I use my phone (or better how much I shouldn't use it!). The wonderful folks over at QS Labs created a page with all the videos with transcripts. I've embedded my video below: "
             },{
-                "id": "97",
+                "id": "103",
                 "href": "https://jplattel.nl/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/",
                 "title": "Creating smart bubble counter fermentation process tracking",
                 "categories": [],
                 "content": " This weekend I spend my time on electronics, with a specific goal in mind, automating the tracking of a fermentation vessel that I use for brewing. My starting point was a Wemos D1 mini lite, which is a cheap arduino compatible chip with wifi options. I wanted to track how many bubbles we're sent past the airlock and also needed a photo interupter gate. So in the end everything is pretty cheap and I only needed some more LEDs, an enclosure, spare wires and some free time!\nMy first version was build directly on a prototype board of the Wemo, but after selecting the enclosure I decided not to use any headers too keep a lower profile. Here's what my testing setup looked like: While testing I could try different fluids, and the more opaque ones are better. So coffee seems like a perfect option. When everything worked correctly I mapped all ports on the enclosure, drilled or cut them out and soldered everything to the Wemo. The LEDs were mount on the enclosure with trough-mounts. Here's a video of the latest test setup.   And a picture of the device after everything is put together! Now I only need to make a web interface.\nAs for the code, it's simply a counter that tracks how many bubbles go past the airlock. And every 10 minutes it pings to a server with the count. I've uploaded the Arduino code to Github and embedded it below:\n"
             },{
-                "id": "98",
+                "id": "104",
                 "href": "https://jplattel.nl/post/2018-01-03-836pm-2017/",
                 "title": "8:36pm - 2017",
                 "categories": [],
                 "content": " As I've been doing for the past 7 years now, I made a movie out of all the 8:36pm pictures I took this year. It's embedded below from Vimeo:\n If you can spot yourself, thanks for being part of my life this year! It's been great fun and I'll take some time to update some of the projects I've worked on as well.\n"
             },{
-                "id": "99",
+                "id": "105",
                 "href": "https://jplattel.nl/client/sustrans/",
                 "title": "Sustrans",
                 "categories": [],
                 "content": "For Sustrans in the United Kingdom I made a custom dashboard that allows people to gain insights into their own mobility based on the Moves app (now deprecated sadly!)\n"
             },{
-                "id": "100",
+                "id": "106",
                 "href": "https://jplattel.nl/post/2017-06-03-getting-started-with-a-lorawan-gateway/",
                 "title": "Getting started with a LoRaWan gateway",
                 "categories": [],
                 "content": "  Most of the work I do is software related, but sometimes I do dabble in hardware. As a result I receive more and more requests for hardware related projects. As an aspiring maker I do want to explore this side of technology more so these projects are perfect opportunities for me to learn.  And while learning I thought it would be nice to share what I learned so far as well! I've been building a LoRaWan gateway with at least 10 connected nodes. And in the past few weeks I got the gateway working, and I'd like to show which steps I took and what hardware is required. Bill of materials  Raspberry Pi 3 (with micro-sd) IC880A LoRaWan concentrator ch2i shield for the IC880A A soldering iron, solder and some headers. Spacers and other misc items (such as an enclosure of some sort)  Software  An account with The Things Network Sign up with Resin for remote deployments and management (you also need to download the Resin boot image) A little experience with Git  Hardware preparations  Solder the right headers (2 rows) to the ch2i shield so you can mount it on the Raspberry Pi 3 Check the spacing and mount the spacers in between the two boards Disconnect the shield if it fits and then solder the headers for the concentrator on the ch2i shield, and any optional elements (like LEDs) Solder a bridging header onthe ch2i shield that enables you to share power between the Pi and the concentrator (this took me a while to figure out...) Re-mount the ch2i on the Raspberry Pi and then add the concentrator Plug in the power the LED on the concentrator should light up!  Software setup  Download the resin-boot image with the right configurations (I used ethernet only, but if you want wifi, be sure to add it or check the docs) Flash the micro-sd with the Resin image (I can recommend Etcher) If you setup with Ethernet, be sure to plug in the cable! Plug in the power for the Raspberry Pi and it should pop up in the Resin Dashboard as online and you can check the logs Create a new local git repo by cloning this repository by JPMeijers Add, commit and push to resin, as specified in README of the repository. Go the The Things Network console, create a gateway and keep a copy of the Gateway Key and ID for the next step In the resin dashboard, set the right env-vars and set the reset pin to 11 After the initial push and configuration the Raspberry Pi should automatically join the Things Network!   If everything went as planned you should be up and running with a working gateway that can be configured to other apps on The Things Network. In a next post I think I'll share the process of developing the motes. Something with GPS, movement and other things that might be interesting to measure. "
             },{
-                "id": "102",
+                "id": "108",
                 "href": "https://jplattel.nl/post/2017-03-16-predicting-energy-usage-with-prophet/",
                 "title": "Predicting energy usage with Prophet",
                 "categories": [],
                 "content": " Facebook recently released Prophet, a library that makes it easy to create predictions based on time-series data. When the time was right to tinker around, I thought of a dataset I've been collecting for some time now, which is the smart energy meter we have for our house.\nAnd with some tinkering to get Prophet to play nice with my containers and Jupyter I had my first prediction in a few minutes: This makes me wonder if I could just pay the predicted amount instead of a fixed fee... but that's probably not feasible on the provider side. Other datasets that I might look at: amount of calendar items (to predict future busy-ness), activity or heart-rate (could I really?). Or maybe parking fines prediction? I got a sample dataset of a year of parking fines, mmh?\n"
             },{
-                "id": "103",
+                "id": "109",
                 "href": "https://jplattel.nl/post/2017-01-02-yearly-movie-836pm/",
                 "title": "All my 8:36pm photos of 2016",
                 "categories": [],
                 "content": "Happy new year! Hope you had a blast the past few weeks! I surely did :)\nAs a tradition when a new year starts, I had to make a movie of all my 8:36pm photos of past year. And this time its easier as every, since I saved the After Effects project template of last year. Here's the video:\n Why shoot a picture everyday you might ask? Here's the answer! And in case you want to get all your photos of Mobypicture as well, here's the gist:\n"
             },{
-                "id": "105",
+                "id": "111",
                 "href": "https://jplattel.nl/post/2016-11-15-brewing-beer-in-a-modified-kettle/",
                 "title": "Brewing beer in a modified kettle",
                 "categories": [],
                 "content": "It took me a while, but I managed to write this post about the thing I've been spending some time on in the last few months: brewing beer. I started collecting things for my own setup a while ago and took the plunge to buy a kettle: For now the temperature will be manually controlled, and I will be stirring for a while, but I'm slowly working towards and enclosure that covers the pump and a PID for temperature control. For the brewing method I use the brew-in-a-bag system, which lets me easily get out all the malts, but the filtering proces ain't perfect yet.\nThe first beer I've brewed in the new kettle is a saison, 17L effective volume and just before bottling it had a alcohol percentage of 7,30%. During this first run the filtering didn't go trough properly and the small tap on the front of the kettle turned out to be leaking (luckily I figured this out while I still only had water in the kettle.)\nSo more updates shortly on the brewing proces!\n"
             },{
-                "id": "115",
+                "id": "121",
                 "href": "https://jplattel.nl/post/2016-08-25-holiday-italy-cinque-terre/",
                 "title": "On holiday in Italy: Rome, Florence, Pisa &amp; Cinque Terre",
                 "categories": ["Joost"],
                 "content": "\nManarole\nCorniglia\nVernazza\nMonterosso\nThe last two days we're spend at the beach of Lido di Camaiore and Lucca. Holiday well spend I would say! Italy, I'll be back for more.\n"
             },{
-                "id": "119",
+                "id": "125",
                 "href": "https://jplattel.nl/client/setup/",
                 "title": "SETUP - Utrecht",
                 "categories": [],
                 "content": "For SETUP I contributed on several projects by building prototypes on the topics on ethics, privacy and technology.\n"
             },{
-                "id": "126",
+                "id": "132",
                 "href": "https://jplattel.nl/post/2016-07-25-double-bike-london/",
                 "title": "London on a double-bike",
                 "categories": ["Joost", "Random"],
                 "content": "On sunday the 10th of June I left my parents place on a double-bike. Together with a friend we cycled to Zwolle, took a train and prepared ourselves in the evening for a trip to London. As we took the boat to Harwich the next day I didn't know what to expect as I hadn't visited England before.\n\nAs we talked with locals it turns out it's much more enjoyable if you take the small hilly roads towards your destination. This also ensures more scenic views and much more nature, unfortunately this also introduced some off-road paths which our bike didn't take that well.. (as did we!). Before long we reached London and did a quick tourist route covering the most important landmarks:\n\nAfter spending 2 nights in London we went south-east towards Dover and after a couple of days we reached the white cliffs:\n\nOur tour was finished by taking the boat to Dunkerque, cycling north towards Vlissingen, while staying the night near the beach of Belgium. We averaged around 70km per day. It was a great trip! "
             },{
-                "id": "129",
+                "id": "135",
                 "href": "https://jplattel.nl/post/2016-06-02-many-things-little-experiment/",
                 "title": "A talk about the many things a little experiment can teach you",
                 "categories": [],
                 "content": "On the 14th of March 2016 I gave a short talk at TEDxYouth Groningen, and the video is finally online! I've embedded the video below, it's in dutch but I'm sure the subtitles will be available shortly. My talk is about the all the photos I took so far at 8:36pm. I started without any specific reason, but found out that you could figure it out while doing it as well. I've collected over 5 years of photos and I don't plan on quitting any time soon.\n\n"
             },{
-                "id": "132",
+                "id": "138",
                 "href": "https://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/",
                 "title": "Fixing (LinkedIn) interfaces with Chrome plugins",
                 "categories": ["Code"],
                 "content": "Online services tend to change their functionality or interaction. Sometimes in a good way, other times in a bad way. Most recently LinkedIn made a little change in the way accepting (and replying to) invites works. I personally use LinkedIn as a address book and leave it alone at times, never inviting people but combing trough the invites. I used to reply with a text-expander snippet too see if a connection is valuable, but this seemed to be impossible lately.\nTurns out, I wasn't the only one and Martijn actually wrote a bigger post on the problem. Ofcourse asking LinkedIn is the best way of complaining, but fixing it probably would take them a long time (if they decide to!). So I made a little chrome plugin that easily opens up to 10 new tabs all with a conversation without navigating through hovers and popups.\nThe plugin is seriously alpha software and way to loose configured, but I put it up on Github so anyone can use it! Disclaimer: I provide no support at all, if you still want it, find someone who can help you! \n"
             },{
-                "id": "141",
+                "id": "147",
                 "href": "https://jplattel.nl/post/2016-03-08-making-waves/",
                 "title": "Making Waves",
                 "categories": ["Quantified Self", "Technology"],
                 "content": "So far today has been enjoyable, until around noon when someone texted me with a url pointing to nu.nl, showing an article about the Data Protection Authority telling me it is forbidden for employers to use wearables to track their employees (also on tweakers.net). The research the article points to is actually two companies that run my dashboards. Before I get into details, let me state the following:\n The privacy of an employee is of utmost importance! Employee first, employer last (or not at all!) The Data Protection Authority is one of the most important organisations in regard to the coming technological expansion, we need them more then ever. The grey area and boundaries existing the current space of law require meticulous investigation.  Now, if you've read the article carefully, you will notice it is still acceptable for a third-party to collect data with a wearable, but showing the data (in any way) to the employer is a no-go. This is something I totally agree with, but it conflicts partially with the requirements of a good employer to take care of their employees. A deeper exploration is required.\nThe connection between the employee and employer is not equal, which means the employer can force an employee. In my book, this is also a no-go. I've build my dashboards in such a way so this can not be done in any way.\nI started developing the dashboards with a discussion in mind, and the first line in the grey area has been drawn. This doesn't mean the discussion is over, as technology and the workplace develop the grey area may solidify if we supply it with enough discussion and decisions. The article is a important step towards a better balance between privacy, ethics, technology and the workplace. Let's keep on discovering!\n"
             },{
-                "id": "148",
+                "id": "154",
                 "href": "https://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/",
                 "title": "Privacy &amp; Gracefully revealing depth",
                 "categories": ["Philosophy", "Technology"],
                 "content": "Just a couple of days ago I read a post from Atlassian explaining some new features, but the most interesting aspect was that they explore gracefully revealing depth. To me this same concept can also be applied to privacy, ethics and more problems. Even though it's about functionality, the same can be applied to complexity.\nAs we are faced with interesting problems about privacy and ethics, would the way of gracefully revealing complexity work for making the right choices or settings the right parameters? I think it does, and that's why I started building gradual privacy, but it doesn't end there, the other way around is also fascinating, as some functions might not be thought of beforehand. This relates to privacy and transparency even more, could we cover all scenarios with these depths? Or how deep are these depths?\n"
             },{
-                "id": "152",
+                "id": "158",
                 "href": "https://jplattel.nl/post/2016-02-16-musings-on-transparency/",
                 "title": "Musings on transparency",
                 "categories": ["Philosophy"],
                 "content": "I've been thinking about and exploring transparency a lot lately. As I'm building dashboards for employees, transparency is one of the key factors of integration within the workforce. But there are some funny things about transparency and this is why most companies and organisations are having difficulty adopting a transparant way of working.\n Ownership is spread when sharing processes, this lessens your level of power, but this world is not just about ownership any more, access is what it is all about. Transparency limits the degrees of freedom, when accountability is shown, you are less likely to choose a more adventurous path. Culture is key here, because if you do create a culture were failing is accepted, adding transparency to the mix might prevent people to make the same mistakes. Sharing seems to limit choices due to shortening the feedback loop. But thinking about it, done the correct way I think it could increase choices. The risks of transparency are not yet enough explored. It's a grey area in which the rules aren't yet enough established. The internet itself can be seen as an early precursor of what radical full transparency could be within a organisation. It can be used in both good and bad ways.  In my case, most of the situations involve data and technology in relation with transparency, ethics and privacy. It's a very big grey area in which there's enough discovery to be done!\nNote: I've changed this blog a little to hopefully get me more into a writing mode... Expect more posts like these...\n"
             },{
-                "id": "157",
+                "id": "163",
                 "href": "https://jplattel.nl/post/2016-01-29-on-solving-annoying-things/",
                 "title": "On solving annoying things",
                 "categories": ["Code"],
                 "content": "The dutch government and other (bigger) organisations seem to have a habit to annoy people. One of the reasons they do so is security by obscurity. It has it’s flaw as shown in this blogpost by @levelsio.\nHe wrote a little script that fetches and forwards all the email, which everyone can do after loggin in with DigiD. As shown, this takes a lot of steps. Automating it can be done with less then 50 lines of code. Following his blogpost I also decided to open-source my script, which has the same functionality. I’ve uploaded the code on Github: https://github.com/jplattel/berichtenbox-forwarder. You still need a little knowledge of python to install it, but it’s one step closer to an easy life.\nI do think it's troublesome that software is developed without any thoughts of the end-user. It seems that this trap is especially more common in bigger IT projects. The functionality of not forwarding important messages ruins the user-experience and thus the entire usage. This matters truly if you want the entire country to use it.\nAny way, I wrote the script just to solve these little annoyances that companies throw at you, other things I automated are non-forwarding email inboxes, filling out forms and scripting (mail) replies. It all runs on my own computer or servers, which make the attack surface smaller but more specific. I haven’t decided yet if this truly means more security, but so far I think it does.\n"
             },{
-                "id": "166",
+                "id": "172",
                 "href": "https://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/",
                 "title": "Sous-vide food with a rice cooker",
                 "categories": ["Technology"],
                 "content": "\nFast-forward to one week ago.. I had 1 day reserved for tinkering (ship it!) and it should be done. I fetched the PID from the drawer and got to work.. Here's a little timelapse: (in better quality than Facebook)\n During lunch hour, it seem to work and I rushed to the local supermarket for eggs... Look what I had for lunch:\nAnd next day I threw in a large piece of meat:\nThat meat turned out even better! Now with everything working properly I could focus on creating a nice enclosure for the device. I wanted to have something sturdy and I had some small changes for the electrical circuit. I wanted to keep on using the rice cooker for normal usage as well, so I made plan to make a device with 1 socket in and 1 socket out. This way, both could be a stand-alone device and usable for other things too! So with a bit of woodworking and electrical wire, I made an enclosure:\nNow I only need to close it with a bottom plate and add Sugru feet to it. Then it's done! Let's see what other interesting recipes are available for this thing!\n"
             },{
-                "id": "171",
+                "id": "176",
                 "href": "https://jplattel.nl/post/2016-01-02-data-reflections-2015/",
                 "title": "Data and reflections about 2015",
                 "categories": ["Joost"],
                 "content": "Another year passed an I'm due to update my projects page and create another one for next year! To close past year and explore the next I've used YearCompass for my reflections. It took me over 3 afternoons to completely fill it out, but it's an enjoyable ride! It's great looking backwards into your calendar and see all that you have achieved.\nI've also concatenated all my 8:36pm photos into a video like I do every year. Sadly during some time this year, my phone broke down more often and I've left it on the table too much to my liking... Next year will be better, I promise! Here's the video:\n\nAlso, I've been running the Moment app for a year. Using the same analysis in a previous post, I can now say having a new phone increased my usage in the past three months. I'm spending 76 minutes on average per day behind my phone... And that's a bit too much in my opinion. I'm aiming to decrease it in the next year! Here are the distributions per month and weekday:\n\nI've also been tracking the things I've done with iDonethis and have collected a year full of data, more on that soon! It's a collected archive of both personal and work related things... I like the way of simply logging data via email. But lately I've been slacking and not answering that many, batching them all at once for a week (and I'm not sure that's the right thing..). I like how their email is stocked up with reflections though, seeing what I've done a year ago.\n"
             },{
-                "id": "176",
+                "id": "181",
                 "href": "https://jplattel.nl/post/2015-12-02-a-lecture-in-ghent/",
                 "title": "A lecture in Ghent",
                 "categories": ["Quantified Self"],
                 "content": "A few weeks ago I gave a lecture in Ghent, a beautiful city and so I decided to spend the weekend at an AirBnB host to enjoy the city! Here's a picture I took:\nI've uploaded all the slides from the lecture on Slideshare for you to enjoy.\n\nIt was my longest lecture and I've learned some useful things while doing so. I find that having a storyline with little pieces is harder to keep up over longer times, so next time I will try to venture more in depth of some of my personal tracking experiments, for example my phone usage.\n"
             },{
-                "id": "183",
+                "id": "188",
                 "href": "https://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/",
                 "title": "Quantified Phone Usage with iPython",
                 "categories": ["Quantified Self"],
                 "content": "\n\nI'd like iPython notebooks for their portability and it makes it easy to document code along with mark-down. It's somewhere in between a 'gist' and a full github repository. I've created a special post-template within Wordpress that should make it easy to share more notebooks, so you should be expecting more to pop up when I tend to share code! Regarding changing behaviour, I think creating this analysis made me aware that I spend over 1 hour everyday behind my phone, that's a lot. Including quantifying sleep and computer time, I do think it's possible to create quite a good framework of my days. Such a framework can be the first steps towards a method for personal behaviour change...\n"
             },{
-                "id": "188",
+                "id": "193",
                 "href": "https://jplattel.nl/post/2015-09-22-sri-lanka-for-holiday/",
                 "title": "Sri Lanka for holiday!",
                 "categories": ["Joost"],
                 "content": "Long overdue, but now I have some time to spend writing a blogpost. The previous month I've spend 3 weeks in Sri Lanka! For two weeks, we discovered the island, visiting beaches, jungle, towns and cities. The culture is wonderful and people are very friendly. It's also been a great opportunity to try out some new things, for example dabbling in photography and exploring apps like VSCO. In this post, all of the pictures have been shot with a S-120 and then improved with VSCO.\n\nI've seen lots of temples, stupa's and buddha statues, and the views were nothing short of spectacular. Ranging from wide-views to jungles. We had great weather and over time I've tinkered enough with my camera to get some decent shots.In the last week, we've stayed at a hotel in Induruwa, close to Bentota. Just 1 night before we left, we went on our last trip to Adam's Peak. A 2300 meter high mountain with 6000 steps to climb. In the middle of the night, we ascended the stairs and we reached the top an hour before sunrise. Sadly for us, the first part of sunrise was cloudy. But it was not long before the clouds cleared and some nice pictures could be made:  While it took us 3,5 hours to reach the top, descending is even harder, but the views you see while coming down are very beautiful! After driving back to the hotel for 5 hours, we could finally relax in the pool! The climb was a perfect finish for our holiday! Looking back, this has been a great adventure!\n"
             },{
-                "id": "195",
+                "id": "200",
                 "href": "https://jplattel.nl/post/2015-07-28-holiday-to-denmark-berlin-and-the-south-of-france/",
                 "title": "Holiday to Denmark, Berlin and the south of France",
                 "categories": ["Random"],
                 "content": "i've been on holiday for most the past month. The urge to travel has been growing since a few years, and this year I've been to several new cities in Europe. After the QS Conference in San Francisco in June, I came back, only to pack my bags once again to hop on a bus to Denmark. My father organises a yearly travel group to the Haervejsmarchen. Together with Chantal we joined him! Here's a little picture of the heathland we walked trough:\nI walked 40 kilometers twice, enjoying the views, long before finishing with tired feet.\nThe next adventure was on a tandem bicycle! At the beginnning of this year, a little idea stirred us about going to Berlin by bike. Turns out, even the crazy ideas make it out of the pub, so before I knew we we're sitting on the bike, ready to leave for Berlin!\n\nWe made it without any big problems (only 1 flat tire!) to Berlin, celebrating our succes by having a beer (or two!). We could stay at a friend, exploring Berlin and recovering and 3 days later, we went back by train.\nThe next holiday lined up, was to go the France, but not by ordinary means. We took a BlaBlaCar to Orange, in the south. We had a great driver and before we knew, we arrived at the camping. The next day, we explored to neighbourhood, and we've seen mostly grapevines, line after line:\n\nAfter 2 nights, we hopped on a bus towards Orange, staying there for another two days, drinking cold rosé, dancing to salsa and enjoying sunsets. Before long, we took another bus to Avignon. There, we stayed for another two days, a beautiful city, with a great historic center. And half a bridge:\n\nOur way back home brought us to Paris, where we had little birthday cakes and great cocktails at Harry's Bar! One more night by bus and there we are! I'm currently writing this post at home, but we're scheduled to leave for another holiday in Sri Lanka! Signing off and I'll be writing a separate post about that one! "
             },{
-                "id": "201",
+                "id": "206",
                 "href": "https://jplattel.nl/post/2015-06-08-perfect-human-vpro-tv-publications/",
                 "title": "An interview for the Perfect Human and other publications",
                 "categories": ["Random"],
                 "content": "\nTwo months ago I spent some time before a camera for a documentary series of the VPRO. The series is called The Perfect Human and explores how technology helps us create a better being. My project with Colliers: The Quantified Workplace is highlighted in the interview. You can watch it online here.\nAt the end of the past year, I spend an afternoon at the Ministry of Health, Welfare and Sport, to contribute towards a document about e-Health. The publication about wearables and technology in healthcare has finally been published. I've received the printed publication and I'm very happy with the end result. Hopefully this will be the first step towards a better system for people and healthcare. I hope to contribute to more initiatives like this to promote digital literacy in the Healthcare sector. You can read about it at the website of RVZ.\n"
             },{
-                "id": "209",
+                "id": "214",
                 "href": "https://jplattel.nl/post/2015-05-18-somethings-brewing/",
                 "title": "Something&#39;s brewing!",
                 "categories": ["Random"],
                 "content": "And it's beer! Well it's stored now and bubbling away! Yesterday afternoon I've brewed my first batch of beer. With the gear and knowledge of a friend, we manufactured 48 liters of pale ale. The sunny afternoon also was a perfect opportunity for my new camera, so I took some tests shots. Here's the brewery in my backyard:\nThe recipe we decided on included star-anise and lemongrass. Sadly the coriander seeds got lost and we skipped those. Hopefully the taste will turn out great! First tasting was pretty good! Here we are happy with the progress:\nIn about 2 weeks the fermentation should be completed and the bottling would commence! Some more pictures will follow with the end result, keep you posted! "
             },{
-                "id": "212",
+                "id": "217",
                 "href": "https://jplattel.nl/post/2015-05-14-lago-di-garda/",
                 "title": "Lago di Garda",
                 "categories": ["Random"],
                 "content": "I've been on a little holiday!The destination was Moniga del Garda, Italy. And I've shot some great panorama's that I wanted to share with you:\nThis summer I'm visiting Sri Lanka and I bought a little pocket camera to help me with some better pictures. I chose the S120, because of Neistat.\n"
             },{
-                "id": "215",
+                "id": "220",
                 "href": "https://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/",
                 "title": "Gradual Privacy for personal data",
                 "categories": ["Technology"],
                 "content": "In the past few months I've been building more and more dashboards for clients. The idea of collecting personal data however always raises questions about privacy. To solve this, I've been developing a way to implement gradual privacy.\nGradual privacy is a way to let the end-user decide who can see what data. The best way to explain, is just to show it:\n\nThe columns are the kind of data. And the rows are the parties you could share with. Naturally you would want to see all data, so 'personal' is checked by default. In the case of one dashboard, you can share data within the organization, the company doctor and scientific research. The next option could even be sharing it publicly. Having control over the data gives back, control to the user. In my case this might make a difference in the amount of users for the dashboard. For starters, all the dashboards I develop are always based on opt-in.\nThese kind of settings however are complex for a user to decide, one solution would be much templates. Also note this doesn't take into account where the data is saved. In the case of the dashboard, the data is saved on the server that isn't owned by any clients.\nAs I'm working with quite sensitive personal data within my dashboards, this is one of the possible solutions for safeguarding privacy. If you have any other ideas around this, please leave a comment below!\n"
             },{
-                "id": "218",
+                "id": "223",
                 "href": "https://jplattel.nl/post/2015-02-02-creating-intelligence-room/",
                 "title": "Creating the Intelligence Room",
                 "categories": ["Joost", "Mashups"],
                 "content": "Over the past few months I've been steadily involved with a project that aims to recreate an war/control/intelligence room that you see in movies. The one difference is that the room is ment for decision-makers within bigger companies. Often, urgent en relevant questions go unanswered, but the Intelligence Room helps fixing this.\nDuring the Big Improvement Day we showcased our concept and I've created a little Django app that matches all attendees based on topics they provided when signing up for the event. Here's how it worked:\nOn 5 large screens over 10 seconds a random match would pop-up and it would ask people to get their Intelligence Report at the Intelligence Room desks. At the desk, several people behind an iMac would let attendees input their email and edit their profile. After they provided additional information and a profile picture (optional) they would be emailed their own report with several other people that matches their interest. Here's one of the screens:\n\nOver 120 people used the service on the day itself, and that's only in the time they spend in the foyer of the location (that's around 2,5 hours). Quite an achievement if I say so myself, happy with how it turned out! The Intelligence Room concept will be developed further with Permanent Beta \u0026 Caesar Groep.\n"
             },{
-                "id": "224",
+                "id": "229",
                 "href": "https://jplattel.nl/post/2015-01-06-836pm-2014-video/",
                 "title": "8:36pm, a 2014 video!",
                 "categories": ["Random"],
                 "content": "This is my fourth year that I'm taking pictures everyday at 8:36pm. A little something that I plan to keep on doing for my entire life. Every year I make a small movie off all the pictures! Have a look:\n\nHighlights of this year including a holiday across the netherlands, moving to a new home and Italy! Hope 2015 will be as great as last year! "
             },{
-                "id": "229",
+                "id": "232",
                 "href": "https://jplattel.nl/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/",
                 "title": "3D printing lampshades or any object based on data.",
                 "categories": ["Mashups"],
                 "content": "I'm generating a model with a library called Tangible. The development of the library seem to have stalled, especially at the most crucial point. Creating a rhombus tower with more than 2 dimensions.. So I spend (long) evening and a day trying to grok 3D modeling with code. I've implemented the function for generating such a tower within the library itself and I might open-source the code shortly! After tinkering a while this is where I am now:  Imagine the possibilities, of printing objects, like lampshades or anything else really that represent a data-set? I for once would love to have a series of lamps that tell the story of Whatsapp messages with friends. Or maybe a company that shows the stock price as a big 3D-printed of laser-cut ornament at the reception.\n"
             },{
-                "id": "235",
+                "id": "238",
                 "href": "https://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/",
                 "title": "Learning about power-usage data from my home",
                 "categories": ["Code"],
                 "content": "I recently moved to a new home, and I got a freshly installed new electricity meter that's a little bit more intelligent. It was now possible for me to sign up for slimmemeterportal.nl, that let's you access the power-usage data from the meter by a 15 minute window. That's quite some data to play with!\nBeing interested in the data, I wrote a little scraper that collects it for me and stores it in a SQL database, from there on, with Flask and Peewee it was quite simple to create a little API for my own dataset. Currently I'm playing with react.js and angular.js to learn them both a bit and explore what it possible. Here's one of the first graphs:\nI've put the scraper-code on Github for everyone to use! I suggest if you want to liberate your data, that's the way to go!\nWhat I want to do? We'll there are several things:\n Crossfilter the data to pick up any interesting data points. Explore machine learning if I can predict my power-usage more Find correlations based on temperature, activities or weather What are those mystery peaks during the night?  "
             },{
-                "id": "241",
+                "id": "244",
                 "href": "https://jplattel.nl/post/2014-11-10-my-server-got-hacked/",
                 "title": "My server got hacked, this is what I did",
                 "categories": ["Technology"],
                 "content": "I switched my VPS towards another hypervisor and changed it root password, then I rebooted it in recovery mode. The next step is figuring out what to do... I've tailed the /var/log/secure file and could see that there where still SSH requests coming in. I blocked out the remote IP's by adding them to etc/hosts.deny and booted out of recovery mode. That got me back up and running with SSH access. My first mission: backing up data, second: finding out what happened. First one done, the second is currently in progress!\nFor now looking backwards, there is a lot to learn about an event like this for me:\nPossible attack vectors might be:\n Shellshock or Heartbleed bug, while I patched the update, I'm not entirely sure whether I've done a correct job. I've patched Heartbleed quite early, but some of the patches didn't work. I didn't disable the debug mode of some of the Django apps that I'm running on that server, that's fixed now! Apache was configured out of the box with no \"Options -Indexes\", meaning it would server a directory index if there is no wsgi file configure correctly for a Django app  After gaining back control of the server I executed the following things:\n Removed all debug modes for all Django apps Configured apache so it doesn't show folder indexes: \"Options -Indexes\" Installed fail2ban for limiting SSH attempts into the server. Updated bash on all servers  "
             },{
-                "id": "244",
+                "id": "247",
                 "href": "https://jplattel.nl/post/2014-10-04-3-years-computing/",
                 "title": "3 Years of computing",
                 "categories": ["Random"],
                 "content": "This picture below might seem blurry to you, and indeed it is, but for me it is a significant picture that reflect 3 years of working behind my computer.\n\nI've been running the Lifeslice program for over 3 years now and I thought it was about time to do something with it! The picture above is generated with over 4000 webcamshots taken during that time.\nThere's a trove of other data in too. For example the location of my computer (not necessarily me!) and all screens over time. Have a look at the simple vizualisations I've made:\n\nThere's some more data-collection software running on my computer, for example RescueTime. For now, I would love to have it all in my calendar, but iCal doesn't support feeds with over 4000 items very well... "
             },{
-                "id": "245",
+                "id": "248",
                 "href": "https://jplattel.nl/post/2014-09-16-lessons-learned-building-django-projects-2/",
                 "title": "Lessons learned building Django projects: 2",
                 "categories": ["Random"],
                 "content": "As of recently I've started my graduation phase of my current study. I've managed to get my own project in for my graduation thesis, which means I'll be spending more time developing with Django. This post is more of a reminder of the things I've learned so far... The previous post can be read here.\n The inspectdb tool is priceless when using other databases in which you have no schema's yet! During the past month I've been tinkering with a database from wordpress, including payment plugins. With the inspectdb tool it's easy to generate a schema so you can continue building managers. Learned the hard way: Managers are the go-to option for model-logic. I've been putting most of my logic in the views.py, but it grows quickly the more complex your application gets. And I've seen myself copy-pasting code a lot, hey, that's no DRY! I'm exploring celery for a task-queue. It's a new way of thinking for cronjobs and other tasks... Curious if I could integrate it! Djaneiro saves you a hell of a lot of time, recommended if you use Sublime!  "
             },{
-                "id": "246",
+                "id": "249",
                 "href": "https://jplattel.nl/post/2014-08-07-east-west-netherlands/",
                 "title": "From east to west in The Netherlands",
                 "categories": ["Random"],
                 "content": "It's holiday, and I've spend most of my time last month in The Netherlands hiking. From the east to the west, to complement what we did two years ago. And I wanted to share some pictures of my adventure:\n\nIn 19 days we hiked over 360 kilometers, staying at farmers, friends, campinggrounds or somewhere else. It was a blast! We'll see where we end up next year! For those interested, the route is called the Marskramerspad. "
             },{
-                "id": "253",
+                "id": "256",
                 "href": "https://jplattel.nl/post/2014-07-02-meetup-api-tinkering/",
                 "title": "Tinkering with the Meetup API",
                 "categories": ["Code", "Technology"],
                 "content": "Meetup.com is a service that I use and have been using to organize events for networks. Even though I like Meetup as a service, there are some thing you just cannot do. For example it's kind of hard to make use of the internal knowledge or connections that people have within the network itself. And you are limited to Meetup for sending messages to everyone.\nAbout a week ago I sat down to explore their API, to see if you could somehow build upon their service. Turns out, you can! I've written a custom wrapper for the Meetup API, and within a few days my prototype was up and running. For the Permanent Beta Meetup we organized I've build a dashboard which would let people explore the community and it's interest. You could type in anything you would like to explore and what kind of interests you share with other people from the Meetup. Here's a screenshot what it looks like:\n\nThe dashboard worked locally for the event, but I'm planning on releasing it as open-source software. Current goals are: specific admin tools, letting people use the software with their Meetup account and connecting it to other services. For now I've open-sourced my little Meetup API wrapper.\n"
             },{
-                "id": "260",
+                "id": "263",
                 "href": "https://jplattel.nl/post/2014-06-07-metabiography-written-cloud/",
                 "title": "The Metabiography, written in the cloud",
                 "categories": ["Code"],
                 "content": "Last month, most of my time was spend on a project for Yuri Veerman \u0026amp; Elsbeth Fraanje, who are part of the Quantified Reality project by het Mediafonds \u0026amp; the Sandberg Institute. Elsbeth and Yuri are exploring the possiblities of (auto)generating a biography from somebody's meta-data and created the the aptly named Metabiography.\nI was asked by Yuri \u0026amp; Elsbeth to build a working prototype For now, it's in pre-beta phase, but below is a screenshot how it could look like. And functions are still changing around as Yuri \u0026amp; Eslbeth tinker on the concept.\n\nThe idea of something written by algorithms is very interesting to me. Especially if you could tinker with probabilities and variables that make up sentences, sentiment and structure of a story. Could a narrative been created by an algorithm? If scientific papers are, I'm sure making a meta-biography should be possible too!\nSign up on the website if you want te be kept in the loop for updates!\n"
             },{
-                "id": "266",
+                "id": "269",
                 "href": "https://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/",
                 "title": "Thought Kinetics at Coded Matters: Extended Senses",
                 "categories": ["Technology"],
                 "content": "Last sunday my brother and I had an exhibition with Thought Kinetics and artist-talk at Coded Matters: Extended Senses. We showed our static prototype exploring the visualization of datasets that are collect and visualized in a static way. This is our first step towards a more realtime system where we can use any data and visualize it on a canvas in an abstract way.\n\nWe also gave a talk about our process how we got from a prototype towards a more solid system that uses Node.JS and Unity (for now) for transforming data into visuals. At the end, Jarl asked us about our vision on privacy and design, and we both share an interesting but exploratory look on the future. The fine balance between dystopian and utopian views is one of my main viewpoints on the use of data.\nMy brother and I are aiming for a functioning system within 6 months and we hope to showcase it at more events at that time. If you want some experimental data-crunching and visualization, let us know!\n"
             },{
-                "id": "269",
+                "id": "272",
                 "href": "https://jplattel.nl/post/2014-05-14-quantified-self-europe-conference-3/",
                 "title": "Quantified Self Europe Conference #3",
                 "categories": ["Random"],
                 "content": "Last weekend I spend my time at the Casa400 hotel for the Quantified Self Europe Conference. With around 250 attendees and 30% of the people giving a talk, you could truly say that's been an carefully curated unconference.\n I gave a lunch-time ignite talk about my project Qount.us and people liked it! Hopefully the video will be up soon. And I pre-ordered a few Vitalconnect patches for experimenting, including Thought Kinetics. And thanks to all the people I've been spending time with I'm getting on track for the Qount.us project and which way it is heading. For now I'll have it planned for my graduation project.\nAs the organization of the conference has been moved to the QS Labs team, we plan to organize more of a social program next year with the QS Amsterdam team! Can't wait for the next one!\n"
             },{
-                "id": "273",
+                "id": "276",
                 "href": "https://jplattel.nl/post/2014-04-19-curious-corner-video/",
                 "title": "The curious corner on video",
                 "categories": ["Mashups", "Random"],
                 "content": "I've curated 6 editions of the Curious Corner of the Internet until this day. It started out as an experiment of just showing my saved-for-later links in a presentation. The newsletter essentially was a second format, and I didn't explore my chances for a talk much further. Until now, during the Week for the Entrepreneur in the Netherlands, that I'd give it another shot. Sadly, it's in dutch, but here's the video:\n\nThanks to Daan for the video. The next talk might be at Permanent Beta day on the 30th of June.\n"
             },{
-                "id": "280",
+                "id": "283",
                 "href": "https://jplattel.nl/post/2014-03-27-made-into-another-book-and-white-paper/",
                 "title": "I made it into another book and co-authored my first white-paper",
                 "categories": ["Joost"],
                 "content": "Last year I gave a little talk at the Cross Media Cafe in Hilversum. Happily afterwards I gave a little interview and people took a few photos. This year started pretty nice with some media coverage, but at the end of february a book landed in the mail:\n\nI made a scan of the page and it's available on Scribd. And together with the working group of patient generated data, we've written a white paper about the data that persons generate that healthcare could use. I put it up on Scribd too. I'm planning on publishing more!\n"
             },{
-                "id": "286",
+                "id": "289",
                 "href": "https://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/",
                 "title": "Lessons learned building Django projects",
                 "categories": ["Code"],
                 "content": "I've been using Django as my go-to framework for the past few months. So far I've enjoyed the ride, but have learned some things that I'd like to share with you:\n During project setup, create a virtual environment for yourself to work in. Use the 'pip freeze' for creating a requirements.txt that helps you manage dependencies. Don't use any paths within the views. Instead, use the reverse function for looking up routes that correspond to the url. This helps a lot when you run Django in a folder on a server. Logic should be integrated into models. I'm just getting used to this, but helps creating DRY-er code. In the next version I will be doing this for most of my dashboard functionalities. Use South for your database migrations. It helps moving data around when you change your models during development. Alias 'python manage.py' to 'django' in your bash or zsh config for easy access to functions. Use different settings files for development, staging and production When deploying, it took me a while to figure out, but it's quite easy to use a virtual environment for your app too. I'm trying to take it one step further by exploring Docker.  "
             },{
-                "id": "293",
+                "id": "296",
                 "href": "https://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/",
                 "title": "Experimenting with company activity dashboards",
                 "categories": ["Code"],
                 "content": "As an experiment, I'm collecting data from the Moves app from multiple persons within a organisation. The goal is to find out what's possible with the amount of data the persons generate each day. Currently, the collection of data is ongoing and the next step would be the visualization of the data. Here are some simple graphs you can make with the data:\n\nFurther steps could be exploring what a group wants from visualisations like this. It's the most benificial if the change of behavior sustains after the initial period of interest. This could be investigated by using different ways for reminders, notifications or possibly reward systems. I've also discovered that data and visualisation like this raises ethical questions. This is exactly why doing a small-scale pilot helps me develop this as a product that is accepted more readily into the company culture without having a negative influence. I'm curious where this is going! "
             },{
-                "id": "298",
+                "id": "301",
                 "href": "https://jplattel.nl/post/2014-01-20-836pm-photos-2013/",
                 "title": "All the 8:36pm photos of 2013",
                 "categories": ["Joost"],
                 "content": "Like last year, I made a small video of all my 8:36pm photos. With a bit of help from my brother, I managed to get everything into after effects and put it together. Let the nostalgia commence:\n\nLooking back in a glance, the things I notice are: less computer work, more socializing and the increment in the amount of beverages and food photos. Next to that, I failed keeping up this year and missed a lot of photos. Sometimes for a reason (no internet or phone), while on other dates I simply seem to forget. My goal for this year is to decrease the time from taking a photo and uploading it.\n"
             },{
-                "id": "304",
+                "id": "307",
                 "href": "https://jplattel.nl/post/2014-01-13-taping-interviews/",
                 "title": "Taping interviews",
                 "categories": ["Random"],
                 "content": "Last week I've spend some time before camera lenses. On wednesday I got a call for an interview for RTL Nieuws about CES and wearables. A quick interview got me 2 minutes of fame (on from 18:10) on television. On thursday, a longer interview for Arte TV, that will be shown later this month (viewable online too).\n\n"
             },{
-                "id": "308",
+                "id": "311",
                 "href": "https://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/",
                 "title": "Cooking up and getting down in Chemistry",
                 "categories": ["Random"],
                 "content": "I made a small visit to Paris at the start of November and I had the opportunity to visit the Lab Store. I've read about the concept in a book called The Lab that I've bought during my first visit to San Francisco. It's just pure luck that I come across that book in a little bookstore, but it feels like the adventure is just about to start..\nWhile visiting the Lab Store I had to buy one of the Le Whaf's. It's sold out in the webstore, but I'm just too much into chemistry and cooking to let it go. Here is it in action:\n\nNow, I just need some time to calibrate my sous-vide rice cooker:\n\n"
             },{
-                "id": "314",
+                "id": "317",
                 "href": "https://jplattel.nl/post/2013-12-18-using-moves-data/",
                 "title": "Using Moves data for?",
                 "categories": ["Code", "Technology"],
                 "content": "In July I wrote a little wrapper for the Moves App API. But I didn't develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I'm currently building. I've drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I've got some friends who come up with great ideas too! Thanks to Mike, I'm explore the possiblity of using Moves to log car-mileage.\nSo far I've been able to put everything in a database and run range queries on it:\n\nOther ideas and subprojects might include: predictive algorithms, calendar feeds, auto foursquare checkins or kml and mass-export. If you have any other ideas, share them in the comments, I might build it!\nEdit: Got a calender feed working, but it's a bit overkill:\n\n"
             },{
-                "id": "318",
+                "id": "321",
                 "href": "https://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/",
                 "title": "The Curious Corner of the Internet",
                 "categories": ["Code", "Random"],
                 "content": "I've been walking around with a newsletter idea for some months now. It all started at Permanent Beta where I gave a talk together with my twin. Basically it wasn't really a talk, just a roadshow of awesome stuff we come across on our daily surf on the web. The audience loved it! Why not curate this content into a newsletter?\nThat's just what I did with The Curious Corner of the Internet, a monthly newsletter stocked with the stuff I find during that last month. However, curating would have taken a lot of my time if I didn't find a way to manage it all. Coding to the rescue! A small Node.js app and bookmarklet for Chrome (or extension even) and within 2 hours I had a basic management system running. (code is up on github!)\n\nI've send out the first edition at the beginning of this month and got another one lined up in a few days? Curious what it'll bring? You can sign up here or in the sidebar next to this blogpost.\nNext step: connecting the digital and physical worlds together, so if you have a place where I can share some of my daily reading material, let me know! Also, improving the code-base, adding a sufficient database and connecting it to Mailchimp and send my email directly from my system.\n"
             },{
-                "id": "319",
+                "id": "322",
                 "href": "https://jplattel.nl/post/2013-11-15-jawbone-api-python-library/",
                 "title": "A Jawbone API Python library",
                 "categories": ["Code"],
                 "content": "I've been wearing a Jawbone UP for the last few months. There are things I like about it, the app, the sleep interface and the options you have for notifications. Some other things I dislike, the 3.5mm jack for syncing for example... It's annoying. They have it solved with the next version though.\n\nAs with all the other devices that I've been wearing I wanted to get the data out of it. And luckily Jawbone offers an API. So that's what I did, and the code is up on Github for you to use and fork.\n"
             },{
-                "id": "329",
+                "id": "332",
                 "href": "https://jplattel.nl/post/2013-10-29-twins-in-new-york/",
                 "title": "Twins in New York!",
                 "categories": ["Random"],
                 "content": "Being in de United States is a perfect excuse for visiting my brother! After enjoying a 5 hour flight (with wifi!) and a delayed subway ride: here's the two of us before the skyline of New York City:\n I've had 8 days to explore the city, mostly by foot and metro. The first I found the most enjoyable, while the latter turned out to be faster most of the time. At least I walked all three off the main bridges to Manhatten and strolled trough Central Park and The Highline:\n The food, the views, the people, the beer \u0026 whisky... Ah well. New York has been good on me! For sure I'm gonna visit it again! "
             },{
-                "id": "334",
+                "id": "337",
                 "href": "https://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/",
                 "title": "Making sense of your phone invoices",
                 "categories": ["Code"],
                 "content": "Telephone companies tend to have a lot of data about a user. This data includes some information that could help you decide whether you could pay for another subscription that fits more to your usage. To fix that problem I've build a dashboard which uses all the information available trough the invoices my current company (T-mobile) provides in a PDF. (FYI, I got a version running that's also working with receipts from Vodafone)\nThe first step was to extract the text from the invoice and turning it into something more useable like a database table. I used the PyPDF module and regex. Once it's in the database, building a simple dashboard with Bootstrap and Google Charts isn't that hard any more and you'll end up with something looking like this:\n\nWhile building this small dashboard I had the chance to explore two libraries which found their way into my workflow: Numpy and Dataset. The first one helps with the histograms and other calculations and Dataset provides an easy method for saving data quickly into a database. I'm hoping to do more of these little dashboards!\n"
             },{
-                "id": "343",
+                "id": "346",
                 "href": "https://jplattel.nl/post/2013-10-14-san-francisco-and-qs13/",
                 "title": "San Francisco and #QS13",
                 "categories": ["Joost", "Quantified Self", "Random"],
                 "content": "Taking a week off from my study, hopping on the plane to San Francisco on monday morning at 10 o'clock. Arrived at noon and we managed to hack our way into the AirBnB place. Uptime: 24 hours. Grab a beer with Yuri and Peter. Decide to visit the Apple Store and do some misc shopping. Italian dinner. Crash on a couch. Conclusion: way better then classes I'm supposed to be in. And what about the view:\n  We stayed at Nop Hill for the first 2 nights. After that, we moved to the Inn at Presidio, an old navy base. They left the entire nature untouched and we had a great venue. With a 20 minute walk, we had a great view of the Golden Gate bridge:\n\nOfcourse, the main point in visiting San Francisco was the Quantified Self Conference. We had a great venue and 400 people in the same place talking about QS is just the place I wanted to be in! People running around with sensors, google glasses or any other technology could fit right in. Key takeaways of the conference were summarized by Kevin Kelly and we had a great session about the future of QS in 10 and 100 years.\nI had a blast at the conference and jumped on the plane next morning to New York to visit my brother, the next blog is gonna be about that!\n"
             },{
-                "id": "344",
+                "id": "347",
                 "href": "https://jplattel.nl/post/2013-09-30-recent-media/",
                 "title": "A quick list of all my recent things in the media",
                 "categories": ["Quantified Self", "Technology"],
                 "content": "September has been good on me so far. I've started my third year of my bachelor degree while on the opposite end my work seems to increase. I've been interviewed for a new TV-programme called Toekomstmakers. It's in dutch but the video is can be found here:\nI've also written a column about the Quantified Self an the influences it could create within the health sector. The column has been added to the book Diagnose Zorginnovatie and has been presented at the Diagnose Zorg Innovatie congres. A photo of my column(in dutch, click to enlarge) below:\n\nAnd finally I had some luck meeting Lucien Engelen at the same event, who would let me try Google Glass! Here's a selfie:\n\n"
             },{
-                "id": "352",
+                "id": "355",
                 "href": "https://jplattel.nl/post/2013-08-15-fitbit-organisation-dashboard/",
                 "title": "Building a Fitbit organisation dashboard",
                 "categories": ["Code", "Quantified Self"],
                 "content": "The Fitbit (affiliate link) is one of the best tools for activity tracking.The interface is nice and the hardware is durable and syncs wirelessly. For a personal level is good, but using group-wise or equipping all employees with a Fitbit turns out to be non-existent.\nDuring the past few days I've spend some time building a dashboard that lets people see the data from all users within a group. It gets all data trough the Fitbit API and summarizes it into a view per day/week/month. Next to that I also plan to provide leaderboards, custom graphs and statistics. Here's a screenshot of the app so far:\n\nA dashboard like this is possibly useful for elderly care homes or organisations that are interested in their employees activity and health. If you have other ideas where this could find a platform, let me know in the comments!\n"
             },{
-                "id": "357",
+                "id": "360",
                 "href": "https://jplattel.nl/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/",
                 "title": "On a tandem bicycle to Bregenz",
                 "categories": ["Joost"],
                 "content": "Two weeks ago I left the small village of Sloten in The Netherlands with a lofty goal, to reach Rome in Italy. On a tandem bicycle with a friend.\nA total distance around 2300km was meant to be covered. In the fourth day, we left the Netherlands and went into Germany.. Traveling trough the Ruhr area and cycling next to the Rhine.\nNext, the Swabian Jura and with 2 weeks we covered most of Germany. Just before reaching Austria, our baggage carriage decided to break down and among some other things we decided we would quit at Bregenz. We finished a wonderfull adventure with 1125km on the odometer.\nI wanted to share another picture of our first view of the Bodensee when we cycled down to it:\nIn dutch the route we cycled is called Reitsma's Route naar Rome.\n"
             },{
-                "id": "360",
+                "id": "363",
                 "href": "https://jplattel.nl/post/2013-07-09-python-library-moves-app-api/",
                 "title": "A python library for the Moves App API",
                 "categories": ["Code"],
                 "content": "For Quantified Self starters I recommend the really nice Moves App. The interface is really nice and the battery drain isn't that bad if you recharge it twice a day. They recently opened up their API enabling developers like me to create apps based on their platform. For me the first step towards creating an app is a easier way to communicate with the API.\nAs with the fitbit, I've written a open-source library for you to use! It's available trough Github. If you want to improve my code, feel free to fork me! I will use this library for creating a website which let's you export all data from Moves more easily. Because freedom of data is important, getting it out is the first step.\n"
             },{
-                "id": "361",
+                "id": "364",
                 "href": "https://jplattel.nl/post/2013-07-04-late-night-tektok-talking-qs-and-education/",
                 "title": "Late night TekTok, talking QS and education",
                 "categories": ["Random"],
                 "content": "Last month a give a small talk around the Quantified Self and how it fits into the education:\n\nWhat amazed me was that the room was full of inspiring people designing stuff for the 'now', thus implementing it only when the future is already happening. Nevertheless I'm sure some good things will follow because people are aware and the connectedness helps solving these things.\n"
             },{
-                "id": "362",
+                "id": "365",
                 "href": "https://jplattel.nl/post/2013-06-12-moving-into-hardware/",
                 "title": "Diving into hardware!",
                 "categories": ["Random", "Technology"],
                 "content": "Software is not all there is, I'm diving into hardware! For the last month a lot of electronics have passed my hands, including sensors, arduinos and others. I've been given a Makey Makey by Loes and now doing a hardware project in collaboration with Setup and it involves this big red button:\nI'll try my best to keep you posted of my hardware adventures!\n"
             },{
-                "id": "365",
+                "id": "368",
                 "href": "https://jplattel.nl/post/2013-05-15-qs-europe-conference/",
                 "title": "QS Europe Conference",
                 "categories": ["Quantified Self"],
                 "content": "I've spend past weekend enjoying what I do most, submerge in a community driven event, to come out two days later sleep deprived but full with ideas and enthusiasm. As one of the organisers of the conference you might think that it's a though thing to do, coordinating it all, but with a wonderful group of people from america and the QS Amsterdam team it was a blast!\nThe atmosphere of the group was really great and we had almost 300 people at the venue. Over 30% of the people contributed to the conference by giving talks, demo's or office hours! The things I liked the most were the breakout session by Bodymedia, sensors by op-innovations, the talk by Buster Benson and the time I had to talk to other people.\nFastmovingtargets also interviewed people on the spot and have created a quick overview of the broad perspective QS offers, you can watch all the interviews at their website.\nA mandatory picture of geeks wearing sensors ;-)\n"
             },{
-                "id": "366",
+                "id": "369",
                 "href": "https://jplattel.nl/post/2013-05-07-small-news/",
                 "title": "A small bite of news",
                 "categories": ["Random"],
                 "content": "Just two quick bits of newsworthy stuff I wanted to share with you since I got back from Italy (which was really wonderful!):\nI gave a small interview about big-data for the dutch television programme Bedrijf in Beeld. Quite happy with the result:\n\nAlso, we reached the local dutch newspaper De Spits. The Quantified Self was mentioned by the Rode Kater, a famous little comic:\n\n"
             },{
-                "id": "372",
+                "id": "375",
                 "href": "https://jplattel.nl/client/partup/",
                 "title": "Part-up",
                 "categories": [],
                 "content": "At Part-up I helped develop the latest version of their platform based on a Vue front-end and backend with Python on AWS Lambda.\nThe goal of Part-up is to facilitate more flexible work trough their platform, based on recommendations \u0026amp; talent.\n"
             },{
-                "id": "373",
+                "id": "376",
                 "href": "https://jplattel.nl/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/",
                 "title": "Building a Personal Health Dashboard with Panic&#39;s Statusboard",
                 "categories": ["Code", "Quantified Self"],
                 "content": "When Panic released their Statusboard app and I discovered it was possible to use JSON and html to embed it into pages, my mind raced with ideas about what to build. Both the Zeo and Fitbit API offer JSON output thus could be embeddable. To give a quick overview what it looks like with dummy data embedded, have a look at the following image:\n\nThe next step is to implement a simple server side script that shapes and caches the JSON data in the correct format. We'll make that a weekend project. And you're not limited to Fitbit or Zeo data any more, any API or maybe even trough StatHat could offer a way for making it visual for the personal health dashboard :)\n"
             },{
-                "id": "374",
+                "id": "377",
                 "href": "https://jplattel.nl/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/",
                 "title": "Data-visualisation for the Hogeschool van Amsterdam",
                 "categories": ["Joost", "Technology"],
                 "content": "Together with Heinze I've guided and taught several students from the Hogeschool van Amsterdam about data and data-visualisation. In 3 days packed with GPS-trackers, stories, examples and code we've made some interesting visualisations.\nSome were shown in Carre during the education conference organised by the Hogeschool van Amsterdam. Thanks Captain Video for the awesome setup with a cube:\nOfcourse I've also made my own data-visualisation. The data consists of minute-by-minute data available trough the Fitbit data API. This data is stored in a simple CSV file and visualised with D3, my favorite SVG library for visualisations, the result is a canvas with triangles related to the Hogeschool itself:\n\nData Visualisation for the Hogeschool van Amsterdam from Joost Plattel on Vimeo.\n"
             },{
-                "id": "376",
+                "id": "379",
                 "href": "https://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/",
                 "title": "Generating Mondrian like art with D3 &amp; Javascript",
                 "categories": ["Code", "Mashups"],
                 "content": "SETUP is holding a competition to get programming known as modern day craftwork. I whole-fully agree to this and decided to enter the contest!\nWith a small part of my time spend while traveling I and finally finishing up I've gotten my last version up and running. I use javascript and D3 (SVG) for drawing the elements as this is a library that I wanted to explore. The ease of use and adoption rate of it made a good starting point for me to quickly get to a result. Without further ado, here's my version of Victory Boogie-Woogie, but instead of inspired by a song, you manually input a text-string like a name:\n\nThe code for the entire artwork is on Github and MIT-licensed, feel free to play around with it!\n"
             },{
-                "id": "383",
+                "id": "386",
                 "href": "https://jplattel.nl/post/2013-02-26-vpro-labyrint/",
                 "title": "On the TV for VPRO Labyrint",
                 "categories": ["Joost", "Quantified Self"],
                 "content": "On sunday evening, the VPRO aired a new episode of Labyrint, a show for popular science. This episode included coverage of the Quantified Self and an interview with me (in dutch)! I've included the video for you to watch below:\n\nI'm very happy with the end result! As tracking becomes more ubiquitous more people will start to use it.\n"
             },{
-                "id": "386",
+                "id": "389",
                 "href": "https://jplattel.nl/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/",
                 "title": "Pecha Kucha about The Quantified Self and Permanent Beta",
                 "categories": ["Quantified Self", "Random"],
                 "content": "On the 7th of February I gave my first Pecha Kucha talk. Together with Jan-Henk Bouman we introduced the crowd (around 100 people) into the world of QS. With a geek to non-geek dialogue we kept our pace trough our 6:40 of fame. The video is below (in dutch):\n\nWatch the Permanent Beta meetup group for upcoming events about The Quantified Self!\n"
             },{
-                "id": "388",
+                "id": "391",
                 "href": "https://jplattel.nl/post/2013-01-29-836pm-2012/",
                 "title": "8:36pm - 2012",
                 "categories": ["Random"],
                 "content": "Without further comments, all my 8:36pm photo moments collected during 2012, stitched together in a movie:\n\nAll I can say is, thanks to all the people who made 2012 an awesome year! I'm sure 2013 is going to be the same!\n"
             },{
-                "id": "393",
+                "id": "396",
                 "href": "https://jplattel.nl/post/2012-12-16-metabolite-testing-with-talking20/",
                 "title": "Metabolite testing with Talking20",
                 "categories": ["Quantified Self"],
                 "content": "When I arrived home this weekend, a small package was waiting for me. It included the Talking20 metabolite kit I'd pre-ordered. And tonight I finally got around of donating some of my blood to the spot card. The package included, 3 spot cards and envelopes, and for each spot-card: an alcohol wipe, bandage and 3 lancets.\n\nIt's quick and easy to get started, but I also got some helpful assistance from my mother :). Anyhow, this is how the spot-card turned up:\n\nPosting it to the mail tomorrow and then let's see when I get the results, very curious about my cholesterol and testosterone levels! Next to those two, you'll also get your vitamin-D, oestrogen and estradiol levels measured. I have 2 more kits and will probably use one every 3 months for general checkup.\n"
             },{
-                "id": "405",
+                "id": "408",
                 "href": "https://jplattel.nl/post/2012-11-20-startup-weekend-utrecht/",
                 "title": "Startup Weekend Utrecht",
                 "categories": ["Random"],
                 "content": "Last weekend I participated in Startup Weekend Utrecht. At almost 100 attendees, we've got the 8th floor of the Nijenoord building pretty stocked.\nAs I predicted, I got an idea during the pitching process. Luckily I was able to pitch it anyhow and after the voting procedure the announcement was made that I made it to the top 13 viable ideas. So now I had to go and create a team! However, organising a team around my idea failed (too bad, reason: to complex for a startup weekend)\nToo bad, but next morning I could join a team working on a solution for exercise/gym subscription problems.\nWithin a day, PopUp Bootcamp was born. The startup is a services that disrupts gyms and their memberships. We offer a platform that enables trainers to create and manage excercise events. Consumers then can find local groups and exercise with a pay as you go model.\nAt the end of the weekend, we've succesfully build a working prototype, validated our idea with customers on both ends (consumers and trainers) and solidified our businessmodel. We pitched the idea and suprisingly won the prize for the most social startup!\nWe'll get back together with the team again and decide how we will continue our journey! Summing up, I've had a fun time at Startup Weekend!\n"
             },{
-                "id": "417",
+                "id": "420",
                 "href": "https://jplattel.nl/post/2012-10-28-the-quantified-self-new-aesthetic/",
                 "title": "The Quantified Self and the New Aesthetic",
                 "categories": ["Quantified Self", "Random"],
                 "content": "The Quantified Self is all about getting data about ourselves. We distill information and use that to our knowledge to improve our lives and that of others. Self-knowledge trough numbers. As we use algorithms in our lives we don't think that often about how they see us, but this is exactly what the New Aesthetic is about.\nAnd here's the cross-over between the New Aesthetic and QS. Machines and algorithms run our lives, and how they look at the world causes us to act. Can we view a part\nof the New Aesthetic in changes in behavior? Can we reflect to ourselves with the help of machine interpretation or vision?\nAnd we have algorithms determining how much we should move, eat or exercise. We save ourselves time by looking at Rescue Time data or figuring out the optimal sleep pattern for tonight. But how much of the data is reflect by ourselves and algorithms?\nYou can even extend this further by thinking about how algorithms would interact with the environment trough humans or the reverse. I somehow like the combination between the two things, but unsure where it's heading...\n"
             },{
-                "id": "421",
+                "id": "424",
                 "href": "https://jplattel.nl/post/2012-10-18-karlskrona-sweden/",
                 "title": "Karlskrona, Sweden",
                 "categories": ["Joost"],
                 "content": "[caption id=\"attachment_2476\" align=\"aligncenter\" width=\"612\" caption=\"Karlskrona - Sweden\"][/caption]\nJust here for a few days, united with my brother. Travelling trough Kopenhagen and the lower country-side of Sweden. Visiting Hyper Island while my brother finishes his project and going by train to Malmö on the last day. "
             },{
-                "id": "427",
+                "id": "430",
                 "href": "https://jplattel.nl/post/2012-09-24-plugin-heuristics/",
                 "title": "Plugin Heuristics",
                 "categories": ["Random"],
                 "content": "At the third Quantified Self Conference in Stanford last week I gave a talk about Plugin Heuristcs, a term that describes something I've come across during my years of self-tracking experiments. Here are the slides:\n\nPlugin Heuristics confines an architecture that I propose for self-tracking things with a side-effect. For example when tracking my food intake for at least a month, it changed the way my brain remembers all the things I've eaten. When I got started I could barely remember one day of intake, when a month has passed, your memory for food specific things increases to almost a week.\nThe slides illustrate some of the things I wanted to talk about, but the main question here is: did you experience the same or other side-effects? If so, how could you put this to use? "
             },{
-                "id": "430",
+                "id": "433",
                 "href": "https://jplattel.nl/post/2012-08-25-hiking-500-kilometers/",
                 "title": "Hiking 500 kilometers",
                 "categories": ["Random"],
                 "content": "That's what I did this summer, together with a friend. And here's one of the pictures I took:\n(if your interested, you can find the route as KML here)\n"
             },{
-                "id": "433",
+                "id": "436",
                 "href": "https://jplattel.nl/post/2012-07-15-showertrack/",
                 "title": "Showertrack!",
                 "categories": ["Random"],
                 "content": "\n[caption id=\"\" align=\"aligncenter\" width=\"300\" caption=\"Introduction page\"][/caption]\n [caption id=\"\" align=\"aligncenter\" width=\"300\" caption=\"Showerstats!\"][/caption]\n Ofcourse I can't spill the secret sauce, but behavior change is a challenging objective! Keep you updated! Thanks @hackgroen for getting us started with this!\n"
             },{
-                "id": "436",
+                "id": "439",
                 "href": "https://jplattel.nl/post/2012-05-31-storify-as-slides-for-talks/",
                 "title": "Storify as slides for talks",
                 "categories": ["Random"],
                 "content": "I like Storify, a service that lets you curate your own story based from sources like Twitter, Facebook or other social networks. And sometimes I wonder what would happen if you let people curate it live on a beamer during festivals or want to use it for public talks... Then the website isn't that handy or slide-enabled.\nBut it shouldn't be that hard to extract all data from Storify and glue everything together into a slide-ready format right? With that idea in mind, I whipped up a quick little Bottle.py app on OpenShift provided by RedHat. Within 3 hours I connected the timeline from Verite to Storify and Storify to Timeline was born:\n\nBe aware, there are still some bugs that need to be ironed out, however as it's just a quick hack, I'm not sure if I'm finishing it. If you are a developer from Verite or Storify, let me know and I'll provide you with the full source-code of my work! And if you've found a bug let me know in the comments!\nKnown bugs and ideas (input driven development, no humans were harmed during testing):\n Wrong title on timeline view (easy fix) Timeline sorts on day, not specific time Use bit.ly to shorten share url  "
             },{
-                "id": "439",
+                "id": "442",
                 "href": "https://jplattel.nl/post/2012-03-27-using-zeo-raw-data-for-performances/",
                 "title": "Using Zeo Raw Data for performances",
                 "categories": ["Random"],
                 "content": "\nFor now our visuals are done in Touch Designer, which limits us to windows. And we're also trying to hook up more data-streams. But the Zeo proved to be the most useful so far. John Amschler did the upgrade for me and kindly handed me his cable. With a bit of trouble I was able to read the raw data of a COM port on windows, and within 10 minutes I could push all data straight trough a OSC-channel. Which not only meant useful data back to my brother, but realtime bio-feedback on my iPad trough TouchOSC as well! Five sliders or knobs based on brainwave frequencies!\nA quick gist to get the basics going:\n\nNow, onto the heart-rate and other biorhythms!\n"
             },{
-                "id": "440",
+                "id": "443",
                 "href": "https://jplattel.nl/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/",
                 "title": "Video&#39;s of a few talks I gave last few months",
                 "categories": ["Random"],
                 "content": "During the last few months I've given several talks about the Quantified Self and lifehacking. The video's of two of these talks are embedded below. Enjoy!\nUrban Screens\n\nInspirationshot #3\n\n"
             },{
-                "id": "442",
+                "id": "445",
                 "href": "https://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/",
                 "title": "Datavisualisatie voor het CBS",
                 "categories": ["Code", "Mashups"],
                 "content": "Het CBS organiseert de eerste seminar over interactieve data visualisaties op 3 februari in Den Haag. Voor de seminar is een wedstrijd gemaakt en ik had een vrije middag over om er mee aan de slag te gaan.\nNadat ik alle drie de data-sets heb bekeken leek het mij het beste om de derde (Landbouw; economische omvang naar omvangsklasse, hoofdbedrijfstype \u0026amp; regio) aan de slag te gaan. Nadat ik de data had gedownload heb ik eerst Google Refine gebruikt om de data schoon te maken en te filteren.\nIk werk graag met Raphael.js dus had in een uurtje al snel een prototype werkend waarbij op de kaart van Nederland per provincie het aantal stond met een cirkel. Al snel had ik het voor elkaar om ook het verloop van tijd in te bouwen. Allemaal leuk en aardig, maar je mist wel het inzicht. Zo kan je bijvoorbeeld moeilijk provincies met elkaar vergelijken als de cirkels even groot zijn, maar ze niet op dezelfde as staan:\n\nOm dat probleem op te lossen ben ik terug gestapt naar een eenvoudig staafdiagram. Zo kan je met behulp van beide visualisaties provincies vergelijken of kijken in welke delen van nederland het meeste tuinbouw is. Het switchen van visualisaties gaat gemakkelijk en alle ingevulde parameters blijven staan.\n\nOm alles af te ronden heb ik ook alle getallen erin genoteerd zodat deze ook zijn af te lezen en heb ik een slider gebruikt als interface voor het verloop van tijd. Nog wat kleine stukjes css erbij en het is leuk genoeg geweest voor een vrije middag :-)\nDe interactieve versie kan je bekijken op: http://jplattel.nl/cbs/. \nAls ik tijd over had zou ik de volgende dingen verbeteren:\n Overlappende cirkels insinueren een relatie, terwijl dit niet het geval is... Misschien is hier een oplossing voor door ervoor te zorgen dat dit niet gebeurd. De y-as van het staafdiagram bied nu geen extra informatie... Ik zou deze ook graag schaalbaar maken met de data die op dat moment te zien is. De play knop voor de tijd, zodat je kan zien hoe alles verloopt in plaats van met je muis te slepen. De granulatie van de data zorgt ervoor dat er weinig andere datasets aan te koppelen zijn zonder onbedoelde relaties te leggen.  "
             },{
-                "id": "448",
+                "id": "451",
                 "href": "https://jplattel.nl/post/2012-01-01-2011-a-summary/",
                 "title": "2011, A Summary",
                 "categories": ["Random"],
                 "content": "Last year has been full with adventures! Going to San Francisco, organizing QS Europe and starting another bachelor degree in Media Technology... And of course I continued with taking a picture everyday at 8:36pm.\nhttp://vimeo.com/34264892\nLet's see what 2012 brings!\n"
             },{
-                "id": "450",
+                "id": "453",
                 "href": "https://jplattel.nl/post/2011-12-19-qs-europe-2011/",
                 "title": "QS Europe 2011",
                 "categories": ["Quantified Self"],
                 "content": "In one year I started with my idea to go the the first Quantified Self Conference in San Francisco, Mountain View. The idea brought me there, with all the helping hands of people supporting me. When Martijn and me got back, we agreed to organize a second conference in Amsterdam.\nThe QS Amsterdam crew joined in and at the 26 \u0026amp; 27th of November we organized QS Europe. I never organized a conference so big and it was truly fantastic to see 250 people enjoying their time at the conference. To give a quick impression I wanted to share a video my brother made:\nhttp://vimeo.com/33486360\nI'm grateful towards everybody who has made this happen. :-)\n"
             },{
-                "id": "453",
+                "id": "456",
                 "href": "https://jplattel.nl/post/2011-11-21-going-interactive/",
                 "title": "Going interactive!",
                 "categories": ["Joost", "Mashups", "Technology"],
                 "content": "Some of you may have noticed it already, but from now on, I'm available as freelancer! I've made the last step towards it two weeks ago and I'm now registered at the Chamber of Commerce. Most of the projects are covered with this. And one of them is an interactive showcase for the Freemote festival in Utrecht in the beginning of December.\nTogether with my brother we are building a hybrid manifestation of visualizing brainwaves and other personal metrics. We combine our knowledge about programming, interfaces, visuals and self-quantification. Our project is called 'hoofdbeelden' which means: 'head images'. In the future I'm hoping to extend this visual project to include more metric about a person, including sociale network analysis and realtime streaming of heartrates or other bodily things you can measure.\nIn the mean time enjoy our first image as a teaser produced at the 'Premote' event:\n"
             },{
-                "id": "459",
+                "id": "462",
                 "href": "https://jplattel.nl/post/2011-11-01-infographic-ov-chipkaart-data/",
                 "title": "Infographic van OV-chipkaart data",
                 "categories": ["Mashups"],
                 "content": "Ik heb al eerder met de export data van de OV-chipkaart iets gemaakt. Vroeger kon je de locaties van alle stations (inclusief steden en straten) exporteren. Tegenwoordig kan dat niet meer, dus werkte mijn gebouwde app niet meer. De kaart bevat echter teveel waardevolle data die als die op de juiste manier kan worden gerepresenteerd voor inzicht kan zorgen in je gebruik:\n Heb jij een idee op welke dagen je het meeste reist? Wat zijn je gemiddelde kosten per reis en wat kostte het meest? Hoeveel heb je totaal uitgegeven met de chipkaart Welke data reiste je het vaakst? En wat zijn je meest bezochte punten?  Vaak allemaal dingen waarop de website van de OV-chipkaart geen inzicht in bied. Daarom heb ik besloten om een volgende app te bouwen die dit allemaal voor jou gaat uitzoeken. Hieronder een korte preview: \nWat ik graag zou willen weten van jullie is of er ook behoefte is naar een goede manier om reizen te kunnen declareren. Op de website zelf werkt dit niet erg lekker... Zal ik hiervoor een oplossing inbouwen?\n"
             },{
-                "id": "463",
+                "id": "466",
                 "href": "https://jplattel.nl/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/",
                 "title": "Stand Up Inspiration: Mijn Reis naar #QS2011",
                 "categories": ["Joost", "Random"],
                 "content": "Op 19 september was ik bij Stand Up Inspiration en mocht daar mijn verhaal van mijn reis vertellen. Gelukkig is dit op video opgenomen door Daan van Bergen (Videologic). Ik startte wat zenuwachtig, maar ben wel erg blij met het resultaat:\nhttp://vimeo.com/30073493\n"
             },{
-                "id": "467",
+                "id": "470",
                 "href": "https://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/",
                 "title": "Moon phases and sleep patterns",
                 "categories": ["Quantified Self", "Technology"],
                 "content": "Even before I got a Zeo, I was wondering if the phases of the moon are of influence of my sleep quality. With the Zeo that offers an API, I finally had a chance to investigate. As it turns out after four months of experimenting: the phase of the moon doesn't have any influence on my sleep quality or the time it takes to fall asleep.\nI've been building my own interface for the Zeo, because the flash based website doesn't suit my needs, here's a small screenshot:\n\nI plan on rebuilding this on Django, but I'm currently having trouble with MySQL bindings on python... The building of the bindings produces lots of errors. If I can't get it done, maybe I'll have a try at node.js.\n"
             },{
-                "id": "477",
+                "id": "480",
                 "href": "https://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/",
                 "title": "Publishing personal caloric values",
                 "categories": ["Quantified Self"],
                 "content": "I've started tracking my food intake with Foodzy about 13 days ago. And while doing that I already came across some interesting things. I've never been fully tracking my food intake, but the Foodzy app on my iPhone with extensive database (including typical dutch food) makes it quite easy. I've been tracking for thirteen days now.\nThe first step I wanted to take is to generate a baseline of my typical food consumption(and thus caloric values), this way I can see where I can make improvements and measure the changes. A few days after I got started I was already more aware of my eating habits and started to make small changes. We'll see where everything ends up, but there's one thing that I would like to share.\nI've been thinking about making my data publicly available through a CSV-file generate by Google Docs. But until I've got everything working, here's a temporary graph to enjoy:\n\nThe spreadsheet with data in available trough Google Docs, please read the notes in the second sheet as well, because I'm searching for a reason for the differences. "
             },{
-                "id": "478",
+                "id": "481",
                 "href": "https://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/",
                 "title": "Preview of my San Francisco Report",
                 "categories": ["Random"],
                 "content": "For the people who sponsored me for my trip to San Francisco, I'm building a report inspired my Nicholas Felton about my trip. I wanted to show you a small preview on the right:\nI'm aiming to have at least 4 page worth of data to show you. Since I've never dived deep into Processing, the building time is somewhat extended, so I don't know when it'll be finished. I started studying Media Technology as well, so spare time is a little bit limited.\nAll my sponsors get the pdf for free, and maybe if I have the time I'll see if I can publish a hard-copy trough Peecho and make it available for download on this website.\n"
             },{
-                "id": "481",
+                "id": "484",
                 "href": "https://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/",
                 "title": "How I would like to write.",
                 "categories": ["Random"],
                 "content": "From how to live safely in a sciencefictional universe by Charles Yu.\nI’m typing, even though strictly speaking I am using the TM-31’s cognitive-visual-motor-sound-activated recording module, which operates, as you might guess, by simultaneously tracking output from the user’s neural activity, voice, finger movements, retinal movements, and facial muscle contractions. It’s part keyboard, part microphone, part optical scan, and part brain scan.\nWhen I want to type, I raise my hands up in front of me, palms down, in a position approximating typing, and a virtual QWERTY layout materializes in front of me. When I want to switch to voice, I just start reading the book, and the unit switches to an auditory-recognition transcription system, converting my voice into modifications in the written text. If I get tired of typing and voice modes, I can simply read the text to myself, and the unit will track my eye movements to determine, with near-perfect accuracy, what word I am reading, based on the minute ups and downs, lefts and rights of my retinas, and then matching those movements, using brain activity data as a kind of rough double check, against the blood flow and heat output of various areas of my language- and concept-processing lobes and sublobes of my brain.\n "
             },{
-                "id": "482",
+                "id": "485",
                 "href": "https://jplattel.nl/post/2011-07-18-python-library-fitbit-api/",
                 "title": "Python library for the FitBit API",
                 "categories": ["Code"],
                 "content": "My quest of building API wrappers in python continues with the FitBit. The handy devices tracks most of my activities and movements during daytime. So it's an excellent self-tracking device, especially with the wireless sync. There wasn't an API interface available in python, so with some borrowed code I decided to build my own.\nI made an GitHub repository with the code and an example for you to use. Please fork and correct any changes that you think would be useful for me to learn! Also let me know where your using it, I would really like to know ;-).\n"
             },{
-                "id": "487",
+                "id": "490",
                 "href": "https://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/",
                 "title": "Sync Kindle notes and clippings to Evernote",
                 "categories": ["Code", "Lifehacking"],
                 "content": "Since I got my Kindle I started reading a lot more books and articles. And one of the nice things you can do is add notes and clip certain pieces of text. The Kindle saves all those things into a text file for easy access, but I wanted those to be searchable as well in my system.\nI wrote a small python script that extracts all notes and clippings from the text file and creates a new note in Evernote for each of them. It's quite crappy python, but at least my skills are improving a bit. You can find the source-code on this gist.\nThe only thing you need to do is save this python script, put the \"My Clippings.txt\" in the same folder and run the script with Evernote open. It will create a new Evernote-note for each note on your Kindle with the tag Kindle.\nNext version will be fully sync fully automatically and remember which notes are already synchronized. Stay tuned!\n"
             },{
-                "id": "488",
+                "id": "491",
                 "href": "https://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/",
                 "title": "First nights with the Zeo sleep monitor",
                 "categories": ["Lifehacking", "Quantified Self"],
                 "content": "During the QS Conference the awesome guys from Zeo gifted me one of their sleep monitors. And 1 week ago it arrived by mail. I promised to create as much value in return if I liked the Zeo. And I do, I absolutely do. Here is why:\nAs an average person sleep 8 hours a day you spend 1/3 of your life lying in bed... That's a lot of time spend. The Zeo provides me with a much detailed insight into how my sleep and dreams progress during the night. My sleep is quite good, but I could never figure out how many times I awoke during the night or how much rem-sleep I got, but now I do.\n\nEven more awesome: they have an open API where you can find all your data and even provide a short manual for hacking the device into real-time data processing as well. This is exactly why I wrote the data-portability post on the main QS blog. These options give the users the power to create their own reports and run their own analytics. I can't wait for some free time to explore this as I want to share some of my data.\nLoaded with self-tracking stuff right now... I got my social stream mapped and now turning into body analytics and maybe even back to GPS-tracking. Most likely that I end up as a cyborg in the following years, we will see..\n"
             },{
-                "id": "492",
+                "id": "495",
                 "href": "https://jplattel.nl/post/2011-06-07-san-francisco-2011-qs2011/",
                 "title": "San Francisco 2011 &amp; #QS2011",
                 "categories": ["Joost", "Quantified Self", "Random"],
                 "content": " On the 25th of may my trip started with a 11 hour long flight straight to San Francisco to visit the Quantified Self Conference in Mountain View. The trip was funded by donations, ideas and people.\nTogether with Martijn Aslander I've spent the first few days as a tourist and visited most of the spots that represent San Francisco. Then we boarded the Caltrain for Mountain View.\nI volunteered at the the conference which brought me way more then being just there as a guest. I met a lot of wonderful and amazing people that would understand your point of view and knowledge about the Quantified Self. I may write a separate blogpost about the conference but there are great writeups by other people.\nThe day after the conference we took a short tour past Apple, Google \u0026amp; LinkedIn, took the Caltrain back and explored the center of San Francisco, ending with a diner at the Top of the Mark, a magnificent view!\nTuesday we visited Berkeley, to visit Gary Wolf and spend some time shopping for gadgets that had been on our wishlist. We had our last diner in SF together with Eva Rijser who arranged space for us during the first two days.\nAnd on wednesday we had a quick breakfast before taking the BART to the airport once again. Jetlag got me once, but luckily the recovery went quite well.\nIn summary: I loved San Francisco! And a big thank you to all the people that made this trip possible! I'm gonna build somekind of report just like Nicholas Felton did but just about the visit to the US.\n"
             },{
-                "id": "496",
+                "id": "499",
                 "href": "https://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/",
                 "title": "My effort for a better readinglist",
                 "categories": ["Code", "Lifehacking"],
                 "content": "I love the Read It Later List service. Each day I save about 20-30 articles from Google Reader or my Twitter client so I can read them later. However, these amounts make it hard for me to process all the things I save. That's why I need a readinglist that has additional filtering/speed/shortcuts.\nAs my endeavors with Python continue, for the last few months I've been developing my own version of the perfect readinglist build upon the API of Read It Later List.\n[caption id=\"attachment_2021\" align=\"aligncenter\" width=\"640\" caption=\"Full screen interface for better overview and a never-ending list of articles, all color-coded by tags. (click for a bigger image)\"][/caption]\nThe name for the project is Readledo. And as you've seen in the screenshot, I've added some handy things:\n Keyboard shortcuts and navigation ((used for adding tags, opening or sending links)) Sorting by tags Color-coded tagging ((visual feedback is quicker)) Integration with Toodledo, Radbox and more ((based upon access trough email instead of API's because I'm having trouble with OAuth)). (still in development, batch processing)  The project is still in development, but I'm going to open-source it through Github once the code has been improved. In the mean time, do you have any other suggestions that would make a better readinglist?\n"
             },{
-                "id": "506",
+                "id": "509",
                 "href": "https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/",
                 "title": "My method for improving dream recall",
                 "categories": ["Lifehacking"],
                 "content": "\n Determine the amount of sleep you want to get (preferring a multiple of 1.5 hours such as 7.5) ((http://en.wikipedia.org/wiki/Sleep#cite_note-12)) Set two alarm clocks, one half an hour in advance of the other. The last alarm should be the time you want to wake up. Put the first alarm in reach so you can turn it off immediately after it wakes you up (I use my iPhone for this one) I place the second one straight across the room which forces me to get out of bed (harsh but it works). Done, now go forth and sleep.  This setup improved my dream-recall and works about 80% of the time. I ordered a FitBit to track movements during sleep for additional statistics, but as Tim Ferriss notes in the 4 Hour Body, movement does not equal certain sleep-states like REM or deep sleep. Nevertheless it should give me more insight in how my sleep progresses during the night.\nOther things I can recommend is to get a separate notebook for writing down your dreams. Even though my writings are really bad, it helps with the recall process if everything is put into one place. Also try little tweaks like F.lux.\nNext step: lucid dreaming or changing sleep patterns.\n"
             },{
-                "id": "510",
+                "id": "513",
                 "href": "https://jplattel.nl/post/2011-04-15-extendability/",
                 "title": "Extendability",
                 "categories": ["Random"],
                 "content": "It started millions of years ago with fire and the invention of language. Then simple tools and in later stages, clothing and shoes. Nowadays the trend continues with more sophisticated technology. Smartphones and watches are some of the things we keep on us at all times. Humans have developed the habit to extend themselves by using technology. In such a way that it sprouted a certain feeling of loss when not having access to the technology of which we've made our own. "
             },{
-                "id": "518",
+                "id": "521",
                 "href": "https://jplattel.nl/post/2011-04-10-mobypicture-export/",
                 "title": "Mobypicture Export",
                 "categories": ["Code", "Technology"],
                 "content": "I love Mobypicture. It's the service I use to post my pictures onto Twitter, Flickr and Facebook. It makes uploading photos from my mobile phone as simple as it could possibly be. Even better, the service is free to use, unlike Flickr which only allows access to last 200 images if you go with their freemium model. But sadly using Mobypicture isn't without downsides. There is no export functionality as of yet.\nSo I decided to roll my own with Python and BeautifulSoup. And behold, within an hour I had a fully functional script exporting all my pictures from my old account. The code isn't the prettiest or the quickest, but is does it job fairly well. If you are looking to export all pictures from your Mobypicture account, you can use my script. It does require you to have python installed with the BeautifulSoup module.\nYou can download the script, navigate to it with the terminal and simply run the script as:\npython scraper.py put_your_username_here\nI've also made a gist from the script, so you can check the code! If something goes wrong, let me know in the comments. It could be Mobypicture that changed the layout so the parser doesn't work anymore..\n[edit: Due to the relative time that mobypicture the first filenames don't appear correct, but the export works]\n[edit: Here's an updated script that works with their API: https://gist.github.com/jplattel/8181849]\n"
             },{
-                "id": "520",
+                "id": "523",
                 "href": "https://jplattel.nl/post/2011-03-31-what-am-i-tracking/",
                 "title": "So what am I tracking?",
                 "categories": ["Quantified Self"],
                 "content": "I'll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I'm tracking to function as an archive or feedback loop. If I have some more time, I'll explain the things I use to make this all possible.\n Distance travelled (which cities did I visit?) Which people do I meet everyday? What projects did I work on? And how much time? How much work got done? (productivity, scale 1-10) How do I physically and mentally? (1-10 scale for both) Top 5 of nice and bad things that happend today General rate of the day (1-10 scale) How much coffee, tea, water etc did I drink (no other food tracking yet) Did I exercise? Is the activity logged by Runkeeper? (speed \u0026amp; GPS) Dreams (not quite everyday but interesting as I'm exploring lucid dreaming) How many hours did I sleep (and how well rested am I each morning?) Take a picture everyday at 8:36pm Daily photo of myself with the Everyday App Reading patterns (mashup through Read It Later list) Software usage with Rescue Time \u0026amp; Wakoopa Casually I track my mouse patterns with MacLogger Lifelapses (only on special events)  In addition there are other data-stream which can be used for data collection:\n Twitter/facebook updates, these contain a lot of useful data, but also much noise Foursquare (really nice to have an archive!) OV-chipkaart (used for public transport in The Netherlands much like the Oyster-card) Payment transactions (Not able yet to transform this to any useful information, but should be shortly) Calendar (not used, but lots of information in it!) Blogposts or other online material like photos with EXIF-data.\\ Email (text-analysis, mail-count, etc. can be a nice set of data)  And I tried some temporary things to explore, but are discontinued because it takes too much time or effort:\n 750words (I'm not a writer, but a data person) GPS-broadcasting (every 3 minutes, including a live update header that shows my location on my blog)  Things I still would like to try but are to expensive for me at the moment of writing.\n Zeo (analyzing sleep together with my dream journal) FitBit to get some activity patterns Get my genome analyzed by 23andme  *picture is unrelated, but I liked it so I added it to the post.\n"
             },{
-                "id": "522",
+                "id": "525",
                 "href": "https://jplattel.nl/post/2011-03-18-actie-voor-mijn-reis-naar-san-francisco/",
                 "title": "Actie voor mijn reis naar San Francisco!",
                 "categories": ["Joost"],
                 "content": "Het gaat keihard met mijn spaarpotje voor mijn reis naar Amerika(San Francisco), heel veel mensen hebben al geholpen door te doneren of door het verder te verspreiden. Inmiddels ben ik over de 60%, en heb ik nog twee maanden te gaan. Dat ga ik dus met deze snelheid prima redden!\nOm de hele actie een boost te geven heb ik het volgende bedacht:\nIk verloot 1 middag sparren/hulp/brainstormen/(invullen) met mij over bijvoorbeeld Slimmer Werken of The Quantified Self of een ander onderwerp waarbij ik jou kan helpen.\nIedereen die een donatie maakt van 1,- euro of meer maakt kans en alle mensen die al hebben gedoneerd hebben staan alvast op de lijst. Heb je dat nog niet gedaan, doneer dan nu om kans te maken! Help je ook mee om dit verder te verspreiden? Deel het dan op Twitter of Facebook met al je vrienden! :)\n"
             },{
-                "id": "528",
+                "id": "531",
                 "href": "https://jplattel.nl/post/2011-03-13-trip-to-brussels/",
                 "title": "Trip to Brussels",
                 "categories": ["Joost", "Quantified Self"],
                 "content": "This week I travelled to Brussels so I could give a talk at the Quantified Self Meetup group there. And I've been involved in the startup Scanadu which is about broadcasting your health. Together with people like Walter de Brouwer and Misha Chellam we are going to take a different approach to health. During my stay in Brussels I've learned a lot (including my level of French, it's really bad!). Really liked the city though!\nSo onto the Quantified Self Brussels meetup: My talk was about my own small experiments like the mouse patterns and data-portability(which is an important issue). The other talks are listed on the meetup group. I taped the talks, but sadly only 2 are sufficient quality: the talks from Candide Kemmler and Ben Senior.\nI'll upload them later this week when my brother has some time to make a leader for both video's. I really enjoyed taking the stage about a familiar subject with an interested public and got some great compliments about my talk because english isn't my native language. Also great drinks and discussions afterwards! I've made a Lifelapse which I should upload as well.\nI really liked the trip to Brussels! And a big thanks for Misha for having a place to stay for me!\n"
             },{
-                "id": "530",
+                "id": "533",
                 "href": "https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/",
                 "title": "Measuring mouse interaction",
                 "categories": ["Code", "Mashups", "Quantified Self"],
                 "content": "I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can't draw any conclusions about it because I switched my operating system too!\nHowever more recently I started using MacLogger and together with Jelle I've made some custom python and processing scripts that should offer more insight into my mouse usage. When I showed the screenshot below to Jelle he noticed I don't use my dock, as there are almost no points of rest at the side or bottom.\n[caption id=\"attachment_1897\" align=\"aligncenter\" width=\"640\" caption=\"Mouse patterns modified in processing, colors don\u0026#39;t represent any data\"][/caption]\nI can confirm this because I use Alfred to launch everything. Another interesting point is the usage of the Omnibox which is related to my Google Chrome usage. I didn't know the shortcut 'cmd + L' to select the omnibox yet. Let's see if I run the test again in a month if this has improved. An afternoon also yields the following data:\n 68805 total mouse movements. 45831 movements shorter as 10px. 22942 movements longer as 10px and shorter as 200px. 31 movements longer as 200px. 791346px total distance (somewhere around 10px/second/day).  I use the trackpad/mouse for mostly smaller movements. Is it possible to let is auto-snap to certain things?\nI am aware there is software which makes nice graphics etc, but I like my data raw and MacLogger happily provides it!\n"
             },{
-                "id": "533",
+                "id": "536",
                 "href": "https://jplattel.nl/post/2011-02-16-the-evolution-of-the-internet-of-things/",
                 "title": "The evolution of the Internet of Things",
                 "categories": ["Technology"],
                 "content": "I've seen a fair bit of infographics and I don't like them very much anymore. But this one is worth sharing:\n\nBe sure to check out the Health Internet of Things (HIT) as well! "
             },{
-                "id": "534",
+                "id": "537",
                 "href": "https://jplattel.nl/post/2011-01-23-de-durftevragen-nieuwjaarsboost/",
                 "title": "De durftevragen nieuwjaarsboost!",
                 "categories": ["Joost"],
                 "content": "Via Jeroen was ik uitgenodigd om een workshop te geven bij de Durftevragen Nieuwjaarsboost 2011. Helemaal in Eindhoven! Maar na een lange reis vanuit het zuidwesten van Friesland belandde ik op mijn bestemming. Ik liep naar buiten en keek op mijn iPhone waar ik naar toe moest.... Oei, dat was nog wel een kilometer of 2 te voet. Een goed moment om de LifeLapse uit te testen, daarover in een andere blogpost meer!\nSeats2Meet in Eindhoven bevind zich op het oude terrein van Philips (Strijp-S) en zonder teveel moeite was ik op de juiste lokatie. En net voordat Nils Roemen de Nieuwjaarsboost opende kon ik nog net bijpraten met wat lieve mensen en de beamer voor mijn workshop instellen.\n\nVoordat ik mijn workshop ging geven kreeg ik de optie om mee te doen aan een van de durftevragen-sessies. Ik had nog nooit aan een durftevragen-sessie meegedaan, maar wel heel veel over gehoord.\nNadat 2 mensen hun vraag hadden gesteld had ik genoeg lef bij elkaar geraapt om mijn concrete vraag te stellen:\nIk wil in mei naar Amerika, voor een conferentie waar ik al een kaartje voor heb. Maar ik heb geen budget, hoe los ik dit op?\n\nToen gebeurde er iets, dat niet anders kan worden beschreven als een magisch. In no-time zaten de eerste post-it's met ideeen op de flip-over, kwamen mensen met contacten bij wie ik zou kunnen overnachten. Maar wat er gebeurde toen Juul Martin zijn idee opperde (Vraag 700 mensen om 1 euro voor een ticket) was echt bizar! Voor mij onbekende mensen waren uit het niets bereid mij te sponsoren. Met wat ongemak nam ik het geld in ontvangst, want wie sponsort er nu iemand die je niet kent?\nNa 10 minuten in ongeloof te hebben geluisterd kon ik de flipover afscheuren en gingen we door met de volgende vraag. En met stomheid geslagen liep ik uiteindelijk de centrale ruimte in voor de pauze, om daar mijn vraag nog verder te verspreiden. En toen kwam ik Martijn tegen, die mij verbaasde door mij de helft van de kosten van de vlucht te betalen. Op een voorwaarde: dat ik voor hem ook een kaartje zou regelen voor de conferentie en hij ook mee kon!\nMijn workshop ging ook erg goed en het was leuk om mensen op weg te helpen met Twitter en LinkedIn. En na een gezellige borrel had ik zo een #lift naar Nijmegen van Juul Martin, zodat ik via daar terug kon reizen.\nIn alle rust heb ik alles even laten bezinken op de weg terug naar Friesland en vanaf morgen ga ik aan de slag met de tips. Iedereen die mee heeft helpen denken, dankjewel!\nDus voor iedereen die nog niet de kracht van durftevragen heeft meegemaakt. Meld je aan voor een sessie in de buurt!\nEDIT: Als je mee wilt werken aan Juul Martin zijn idee, of meer wilt weten, ik heb daar nu een speciale pagina voor aangemaakt!\n"
             },{
-                "id": "540",
+                "id": "543",
                 "href": "https://jplattel.nl/post/2011-01-12-co-creatie-van-slimmerkunde/",
                 "title": "Co-creatie van Slimmerkunde",
                 "categories": ["Lifehacking"],
                 "content": "Het begon in het voorjaar toen Tjeu het idee over slimmerkunde mee nam naar Seats 2 Meet in Utrecht. In de zomer werd het via de basecamp van lifehacking.nl verder opgepakt en besloot ik ook mee te helpen. Mijn bescheiden bijdrage werd meegenomen en ik werd uitgenodigd om een dag naar Den Bosch te komen om te komen werken aan slimmerkunde.\nIn november werd de tekst in een mooi jasje gegoten en had Bas de filmpjes gereed gemaakt. Daarna is er hard gewerkt om ook de website in elkaar te zetten en wordt er inmiddels een social media plan in elkaar gezet. Tjeu Seeverens, Margreet van den Berg, Bas Bergervoet, Martijn Bloksma, Bianca Grimmius, Niels Gouman, Egid van Houtem, Lex Hupe, Stefan Knapen, Fanny Koerts, Frederike Lems, Erno Mijland, Karin Ramaker, Anita Smit, Theo Wismans en Kim Ravers bedankt en tot de Nationale Onderwijs Tentoonstelling op 25 januari!\n"
             },{
-                "id": "543",
+                "id": "546",
                 "href": "https://jplattel.nl/post/2011-01-08-dabblings-in-processing/",
                 "title": "Dabblings in Processing",
                 "categories": ["Code", "Mashups", "Quantified Self"],
                 "content": "The collected data of 2010, mostly trough PersonalStats, but Foursquare and Twitter too, is a huge amount. Next to interpreting this data and using the information to create a feedback moment, the data can also turned into art. Nicholas Felton makes a perfect example: his highly interesting Annual Report fascinates me in both visual and informational ways.\nAs Kees discovered Processing, it left me wondering what I could do with it. Just before 2011 I decided to make a Annual Report with Processing as my weapon of choice.\nSomehow, knowing Python made it easier for me to learn the basics of Processing, within moments I understood how Processing worked. The most beautiful thing I produced so far with about 2 hours of my time:\n[caption id=\"attachment_1765\" align=\"aligncenter\" width=\"640\" caption=\"Tweets throughout the year as wallpaper\"][/caption]\nNote: In case you did not notice, I try to write my articles in E-prime from now on as an experiment, let me know if you catch any errors on my part!\n"
             },{
-                "id": "545",
+                "id": "548",
                 "href": "https://jplattel.nl/post/2010-12-31-2010-a-summary/",
                 "title": "2010, A summary",
                 "categories": ["Joost"],
                 "content": "This year passed with an excellent speed, not to quick, but certainly not slowly. I think pictures say more then words so I would like to share with you every picture I took at 8:36pm during 2010:\n (Huge thanks to my brother Kees who was so kind to make a video of it!)\nNot only did I finish my bachelor degree this year, but I also started Qs Amsterdam and some other interesting projects. I'll try to deliver even more effort and create more achievements into 2011!\nDuring 2010 I have collected way more data that i'm currently shaping into a Annual Report just like Nicholas Feltron does. It should be less artistic but full of interesting bits! I'm building it in Processing, which I just started to learn 4 days ago. Keep an eye on this blog or follow me on Twitter when the report is finished!\n"
             },{
-                "id": "552",
+                "id": "555",
                 "href": "https://jplattel.nl/post/2010-12-08-radbox-for-the-ipad/",
                 "title": "RadBox for the iPad",
                 "categories": ["Mashups"],
                 "content": "I use Read It Later for saving webpages, but if those pages contained video's I had to visit the webpages, load the video etcetera... It simply does not fulfill my needs for watching video...\nWhile searching Google I discovered RadBox, which does exactly what I want: use a bookmarklet to save video's to watch later. They offered an API and RSS-feed of my video's so I decided to build my own based on App Engine. Below you can find two screenshots of my basic application:\n\nA basic interface for watching video's:\n\nIf the video is not from youtube, an iframe will be loaded to access the website from RadBox itself to embed the video and you can start from there. I wrote this with my small knowledge of python and GAE and I sadly don't yet know how to make it scalable. I can share my crappy source code if you want me to ;-)\n"
             },{
-                "id": "554",
+                "id": "557",
                 "href": "https://jplattel.nl/post/2010-12-04-geolocation-based-grocery-reminders/",
                 "title": "Geolocation based grocery reminders",
                 "categories": ["Mashups"],
                 "content": "I really don't like shopping for groceries and I developed the habit to forget half of my groceries.... A digital grocery list would be perfect.... shortly after discussing todo-lists with Martijn Aslander I was inspired to build a mashup to solve my problem.\nBased on information gathered by Instamapper in combination with the Haversine formula it is possible to calcuate the distance between two points on a sphere. When the distance is small enough a push notification including a link to my digital grocery list is send to my iPhone trough the Notifo API. My knowledge of python and App Engine is slowly growing and these kind of mashups are great exercises!\nThe mashup includes an admin area where grocery stores and other locations can be added and edited. This way it is easy to modify the notifications. I also added the option to specify the radius so you can configure distance at which a push notification would be send.\nAll location-based mashups gathering information from Instamapper together will be named Mappedlife. I will be sharing my source-code when I have some time to figure out Git.\n"
             },{
-                "id": "558",
+                "id": "561",
                 "href": "https://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/",
                 "title": "Thoughts on data portability",
                 "categories": ["Quantified Self", "Technology"],
                 "content": "I am troubled by data portability. It is a highly overlooked factor. And in many services I used for collecting the export function was simply not present.. If i left the service I lost my data, a sad case... Recent actions of social networks like facebook allow a user to export data, but only by rules set by facebook. Another example could be Runkeeper, which i use to collect my efforts of exercising. Runkeeper currently does not allow for any export, but i can make use of my tweets send out by the applications. When I started self-tracking I chose services which were easy to use and were aesthetically pleasing. But now, my view has changed and the portability of data is more important. This was one of the reasons I chose for Instamapper for geo-location tracking instead of Google Latitude. The API of Instamapper made it easy for me to create a mashup on Google App Engine which collects my data and makes export to a database possible(sqlite). When I first talked to Denis Harscoat about Quantter (now in alpha!) I could not figure out where it would fit it into my system of services. But during the long run it became clear to me. If they would build a sufficient export system I can start using it to aggregate data-streams. With an ultimate goal to own my own data, while still using existing services. "
             },{
-                "id": "561",
+                "id": "564",
                 "href": "https://jplattel.nl/post/2010-11-09-why-shoot-a-photo-at-836pm/",
                 "title": "Why shoot a photo at 8:36pm?",
                 "categories": ["Technology"],
                 "content": "On the second of January 2010 I started shooting a picture everyday at 8:36pm, inspired by Buster Benson. Curiosity brought me into it, and if people asked me why I often could not give a sufficient answer. As if it were a form of art.\nBut now I often wonder about history... How people lived and how further back you go, the less we remember or can find. Technology nowadays could help us bring a more complete image to our future. That's why I am shooting a picture everyday: to bring current history to a more complete image in the future. Joining is as simple as creating a alarm on your phone and be sure to carry it around everyday. If you want to help creating a bigger picture of history, including ordinary moments, feel free to join! (sharing the pictures trough flickr or another service is not neccesary, but appreciated!)\n"
             },{
-                "id": "562",
+                "id": "565",
                 "href": "https://jplattel.nl/post/2010-10-24-geopatterns-from-foursquare/",
                 "title": "Geopatterns from Foursquare",
                 "categories": ["Quantified Self"],
                 "content": "Visualization of my foursquare checkins since I started using it. Quite nice patterns and it would be awesome to use your own geo-data!  Joost Plattel's Checkins by WeePlaces.com.\n"
             },{
-                "id": "563",
+                "id": "566",
                 "href": "https://jplattel.nl/post/2010-10-18-der-mensch-als-industriepalast/",
                 "title": "Der Mensch als Industriepalast",
                 "categories": ["Quantified Self", "Technology"],
                 "content": " Der Mensch als Industriepalast [Man as Industrial Palace] from Henning Lederer on Vimeo. Via Kees. Visions of The Quantified Self during history...\n"
             },{
-                "id": "564",
+                "id": "567",
                 "href": "https://jplattel.nl/post/2010-10-06-my-view-of-technology/",
                 "title": "My view of technology",
                 "categories": ["Technology"],
                 "content": "\nIn short, the influence of technology is widely accepted and sometimes natural habits are suffocated by it. Walking barefoot is considered strange, and not wearing a suit during a official meeting is frowned up on. I once saw someone dissecting a shrimp with a fork and knife and wondered how technology is changing us. (On a side note I ate my first shrimps with scales still on) When knowledge is small, technology often provides safety and regularity. The philosophy of technology provides us with hints and a lot of question on how technology wanders. In my vision technology is living it's own life.\nWhen looking at nature and evolution it is unclear to me what factor created technology and eventually life itself. History is am important method to understand how things work and possibly life. But the amount of information collected is far less then what is possible nowadays. This growth of collecting is the source of my goal as the Quantified Self. I want to help people understand more of the past and give an opportunity to explore.\nAn example: Continious logging of GPS-coördinates combined with Google Streetview or a sensecam can replay an entire route when travelling.\nWhen evolution is considered technology, how does one describe the evolution of technology? Technology could be seperated into two parts, static and dynamic technology. A fork could be seen as static technology while life itself can be described as dynamic. However the change between static and dynamic can be seamless in both directions. Why i do not know why we stopped looking at a fork as dynamic is beyond me, but it seems that it has reached it purpose for now. Technology works towards goals that are still unclear to me but maybe it could be possible to learn from static technologies and information streams.\nI think we are in balance and harmony with technology. We can not exist without it, but when using it too much or too often, it is often unaccepted. Are we freightened by the fact that somehow technology grows faster then most people can comprehend? People often discourage the use of too much technology by referring to history. (but how much do we really know?)\nMaybe i should post more random braindumps?\n"
             },{
-                "id": "566",
+                "id": "569",
                 "href": "https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/",
                 "title": "QS Amsterdam Recap #1",
                 "categories": ["Quantified Self"],
                 "content": "On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro! I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is! Or do you have a personal story to share, feel free to contact me! "
             },{
-                "id": "568",
+                "id": "571",
                 "href": "https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/",
                 "title": "GeoTracking: streaming GPS locations",
                 "categories": ["Quantified Self"],
                 "content": "\nAfter learning the basics of python and starting with Google App Engine I developed an app that aggregates my location from the Instamapper API to Google App Engine(GAE) and stores it in the datastore. GAE will then generate an image of my location (with some delay). The reason i chose for GAE is the portability of the data generated, so i can move between services without losing older data and having the ability to manipulate it. At the moment I’m figuring out how to work with cron-jobs to poll for the location automatically and make the application more robust(with raising errors etc).\nI want to share my (crappy) coding work so you can have an idea how it works. It is not advisable to use this code and I am still figuring out Git(to share) so bear with me… if this does not work for you…\nimport cgi\rimport datetime\rimport os\rimport urllib\rfrom django.utils import simplejson\rfrom google.appengine.api import users\rfrom google.appengine.ext.webapp import template\rfrom google.appengine.ext import webapp\rfrom google.appengine.ext.webapp.util import run_wsgi_app\rfrom google.appengine.api import urlfetch\rfrom google.appengine.ext import db\rclass FrontPage(webapp.RequestHandler):\rdef get(self):\ruser = users.get_current_user()\rself.redirect(users.create_login_url('/map/'))\rclass GeoLocation(db.Model):\rlongitude = db.StringProperty()\rlatitude = db.StringProperty()\rtimestamp = db.StringProperty()\rdevice_key = db.StringProperty()\rdevice_label = db.StringProperty()\raltitude = db.StringProperty()\rspeed = db.StringProperty()\rheading = db.StringProperty()\rdate = db.DateTimeProperty(auto_now_add=True)\rclass Fetch(webapp.RequestHandler):\rdef get(self):\rmessage = '...'\rurl = 'http://www.instamapper.com/api?action=getPositions\u0026key=###ENTER YOUR DEVICE_KEY HERE###\u0026num=10\u0026format=json'\rd = urlfetch.fetch(url)\rif d.status_code == 200:\rlocations = dict(simplejson.loads(d.content))\rlocations = locations['positions']\rfor location in locations:\rlocation = dict(location)\rgeo_location = GeoLocation()\rgeo_location.longitude = str(float(location['longitude']))\rgeo_location.latitude = str(float(location['latitude']))\rgeo_location.timestamp = str(location['timestamp'])\rgeo_location.device_key = location['device_key']\rgeo_location.device_label = location['device_label']\rgeo_location.altitude = str(location['altitude'])\rgeo_location.speed = str(location['speed'])\rgeo_location.heading = str(location['heading'])\rgeo_location.put()\rmessage = locations\relse: message = 'Something went wrong'\rself.response.out.write(message) class Map(webapp.RequestHandler):\rdef get(self):\rmessage = 'Not working yet'\rd = db.GqlQuery('SELECT * FROM GeoLocation ORDER BY date DESC') d = d.get()\rif d:\rmessage = ''\rself.response.out.write(message) application = webapp.WSGIApplication(\r[('/', FrontPage),\r('/map/', Map),\r('/map/fetch/', Fetch),\r],\rdebug=True)\rdef main():\rrun_wsgi_app(application)\rif __name__ == \"__main__\":\rmain()\r\rWhen i got the cronjobs figured out i can let Instamapper run on my jailbroken iPhone 4 during the day as this does not lower battery life significantly. At the moment of typing I've tracked 2 days worth of points every 2 minutes.\n"
             },{
-                "id": "572",
+                "id": "575",
                 "href": "https://jplattel.nl/post/2010-08-23-quantified-self-meetup-amsterdam/",
                 "title": "Quantified Self Meetup Amsterdam",
                 "categories": ["Quantified Self"],
                 "content": "Samen met Maarten Den Braber (@mdbraber) en James Burke (@lifesized) organiseer ik de eerste Quantified Self Meetup in Amsterdam. Op 20 september hebben wij de primeur in Nederland, en zelfs europa. Al komt QSLondon eer toe, omdat ik anders nog geen idee had over de opzet hier in Nederland.\nThe Quantified Self (QS) letterlijk vertaald is de gekwantificeerde zelf. Met onderwerpen zoals lifelogging, self-tracking of personal genomics, proberen mensen zo veel mogelijk informatie in kaart te brengen over zichzelf. Met als doel reflectie, ontwikkeling of het ontdekken van patronen.\nAl meer dan 9 maanden leg ik informatie en data vast in het platform PersonalStats.nl. Het aantal uren slaap, werk, reistijd/destinatie en consumptie en de top vijf leuke/minder leuke dingen zijn punten die ik invul. Wil je meer hier over weten, dan kan je je aanmelden bij de meetup groep en hoop ik je op 20 september te zien in Amsterdam! Wil je nog meer weten of heb je vragen, dan kan je mij emailen op: joost@quantifiedself.nl\n"
             },{
-                "id": "574",
+                "id": "577",
                 "href": "https://jplattel.nl/post/2010-08-18-welkom/",
                 "title": "Welkom!",
                 "categories": ["Random"],
                 "content": "Dit is de eerste nieuwe post op jplattel.nl, een verhuizing vanaf laborantje.nl. Ik had hier verscheidene redenen voor:\n Met de username ‘laborantje’ was ik uiteindelijk niet zo tevreden. Ik had graag liever iets met mijn eigen naam erin. Ik hoef met mijn naam niet persé verbonden te zijn aan de chemie (alhoewel dit zeer interessant is!). Laborantje.nl ging al snel over iets anders. Mijn blog kon wel een nieuw format gebruiken.  In ieder geval bewaar ik alle blogposts die ik op laborantje.nl heb gemaakt. Ik kijk er in ieder geval met veel plezier op terug en heb er veel van geleerd. En daarom nu nog maar een stapje opgroeien door een start te maken met deze blog. De komende maanden blijft laborantje.nl gewoon bestaan. Ik gooi alles op slot maar emailen en dergelijke blijft allemaal werken. "
             },{
-                "id": "578",
+                "id": "581",
                 "href": "https://jplattel.nl/post/2010-06-09-92square-de-9292ov-planner-via-foursquare/",
                 "title": "92Square - De 9292OV planner via Foursquare",
                 "categories": ["Lifehacking"],
                 "content": "Als gebruiker van Foursquare zie ik dagelijks een aantal mensen inchecken op venue’s in de buurt, of een stad of dorpje verderop. Stel nu dat je er zelf ook heen wilt? Hoe plan je zoiets?\nSamen met Joris Blaak heb ik een mashup gemaakt die het mogelijk maakt om direct een OV reis te plannen afhankelijk van jou locatie en diegene waar jij naar toe wilt! En dat via je telefoon met een keer drukken! Met enige trots: 92square!\n92square is een mobiele website die gebruikt maakt van html-5 voor jou locatie en via Foursquare de locatie van je vriend bepaald. Vervolgens opent er een nieuwe pagina die direct suggesties geeft voor de reis met het openbaar vervoer! Voor de technische details kan je terecht bij Joris.\nZulke leuke kleine mashups maken het leven altijd een stukje makkelijker :-)\n"
             },{
-                "id": "586",
+                "id": "589",
                 "href": "https://jplattel.nl/post/2010-05-29-the-haptic-compass-anklet-een-extra-zintuig/",
                 "title": "The Haptic Compass Anklet, een extra zintuig",
                 "categories": ["Lifehacking", "Quantified Self"],
                 "content": "De afgelopen weken heb ik bizar veel gelezen over één onderwerp:\nHet toepassen van materialistische dingen zodat je daarmee je perceptie, lichaam of denkwijzen kan uitbreiden of verbeteren. Een stukje #lifehacking, maar dan inclusief hardware.\nOm uit te leggen wat ik precies bedoel, The North Paw, een haptic compass anklet:\n\nEric Boyd - The North Paw: A Haptic Compass Anklet from Loren Risker on Vimeo.\nThe North Paw gebruik je dus eigenlijk als uitbreiding op de normale zintuigen die je tot je beschikking hebt. Je breid je arsenaal dus uit.\nIk mis helaas de kennis om dit soort dingen zelf in elkaar te zetten maar de ontwikkelingen en dingen die mensen aan ontdekken zijn echt enorm gaaf! Er zijn wel al kits te bestellen wil je een beta model hebben!\nZe hebben nog een aantal projecten, dus de feed zit bij mij al in Google Reader!\n"
             },{
-                "id": "587",
+                "id": "590",
                 "href": "https://jplattel.nl/post/2010-05-21-self-tracking-in-de-ny-times/",
                 "title": "Self-tracking in de NY Times",
                 "categories": ["Quantified Self"],
                 "content": "Op 26 april verscheen er een enorm artikel over self-tracking in de New York Times. Een must-read voor iedereen die wil beginnen met self-tracking of er al mee bezig is!\nVooral medische toepassingen lijken veel mensen te overtuigen van het voordeel van self-tracking. Maar er zijn ook mensen die er negatief tegenover staan. Laat je het zo ver gaan dat je alles meet en ben je dan nog wel menselijk. Kortom waar ligt de grens en wordt het hinderlijk voor je omgeving?\nGoede vragen, waarop ik geen antwoord heb. Ik ben self-tracker omdat ik gefascineerd ben door eigen data, ik wil graag ontdekken waar er patronen ontstaan en of er iets te hacken valt.\nInmiddels heb ik door dat ik uitslaap, niet om te rusten, maar om te voorkomen dat ik mij verveel of iets wil uitstellen. Dit is natuurlijk eenvoudig te hacken door een wekker te zetten…\nJuist zulke kleine herkenbare patronen zou je alleen zelf kunnen ontdekken met behulp van self-tracking als hulpmiddel.\nNarcistisch is ook term die veel wordt opgegooid, al vind ik dat allemaal wel meevallen, ik log alleen wanneer ik een dood moment heb. En mocht ik een dag missen, dan kan je de data gewoon weglaten. Punten binnen je data kan je altijd interpoleren, als is dat niet even verstandig natuurlijk ;-). Ik leef mijn leven niet gestuurd door data, maar heb als hobby het te verzamelen en ermee te spelen. #Self-tracking is geen leidraad in mijn leven, dat zou inderdaad inhumaan zijn.\nIk ben opzoek naar meer mensen in Nederland die self-tracking als hobby hebben, ken jij er eentje?\nVoor meer informatie over self-tracking kijk op: The Quantified Self\n"
             },{
-                "id": "589",
+                "id": "592",
                 "href": "https://jplattel.nl/post/2010-05-18-1-minute-of-fame-stand-up-inspiration-836pm/",
                 "title": "1 Minute of Fame - Stand Up Inspiration: 8:36pm",
                 "categories": ["Joost"],
                 "content": "\nEn nog een foto door René Wouters:\nMeer foto's van die avond zijn te vinden op: http://www.flickr.com/photos/renewouters/sets/72157623903671094/\n"
             },{
-                "id": "594",
+                "id": "597",
                 "href": "https://jplattel.nl/post/2010-05-13-mede-auteur-van-150-lifehackingtips-2/",
                 "title": "Mede-auteur van 150 lifehackingtips!",
                 "categories": ["Joost", "Lifehacking"],
                 "content": "Hij ligt al bijna 2 maanden in de winkel, maar ik wou het graag met jullie delen: ik ben sindskort mede-auteur van het boek 150 lifehackingtips. Begonnen als hulpschrijver voor Martijn en inmiddels volledig zelf schrijver(Al moet er binnenkort weer eens een postje uit!).\n150 #lifehacking tips is de volgende iteratie van 100 lifehacking tips welke al eerder was uitgebracht bij Van Duuren.\nPatrick Mackaaij heeft een prima lijstje met auteurs verzameld! En ik zal nog even in het kort mijn tips opsommen:\n Pin automaten vinden met atm.slandr.net Google Ads blokkeren op websites Google Alerts via RSS Twitterlinks via RSS Vijf tips voor Google Reader Je eigen leeslijst met Read It Later (Aanrader!)  Note: Schrijven via Windows Live Writer is #fijn! En #hashtags binnen blogposts zouden nu ook moeten werken!\n"
             },{
-                "id": "612",
+                "id": "615",
                 "href": "https://jplattel.nl/post/2010-04-05-verrijkte-publicaties-een-workshop-door-surf-academy/",
                 "title": "Verrijkte Publicaties, een workshop door SURF Academy",
                 "categories": ["Chemistry"],
                 "content": "Afgelopen donderdag ben ik naar Tilburg geweest voor de workshop Verrijkte Publicaties van SURF. Om 6 uur s'ochtends het bed uit, en om half tien was ik op tijd in Tilburg. Het was nog even zoeken naar de bibliotheek, maar toen ik ook die had gevonden stond er een lekker kopje koffie voor mij klaar.\nOm 10 uur gingen we van start en na een korte introductie over wat verrijkte publicaties precies zijn kregen we een aantal voorbeelden te zien. Voor mij was het mooiste voorbeeld JALC (Journal of Archeology in the Low Countries). Zij gaven een aantal voorbeelden waarbij publicaties verrijkt waren met coordinaten van de opgravingen en de opgravingen zelf in kaart werden gebracht met behulp van GIS en 3D. Op die manier is de publicatie ook voor het publiek aantrekkelijk en makkelijker te begrijpen.\nNa nog een aantal voorbeelden was het tijd voor een lekkere lunch bij Tilbury :-). Hierna kregen we een korte demonstratie van de ESCAPE-tool. Na de demonstratie konden we zelf experimenteren met deze tool (een demo kan je hier vinden). Ik ben zo'n iemand die eerst zelf wat gaat proberen en dan pas de handleiding erbij pakt, maar juist dat zorgde ervoor dat ik er een aantal bugs uit kon vissen. Alhoewel ik nog zoekende ben waar ESCAPE precies in het systeem moet komen is het echter wel geschikt om relaties tussen objecten beschrijven, iets wat niet alleen interessant is voor de wetenschap, maar meer richting the web of things gaat. Juist daarom zet deze stof mij aan tot denken en dat is een goed teken :-).\nToen het uurtje spelen erop zat kregen we nog een demonstratie van de LORE tool die nog in ontwikkeling is. En als toetje kwam Tim Berners Lee nog even voorbij, waarover ik al eerder iets over geschreven had.\nIk vond het een gave dag, waarbij ik niet alleen veel op heb gestoken van verrijkte publicaties maar ook over huidige publicatie systemen en de functies van repositories en bibliotheken. Helaas was Arjan Hogenaar niet aanwezig, want ik had graag kennis willen maken na onze discussie over het artikel: Onderzoekscommunicatie gaat ingrijpend veranderen.\nKeith, Maurice \u0026amp; John en alle andere mensen bedankt voor deze dag!\n"
             },{
-                "id": "614",
+                "id": "617",
                 "href": "https://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/",
                 "title": "Lifelogging met de ViconRevue",
                 "categories": ["Lifehacking", "Quantified Self"],
                 "content": "De Sensecam is een apparaat waarmee iemand zijn eigen leven kan vastleggen. Een soort black-box, maar dan voor een mensenleven. Eind vorig jaar zou Vicon het mogelijk maken om een Sensecam onder hun naam aan te schaffen voor persoonlijk gebruik.\nOp de manier waarop ik het bekijk zitten hier talloze voordelen aan, en wordt het voordeel in de toekomst steeds groter. De ViconRevue is in combinatie met de juiste software en databases geeft een fotografisch geheugen aan iedereen. De ViconRevue kan naast lifelogging ook worden toegepast om Alzheimer patiënten of mensen met dementie te helpen.\nA slight variation on this theme is a device called Sense-\nCam, a small portable camera that can be worn throughout\nthe day, which takes about 1,000–1,500 snapshots of a person’s\ndaily routine. These snapshots can be played\nback at the end of the day as a flash-frame movie of about\n3-minute duration. The SenseCam might help people with dementia\nremember what they experienced during the day.\n De ViconRevue is duur, maar de waarde die het apparaat op lange termijn kan verzorgen is enorm. Bijna alles wordt vast gelegd, dagelijkse routines of juist alleen de speciale evenementen. Lifelogging is persoonlijk, dus dit zal niet openbaar via het internet worden gemaakt, maar als je mooie momenten wilt delen met behulp van de ViconRevue is dat natuurlijk mogelijk en zal dit alleen maar meer beeldmateriaal opleveren.\n"
             },{
-                "id": "622",
+                "id": "625",
                 "href": "https://jplattel.nl/post/2009-11-26-goede-chemie-blogs-om-te-volgen/",
                 "title": "Goede chemie blogs om te volgen",
                 "categories": ["Chemistry"],
                 "content": "Op 413 feeds ben ik inmiddels geabonneerd, en daarom even een selectie van de toppers voor de chemie. Ondanks dat ik dacht dat het niet een groot aantal was, heb ik toch in de uithoeken een aantal leuke blogs kunnen vinden die zeker de moeite waard zijn om op te abonneren! Met behulp van Google Reader heb ik een bundeltje gemaakt waarom je je in een keer kan abonneren! Zie het resultaat hier onder:\n\n\nHet spectra aan onderwerpen dat voorbijkomt zal altijd wel iets zijn dat iedereen wel aansprekt.Voor mij is vooral de Open Science hoek interessant! Als jij nog goede blogs weet te vinden die ik nog niet volg, laat ze dan achter in het commentaar!\n"
             },{
-                "id": "626",
+                "id": "629",
                 "href": "https://jplattel.nl/post/2009-11-18-chempedia-lab/",
                 "title": "Chempedia Lab",
                 "categories": ["Chemistry"],
                 "content": "Soms kan je alleen maar wensen, maar wat ik twee dagen geleden graag in wou zien is vandaag al gerealiseerd. Chempedia is inmiddels uitgebreid met het systeem van Stack Overflow. Dus naast dat het een sociale database van structuren en stoffen is, is het nu ook een vragenfora.\nZowel de database als de fora zijn gebonden aan reputatie. Zowel het toevoegen en benoemen van stoffen telt evenveel mee als het beantwoorden van vragen. Maar voor beide moet je apart een account aanmaken. Dit is verstandig omdat iemand die veel vragen stelt in principe niet veel kennis hoeft te hebben voor bijvoorbeeld organische chemie.\nDaarnaast hebben ze nu ook een twitterbot, die automatisch een linkje twittert als er een nieuwe vraag wordt gesteld of er een nieuwe structuur wordt toegevoegd. Als je voor de structuren een mobiele landings pagina maakt kan je mooi on-the-go namen invullen!\nHelp mee te bouwen aan de community van Chempedia en meld je nu makkelijk aan via OpenID, Google of een andere account.\n"
             },{
-                "id": "633",
+                "id": "636",
                 "href": "https://jplattel.nl/post/2009-11-05-deep-dyve-goedkoper-literatuur-onderzoek/",
                 "title": "Deep Dyve: goedkoper literatuur onderzoek",
                 "categories": [],
                 "content": "Literatuur onderzoek, wetenschappelijke artikelen en hoge kosten als je een artikel wilt inkijken.... Bij Science Direct of Springer kost een artikel als snel 30 euro of meer.. Deep Dyve hoopt dit op te lossen door korte toegang te bieden tot zulke artikelen, maar voor een veel lagere prijs! 24 uur toegang tot een artikel kost je maar 99 cent! Voor 20 dollar per maand heb je ongelimiteerd toegang tot meer dan 30 miljoen wetenschappelijke artikelen.\nDaarnaast zijn ook er ook artikelen waarbij de toegang gratis is. Nu is dit nog niet op het systeem van linked/open data gebouwd, maar het is wel een stap in de goede richting! Deep Dyve bied ook RSS en email notificaties aan op artikelen en zoektermen, dit vereenvoudigd het onderzoek al een heel stuk. Inmiddels heeft Deep Dyve, naast Science Direct (Waar ik via school toegang tot heb) in mijn Delicious Bookmarks\nIdee:\nZou je alle RSS-Feeds naar een Frienfeed room kunnen sturen en daar artikelen los kunnen becommentariseren? Je bent dan eigenlijk het literatuur onderzoek aan het crowdsourcen? En als je onderzoek dan goed loopt kan je beloven het artikel misschien openbaar beschikbaar te maken. En zo kunnen andere mensen dat weer gebruiken voor vervolg onderzoek. Mensen die benieuwd zijn naar de resultaten zouden je misschien kunnen sponsoren?\n"
             },{
-                "id": "640",
+                "id": "643",
                 "href": "https://jplattel.nl/post/2009-11-01-sociale-chemie-met-chempedia/",
                 "title": "Sociale chemie met Chempedia",
                 "categories": ["Chemistry"],
                 "content": "\nHoe krijgen ze dit voor elkaar en hoe willen ze zo'n enorm grote database gaan opbouwen? Hier komt het sociale aspect om de hoek kijken, toen ze Chempedia startte was de database leeg... maar inmiddels een aantal dagen na lancering is hij al gevuld met meer dan 200 stoffen. Dit lijkt een kleine start, en dat is het ook, maar naarmate er meer stoffen worden toegevoegd, trekt hij ook meer mensen, deze doen waarschijnlijk ook een bijdrage. Zo groeit niet alleen het aantal stoffen, maar ook de gebruikers.\n\n Heptanone - Chempedia Interface    \nDe manier waarop de kwaliteit binnen de database word gehandhaafd gebeurd ook op de sociale manier. Er wordt gewerkt met behulp van reputatie, die je alleen maar van andere mensen kan krijgen. Geef jij stoffen de juiste naam of help jij de naam aan een structuur dan kan je van andere mensen puntje erbij krijgen. Mensen met veel punten zijn dus betrouwbaarder dan mensen met weinig punten. Te gek! Ik houd wel van zulke systemen, vaak zijn ze betrouwbaar en als je denkt dat het echt niet goed is val je toch gewoon terug op je boeken?\nChempedia staat inmiddels tussen mijn bookmarks in Delicious en ik ga kijken hoe hoog ik mijn reputatie kan krijgen door het geven van namen aan structuren en het invoeren ervan! Let wel op Chempedia is nog in Beta, dus het kan zijn dat niet alles even goed werkt, daarnaast zijn ook nog niet alle functies ingebouwd, maar het word actief ontwikkeld!\n"
             },{
-                "id": "643",
+                "id": "646",
                 "href": "https://jplattel.nl/post/2009-10-29-openaccessnl-voor-wetenschappers/",
                 "title": "OpenAccess.nl voor wetenschappers",
                 "categories": ["Chemistry"],
                 "content": "Wereldwijd is plos.org de standaard voor open data.\nBinnen chemie is open access helaas onbekend, weinig maken er gebruik van. Open data brengt helaas ook problemen met zich mee, zo kunnen de kosten die gemaakt worden moeilijk gecompenseerd worden. Reclame en andere verdien modellen zijn lastig toe te passen op wetenschappelijke data. Op C2W stond dat de kosten van een artikel dat als open data wordt gebruikt ongeveer 1000 euro is, dit komt door de peer-reviews. Nu is er 5 miljoen beschikbaar voor gemaakt, maar hiermee kan echter pas een begin worden gemaakt. Daarnaast is de subsidie zoals deze verstrekt word alleen voor instellingen die gelieerd zijn aan een officiële Nederlandse instelling, dit maakt het voor bedrijven al een stuk moeilijker.\nIdee:\nMaak een portal waar reviews door de gebruikers zelf kunnen worden gedaan, en beloon ze hier op, met status binnen het portal zelf? Sorteer vervolgens alle artikelen en laat zien hoeveel reviews elk artikel heeft gehad en beoordeel elk artikel. Dan zouden de kosten van de reviews als snel teruglopen. Het handhaven van de kwaliteit zal door de massa van bezoekers zelf plaats vinden, mits er sprake is van kennis over het onderwerp van het artikel.\n"
             },{
-                "id": "648",
+                "id": "651",
                 "href": "https://jplattel.nl/post/2009-10-28-gereedschap-voor-self-tracking/",
                 "title": "Gereedschap voor self-tracking",
                 "categories": ["Quantified Self"],
                 "content": "Onlangs ben ik gestopt met Daytum, dat ik gebruikte voor self-tracking. Het was een handige tool met leuke visualisaties, maar na meer dan 100 dagen werd de barriere om dagelijks gegevens in te voeren mij te hoog, desondanks heb ik er een aantal leuk dingen uit kunnen halen en heb ik er veel van kunnen leren. Een iPhone applicatie zou Daytum in ieder geval makkelijker maken!\nIk ben nu opzoek naar een andere tool, met een nog mindere barriere.. In mijn zoektocht kwam ik al een aantal tools teggen: Me-trics \u0026amp; Your Flowing Data. De eerste heeft een soort van survey interface waarbij je elke dag een aantal vrage afloopt die je zelf hebt opgesteld. Dit zou kunnen werken, maar na 100 dagen heb je daar echt geen zin meer in. Your Flowing Data werkt totaal via Twitter, slim bedacht maar er zitten ook een aantal downsides aan. Als twitter op zijn gat ligt kan je geen data invoeren en je zit gebonden aan 140 tekens.. Beide zijn helaas niet flexibel genoeg voor mij.\nOver een paar maanden staat mij gelukkig weer een aantal weken lang het Happiness Project te wachten waarbij je elke dag drie keer een survey krijgt over je gemoedstoestand, eens kijken of dat veranderd is na de eerste keer!\nGrafitter is niet echt een self-tracking tool, maar levert wel leuk visualisaties op. Grafitter kan je delicious bookmarks of twitter account hiervoor gebruiken.\n"
             },{
-                "id": "655",
+                "id": "658",
                 "href": "https://jplattel.nl/post/2009-10-26-totaal-onverwacht-in-de-spits/",
                 "title": "Totaal onverwacht: In de spits!",
                 "categories": ["Joost", "Lifehacking"],
                 "content": "Julien Hogemans wist mij vandaag te spotten in de Spits! Totaal niet verwacht dat ik in de krant zou belanden.. Samen met Martijn Aslander! Het interview dat ik voor Nobiles.nl had gegeven is ook gepubliceerd in de Spits. Goede reclame voor lifehacking! Een screenshot of download de PDF(27 mb!).\n\n"
             },{
-                "id": "656",
+                "id": "659",
                 "href": "https://jplattel.nl/post/2009-10-17-interview-voor-nobiles-magazine/",
                 "title": "Interview voor Nobiles.nl Magazine",
                 "categories": ["Joost", "Lifehacking"],
                 "content": "[caption id=\"\" align=\"alignright\" width=\"180\" caption=\"Stukje Nobiles Magazine\"][/caption]\nBegin september ben ik voor de eerste keer geïnterviewd. Het interview was voor nobiles.nl een blad voor studenten en alumni en het ging over lifehacking! Ze waren opzoek naar studenten die lifehacking gebruiken voor de studie of in het dagelijkse leven. Via Google kwamen ze terecht op mijn blog :) Het interview is samengevat en gebruikt voor het grote artikel over lifehacking.\nHet stukje over mij heb ik even ingescand en is hiernaast te lezen:\nMijn interview verscheen in de oktober editie van Nobiles Magazine. De alle edities zijn gratis online te lezen, maar je kan ook een gratis abonnement nemen als je student bent!en\nLees zeker het hele artikel, want daarin staan nog een aantal handige linkjes, tips en boeken zoals Zen To Done!\nEnorm tof dat zij mij wisten te vinden via het internet, een stukje personal branding werkt dus als snel! Ik ga hiermee door want ik vind het hartstikke leuk!\n"
             },{
-                "id": "659",
+                "id": "662",
                 "href": "https://jplattel.nl/post/2009-09-27-hardlopen-met-runkeeper/",
                 "title": "Hardlopen met RunKeeper",
                 "categories": ["Chemistry", "Joost", "Lifehacking", "Quantified Self"],
                 "content": "Ze zijn nu 4 weken in mijn bezit en lopen nogsteeds heerlijk. Ik heb het over mijn Vibram Five Fingers :D Omdat ik graag wat data wil zien, en graag mag klooien met mashups, was ik opzoek gegaan naar een iPhone applicatie die voor mij het loggen van een stuk hardlopen overnam. Voorheen tekende ik braaf een lijntje op Google Maps erbij, maar dat kostte teveel moeite.\nEn ik ben dan wel zo iemand die het zichzelf zo gemakkelijk mogelijk maakt ;) . Mijn oog viel uiteindelijk op RunKeeper. Deze applicatie werkt in combinatie met je iPhone 3G(s) en een stuk webapplicatie.Zodra je begint met rennen zet je je GPS aan, muziekje op en gaan! Heerlijk om alles eruit rennen en dan vervolgens je telefoon een uur later uit je broekzak te halen en het resultaat direct te zien!\nVervolgens druk je op 'send' om de route naar de webapplicatie van RunKeeper te verzenden, hier kan je de route eventueel nog aanpassen, en nog meer details bekijken!\nWat de applicatie nog functioneler maakt is dat er ook een stukje Twitter en/of Facebook bij komt kijken. Je kan er namelijk voor kiezen om je routes te openbaar te publiceren en te delen met je vrienden, voor mij is dat een extra motivatie :)\nIk heb nu de gratis versie van RunKeeper, maar omdat ik vorige week mijn loon heb gekregen van de zomer ga ik misschien even een iTunes kaartje halen zodat ik de Pro versie kan aanschaffen, hier zitten onderandere trainings schema's in en je kan vanuit de RunKeeper applicatie je muziek bedienen!\nEDIT: Check de route hier:\n\nFoto via:http://podophile.com/\n"
             },{
-                "id": "666",
+                "id": "669",
                 "href": "https://jplattel.nl/post/2009-09-16-op-blote-voeten-pt-2/",
                 "title": "Op blote voeten Pt. 2",
                 "categories": ["Joost", "Lifehacking"],
                 "content": "[caption id=\"\" align=\"alignright\" width=\"224\" caption=\"Vibram Five Fingers - Classic Black\"][/caption]\nNaar aanleiding van mijn vorige post even een vervolg. Ik loop nu al 2 en een halve week op de Vibram Five Fingers. Niet elke dag, want af en toe wil ik ook wel wat anders, omdat ik last heb van spierpijn in mijn voeten.\nIk ben inmiddels al 3 keer wezen hardlopen, driemaal 5 kilometer. Maar toch krijg ik het niet voor elkaar om alles in een keer uit te lopen. De rede hiervoor zijn toch echt de kuiten, want als je niet meer op je hielen land, dan komt er veel spanning op je kuiten te staan. Langzaam aan opbouwen dus ;)\nDaarnaast ga ik opzoek naar een goede applicatie voor op de iPhone om mijn hardloop-sessies enigzins te monitoren. Zodat ik een beetje een beeld kan krijgen of er daadwerkelijk vooruitgang is! Voor de mensen die ze nog steeds apart of lelijk vinden, die kijken maar een andere kant op, want ik vind ze echt heerlijk lopen! :)\n"
             },{
-                "id": "667",
+                "id": "670",
                 "href": "https://jplattel.nl/post/2009-09-06-joost-loopt-op-vibram-five-fingers/",
                 "title": "Joost loopt op Vibram Five Fingers",
                 "categories": ["Joost", "Lifehacking"],
                 "content": "Sommige hebben we er al op zien lopen rondbazuinen, andere mensen vinden ze lelijk , maar nog veel meer mensen staren heel lang naar je voeten...\nWaar heb ik het over? Over het genot om over op blote voeten te lopen, want daar houd ik van. En gelukkig kan dat nu, overal! Ik kwam de schoenen tegen op de blog van Tim Ferris, toen vond ik ze nog wat apart, maar nieuwsgierig als ik was heb ik toch nog even gegoogled en het bleek dat er veel mensen zijn die er positief over waren.Uiteindelijk na een harde zomer werken, met het geld dat nogsteeds niet in mijn bezit is heb ik besloten een paar te kopen.\nPrecies na een week zaten ze bij mij in de brievenbus! En zie hier het resultaat:\n\nIk heb ze nu inmiddels een week, en ik heb ze 4 dagen de hele tijd aangehad. Het resultaat, spierpijn in je voeten, en 1 kleine blaartje op elke hiel. Vanavond plak ik die even af en dan ga ik er voor het eerst in hardlopen!\n"
             },{
-                "id": "674",
+                "id": "677",
                 "href": "https://jplattel.nl/post/2009-08-26-wakoopa-tracking-voor-gebruik-van-software/",
                 "title": "Wakoopa, tracking voor gebruik van software",
                 "categories": ["Quantified Self"],
                 "content": "Als je altijd al hebt willen weten wat je altijd doet als je achter de computer zit is Wakoopa de oplossing.Daarnaast lijkt het mij geschikt voor een tool die te gebruiken is voor self-tracking en dat intresseerd mij natuurlijk :)\nWakoopa houd bij wat voor software je gebruikt en maakt hier mooie grafiekjes van:\n\nMaar om die grafieken te maken heeft wakoopa gegevens nodig. Dit wordt gedaan met een 'tracker', dat is een klein programmatje die je installeerd en daarna inlogt op je account die je hebt aangemaakt op de website. Vervolgens begint Wakoopa met het tracken van je tijd. Na een aantal dagen/weken/maanden/jaren? krijg je een goed idee wat voor software en websites je nu precies allemaal gebruikt. Dit gebeurd volledig automatisch!\n\nEnig nadeel dat ik heb kunnen vinden is dat Wakoopa ook software trackt voor een lange tijd als je iets open hebt staan en weg bent. Terwijl je dus geen gebruikmaakt van de software zullen er wel de tijd bij worden geteld.\nIk hoop tevens dat er snel ook een export komt naar .csv want op dit moment kan je gegevens alleen als .html exporteren en dan zijn de mogelijkheden wat beperkt. Zodra dat mogelijk is kan je bijvoorbeeld je gebruik van software en andere dingen koppelen en hier bijvoorbeeld verbanden tussen leggen. Zit je dus veel achter de computer tijdens bijvoorbeeld slecht weer, en wat doe je als je tegen een deadline aanzit of heel veel te doen hebt!\nAls je dit ook wilt uitproberen, dan kan je vriendjes met mij worden op Wakoopa, en dan zou je software gebruik met elkaar kunnen vergelijken, en elkaar goede software aanraden.\nConclusie: Hier kan je veel uit leren, vooral over je gewoontes achter je pc, zonder dat je daarvoor iets hoeft te doen!\n"
             },{
-                "id": "679",
+                "id": "682",
                 "href": "https://jplattel.nl/post/2009-08-21-track-your-happiness/",
                 "title": "Track Your Happiness!",
                 "categories": ["Joost", "Quantified Self"],
                 "content": "\n[caption id=\"\" align=\"aligncenter\" width=\"339\" caption=\"Zo blijkt er bij mij geen relatie tussen de tijd dat ik slaap en mijn humeur gedurende de dag, dat is fijn! :)\"][/caption]\n[caption id=\"\" align=\"aligncenter\" width=\"357\" caption=\"En in het weekend is mijn \u0026#39;happiness\u0026#39; het beste.\"][/caption]\nNu is er de optie om het onderzoek over 3 maanden weer te herhalen en kijken of er dingen zijn veranderd, dus daar heb ik mij voor ingeschreven. En een andere leuke optie zou zijn, maar die er helaas nog niet is, om jezelf te vergelijken met het gemiddelde van de totale testgroep. Maar dat zou misschien de resultaten kunnen beïnvloeden.\n"
             },{
-                "id": "683",
+                "id": "686",
                 "href": "https://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/",
                 "title": "Self-tracking &amp; QR Codes een prima combinatie!",
                 "categories": ["Lifehacking"],
                 "content": "Een barcode kent iedereen wel, dat is een balk met streepjes die bij de kassa word ingescand, aan de hand daarvan word het product afgerekend. De barcode bestaat uit een vast aantal getallen, maar tegenwoordig zijn er ook QR-codes, deze kunnen meer bevatten dan alleen data ( zoals URL's ;) ).\nHiernaast vind je een voorbeeld van een QR-code. Hoe gebruik je nu precies een QR-code? Schiet er een foto van met een telefoon die het gebruik ervan ondersteund. Voor zowel de iPhone als de G1 en sommige nokia telefoons zijn er applicaties die het gebruik van een QR-code mogelijk maken :)\nNu kregen Joris en ik een geniale ingeving, want deze QR-codes kan je prima gebruiken voor self-tracking. Stel je voor:\n Koffie! Mjum, je rent met je mok naar de koffie automaat. Schenkt jezelf koffie in, maar voordat je wegloopt schiet je een foto van een QR-code die aan het koffie apparaat zit. Deze QR-code stuurt je browser van je mobiel naar een webpagina toe waar een klein scriptje wordt uitgevoerd. Dit scriptje stuurt een Direct Message vanaf twitter naar Daytum of YourFlowingData (YFD) Vervolgens wordt de DM door Daytum of YFD verwerkt en heb je alleen een foto hoeven te schieten om 1 koffie bij je drinken op te tellen ;)  Dus zo zat het concept in elkaar, nu nog de uitvoering! ;)\nKaywa heeft een prima QR-code generator, waarin je mooi een url kan ingeven en de code er zo uit komt rollen. Daarnaast heeft de webapp ook een API wat het mogelijk maakt zelfs automatisch QR-codes te genereren ;)\nDe API is tot nu toe enigzins overbodig want met dit kwamen we al een heel eind:\n \u0026lt;?php //url format: //http://www.laborantje.nl/yfd_ietwat.php?qr=Item+1 include('includes.php'); $username = ''; $password = ''; $qr = urldecode($_GET['qr']); $result = shell_exec (' curl -u '.$username.':'.$password.' -d \"text='.$qr.'\u0026amp;user=yfd\" http://twitter.com/direct_messages/new.xml '); if($result) { echo 'Succesfully added: '.$qr; } else { echo 'Error!'; } ?\u0026gt;  Dankzij Joris met zijn kunsten in PHP scheelde het mij wat leerwerk, en was het eerste werkende exemplaar al snel van de pers :) Binnen de kortste keren hangt ons kantoor vol met QR-codes omdat we allemaal dingen bij willen houden, maar ik houd het lekker bij mijn drinken en broodbeleg ;) Misschien dat ik nog de tijden bijhoud dat ik op sta en naar bed ga, waarbij je uit de foto's van de QR-codes de EXIF data haalt om de tijd te bepalen :)\n"
             },{
-                "id": "684",
+                "id": "687",
                 "href": "https://jplattel.nl/post/2009-07-11-100-dagen-daytum/",
                 "title": "100 Dagen Daytum",
                 "categories": ["Joost"],
                 "content": "Self-tracking, personal informatics of voor de lol, Daytum houd ik inmiddels al 100 dagen bij, daar om even een lijst met punten wat ik inmiddels van mezelf heb geleerd.\nIn 100 dagen heb ik:  1226 keer gedronken, alles totaal dus  257 keer water 206 keer koffie 118 keer limonade 387 keer bier (diverse soorten)   411 boterhammen gegeten  vruchtenhageslag is het lekkerste met 41 keer daarna sandwichspread met 39 keer ook krentenbollen zijn goed te kanen met 32 keer   35 ijsjes, waarvan 20 raketten :) Mjum! 191 elstars, het appels eten is wat ingezakt, maar dat komt omdat de elstar nu niet lekker is :p  Waarom doe ik dit nu? Deels voor de lol en deels omdat ik het gewoon graag wil weten, self-tracking en personal informatics zijn intressant omdat je feedback kan halen uit dingen waarop mensen normaal niet letten. Daarnaast ben je hiermee niet van andere mensen afhankelijk voor gegevens die je zelf ophaalt.\nVoordat je hieruit conclusies kan trekken moet je wel aan jezelf vragen of je het eerlijk hebt ingevult, want ik wil nog wel eens sjoemelen met bier als ik die volgende ochtend wakker wordt met een kater ;) Niet omdat ik wil overdrijven, maar het vaak gewoon niet meer weet :p\n"
             },{
-                "id": "690",
+                "id": "693",
                 "href": "https://jplattel.nl/post/2009-05-27-lifehacking-academy/",
                 "title": "Lifehacking Academy",
                 "categories": ["Joost", "Lifehacking"],
                 "content": "Gister was lifehacking academy in Groningen, met 6 man gingen we dinsdag vroeg op pad. Eenmaal de groep bij elkaar, en zittend in de trein, werd ik gebeld door Martijn Aslander, of wij op het Palace of Wisdom zouden willen staan met ons zessen. Natuurlijk willen wij dat, als beginnende groep slimmer werken coaches kunnen wij de experts uithangen en de nodige reclame maken en connecties gebruiken.\nOm ongeveer 11 uur waren wij aanwezig in Images, en zochten wij een mooie plaats uit in de grote zaal. Toen de lichten werden gedimd, kwam Martijn aan het woord. Lifehacking, waar staan we nu? Het gaat hartstikke goed met lifehacking in Nederland, veel boeken zijn door ons verkocht en maar liefst 70.000 unieke bezoekers per maand. En die lezen dus mijn blogposts :)\nMartijn vermeld dat slimmer werken dit jaar hard gaat groeien, mede door de hulp van de GITP, maar boven alles, de Padvinders! Oei, nu werden bestempeld als de padvinders, terwijl dat onze codenaam was. Geeft niet, want iedereen vond dat gewoon een hele leuke naam voor ons bedrijf! Daarna hebben wij enorm veel feedback gekregen bij de Palace of Wisdom en alle andere presentaties en workshops.\n\nWij hebben dus heel veel mensen leren kennen, en geholpen! Ik ben benieuwd hoe het gaat met de Padvinders, maar dit is zeker een gigantische start en ik ben blij dat ik daarbij aanwezig kon zijn! :D\nFoto's op flickr\nTwitter tijdens #lha0509\n"
             },{
-                "id": "694",
+                "id": "697",
                 "href": "https://jplattel.nl/post/2009-04-06-daytum/",
                 "title": "Daytum",
                 "categories": [],
                 "content": "Daytum.com is een toffe webdienst. Wat kan je er precies mee? Tellen, wat iedereen ook op de basis school leert, maar dat niet alleen! Het handige van deze dienst is de vele mogelijkheden die deze bied. Zo heb ik besloten om te gaan tellen wat ik allemaal drink, (koffie, fris en pils) wat er tussen mijn boterham zit, en hoeveel appels ik eet! Waarom? Gewoon omdat het kan, voor mezelf. Ik ben benieuwd naar de statistieken die eruit zouden kunnen komen.\nAls ik bijvoorbeeld doordeweeks alleen maar kaas zou eten op mijn kamer, zou ik dan gedurende het weekend wat anders eten? Of juist niet? En hoeveel pils drink ik ten opzichte van koffie?\nTotaal geen benul van, maar wel benieuwd! Het mooie is dat je dit ook zou kunnen gebruiken voor het tellen van je uren, RSS-Feedje erop en je werkgever kan zo nachecken hoeveel jij aan het werk bent, en ook waaraan! Waarom? Omdat je er weinig hoeft bij na te denken, gewoon een daily reminder, en elke dag even 2 min gebruiken om alles erbij op te tellen... Wat heb ik gedaan? een daily reminder op mijn iPhone om 7 uur s'avonds, zodat ik dan op de dag kan reflecteren en kijken hoeveel ik gedronken heb, en wat er tussen mijn brood zat. En misschien zelfs wat ik als avondeten heb gehad?\nMaar Joost? dat is toch allemaal openbaar? is dat niet gevaarlijk? Ja inderdaad, het is openbaar, maar wat zou iemand anders met die statistieken willen? Hoeveel mensen zou het intresseren wat voor appels ik elke dag at? Niemand volgens mij ;) Dus mag het van mij best openbaar wezen! Want open-source is goed!\nWie doet er mee? Daytum is tot nu toe alleen te updaten via de site zelf, en twitter en de iPhone app staat al hoog op het verlanglijstje!\n"
             },{
-                "id": "699",
+                "id": "702",
                 "href": "https://jplattel.nl/post/2009-03-26-c2w-expo-personal-brand-award-2009/",
                 "title": "C2W Expo: Personal Brand Award 2009",
                 "categories": ["Joost"],

@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2020 20:13:46 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019</title>
+      <link>https://jplattel.nl/tags/2019/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>836pm</title>
+      <link>https://jplattel.nl/tags/836pm/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/836pm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daily</title>
+      <link>https://jplattel.nl/tags/daily/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/daily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photos</title>
+      <link>https://jplattel.nl/tags/photos/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://jplattel.nl/tags/video/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vimeo</title>
+      <link>https://jplattel.nl/tags/vimeo/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/vimeo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>automating</title>
@@ -832,15 +886,6 @@
     </item>
     
     <item>
-      <title>836pm</title>
-      <link>https://jplattel.nl/tags/836pm/</link>
-      <pubDate>Sat, 02 Jan 2016 17:34:51 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/836pm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>idonethis</title>
       <link>https://jplattel.nl/tags/idonethis/</link>
       <pubDate>Sat, 02 Jan 2016 17:34:51 +0100</pubDate>
@@ -1215,24 +1260,6 @@
       <pubDate>Mon, 02 Feb 2015 12:45:05 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/permanent-beta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photos</title>
-      <link>https://jplattel.nl/tags/photos/</link>
-      <pubDate>Tue, 06 Jan 2015 01:16:54 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>https://jplattel.nl/tags/video/</link>
-      <pubDate>Tue, 06 Jan 2015 01:16:54 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/video/</guid>
       <description></description>
     </item>
     
