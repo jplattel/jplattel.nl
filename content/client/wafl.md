@@ -8,8 +8,10 @@ year = 2018
 tags = []
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "wafl.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 +++
+
+For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients.
