@@ -24,6 +24,7 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 *   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument))
 *   Underwater diving
+*   Forge my own axe and/or blades
 
 ### People already gave me
 
