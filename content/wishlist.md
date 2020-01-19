@@ -9,7 +9,6 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford
 *   [Dead Astronauts](https://www.amazon.com/Dead-Astronauts-Novel-Jeff-VanderMeer/dp/0374276803) by Jeff van der Meer
-*   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   A [knityak](https://knityak.com/) scarf
 *   [A meural](https://meural.com)
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
@@ -28,6 +27,7 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 ### People already gave me
 
+*   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   [This puzzle](https://puzzle.lamingtondrive.com/) (thanks Nathalie!)
 *   The [Cool Tools](https://www.bol.com/nl/p/cool-tools/9200000020982860/) book, thanks [Vitamine Communicatie](https://www.vitaminecommunicatie.nl/)!
 *   The [cooking book](https://www.taschen.com/pages/en/catalogue/art/all/04639/facts.dali_les_diners_de_gala.htm?gclid=Cj0KEQjwg8i_BRCT9dHt5ZSGi90BEiQAItdjpMqOS3gORWwVrFL8DHsHtD0IkavXJryJbxaRuclqvKYaAnVa8P8HAQ) by Dali

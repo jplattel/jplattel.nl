@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>My setup for Python projects</title>
+      <link>https://jplattel.nl/post/2020-01-19-python-projects-setup/</link>
+      <pubDate>Sun, 19 Jan 2020 20:07:24 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
+      <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
+ iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens  Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
+    </item>
+    
+    <item>
       <title>Celebrating 10 years of 8:36pm</title>
       <link>https://jplattel.nl/post/2020-01-04-celebrating-ten-years-836pm/</link>
       <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
