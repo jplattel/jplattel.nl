@@ -1,7 +1,6 @@
 [
     {{ range $index, $page := .Site.Pages  }}
-        {{- if $page.Plain -}}
-            {{- if and $index (gt $index 0) -}},{{- end -}}
+        {{ if $index }},{{- end -}}
             {
                 "id": "{{ $index }}",
                 "href": "{{ $page.Permalink }}",
@@ -9,6 +8,5 @@
                 "categories": [{{ range $tindex, $tag := $page.Params.categories }}{{ if $tindex }}, {{ end }}"{{ $tag| htmlEscape }}"{{ end }}],
                 "content": {{$page.Plain | jsonify}}
             }
-        {{- end -}}
     {{- end -}}
 ]

@@ -9,6 +9,7 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford
 *   [Dead Astronauts](https://www.amazon.com/Dead-Astronauts-Novel-Jeff-VanderMeer/dp/0374276803) by Jeff van der Meer
+*   Full Metal digital calipers
 *   A [knityak](https://knityak.com/) scarf
 *   [A meural](https://meural.com)
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
