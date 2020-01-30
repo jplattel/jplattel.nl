@@ -1,5 +1,5 @@
 ---
-title: "Micropython lcd menu: upymenu"
+title: "Micropython LCD menu: upymenu"
 date: 2020-01-28T21:28:46+01:00
 draft: false
 
@@ -9,9 +9,9 @@ categories: ["python"]
 
 I've published my first library to [PyPi](https://pypi.org/project/upymenu/)! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the [Liquid Crystal](https://github.com/arduino-libraries/LiquidCrystal) and [Liquid Menu](https://github.com/VaSe7u/LiquidMenu) while developing on an Arduino. 
 
-When I made the switch towards micropython I saw no such thing existed. But having a [statemachine](https://www.wikiwand.com/en/Finite-state_machine) like menu is quite easy in Python I wanted to abstract it a bit into a library, this way it is easier to use for other people! 
+When I made the switch towards micropython I saw no such thing existed. But having a [statemachine](https://www.wikiwand.com/en/Finite-state_machine) like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people! 
 
-Once you have configured your LCD with your board, you can use it like this to create a menu. 
+Once you have configured your LCD with your board, you can use it like this to create a menu:
 
 ```python
 from machine import Pin, I2C # Basics for creating an LCD interface

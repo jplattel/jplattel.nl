@@ -38,20 +38,20 @@
         ,{
                 "id": "5",
                 "href": "https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/",
-                "title": "Micropython lcd menu: upymenu",
+                "title": "Micropython LCD menu: upymenu",
                 "categories": ["python"],
-                "content": "I\u0026rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.\nWhen I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python I wanted to abstract it a bit into a library, this way it is easier to use for other people!\nOnce you have configured your LCD with your board, you can use it like this to create a menu.\nfrom machine import Pin, I2C # Basics for creating an LCD interface from esp8266_i2c_lcd import I2cLcd # Example LCD interface used from upymenu import Menu, MenuAction, MenuNoop def action_callback(): print(\u0026quot;callback action chosen\u0026quot;) submenu = Menu(\u0026quot;Submenu\u0026quot;) submenu_action_1 = MenuAction(\u0026quot;Submenu Action\u0026quot;, callback=action_callback) submenu_action_2 = MenuAction(\u0026quot;Submenu Action 1\u0026quot;, callback=action_callback) submenu.add_option(submenu_action_1) submenu.add_option(submenu_action_2) menu_action = MenuAction(\u0026quot;Action\u0026quot;, callback=action_callback) menu = Menu(\u0026quot;Main Menu\u0026quot;) menu.add_option(submenu) menu.add_option(menu_action) menu.add_option(MenuNoop(\u0026quot;Nothing here\u0026quot;)) # Example config for LCD via i2c, you will need this # for the menu to function, the screen size is required # to render the menu correctly on the screen. i2c = I2C(scl=Pin(5), sda=Pin(4), freq=400000) lcd = I2cLcd(i2c, 0x3F, 4, 20) current_menu = menu.start(lcd) # Starts the menu on the LCD  Have a look at the github repository and feel free to do any suggestions with a new issue!\n"
+                "content": "I\u0026rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.\nWhen I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!\nOnce you have configured your LCD with your board, you can use it like this to create a menu:\nfrom machine import Pin, I2C # Basics for creating an LCD interface from esp8266_i2c_lcd import I2cLcd # Example LCD interface used from upymenu import Menu, MenuAction, MenuNoop def action_callback(): print(\u0026quot;callback action chosen\u0026quot;) submenu = Menu(\u0026quot;Submenu\u0026quot;) submenu_action_1 = MenuAction(\u0026quot;Submenu Action\u0026quot;, callback=action_callback) submenu_action_2 = MenuAction(\u0026quot;Submenu Action 1\u0026quot;, callback=action_callback) submenu.add_option(submenu_action_1) submenu.add_option(submenu_action_2) menu_action = MenuAction(\u0026quot;Action\u0026quot;, callback=action_callback) menu = Menu(\u0026quot;Main Menu\u0026quot;) menu.add_option(submenu) menu.add_option(menu_action) menu.add_option(MenuNoop(\u0026quot;Nothing here\u0026quot;)) # Example config for LCD via i2c, you will need this # for the menu to function, the screen size is required # to render the menu correctly on the screen. i2c = I2C(scl=Pin(5), sda=Pin(4), freq=400000) lcd = I2cLcd(i2c, 0x3F, 4, 20) current_menu = menu.start(lcd) # Starts the menu on the LCD  Have a look at the github repository and feel free to do any suggestions with a new issue!\n"
             }
         ,{
                 "id": "6",
-                "href": "https://jplattel.nl/categories/python/",
+                "href": "https://jplattel.nl/tags/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""
             }
         ,{
                 "id": "7",
-                "href": "https://jplattel.nl/tags/python/",
+                "href": "https://jplattel.nl/categories/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""

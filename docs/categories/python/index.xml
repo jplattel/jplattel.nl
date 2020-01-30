@@ -13,13 +13,13 @@
     
     
     <item>
-      <title>Micropython lcd menu: upymenu</title>
+      <title>Micropython LCD menu: upymenu</title>
       <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
       
       <guid>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
       <description>I&amp;rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.
-When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python I wanted to abstract it a bit into a library, this way it is easier to use for other people!</description>
+When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!</description>
     </item>
     
   </channel>
