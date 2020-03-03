@@ -7,19 +7,19 @@ Below is my wishlist, if you want to trade something in return for something or 
 
 ### Physical stuff
 
-*   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford
+*   An [Ascaso I-Mini 2 Red](https://www.ascaso.lt/en-gb/coffee-grinder-ascaso-imini-red-shining-aluminium.html)
+*   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
 *   [Dead Astronauts](https://www.amazon.com/Dead-Astronauts-Novel-Jeff-VanderMeer/dp/0374276803) by Jeff van der Meer
-*   Full metal digital calipers
 *   [Hario VST-2000B](https://www.amazon.com/Hario-Drip-Coffee-Scale-Timer/dp/B009GPJMOU?tag=breakwindo-20) for coffee.
+*   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   A [knityak](https://knityak.com/) scarf
-*   [A meural](https://meural.com)
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
 *   A copper colored [GrowlerWerks uKeg 128](https://www.brouwland.com/nl/korting/d/growlerwerks-ukeg-128-verkoperd-3-8-l)
 *   A [Feynman](https://teespring.com/new-feynman?tsmac=store&tsmic=fermats-library#pid=228&cid=5923&sid=front) t-shirt.
+*   A [meural](https://meural.com)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
 *   Sortimo boxes (contact me if you want to give these, I might have some specific ones!)
 *   A full size wired Dremel kit
-*   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 
 ### Experience
 
