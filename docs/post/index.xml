@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Designing a custom Raspberry Pi camera mount for the Prusa Mini</title>
+      <link>https://jplattel.nl/post/2020-03-05-custom-camera-mount-prusa-mini/</link>
+      <pubDate>Thu, 05 Mar 2020 15:33:19 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-03-05-custom-camera-mount-prusa-mini/</guid>
+      <description>Since a month I own a small 3D printer: the Prusa Mini. I&amp;rsquo;ve printed almost half my current spool of filament and I can say I love the way the Prusa Mini works for me. Once of the upgrades I have done is move towards Octoprint for my workflow, this allows me to connect everything together from my own computer. Here&amp;rsquo;s how it works:
+ I design a component or body with Fusion 360, and in the &amp;lsquo;Make&amp;rsquo; menu option I choose to pass the file to the Prusa Slicer application In Prusa Slicer I configure any supports required or tweak any print settings.</description>
+    </item>
+    
+    <item>
       <title>Micropython LCD menu: upymenu</title>
       <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
