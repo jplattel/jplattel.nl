@@ -20,15 +20,14 @@
   <div class="article-style" itemprop="articleBody">
     {{ if $post.Params.summary }}
     <p>{{ printf "%s" $post.Params.summary | markdownify }}</p>
-    {{ else if $post.Truncated }}
+      {{ else if $post.Truncated }}
     {{ $post.Summary }}
-    {{ else }}
+      {{ else }}
     {{ $post.Content }}
     {{ end }}
-  </div>
-  <p class="read-more" itemprop="mainEntityOfPage">
-    <a href="{{ $post.Permalink }}" class="btn btn-primary btn-outline">
-      {{ i18n "continue_reading" }}
+    <a class="read-more" href="{{ $post.Permalink }}" class="">
+      continue reading... 
     </a>
-  </p>
+  </div>
+  
 </div>

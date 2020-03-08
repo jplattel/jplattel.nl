@@ -841,9 +841,6 @@ article .article-metadata {
 
 .card-simple p.read-more {
   margin: 0;
-  clear: both;
-  display: block;
-  text-align: right;
 }
 p.read-more a{
   text-decoration: none;
