@@ -73,6 +73,10 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+a {
+  color: #008c19!important;
+}
+
 /* Navigation bar text */
 .navbar-default {
   font-family: '{{ .Get "nav_font" }}', sans-serif;
@@ -1164,9 +1168,9 @@ nav#navbar-main li {
 .navbar-brand,
 .navbar-nav li a {
   height: inherit;
-  line-height: 50px;
+  line-height: 40px;
   padding-top: 10px;
-  /*padding-bottom: 10px;*/
+  padding-bottom: 10px;
 }
 
 .navbar-brand{
@@ -1177,12 +1181,14 @@ body .navbar-default{
 }
 
 .navbar-logo{
-  width: 80px;
-  height: 80px;
   float: left;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: {{ .Get "menu_text" }} !important;
+}
+
+button.navbar-toggle {
+  padding-top: 14px!important;
 }
 
 .dropdown-menu {
@@ -1244,7 +1250,7 @@ body .navbar-default{
   .navbar-brand,
   .navbar-nav li a {
     height: inherit;
-    line-height: 40px;
+    line-height: 30px;
     padding-top: 5px;
     padding-bottom: 5px;
   }
@@ -1286,8 +1292,6 @@ body .navbar-default{
   }
 
   .navbar-nav > li > a {
-    padding-top: 10px;
-    padding-bottom: 10px;
     line-height: normal;
   }
 
