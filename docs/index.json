@@ -65,14 +65,14 @@
             }
         ,{
                 "id": "9",
-                "href": "https://jplattel.nl/categories/python/",
+                "href": "https://jplattel.nl/tags/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""
             }
         ,{
                 "id": "10",
-                "href": "https://jplattel.nl/tags/python/",
+                "href": "https://jplattel.nl/categories/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""
@@ -199,7 +199,7 @@
         ,{
                 "id": "28",
                 "href": "https://jplattel.nl/tags/diy/",
-                "title": "diy",
+                "title": "DIY",
                 "categories": [],
                 "content": ""
             }
@@ -436,14 +436,14 @@
             }
         ,{
                 "id": "62",
-                "href": "https://jplattel.nl/tags/lifehacking/",
+                "href": "https://jplattel.nl/categories/lifehacking/",
                 "title": "Lifehacking",
                 "categories": [],
                 "content": ""
             }
         ,{
                 "id": "63",
-                "href": "https://jplattel.nl/categories/lifehacking/",
+                "href": "https://jplattel.nl/tags/lifehacking/",
                 "title": "Lifehacking",
                 "categories": [],
                 "content": ""
@@ -719,7 +719,7 @@
                 "href": "https://jplattel.nl/speaking/",
                 "title": "Speaking",
                 "categories": [],
-                "content": " I'm often asked for a lecture or as a public speaker on topics like the Quantified Self, data, the Internet of Things and any related fields. If you're curious about the content, have a look at my slides on Slideshare or look at the video from my talk at Cross Media Cafe. The length varies, depending on the time available I'm able to accommodate ideas in 10 minutes, or an in-depth view of the field in 45 minutes or more. Get in touch with me or book me trough Athenas.\nWhat other people say about me: Joost Plattel is a very enthousiastic and motivated speaker, a ambassador of the Quantified Self community. ~ Erdinç Saçan, Marketingfacts\n Joost can't get enough of his own data. His story about the possibilities with the Quantified Self is fascinating and makes you wonder. ~ Chris van 't Hof, Tek-Tok\n "
+                "content": " I'm often asked for a lecture or as a public speaker on topics like the Quantified Self, privacy \u0026 ethics and the democratization with technology. The length varies, depending on the time available I'm able to accommodate ideas in 10 minutes, or an in-depth view of the field in 45 minutes or more.  Next to speaking about certain topics within technology. I also offer a burst of enthusiasm and inspiration based on my newsletter, just randomly dropping curious corners of the web in the space of 1 hour. Covering over 100 different pages guarantees at least 1 should be interesting! Get in touch with me or book me trough Athenas.\nWhat other people say about me: Joost Plattel is a very enthousiastic and motivated speaker, a ambassador of the Quantified Self community. ~ Erdinç Saçan, Marketingfacts\n Joost can't get enough of his own data. His story about the possibilities with the Quantified Self is fascinating and makes you wonder. ~ Chris van 't Hof, Tek-Tok\n "
             }
         ,{
                 "id": "103",
