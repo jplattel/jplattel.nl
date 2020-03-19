@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 05 Aug 2019 00:05:13 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 16:33:53 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Organization.supply</title>
+      <link>https://jplattel.nl/project/organization-supply/</link>
+      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/project/organization-supply/</guid>
+      <description>Simple inventory management tool build with Python &amp;amp; Django</description>
+    </item>
     
     <item>
       <title>EHBA</title>

@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 05 Mar 2020 15:33:19 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 16:33:53 +0100</lastBuildDate>
     <atom:link href="https://jplattel.nl/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jplattel.nl/project/</link>
+      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Media</title>
@@ -24,15 +33,6 @@
       <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
       
       <guid>https://jplattel.nl/client/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://jplattel.nl/project/</link>
-      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/</guid>
       <description></description>
     </item>
     
