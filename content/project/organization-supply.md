@@ -14,7 +14,7 @@ summary = "Simple inventory management tool build with Python & Django"
 image_preview = "organization-supply-logo.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://organization.suppl"
+external_link = "https://organization.supply"
 
 # Does the project detail page use math formatting?
 math = false

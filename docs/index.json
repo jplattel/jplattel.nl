@@ -65,14 +65,14 @@
             }
         ,{
                 "id": "9",
-                "href": "https://jplattel.nl/tags/python/",
+                "href": "https://jplattel.nl/categories/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""
             }
         ,{
                 "id": "10",
-                "href": "https://jplattel.nl/categories/python/",
+                "href": "https://jplattel.nl/tags/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""
@@ -2215,7 +2215,7 @@
         ,{
                 "id": "316",
                 "href": "https://jplattel.nl/tags/chemistry/",
-                "title": "Chemistry",
+                "title": "chemistry",
                 "categories": [],
                 "content": ""
             }
