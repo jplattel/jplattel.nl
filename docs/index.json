@@ -72,14 +72,14 @@
             }
         ,{
                 "id": "10",
-                "href": "https://jplattel.nl/categories/python/",
+                "href": "https://jplattel.nl/tags/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""
             }
         ,{
                 "id": "11",
-                "href": "https://jplattel.nl/tags/python/",
+                "href": "https://jplattel.nl/categories/python/",
                 "title": "python",
                 "categories": [],
                 "content": ""
@@ -443,14 +443,14 @@
             }
         ,{
                 "id": "63",
-                "href": "https://jplattel.nl/tags/lifehacking/",
+                "href": "https://jplattel.nl/categories/lifehacking/",
                 "title": "Lifehacking",
                 "categories": [],
                 "content": ""
             }
         ,{
                 "id": "64",
-                "href": "https://jplattel.nl/categories/lifehacking/",
+                "href": "https://jplattel.nl/tags/lifehacking/",
                 "title": "Lifehacking",
                 "categories": [],
                 "content": ""
