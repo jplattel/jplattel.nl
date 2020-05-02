@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Making an Ant PCB Maker</title>
+      <link>https://jplattel.nl/post/2020-05-02-ant-pcb-maker/</link>
+      <pubDate>Sat, 02 May 2020 14:37:05 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-05-02-ant-pcb-maker/</guid>
+      <description>Strange times we live in these days. Staying at home does allow me to work on projects which have been slowly progressing over time. And one of those is the Ant PCB Maker. A CoreXY based small CNC mill that can make printed circuit boards (PCBs). Contrary to the guide I&amp;rsquo;ve decided to built mine a little bigger. This should allow me to create PCBs which are up to 200x200mm without any problems.</description>
+    </item>
+    
+    <item>
       <title>Designing a custom Raspberry Pi camera mount for the Prusa Mini</title>
       <link>https://jplattel.nl/post/2020-03-05-custom-camera-mount-prusa-mini/</link>
       <pubDate>Thu, 05 Mar 2020 15:33:19 +0100</pubDate>
