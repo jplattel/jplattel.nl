@@ -1,5 +1,5 @@
 +++
-title = "Ambassador for the Digital Society School Amsterdam"
+title = "Ambassador for the Digital Society School"
 date = 2018-09-18T17:17:26+02:00
 year = 2018
 draft = false
