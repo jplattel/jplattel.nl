@@ -1,5 +1,5 @@
 +++
-title = "Designing a custom Raspberry Pi camera mount for the Prusa Mini"
+title = "Designing a Pi camera mount for the Prusa Mini"
 date = 2020-03-05T15:33:19+01:00
 draft = false
 
