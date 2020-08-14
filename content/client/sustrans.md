@@ -14,4 +14,4 @@ image_preview = "sustrans_large.jpg"
 external_link = ""
 +++
 
-For Sustrans in the United Kingdom I made a custom dashboard that allows people to gain insights into their own mobility based on the Moves app (now deprecated sadly!)
+For Sustrans in the United Kingdom I made a custom dashboard that allows people to gain insights into their own mobility based on the Moves app (sadly, now deprecated!)

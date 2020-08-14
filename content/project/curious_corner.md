@@ -1,7 +1,6 @@
 +++
 title = "Curious Corner"
 date = 2018-04-21T20:38:30+02:00
-draft = false
 year = 2019
 
 # Tags: can be used for filtering projects.

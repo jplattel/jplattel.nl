@@ -1,9 +1,9 @@
 ---
-title: "Wishlist"
+title: "🎁 Wishlist"
 date: 2018-04-21T21:17:28+02:00
 ---
 
-Below is my wishlist, if you want to trade something in return for something or support me you could help me with the following:
+Below is my wishlist, if there's something I've done for you and you would like to give me something in return, this could serve as a list of inspiration. ✌️
 
 ## Physical stuff
 
