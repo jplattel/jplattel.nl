@@ -8,7 +8,7 @@ year = 2016
 tags = []
 
 # Optional image to display on homepage.
-image_preview = "sustrans_large.jpg"
+image_preview = "sustrans-logo.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

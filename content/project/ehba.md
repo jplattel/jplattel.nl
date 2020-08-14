@@ -1,5 +1,5 @@
 +++
-title = "EHBA"
+title = "EHBA.app"
 date = 2019-08-05T00:05:13+02:00
 draft = false
 

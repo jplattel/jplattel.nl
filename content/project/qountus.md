@@ -1,5 +1,5 @@
 +++
-title = "Qountus"
+title = "Qount.us"
 date = 2016-06-05T16:29:59+02:00
 draft = false
 

@@ -1,5 +1,5 @@
 +++
-title = "Quantifiedself"
+title = "Quantified Self community"
 date = 2018-04-21T21:10:30+02:00
 draft = false
 year = 2017

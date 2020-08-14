@@ -1,5 +1,5 @@
 +++
-title = "Curious Corner"
+title = "The Curious Corner of the Internet"
 date = 2018-04-21T20:38:30+02:00
 year = 2019
 

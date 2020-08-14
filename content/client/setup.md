@@ -8,7 +8,7 @@ year = 2016
 tags = []
 
 # Optional image to display on homepage.
-image_preview = "setup_logo-1024x303.jpg"
+image_preview = "setup-utrecht.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
