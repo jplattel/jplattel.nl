@@ -16,5 +16,5 @@ Thus I've started exploring the space of possible replacements/additionals for E
 
 What I'm mostly looking for is what I call a knowledge system which encompasses more than just organizing it in a way. In a nutshell I want a system to work with me (instead of against me, which is often the case). I'm looking for a application which is easily extendable and moldable to different flows of working, whether that be accumulation knowledge or exploring relationships between things.
 
-So far I've looked at [Workflowy](https://workflowy.com/), [RoamResearch](https://roamresearch.com/), [MyMind](http://mymind.com/) and I'm currently using [Obsidian](https://obsidian.md/). For now that is simply one reason why Obsidian is standing out: its just **local markdown files**. The unix philosophy that everything is a file is something that trigger me and with that Obsidian kind of clicks for me.
+So far I've looked at [Workflowy](https://workflowy.com/), [RoamResearch](https://roamresearch.com/), [MyMind](http://mymind.com/) and I'm currently using [Obsidian](https://obsidian.md/). For now that is simply one reason why Obsidian is standing out: its just **local markdown files**. The unix philosophy that everything is a file is something that triggers me and with that Obsidian kind of clicks for me.
 

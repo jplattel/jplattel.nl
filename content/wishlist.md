@@ -5,7 +5,7 @@ date: 2018-04-21T21:17:28+02:00
 
 Below is my wishlist, if you want to trade something in return for something or support me you could help me with the following:
 
-### Physical stuff
+## Physical stuff
 
 *   [Iris](https://www.makerscabinet.com/collections/all-flagship-products/products/iris) by Makers Cabinet.
 *   [The Electric State](https://www.amazon.de/Electric-State-Simon-St%C3%A5lenhag/dp/1501181416?tag=jplattel-21) (hardcover).
@@ -21,13 +21,13 @@ Below is my wishlist, if you want to trade something in return for something or 
 *   Sortimo boxes (contact me if you want to give these, I might have some specific ones!)
 *   A full size wired Dremel kit
 
-### Experience
+## Experience
 
 *   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument))
 *   Underwater diving
 *   Forge my own axe and/or blades
 
-### People already gave me
+## People already gave me
 
 *   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   [This puzzle](https://puzzle.lamingtondrive.com/) (thanks Nathalie!)
@@ -47,8 +47,8 @@ Below is my wishlist, if you want to trade something in return for something or 
 *   Soldering station thanks Wouter Groenewold!
 *   Soft Brew Coffee pot, thank you Ilse!
 *   Makey Makey, thanks Loes!
-*   Neurosky Mindband A Zeo with a raw data library is better ;-)
+*   Neurosky Mindband (A Zeo with a raw data library is better ;-))
 *   Evernote Pro-account
-*   Vibram Five Fingers Bikila (maatje 43) (Dankjewel @FiveFingersNL!)
+*   Vibram Five Fingers Bikila (maatje 43) (Thanks @FiveFingersNL!)
 *   Zeo Sleep Coach (Thanks Zeo!)
-*   Help mij met mijn reis naar Amerika voor de Quantified Self Conference (Bedankt iedereen die heeft geholpen!)
+*   Help with my trip to the US for the first Quantified Self Conference (Thanks everybody fo your help!)

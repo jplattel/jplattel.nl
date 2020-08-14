@@ -3,13 +3,10 @@
 widget = "about"
 active = true
 date = 2016-04-20T00:00:00
-
+title = "About"
 # Order that this section will appear in.
 weight = 5
 +++
-
-# About
-
 I’m __Joost Plattel__, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. <br />I connect _API's_, work with _large datasets, models or visualizations_. All to solve these questions, discover patterns or explore new opportunities. 
 
 The main question I try to answer is:

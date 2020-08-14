@@ -68,11 +68,18 @@ weight = 7
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
-    name = "github"
-    link = "https://github.com/gohugoio"
+    name = "twitter"
+    link = "https://twitter.com/jplattel"
   [[params.social]]
     name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    link = "https://www.linkedin.com/in/jplattel"
+  [[params.social]]
+    name = "instagram"
+    link = "https://instagram.com/jplattel"
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/jplattel"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "jsplattel@gmail.com"  # no need for "mailto:" in the head
+  

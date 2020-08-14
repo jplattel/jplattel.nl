@@ -9,7 +9,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "In _2018 - 2019_ I am one of the ambassadors for the Digital Society School located in Amsterdam"
+summary = "In 2018 - 2020 I am one of the ambassadors for the Digital Society School located in Amsterdam"
 
 # Optional image to display on homepage.
 image_preview = "digital-society-school-amsterdam.png"
