@@ -6,7 +6,7 @@
     <description>Recent content in MacLogger on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
+    <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 27 Feb 2011 22:12:40 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/maclogger/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,8 @@
       <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
       
       <guid>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</guid>
-      <description>I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&#39;t draw any conclusions about it because I switched my operating system too!
-However more recently I started using MacLogger and together with Jelle I&#39;ve made some custom python and processing scripts that should offer more insight into my mouse usage.</description>
+      <description>I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&amp;rsquo;t draw any conclusions about it because I switched my operating system too!
+However more recently I started using MacLogger and together with Jelle I&amp;rsquo;ve made some custom python and processing scripts that should offer more insight into my mouse usage.</description>
     </item>
     
   </channel>

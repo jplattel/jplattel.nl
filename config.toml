@@ -1,4 +1,5 @@
 baseURL = "https://jplattel.nl"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Joost Plattel"
 theme = "jplattel"

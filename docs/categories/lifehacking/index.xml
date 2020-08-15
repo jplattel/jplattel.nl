@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lifehacking on Joost Plattel</title>
+    <title>lifehacking on Joost Plattel</title>
     <link>https://jplattel.nl/categories/lifehacking/</link>
-    <description>Recent content in Lifehacking on Joost Plattel</description>
+    <description>Recent content in lifehacking on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
+    <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 16 Oct 2018 23:38:39 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/categories/lifehacking/index.xml" rel="self" type="application/rss+xml" />
@@ -20,173 +20,6 @@
       <guid>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
       <description>I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a NFC reader. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)
 Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag.</description>
-    </item>
-    
-    <item>
-      <title>Sync Kindle notes and clippings to Evernote</title>
-      <link>https://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</link>
-      <pubDate>Fri, 08 Jul 2011 12:11:46 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</guid>
-      <description>Since I got my Kindle I started reading a lot more books and articles. And one of the nice things you can do is add notes and clip certain pieces of text. The Kindle saves all those things into a text file for easy access, but I wanted those to be searchable as well in my system.
-I wrote a small python script that extracts all notes and clippings from the text file and creates a new note in Evernote for each of them.</description>
-    </item>
-    
-    <item>
-      <title>First nights with the Zeo sleep monitor</title>
-      <link>https://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</link>
-      <pubDate>Wed, 22 Jun 2011 21:53:57 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</guid>
-      <description>During the QS Conference the awesome guys from Zeo gifted me one of their sleep monitors. And 1 week ago it arrived by mail. I promised to create as much value in return if I liked the Zeo. And I do, I absolutely do. Here is why:
-As an average person sleep 8 hours a day you spend 1/3 of your life lying in bed... That&#39;s a lot of time spend.</description>
-    </item>
-    
-    <item>
-      <title>My effort for a better readinglist</title>
-      <link>https://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/</link>
-      <pubDate>Sun, 08 May 2011 10:24:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/</guid>
-      <description>I love the Read It Later List service. Each day I save about 20-30 articles from Google Reader or my Twitter client so I can read them later. However, these amounts make it hard for me to process all the things I save. That&#39;s why I need a readinglist that has additional filtering/speed/shortcuts.
-As my endeavors with Python continue, for the last few months I&#39;ve been developing my own version of the perfect readinglist build upon the API of Read It Later List.</description>
-    </item>
-    
-    <item>
-      <title>My method for improving dream recall</title>
-      <link>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</link>
-      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</guid>
-      <description>&lt;p&gt;On average, a human spends one third (8 hours) of it&#39;s time sleeping. That&#39;s a lot and one of the reasons I decided to dip my interest into dreaming and dream recall.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://www.jplattel.nl/img/f04c71f48e4c3002feac28c5ed05f94d.jpeg&#34;&gt;&lt;img class=&#34;size-full wp-image-1993 aligncenter&#34; title=&#34;The mind is a curious object&#34; src=&#34;https://jplattel.nl/img/f04c71f48e4c3002feac28c5ed05f94d.jpeg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;334&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;With trial and error, I&#39;ve made a modified version of the WILD ((&lt;a href=&#34;http://www.world-of-lucid-dreaming.com/wake-induced-lucid-dreams.html&#34;&gt;http://www.world-of-lucid-dreaming.com/wake-induced-lucid-dreams.html&lt;/a&gt;)) method that works for me with a success-rate of about 80% for dream recall, no lucid state yet. So here is how it works:  </description>
-    </item>
-    
-    <item>
-      <title>Co-creatie van Slimmerkunde</title>
-      <link>https://jplattel.nl/post/2011-01-12-co-creatie-van-slimmerkunde/</link>
-      <pubDate>Wed, 12 Jan 2011 20:56:49 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-01-12-co-creatie-van-slimmerkunde/</guid>
-      <description>Het begon in het voorjaar toen Tjeu het idee over slimmerkunde mee nam naar Seats 2 Meet in Utrecht. In de zomer werd het via de basecamp van lifehacking.nl verder opgepakt en besloot ik ook mee te helpen. Mijn bescheiden bijdrage werd meegenomen en ik werd uitgenodigd om een dag naar Den Bosch te komen om te komen werken aan slimmerkunde.
-In november werd de tekst in een mooi jasje gegoten en had Bas de filmpjes gereed gemaakt.</description>
-    </item>
-    
-    <item>
-      <title>92Square - De 9292OV planner via Foursquare</title>
-      <link>https://jplattel.nl/post/2010-06-09-92square-de-9292ov-planner-via-foursquare/</link>
-      <pubDate>Wed, 09 Jun 2010 22:19:26 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2010-06-09-92square-de-9292ov-planner-via-foursquare/</guid>
-      <description>Als gebruiker van Foursquare zie ik dagelijks een aantal mensen inchecken op venue’s in de buurt, of een stad of dorpje verderop. Stel nu dat je er zelf ook heen wilt? Hoe plan je zoiets?
-Samen met Joris Blaak heb ik een mashup gemaakt die het mogelijk maakt om direct een OV reis te plannen afhankelijk van jou locatie en diegene waar jij naar toe wilt! En dat via je telefoon met een keer drukken!</description>
-    </item>
-    
-    <item>
-      <title>The Haptic Compass Anklet, een extra zintuig</title>
-      <link>https://jplattel.nl/post/2010-05-29-the-haptic-compass-anklet-een-extra-zintuig/</link>
-      <pubDate>Sat, 29 May 2010 18:50:57 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2010-05-29-the-haptic-compass-anklet-een-extra-zintuig/</guid>
-      <description>De afgelopen weken heb ik bizar veel gelezen over één onderwerp:
-Het toepassen van materialistische dingen zodat je daarmee je perceptie, lichaam of denkwijzen kan uitbreiden of verbeteren. Een stukje #lifehacking, maar dan inclusief hardware.
-Om uit te leggen wat ik precies bedoel, The North Paw, een haptic compass anklet:
-
-Eric Boyd - The North Paw: A Haptic Compass Anklet from Loren Risker on Vimeo.
-The North Paw gebruik je dus eigenlijk als uitbreiding op de normale zintuigen die je tot je beschikking hebt.</description>
-    </item>
-    
-    <item>
-      <title>Mede-auteur van 150 lifehackingtips!</title>
-      <link>https://jplattel.nl/post/2010-05-13-mede-auteur-van-150-lifehackingtips-2/</link>
-      <pubDate>Thu, 13 May 2010 12:34:10 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2010-05-13-mede-auteur-van-150-lifehackingtips-2/</guid>
-      <description>Hij ligt al bijna 2 maanden in de winkel, maar ik wou het graag met jullie delen: ik ben sindskort mede-auteur van het boek 150 lifehackingtips. Begonnen als hulpschrijver voor Martijn en inmiddels volledig zelf schrijver(Al moet er binnenkort weer eens een postje uit!).
-150 #lifehacking tips is de volgende iteratie van 100 lifehacking tips welke al eerder was uitgebracht bij Van Duuren.
-Patrick Mackaaij heeft een prima lijstje met auteurs verzameld!</description>
-    </item>
-    
-    <item>
-      <title>Lifelogging met de ViconRevue</title>
-      <link>https://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/</link>
-      <pubDate>Wed, 06 Jan 2010 14:49:19 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2010-01-06-lifelogging-met-de-viconrevue/</guid>
-      <description>De Sensecam is een apparaat waarmee iemand zijn eigen leven kan vastleggen. Een soort black-box, maar dan voor een mensenleven. Eind vorig jaar zou Vicon het mogelijk maken om een Sensecam onder hun naam aan te schaffen voor persoonlijk gebruik.
-Op de manier waarop ik het bekijk zitten hier talloze voordelen aan, en wordt het voordeel in de toekomst steeds groter. De ViconRevue is in combinatie met de juiste software en databases geeft een fotografisch geheugen aan iedereen.</description>
-    </item>
-    
-    <item>
-      <title>Totaal onverwacht: In de spits!</title>
-      <link>https://jplattel.nl/post/2009-10-26-totaal-onverwacht-in-de-spits/</link>
-      <pubDate>Mon, 26 Oct 2009 10:41:30 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2009-10-26-totaal-onverwacht-in-de-spits/</guid>
-      <description>Julien Hogemans wist mij vandaag te spotten in de Spits! Totaal niet verwacht dat ik in de krant zou belanden.. Samen met Martijn Aslander! Het interview dat ik voor Nobiles.nl had gegeven is ook gepubliceerd in de Spits. Goede reclame voor lifehacking! Een screenshot of download de PDF(27 mb!).</description>
-    </item>
-    
-    <item>
-      <title>Interview voor Nobiles.nl Magazine</title>
-      <link>https://jplattel.nl/post/2009-10-17-interview-voor-nobiles-magazine/</link>
-      <pubDate>Sat, 17 Oct 2009 11:57:58 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2009-10-17-interview-voor-nobiles-magazine/</guid>
-      <description>[caption id=&#34;&#34; align=&#34;alignright&#34; width=&#34;180&#34; caption=&#34;Stukje Nobiles Magazine&#34;][/caption]
-Begin september ben ik voor de eerste keer geïnterviewd. Het interview was voor nobiles.nl een blad voor studenten en alumni en het ging over lifehacking! Ze waren opzoek naar studenten die lifehacking gebruiken voor de studie of in het dagelijkse leven. Via Google kwamen ze terecht op mijn blog :) Het interview is samengevat en gebruikt voor het grote artikel over lifehacking.
-Het stukje over mij heb ik even ingescand en is hiernaast te lezen:</description>
-    </item>
-    
-    <item>
-      <title>Hardlopen met RunKeeper</title>
-      <link>https://jplattel.nl/post/2009-09-27-hardlopen-met-runkeeper/</link>
-      <pubDate>Sun, 27 Sep 2009 18:28:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2009-09-27-hardlopen-met-runkeeper/</guid>
-      <description>Ze zijn nu 4 weken in mijn bezit en lopen nogsteeds heerlijk. Ik heb het over mijn Vibram Five Fingers :D Omdat ik graag wat data wil zien, en graag mag klooien met mashups, was ik opzoek gegaan naar een iPhone applicatie die voor mij het loggen van een stuk hardlopen overnam. Voorheen tekende ik braaf een lijntje op Google Maps erbij, maar dat kostte teveel moeite.
-En ik ben dan wel zo iemand die het zichzelf zo gemakkelijk mogelijk maakt ;) .</description>
-    </item>
-    
-    <item>
-      <title>Op blote voeten Pt. 2</title>
-      <link>https://jplattel.nl/post/2009-09-16-op-blote-voeten-pt-2/</link>
-      <pubDate>Wed, 16 Sep 2009 13:57:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2009-09-16-op-blote-voeten-pt-2/</guid>
-      <description>[caption id=&#34;&#34; align=&#34;alignright&#34; width=&#34;224&#34; caption=&#34;Vibram Five Fingers - Classic Black&#34;][/caption]
-Naar aanleiding van mijn vorige post even een vervolg. Ik loop nu al 2 en een halve week op de Vibram Five Fingers. Niet elke dag, want af en toe wil ik ook wel wat anders, omdat ik last heb van spierpijn in mijn voeten.
-Ik ben inmiddels al 3 keer wezen hardlopen, driemaal 5 kilometer. Maar toch krijg ik het niet voor elkaar om alles in een keer uit te lopen.</description>
-    </item>
-    
-    <item>
-      <title>Joost loopt op Vibram Five Fingers</title>
-      <link>https://jplattel.nl/post/2009-09-06-joost-loopt-op-vibram-five-fingers/</link>
-      <pubDate>Sun, 06 Sep 2009 15:36:57 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2009-09-06-joost-loopt-op-vibram-five-fingers/</guid>
-      <description>Sommige hebben we er al op zien lopen rondbazuinen, andere mensen vinden ze lelijk , maar nog veel meer mensen staren heel lang naar je voeten...
-Waar heb ik het over? Over het genot om over op blote voeten te lopen, want daar houd ik van. En gelukkig kan dat nu, overal! Ik kwam de schoenen tegen op de blog van Tim Ferris, toen vond ik ze nog wat apart, maar nieuwsgierig als ik was heb ik toch nog even gegoogled en het bleek dat er veel mensen zijn die er positief over waren.</description>
-    </item>
-    
-    <item>
-      <title>Self-tracking &amp; QR Codes een prima combinatie!</title>
-      <link>https://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</link>
-      <pubDate>Mon, 20 Jul 2009 19:24:04 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2009-07-20-self-tracking-qr-codes-een-prima-combinatie/</guid>
-      <description>Een barcode kent iedereen wel, dat is een balk met streepjes die bij de kassa word ingescand, aan de hand daarvan word het product afgerekend. De barcode bestaat uit een vast aantal getallen, maar tegenwoordig zijn er ook QR-codes, deze kunnen meer bevatten dan alleen data ( zoals URL&#39;s ;) ).
-Hiernaast vind je een voorbeeld van een QR-code. Hoe gebruik je nu precies een QR-code? Schiet er een foto van met een telefoon die het gebruik ervan ondersteund.</description>
-    </item>
-    
-    <item>
-      <title>Lifehacking Academy</title>
-      <link>https://jplattel.nl/post/2009-05-27-lifehacking-academy/</link>
-      <pubDate>Wed, 27 May 2009 11:44:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2009-05-27-lifehacking-academy/</guid>
-      <description>Gister was lifehacking academy in Groningen, met 6 man gingen we dinsdag vroeg op pad. Eenmaal de groep bij elkaar, en zittend in de trein, werd ik gebeld door Martijn Aslander, of wij op het Palace of Wisdom zouden willen staan met ons zessen. Natuurlijk willen wij dat, als beginnende groep slimmer werken coaches kunnen wij de experts uithangen en de nodige reclame maken en connecties gebruiken.
-Om ongeveer 11 uur waren wij aanwezig in Images, en zochten wij een mooie plaats uit in de grote zaal.</description>
     </item>
     
   </channel>

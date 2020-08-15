@@ -6,11 +6,29 @@
     <description>Recent content in Clients on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 07 Nov 2019 15:13:39 +0100</lastBuildDate>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 30 May 2020 23:27:24 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dropper</title>
+      <link>https://jplattel.nl/client/dropper/</link>
+      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/dropper/</guid>
+      <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application.</description>
+    </item>
+    
+    <item>
+      <title>Vogsy</title>
+      <link>https://jplattel.nl/client/vogsy/</link>
+      <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/vogsy/</guid>
+      <description>For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.</description>
+    </item>
     
     <item>
       <title>Wafl</title>
@@ -68,21 +86,12 @@ My work consisted out of gathering the data, visualisation and future strategy o
     </item>
     
     <item>
-      <title>Vogsy</title>
-      <link>https://jplattel.nl/client/vogsy/</link>
-      <pubDate>Sun, 20 May 2018 00:19:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/vogsy/</guid>
-      <description>For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.</description>
-    </item>
-    
-    <item>
       <title>Sustrans</title>
       <link>https://jplattel.nl/client/sustrans/</link>
       <pubDate>Fri, 04 Aug 2017 19:01:15 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/sustrans/</guid>
-      <description>For Sustrans in the United Kingdom I made a custom dashboard that allows people to gain insights into their own mobility based on the Moves app (now deprecated sadly!)</description>
+      <description>For Sustrans in the United Kingdom I made a custom dashboard that allows people to gain insights into their own mobility based on the Moves app (sadly, now deprecated!)</description>
     </item>
     
     <item>

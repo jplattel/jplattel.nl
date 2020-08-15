@@ -1,497 +1,320 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="theme" content="hugo-academic">
-  <meta name="author" content="Joost Plattel">
+  <title> Sous-vide food with a rice cooker </title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta property="og:title" content="Sous-vide food with a rice cooker" />
+<meta property="og:description" content="This has been on my tinker-list for around 4 years, and I&rsquo;ve finally got around doing it. I made a little temperature controlled relay to my rice-cooker which enables me to use it as a sous-vide apparatus. That&rsquo;s wonderful, because it&rsquo;s now easier to prepare meat, and most importantly, eat 67 °C eggs. So how did I do it? I bought a really cheap PID from DealExtreme, and with some help of Martin Deen I had everything set up." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/" />
+<meta property="article:published_time" content="2016-01-20T15:56:41+01:00" />
+<meta property="article:modified_time" content="2016-01-20T15:56:41+01:00" />
 
-  
-  
-  
-  
-    
-      
-    
-  
-  <meta name="description" content="This has been on my tinker-list for around 4 years, and I&#39;ve finally got around doing it. I made a little temperature controlled relay to my rice-cooker which enables me to use it as a sous-vide apparatus. That&#39;s wonderful, because it&#39;s now easier to prepare meat, and most importantly, eat 67 °C eggs. So how did I do it? I bought a really cheap PID from DealExtreme, and with some help of Martin Deen I had everything set up.
-But that&#39;s where things got wrong 4 years ago... The PID didn&#39;t seem to function properly, I couldn&#39;t find a way to calibrate it and I was missing tools and manuals to create a good enclosure for the PID. So I left the project catching dust in a drawer..">
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Sous-vide food with a rice cooker"/>
+<meta name="twitter:description" content="This has been on my tinker-list for around 4 years, and I&rsquo;ve finally got around doing it. I made a little temperature controlled relay to my rice-cooker which enables me to use it as a sous-vide apparatus. That&rsquo;s wonderful, because it&rsquo;s now easier to prepare meat, and most importantly, eat 67 °C eggs. So how did I do it? I bought a really cheap PID from DealExtreme, and with some help of Martin Deen I had everything set up."/>
 
-  <link rel="webmention" href="https://webmention.io/jplattel.nl/webmention" />
-  <link rel="pingback" href="https://webmention.io/jplattel.nl/xmlrpc" />
-
-  <link rel="icon" href="/img/favicon.ico">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/">
-
-  
-
-
-  
-
-  
-  
-  <meta name="theme-color" content="#008c19">
-  
-  
   
   
     
   
   
-    
-    
-      
-        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-      
-    
+  <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
+  <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
   
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
-  
-  
-  
-  
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7cMerriweather%7cRoboto&#43;Mono">
-  
-  <link rel="stylesheet" href="/styles.css">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
   
 
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-18951988-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
+<link rel="icon" type="image/png" href="https://jplattel.nl/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://jplattel.nl/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://jplattel.nl/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://jplattel.nl/icon/favicon-16x16.png">
+<link rel="manifest" href="https://jplattel.nl/icon/site.webmanifest">
+<link rel="mask-icon" href="https://jplattel.nl/icon/safari-pinned-tab.svg" color="#5bbad5">
   
   
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js" integrity="sha256-M/Awbb/BYh+Rh0aGjpQid26p1b2OBsrk2k9yAvQxPV0=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-
-
   
-
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
-
-  <link rel="canonical" href="https://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/">
-
-  <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@jplattel">
-  <meta property="twitter:creator" content="@jplattel">
   
-  <meta property="og:site_name" content="Joost Plattel">
-  <meta property="og:url" content="https://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/">
-  <meta property="og:title" content="Sous-vide food with a rice cooker | Joost Plattel">
-  <meta property="og:description" content="This has been on my tinker-list for around 4 years, and I&#39;ve finally got around doing it. I made a little temperature controlled relay to my rice-cooker which enables me to use it as a sous-vide apparatus. That&#39;s wonderful, because it&#39;s now easier to prepare meat, and most importantly, eat 67 °C eggs. So how did I do it? I bought a really cheap PID from DealExtreme, and with some help of Martin Deen I had everything set up.
-But that&#39;s where things got wrong 4 years ago... The PID didn&#39;t seem to function properly, I couldn&#39;t find a way to calibrate it and I was missing tools and manuals to create a good enclosure for the PID. So I left the project catching dust in a drawer..">
-  <meta property="og:locale" content="en-us">
-  
-  <meta property="article:published_time" content="2016-01-20T15:56:41&#43;01:00">
-  
-  <meta property="article:modified_time" content="2016-01-20T15:56:41&#43;01:00">
-  
-
-  
-
-  
-
-  <title>Sous-vide food with a rice cooker | Joost Plattel</title>
-
 </head>
-<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
 
-<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
-  
-
-  <div class="container">
-
-    <a class="navbar-logo" href="/">
-      <svg style="padding: 10px; padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" viewBox="0 0 24 24">
-        <title>Joost Plattel</title>
-        <desc>Logo Joost Plattel</desc>
-        <path fill="#008c19" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
-      </svg>
-      
-      
-    </a>
-
-    
-    <div class="navbar-header">
-      
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-              data-target=".navbar-collapse" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      
+    <header id="header">
+  <a href="https://jplattel.nl">
+    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
+      <title>Joost Plattel</title>
+      <desc>Logo Joost Plattel</desc>
+      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
+    </svg>
+    <div id="title">
+      <h1>Joost Plattel</h1>
     </div>
-
-    
-    <div class="collapse navbar-collapse">
-
+  </a>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
       
-      
-      <ul class="nav navbar-nav navbar-right">
-        
-
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a href="/">
-            
-            <span>Home</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/post/">
-            
-            <span>Blog</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/project/">
-            
-            <span>Projects</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/speaking/">
-            
-            <span>Speaking</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/wishlist/">
-            
-            <span>Wishlist</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/search/">
-            
-            <span>Search</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/#contact">
-            
-            <span>Contact</span>
-            
-          </a>
-        </li>
-
-        
-        
-      
-
-      
-      </ul>
-
-    </div>
+    </ul>
   </div>
-</nav>
-
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
-
+</header>
   
-
-
-  <div class="article-container">
-    <h1 itemprop="name">Sous-vide food with a rice cooker</h1>
 
     
-
-<div class="article-metadata">
-
-  <span class="article-date">
-    
-    <time datetime="2016-01-20 15:56:41 &#43;0100 CET" itemprop="datePublished dateModified">
-      Jan 20, 2016
-    </time>
-  </span>
-  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Joost Plattel">
-  </span>
-
-  
-
-  
-  
-
-  
-  
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Sous-vide food with a rice cooker
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2016-01-20 15:56:41 &#43;0100 CET" itemprop="datePublished">20-01-2016</time>
+          
+        </div>
+        
+        
+      </div>
+    </header>
 
   
-
-</div>
-
-
-    <div class="article-style" itemprop="articleBody">
-      </p>
-<p>Fast-forward to one week ago.. I had 1 day reserved for tinkering (ship it!) and it should be done. I fetched the PID from the drawer and got to work.. Here's a little timelapse: (in better quality than Facebook)</p>
-<iframe class="aligncenter" width="640" height="360" src="https://player.vimeo.com/video/152424702" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<p>During lunch hour, it seem to work and I rushed to the local supermarket for eggs... Look what I had for lunch:<br />
-<img class="alignleft size-large wp-image-3443 aligncenter" src="/img/egg-1024x581.png" alt="Sous-vide eggs"  /><br />
-And next day I threw in a large piece of meat:<br />
-<img class="alignleft size-large wp-image-3444 aligncenter" src="/img/IMG_7016-1024x768.jpg" alt="Sous-vide meat, 73 degrees for 11 hours."  /><br />
-That meat turned out even better! Now with everything working properly I could focus on creating a nice enclosure for the device. I wanted to have something sturdy and I had some small changes for the electrical circuit. I wanted to keep on using the rice cooker for normal usage as well, so I made plan to make a device with 1 socket in and 1 socket out. This way, both could be a stand-alone device and usable for other things too! So with a bit of woodworking and electrical wire, I made an enclosure:<br />
-<img class="aligncenter size-large wp-image-3445" src="/img/IMG_4352-e1453301095900-1021x1024.jpg" alt="IMG_4352"  /><br />
-Now I only need to close it with a bottom plate and add Sugru feet to it. Then it's done! Let's see what other interesting recipes are available for this thing!</p>
+    <div class="content" itemprop="articleBody">
+      <p>This has been on my <em>tinker-list</em> for around 4 years, and I&rsquo;ve finally got around doing it. I made a little temperature controlled relay to my rice-cooker which enables me to use it as a sous-vide apparatus. That&rsquo;s wonderful, because it&rsquo;s now easier to prepare meat, and most importantly, eat 67 °C eggs. So how did I do it? I bought a really cheap PID <a href="http://www.dx.com/p/digital-temperature-controller-66334?r=41389038">from DealExtreme</a>, and with some help of Martin Deen I had everything set up.</p>
+<p>But that&rsquo;s where things got wrong 4 years ago&hellip; The PID didn&rsquo;t seem to function properly, I couldn&rsquo;t find a way to calibrate it and I was missing tools and manuals to create a good enclosure for the PID. So I left the project catching dust in a drawer..</p>
+<p>Fast-forward to one week ago.. I had 1 day reserved for tinkering (ship it!) and it should be done. I fetched the PID from the drawer and got to work.. Here&rsquo;s a little timelapse: (in better quality than Facebook)</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://player.vimeo.com/video/152424702" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ </div>
+<p>During lunch hour, it seem to work and I rushed to the local supermarket for eggs&hellip;  And next day I threw in a large piece of meat:</p>
+<p><img src="/img/IMG_7016-1024x768.jpg" alt="Sous-vide meat, 73 degrees for 11 hours."></p>
+<p>That meat turned out even better! Now with everything working properly I could focus on creating a nice enclosure for the device. I wanted to have something sturdy and I had some small changes for the electrical circuit. I wanted to keep on using the rice cooker for normal usage as well, so I made plan to make a device with 1 socket in and 1 socket out. This way, both could be a stand-alone device and usable for other things too! So with a bit of woodworking and electrical wire, I made an enclosure:</p>
+<p><img src="/img/IMG_4352-e1453301095900-1021x1024.jpg" alt="IMG_4352"></p>
+<p>Now I only need to close it with a bottom plate and add Sugru feet to it. Then it&rsquo;s done! Let&rsquo;s see what other interesting recipes are available for this thing!</p>
 
     </div>
+  </article>
 
-    
-
-
-<div class="article-tags">
   
-  <a class="btn btn-primary btn-outline" href="https://jplattel.nl/tags/cooker/">cooker</a>
   
-  <a class="btn btn-primary btn-outline" href="https://jplattel.nl/tags/cooking/">cooking</a>
-  
-  <a class="btn btn-primary btn-outline" href="https://jplattel.nl/tags/rice/">rice</a>
-  
-  <a class="btn btn-primary btn-outline" href="https://jplattel.nl/tags/sous/">sous</a>
-  
-  <a class="btn btn-primary btn-outline" href="https://jplattel.nl/tags/tech/">tech</a>
-  
-  <a class="btn btn-primary btn-outline" href="https://jplattel.nl/tags/vide/">vide</a>
-  
-</div>
 
 
 
 
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
+
+  <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
       <ul>
-        
-        <li><a href="/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/">Cooking up and getting down in Chemistry</a></li>
-        
-        <li><a href="/post/2013-05-15-qs-europe-conference/">QS Europe Conference</a></li>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/post">Posts</a></li>
+         
+          <li><a href="/project">Projects</a></li>
+         
+          <li><a href="/wishlist">Wishlist</a></li>
+         
+          <li><a href="/about">About</a></li>
+         
+          <li><a href="/contact">Contact</a></li>
         
       </ul>
     </div>
-    
 
-    
+    <div id="toc-footer" style="display: none">
+      <nav id="TableOfContents"></nav>
+    </div>
 
+    <div id="share-footer" style="display: none">
+      
+      <ul>
+  
+  
     
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f">
+      <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&text=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&title=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&is_video=false&description=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=Sous-vide%20food%20with%20a%20rice%20cooker&body=Check out this article: https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f">
+      <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&title=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&title=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.stumbleupon.com/submit?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&title=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://digg.com/submit?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&title=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-digg fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&name=Sous-vide%20food%20with%20a%20rice%20cooker&description=This%20has%c2%a0been%20on%20my%20tinker-list%20for%20around%204%20years%2c%20and%20I%26rsquo%3bve%20finally%20got%20around%20doing%20it.%20I%20made%20a%20little%20temperature%20controlled%20relay%20to%20my%20rice-cooker%20which%20enables%20me%20to%20use%20it%20as%20a%20sous-vide%20apparatus.%20That%26rsquo%3bs%20wonderful%2c%20because%20it%26rsquo%3bs%20now%20easier%20to%20prepare%20meat%2c%20and%20most%20importantly%2c%20eat%2067%c2%a0%c2%b0C%20eggs.%20So%20how%20did%20I%20do%20it%3f%20I%20bought%20a%20really%20cheap%20PID%20from%20DealExtreme%2c%20and%20with%20some%20help%20of%20Martin%20Deen%20I%20had%20everything%20set%20up.">
+      <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fjplattel.nl%2fpost%2f2016-01-20-sous-vide-rice-cooker%2f&t=Sous-vide%20food%20with%20a%20rice%20cooker">
+      <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
 
+    </div>
+
+    <div id="actions-footer">
+      
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;">
+          <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;">
+          <i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;">
+          <i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+          <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
 
   </div>
-</article>
+</div>
 
-<footer class="site-footer">
-  <div class="container">
-    <p class="powered-by">
 
-      &copy; 2020 &middot; 
-
-      Powered by a modified
-      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> and
-      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
-      <span class="pull-right" aria-hidden="true">
-        <a href="#" id="back_to_top">
-          <span class="button_icon">
-            <i class="fa fa-chevron-up fa-2x"></i>
-          </span>
-        </a>
-      </span>
-
-    </p>
-
-    <div style="text-align:center;">
-      <svg style="padding: 10px; padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" viewBox="0 0 24 24">
-        <title>Joost Plattel</title>
-        <desc>Logo Joost Plattel</desc>
-        <path fill="#008c19" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
-      </svg>
-    </div>
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
   </div>
 </footer>
 
 
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Cite</h4>
-      </div>
-      <div>
-        <pre><code class="modal-body tex"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
-          <i class="fa fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
-          <i class="fa fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
+
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  <script src="/js/main.js"></script>
+  
+  
+  
+
+
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
   </div>
-</div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
 
-    
 
-    
-    
-
-    
-
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
-    
-    
-    <script src="/js/hugo-academic.js"></script>
-    
-
-    
+  </div>
+  
     
       
-      
-      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
-      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-18951988-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
-      
-
-      
-
-      <script>hljs.initHighlightingOnLoad();</script>
     
+  
+</body>
 
-    
-    
-
-    <script>  
-      function ReLoadImages(){
-          $('img[data-src]').each( function(){
-              
-              $( this ).attr( 'src', $( this ).attr( 'data-src' ) );
-              }
-          );
-      }
-      
-      document.addEventListener('readystatechange', event => {
-          if (event.target.readyState === "interactive") {  
-              ReLoadImages();
-          }
-      });
-      </script>
-
-  </body>
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+<script src="/lib/jquery/jquery.min.js"></script>
+<script src="/js/main.js"></script>
 </html>
-

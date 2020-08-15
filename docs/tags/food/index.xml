@@ -6,7 +6,7 @@
     <description>Recent content in food on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
+    <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 22 Apr 2018 00:14:12 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/food/index.xml" rel="self" type="application/rss+xml" />
@@ -19,16 +19,6 @@
       
       <guid>https://jplattel.nl/project/sous-vide-ricecooker/</guid>
       <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
-    </item>
-    
-    <item>
-      <title>Publishing personal caloric values</title>
-      <link>https://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/</link>
-      <pubDate>Tue, 27 Sep 2011 09:24:16 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/</guid>
-      <description>I&#39;ve started tracking my food intake with Foodzy about 13 days ago. And while doing that I already came across some interesting things. I&#39;ve never been fully tracking my food intake, but the Foodzy app on my iPhone with extensive database (including typical dutch food) makes it quite easy. I&#39;ve been tracking for thirteen days now.
-The first step I wanted to take is to generate a baseline of my typical food consumption(and thus caloric values), this way I can see where I can make improvements and measure the changes.</description>
     </item>
     
   </channel>

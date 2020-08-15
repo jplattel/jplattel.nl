@@ -6,7 +6,7 @@
     <description>Recent content in app on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
+    <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sat, 17 Aug 2019 20:01:21 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/app/index.xml" rel="self" type="application/rss+xml" />
@@ -20,36 +20,6 @@
       <guid>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</guid>
       <description>One of my first projects for learning programming and navigating around the digitale sphere was building a visualization based on transport data. As I use public transport for all travel I naturally wanted to know how I spend my money on it.
 This question has been popping in and out of my mind ever since and more recently I had some time to tinker again. This time I was wonder if I could recommend subscriptions based on historical data from a person.</description>
-    </item>
-    
-    <item>
-      <title>Using Moves data for?</title>
-      <link>https://jplattel.nl/post/2013-12-18-using-moves-data/</link>
-      <pubDate>Wed, 18 Dec 2013 18:29:35 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2013-12-18-using-moves-data/</guid>
-      <description>In July I wrote a little wrapper for the Moves App API. But I didn&#39;t develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I&#39;m currently building. I&#39;ve drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I&#39;ve got some friends who come up with great ideas too!</description>
-    </item>
-    
-    <item>
-      <title>A python library for the Moves App API</title>
-      <link>https://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</link>
-      <pubDate>Tue, 09 Jul 2013 19:52:23 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</guid>
-      <description>For Quantified Self starters I recommend the really nice Moves App. The interface is really nice and the battery drain isn&#39;t that bad if you recharge it twice a day. They recently opened up their API enabling developers like me to create apps based on their platform. For me the first step towards creating an app is a easier way to communicate with the API.
-As with the fitbit, I&#39;ve written a open-source library for you to use!</description>
-    </item>
-    
-    <item>
-      <title>Showertrack!</title>
-      <link>https://jplattel.nl/post/2012-07-15-showertrack/</link>
-      <pubDate>Sun, 15 Jul 2012 22:06:18 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2012-07-15-showertrack/</guid>
-      <description>&lt;p&gt;So much projects, so little time... But hey, let&#39;s just use some of my spare time for keeping you guys updated on the stuff I do. I&#39;ve been doing several things, but the most interesting right now is a new iPhone app concept that we&#39;ve been developing since last month. Together with Nils Waanders and Willemijn Edens we are creating an app which helps people save water while showering. It&#39;s called &lt;strong&gt;&lt;a href=&#34;http://www.showertrack.com/&#34;&gt;Showertrack&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The way we are building Showertrack is an excellent example on how to create something in a more freeform way, or lean if you want to call it that way. We don&#39;t seem to have office hours or office space. We are however supported by people like &lt;a href=&#34;http://twitter.com/arjanharing&#34;&gt;Arjan Haring&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/mattwallaert&#34;&gt;Matt Wallaert&lt;/a&gt;. Utrecht Inc. also lends us space for creative processes.&lt;/p&gt;
-&lt;p&gt;The concept is coming along nicely, we&#39;re done with our first wireframes, have a look below:</description>
     </item>
     
   </channel>

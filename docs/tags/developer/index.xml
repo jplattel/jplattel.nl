@@ -6,7 +6,7 @@
     <description>Recent content in developer on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
+    <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/developer/index.xml" rel="self" type="application/rss+xml" />
@@ -29,7 +29,7 @@ When I made the switch towards micropython I saw no such thing existed. But havi
       
       <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
       <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
- iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens  Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
+ iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens   Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
     </item>
     
   </channel>

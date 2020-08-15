@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
+    <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Lifehacking</title>
+      <title>lifehacking</title>
       <link>https://jplattel.nl/categories/lifehacking/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
       
@@ -45,78 +45,6 @@
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
       
       <guid>https://jplattel.nl/categories/brouwerij-nooitgedacht/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joost</title>
-      <link>https://jplattel.nl/categories/joost/</link>
-      <pubDate>Thu, 25 Aug 2016 15:42:46 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/categories/joost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random</title>
-      <link>https://jplattel.nl/categories/random/</link>
-      <pubDate>Mon, 25 Jul 2016 13:09:06 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/categories/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://jplattel.nl/categories/code/</link>
-      <pubDate>Mon, 02 May 2016 22:19:59 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/categories/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantified Self</title>
-      <link>https://jplattel.nl/categories/quantified-self/</link>
-      <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/categories/quantified-self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://jplattel.nl/categories/technology/</link>
-      <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philosophy</title>
-      <link>https://jplattel.nl/categories/philosophy/</link>
-      <pubDate>Tue, 23 Feb 2016 14:11:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mashups</title>
-      <link>https://jplattel.nl/categories/mashups/</link>
-      <pubDate>Mon, 02 Feb 2015 12:45:05 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/categories/mashups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemistry</title>
-      <link>https://jplattel.nl/categories/chemistry/</link>
-      <pubDate>Mon, 05 Apr 2010 10:06:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/categories/chemistry/</guid>
       <description></description>
     </item>
     
