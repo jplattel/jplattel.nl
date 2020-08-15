@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on Joost Plattel</title>
-    <link>https://example.com/tags/code/</link>
+    <link>https://jplattel.nl/tags/code/</link>
     <description>Recent content in code on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Micropython LCD menu: upymenu</title>
-      <link>https://example.com/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
+      <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
       
-      <guid>https://example.com/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
+      <guid>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
       <description>I&amp;rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.
 When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!</description>
     </item>
     
     <item>
       <title>My setup for Python projects</title>
-      <link>https://example.com/post/2020-01-19-python-projects-setup/</link>
+      <link>https://jplattel.nl/post/2020-01-19-python-projects-setup/</link>
       <pubDate>Sun, 19 Jan 2020 20:07:24 +0100</pubDate>
       
-      <guid>https://example.com/post/2020-01-19-python-projects-setup/</guid>
+      <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
       <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
  iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens   Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
     </item>

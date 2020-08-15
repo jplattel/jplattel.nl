@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Joost Plattel</title>
-    <link>https://example.com/tags/python/</link>
+    <link>https://jplattel.nl/tags/python/</link>
     <description>Recent content in python on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sat, 30 May 2020 23:27:24 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dropper</title>
-      <link>https://example.com/client/dropper/</link>
+      <link>https://jplattel.nl/client/dropper/</link>
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
       
-      <guid>https://example.com/client/dropper/</guid>
+      <guid>https://jplattel.nl/client/dropper/</guid>
       <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application.</description>
     </item>
     
     <item>
       <title>Micropython LCD menu: upymenu</title>
-      <link>https://example.com/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
+      <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
       
-      <guid>https://example.com/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
+      <guid>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
       <description>I&amp;rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.
 When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!</description>
     </item>
     
     <item>
       <title>My setup for Python projects</title>
-      <link>https://example.com/post/2020-01-19-python-projects-setup/</link>
+      <link>https://jplattel.nl/post/2020-01-19-python-projects-setup/</link>
       <pubDate>Sun, 19 Jan 2020 20:07:24 +0100</pubDate>
       
-      <guid>https://example.com/post/2020-01-19-python-projects-setup/</guid>
+      <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
       <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
  iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens   Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
     </item>
     
     <item>
       <title>Measuring mouse interaction</title>
-      <link>https://example.com/post/2011-02-27-measuring-mouse-interaction/</link>
+      <link>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</link>
       <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
       
-      <guid>https://example.com/post/2011-02-27-measuring-mouse-interaction/</guid>
+      <guid>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</guid>
       <description>I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&amp;rsquo;t draw any conclusions about it because I switched my operating system too!
 However more recently I started using MacLogger and together with Jelle I&amp;rsquo;ve made some custom python and processing scripts that should offer more insight into my mouse usage.</description>
     </item>
     
     <item>
       <title>GeoTracking: streaming GPS locations</title>
-      <link>https://example.com/post/2010-08-31-geotracking-streaming-gps-locations/</link>
+      <link>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</link>
       <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
       
-      <guid>https://example.com/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
+      <guid>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
       <description>I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.
 Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.
   I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>

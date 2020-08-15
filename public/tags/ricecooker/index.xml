@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ricecooker on Joost Plattel</title>
-    <link>https://example.com/tags/ricecooker/</link>
+    <link>https://jplattel.nl/tags/ricecooker/</link>
     <description>Recent content in ricecooker on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 22 Apr 2018 00:14:12 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/ricecooker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/ricecooker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sous-vide Rice Cooker</title>
-      <link>https://example.com/project/sous-vide-ricecooker/</link>
+      <link>https://jplattel.nl/project/sous-vide-ricecooker/</link>
       <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
       
-      <guid>https://example.com/project/sous-vide-ricecooker/</guid>
+      <guid>https://jplattel.nl/project/sous-vide-ricecooker/</guid>
       <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
     </item>
     

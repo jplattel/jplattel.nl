@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>brussels on Joost Plattel</title>
-    <link>https://example.com/tags/brussels/</link>
+    <link>https://jplattel.nl/tags/brussels/</link>
     <description>Recent content in brussels on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 13 Mar 2011 21:55:20 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/brussels/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jplattel.nl/tags/brussels/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trip to Brussels</title>
-      <link>https://example.com/post/2011-03-13-trip-to-brussels/</link>
+      <link>https://jplattel.nl/post/2011-03-13-trip-to-brussels/</link>
       <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
       
-      <guid>https://example.com/post/2011-03-13-trip-to-brussels/</guid>
+      <guid>https://jplattel.nl/post/2011-03-13-trip-to-brussels/</guid>
       <description>This week I travelled to Brussels so I could give a talk at the Quantified Self Meetup group there. And I&amp;rsquo;ve been involved in the startup Scanadu which is about broadcasting your health. Together with people like Walter de Brouwer and Misha Chellam we are going to take a different approach to health. During my stay in Brussels I&amp;rsquo;ve learned a lot (including my level of French, it&amp;rsquo;s really bad!). Really liked the city though!</description>
     </item>
     
