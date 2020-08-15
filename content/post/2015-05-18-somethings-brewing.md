@@ -8,7 +8,6 @@ status: publish
 tags:
 - beer
 - brewing
-
 ---
 And it's beer! Well it's stored now and bubbling away! Yesterday afternoon I've brewed my first batch of beer. With the gear and knowledge of a friend, we manufactured 48 liters of pale ale. The sunny afternoon also was a perfect opportunity for my new camera, so I took some tests shots. Here's the brewery in my backyard:
 
