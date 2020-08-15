@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Joost Plattel</title>
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Thu, 19 Mar 2020 16:33:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organization.supply</title>
+      <link>https://example.com/project/organization-supply/</link>
+      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
+      
+      <guid>https://example.com/project/organization-supply/</guid>
+      <description>Simple inventory management tool build with Python &amp;amp; Django</description>
+    </item>
+    
+    <item>
+      <title>EHBA.app</title>
+      <link>https://example.com/project/ehba/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://example.com/project/ehba/</guid>
+      <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
+    </item>
+    
+    <item>
+      <title>Personalstats</title>
+      <link>https://example.com/project/personalstats/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/project/personalstats/</guid>
+      <description>A little web application that pulls in data from Workflowy to make it more understandable</description>
+    </item>
+    
+    <item>
+      <title>Ambassador for the Digital Society School Amsterdam</title>
+      <link>https://example.com/project/ambassador-digital-society-school-amsterdam/</link>
+      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
+      
+      <guid>https://example.com/project/ambassador-digital-society-school-amsterdam/</guid>
+      <description>In 2018 - 2020 I am one of the ambassadors for the Digital Society School located in Amsterdam</description>
+    </item>
+    
+    <item>
+      <title>Sous-vide Rice Cooker</title>
+      <link>https://example.com/project/sous-vide-ricecooker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>https://example.com/project/sous-vide-ricecooker/</guid>
+      <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
+    </item>
+    
+    <item>
+      <title>DIY Longboard</title>
+      <link>https://example.com/project/diy-longboard/</link>
+      <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
+      
+      <guid>https://example.com/project/diy-longboard/</guid>
+      <description>I created my own longboard from scratch (with a Mondrian pattern on the back).</description>
+    </item>
+    
+    <item>
+      <title>De Padvinders</title>
+      <link>https://example.com/project/de-padvinders/</link>
+      <pubDate>Sat, 21 Apr 2018 23:07:36 +0200</pubDate>
+      
+      <guid>https://example.com/project/de-padvinders/</guid>
+      <description>Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &amp;lsquo;tell me five ways I can save an hour a day.&amp;rsquo; Whatever you need to pay for this service, it will pay for itself in a week. ~ Seth Godin</description>
+    </item>
+    
+    <item>
+      <title>Mondriaantje</title>
+      <link>https://example.com/project/mondriaantje/</link>
+      <pubDate>Sat, 21 Apr 2018 22:55:11 +0200</pubDate>
+      
+      <guid>https://example.com/project/mondriaantje/</guid>
+      <description>Input your name and get your own personalized Mondrian!</description>
+    </item>
+    
+    <item>
+      <title>Berichtenbox Forwarder</title>
+      <link>https://example.com/project/berichtenbox-forwarder/</link>
+      <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
+      
+      <guid>https://example.com/project/berichtenbox-forwarder/</guid>
+      <description>A small utility that enables automagic fetching of messages of our government.</description>
+    </item>
+    
+    <item>
+      <title>Quantified Self community</title>
+      <link>https://example.com/project/quantifiedself/</link>
+      <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
+      
+      <guid>https://example.com/project/quantifiedself/</guid>
+      <description>I co-founded the QS Amsterdam group &amp;amp; started the QS Conference in Europe.</description>
+    </item>
+    
+    <item>
+      <title>The Curious Corner of the Internet</title>
+      <link>https://example.com/project/curious_corner/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>https://example.com/project/curious_corner/</guid>
+      <description>A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!</description>
+    </item>
+    
+    <item>
+      <title>Brouwerij Nooitgedacht</title>
+      <link>https://example.com/project/brouwerij_nooitgedacht/</link>
+      <pubDate>Sat, 21 Apr 2018 17:56:24 +0200</pubDate>
+      
+      <guid>https://example.com/project/brouwerij_nooitgedacht/</guid>
+      <description>Brouwerij Nooitgedacht is our brewery that I run together with friends.</description>
+    </item>
+    
+    <item>
+      <title>Permanent Beta</title>
+      <link>https://example.com/project/permanent-beta/</link>
+      <pubDate>Wed, 31 May 2017 00:09:50 +0200</pubDate>
+      
+      <guid>https://example.com/project/permanent-beta/</guid>
+      <description>For the Permanent Beta community I build tools that help them organize the community in a more fluid way.</description>
+    </item>
+    
+    <item>
+      <title>Qount.us</title>
+      <link>https://example.com/project/qountus/</link>
+      <pubDate>Sun, 05 Jun 2016 16:29:59 +0200</pubDate>
+      
+      <guid>https://example.com/project/qountus/</guid>
+      <description>How can we use personal data to improve the way we do our work? Qount.us was a dashboard collecting personal data with a goal to increase insights that might boost the quality of life surrounding work.</description>
+    </item>
+    
+  </channel>
+</rss>

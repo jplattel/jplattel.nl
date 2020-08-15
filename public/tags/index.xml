@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Joost Plattel</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 30 May 2020 23:27:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>django</title>
+      <link>https://example.com/tags/django/</link>
+      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
+      
+      <guid>https://example.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postgres</title>
+      <link>https://example.com/tags/postgres/</link>
+      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
+      
+      <guid>https://example.com/tags/postgres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://example.com/tags/python/</link>
+      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
+      
+      <guid>https://example.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://example.com/tags/code/</link>
+      <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developer</title>
+      <link>https://example.com/tags/developer/</link>
+      <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://example.com/tags/development/</link>
+      <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>https://example.com/tags/2019/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>836pm</title>
+      <link>https://example.com/tags/836pm/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/836pm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daily</title>
+      <link>https://example.com/tags/daily/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/daily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photos</title>
+      <link>https://example.com/tags/photos/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://example.com/tags/video/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vimeo</title>
+      <link>https://example.com/tags/vimeo/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/tags/vimeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automating</title>
+      <link>https://example.com/tags/automating/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/tags/automating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beer</title>
+      <link>https://example.com/tags/beer/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brewer</title>
+      <link>https://example.com/tags/brewer/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/tags/brewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brewing</title>
+      <link>https://example.com/tags/brewing/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/tags/brewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIY</title>
+      <link>https://example.com/tags/diy/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://example.com/tags/projects/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bits of Freedom</title>
+      <link>https://example.com/tags/bits-of-freedom/</link>
+      <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
+      
+      <guid>https://example.com/tags/bits-of-freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://example.com/tags/data/</link>
+      <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
+      
+      <guid>https://example.com/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://example.com/tags/privacy/</link>
+      <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
+      
+      <guid>https://example.com/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>makerbeam</title>
+      <link>https://example.com/tags/makerbeam/</link>
+      <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
+      
+      <guid>https://example.com/tags/makerbeam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boredom</title>
+      <link>https://example.com/tags/boredom/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/boredom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>https://example.com/tags/coffee/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ideas</title>
+      <link>https://example.com/tags/ideas/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pi</title>
+      <link>https://example.com/tags/pi/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>printer</title>
+      <link>https://example.com/tags/printer/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/printer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry</title>
+      <link>https://example.com/tags/raspberry/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/raspberry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abonnementen</title>
+      <link>https://example.com/tags/abonnementen/</link>
+      <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/abonnementen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>app</title>
+      <link>https://example.com/tags/app/</link>
+      <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EHBA</title>
+      <link>https://example.com/tags/ehba/</link>
+      <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/ehba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ns</title>
+      <link>https://example.com/tags/ns/</link>
+      <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/ns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personalstats</title>
+      <link>https://example.com/tags/personalstats/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/tags/personalstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QS</title>
+      <link>https://example.com/tags/qs/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/tags/qs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantifiedself</title>
+      <link>https://example.com/tags/quantifiedself/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/tags/quantifiedself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workflowy</title>
+      <link>https://example.com/tags/workflowy/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/tags/workflowy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iphone</title>
+      <link>https://example.com/tags/iphone/</link>
+      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
+      
+      <guid>https://example.com/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lifehacking</title>
+      <link>https://example.com/tags/lifehacking/</link>
+      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
+      
+      <guid>https://example.com/tags/lifehacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nfc</title>
+      <link>https://example.com/tags/nfc/</link>
+      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
+      
+      <guid>https://example.com/tags/nfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcuts</title>
+      <link>https://example.com/tags/shortcuts/</link>
+      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
+      
+      <guid>https://example.com/tags/shortcuts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xs</title>
+      <link>https://example.com/tags/xs/</link>
+      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
+      
+      <guid>https://example.com/tags/xs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D printing</title>
+      <link>https://example.com/tags/3d-printing/</link>
+      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      
+      <guid>https://example.com/tags/3d-printing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fixing</title>
+      <link>https://example.com/tags/fixing/</link>
+      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      
+      <guid>https://example.com/tags/fixing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maker</title>
+      <link>https://example.com/tags/maker/</link>
+      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      
+      <guid>https://example.com/tags/maker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>making</title>
+      <link>https://example.com/tags/making/</link>
+      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      
+      <guid>https://example.com/tags/making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fusion 360</title>
+      <link>https://example.com/tags/fusion-360/</link>
+      <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
+      
+      <guid>https://example.com/tags/fusion-360/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plane</title>
+      <link>https://example.com/tags/plane/</link>
+      <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
+      
+      <guid>https://example.com/tags/plane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restoration</title>
+      <link>https://example.com/tags/restoration/</link>
+      <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
+      
+      <guid>https://example.com/tags/restoration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://example.com/tags/tools/</link>
+      <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
+      
+      <guid>https://example.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>woodworking</title>
+      <link>https://example.com/tags/woodworking/</link>
+      <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
+      
+      <guid>https://example.com/tags/woodworking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brewery</title>
+      <link>https://example.com/tags/brewery/</link>
+      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
+      
+      <guid>https://example.com/tags/brewery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brouwerij</title>
+      <link>https://example.com/tags/brouwerij/</link>
+      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
+      
+      <guid>https://example.com/tags/brouwerij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kratfunding</title>
+      <link>https://example.com/tags/kratfunding/</link>
+      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
+      
+      <guid>https://example.com/tags/kratfunding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>food</title>
+      <link>https://example.com/tags/food/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>https://example.com/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://example.com/tags/hardware/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>https://example.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ricecooker</title>
+      <link>https://example.com/tags/ricecooker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>https://example.com/tags/ricecooker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dream</title>
+      <link>https://example.com/tags/dream/</link>
+      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/dream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dreaming</title>
+      <link>https://example.com/tags/dreaming/</link>
+      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/dreaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lucid</title>
+      <link>https://example.com/tags/lucid/</link>
+      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/lucid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recall</title>
+      <link>https://example.com/tags/recall/</link>
+      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/recall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sleep</title>
+      <link>https://example.com/tags/sleep/</link>
+      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WILD</title>
+      <link>https://example.com/tags/wild/</link>
+      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
+      
+      <guid>https://example.com/tags/wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>export</title>
+      <link>https://example.com/tags/export/</link>
+      <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
+      
+      <guid>https://example.com/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moby</title>
+      <link>https://example.com/tags/moby/</link>
+      <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
+      
+      <guid>https://example.com/tags/moby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobypicture</title>
+      <link>https://example.com/tags/mobypicture/</link>
+      <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
+      
+      <guid>https://example.com/tags/mobypicture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantified Self</title>
+      <link>https://example.com/tags/quantified-self/</link>
+      <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
+      
+      <guid>https://example.com/tags/quantified-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-tracking</title>
+      <link>https://example.com/tags/self-tracking/</link>
+      <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
+      
+      <guid>https://example.com/tags/self-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brussels</title>
+      <link>https://example.com/tags/brussels/</link>
+      <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
+      
+      <guid>https://example.com/tags/brussels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qsbru</title>
+      <link>https://example.com/tags/qsbru/</link>
+      <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
+      
+      <guid>https://example.com/tags/qsbru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scanadu</title>
+      <link>https://example.com/tags/scanadu/</link>
+      <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
+      
+      <guid>https://example.com/tags/scanadu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacLogger</title>
+      <link>https://example.com/tags/maclogger/</link>
+      <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
+      
+      <guid>https://example.com/tags/maclogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing</title>
+      <link>https://example.com/tags/processing/</link>
+      <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
+      
+      <guid>https://example.com/tags/processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifed Self</title>
+      <link>https://example.com/tags/quantifed-self/</link>
+      <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
+      
+      <guid>https://example.com/tags/quantifed-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://example.com/tags/technology/</link>
+      <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
+      
+      <guid>https://example.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://example.com/tags/thoughts/</link>
+      <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
+      
+      <guid>https://example.com/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amsterdam</title>
+      <link>https://example.com/tags/amsterdam/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/amsterdam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Informatics</title>
+      <link>https://example.com/tags/personal-informatics/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>https://example.com/tags/personal-informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>appengine</title>
+      <link>https://example.com/tags/appengine/</link>
+      <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
+      
+      <guid>https://example.com/tags/appengine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS</title>
+      <link>https://example.com/tags/gps/</link>
+      <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
+      
+      <guid>https://example.com/tags/gps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>location</title>
+      <link>https://example.com/tags/location/</link>
+      <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
+      
+      <guid>https://example.com/tags/location/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

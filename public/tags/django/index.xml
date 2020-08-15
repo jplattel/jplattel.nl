@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>django on Joost Plattel</title>
+    <link>https://example.com/tags/django/</link>
+    <description>Recent content in django on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 30 May 2020 23:27:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dropper</title>
+      <link>https://example.com/client/dropper/</link>
+      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
+      
+      <guid>https://example.com/client/dropper/</guid>
+      <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application.</description>
+    </item>
+    
+  </channel>
+</rss>

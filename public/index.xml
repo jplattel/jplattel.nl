@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joost Plattel</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 15 Aug 2020 09:37:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My daily journaling scripts for Obsidian</title>
+      <link>https://example.com/post/2020-08-14-obsidian-scripts/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://example.com/post/2020-08-14-obsidian-scripts/</guid>
+      <description>Since I&amp;rsquo;m quite a heavy user of Obsidian I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of Keyboard Meastro as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.
+Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates.</description>
+    </item>
+    
+    <item>
+      <title>Interacting systems within Obsidian</title>
+      <link>https://example.com/post/2020-08-06-interacting-knowledge-systems-obsidian/</link>
+      <pubDate>Tue, 11 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://example.com/post/2020-08-06-interacting-knowledge-systems-obsidian/</guid>
+      <description>I’ve been using Obsidian as my go-to note-taking application. Moving from Evernote and from Roam back into the habit of writing local markdown. I wanted to write about one of the biggest benefits I’m experiencing, and it’s about interacting of systems which where previously disconnected.
+The systems I’m talking about are CRM’s, time-tracking, personal knowledge management and others like creating a fountain for intersecting ideas.
+Years ago I started out with a home-grown CRM, allowing me to keep everything by myself, but the burden of developing an entire interface just for managing stuff took me for long way around…</description>
+    </item>
+    
+    <item>
+      <title>In search for a knowledge system</title>
+      <link>https://example.com/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://example.com/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</guid>
+      <description>For years I&amp;rsquo;ve been looking for a system which would augment my own thinking with the help of the computer. One of the main promises of a digital life is things could more efficient. Or easily shareable and more resilient (Once you have backups..). For a meriad of reasons the switch should be obvious but for the most of us, that&amp;rsquo;s not what we experience. Why is that?
+I started of with just Word documents in folders.</description>
+    </item>
+    
+    <item>
+      <title>Dropper</title>
+      <link>https://example.com/client/dropper/</link>
+      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
+      
+      <guid>https://example.com/client/dropper/</guid>
+      <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application.</description>
+    </item>
+    
+    <item>
+      <title>Vogsy</title>
+      <link>https://example.com/client/vogsy/</link>
+      <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
+      
+      <guid>https://example.com/client/vogsy/</guid>
+      <description>For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.</description>
+    </item>
+    
+    <item>
+      <title>Making an Ant PCB Maker</title>
+      <link>https://example.com/post/2020-05-02-ant-pcb-maker/</link>
+      <pubDate>Sat, 02 May 2020 14:37:05 +0200</pubDate>
+      
+      <guid>https://example.com/post/2020-05-02-ant-pcb-maker/</guid>
+      <description>Strange times we live in these days. Staying at home does allow me to work on projects which have been slowly progressing over time. And one of those is the Ant PCB Maker. A CoreXY based small CNC mill that can make printed circuit boards (PCBs). Contrary to the guide I&amp;rsquo;ve decided to built mine a little bigger. This should allow me to create PCBs which are up to 200x200mm without any problems.</description>
+    </item>
+    
+    <item>
+      <title>Organization.supply</title>
+      <link>https://example.com/project/organization-supply/</link>
+      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
+      
+      <guid>https://example.com/project/organization-supply/</guid>
+      <description>Simple inventory management tool build with Python &amp;amp; Django</description>
+    </item>
+    
+    <item>
+      <title>Designing a Pi camera mount for the Prusa Mini</title>
+      <link>https://example.com/post/2020-03-05-custom-camera-mount-prusa-mini/</link>
+      <pubDate>Thu, 05 Mar 2020 15:33:19 +0100</pubDate>
+      
+      <guid>https://example.com/post/2020-03-05-custom-camera-mount-prusa-mini/</guid>
+      <description>Since a month I own a small 3D printer: the Prusa Mini. I&amp;rsquo;ve printed almost half my current spool of filament and I can say I love the way the Prusa Mini works for me. Once of the upgrades I have done is move towards Octoprint for my workflow, this allows me to connect everything together from my own computer. Here&amp;rsquo;s how it works:
+ I design a component or body with Fusion 360, and in the &amp;lsquo;Make&amp;rsquo; menu option I choose to pass the file to the Prusa Slicer application In Prusa Slicer I configure any supports required or tweak any print settings.</description>
+    </item>
+    
+    <item>
+      <title>Micropython LCD menu: upymenu</title>
+      <link>https://example.com/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
+      <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
+      
+      <guid>https://example.com/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
+      <description>I&amp;rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.
+When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!</description>
+    </item>
+    
+    <item>
+      <title>My setup for Python projects</title>
+      <link>https://example.com/post/2020-01-19-python-projects-setup/</link>
+      <pubDate>Sun, 19 Jan 2020 20:07:24 +0100</pubDate>
+      
+      <guid>https://example.com/post/2020-01-19-python-projects-setup/</guid>
+      <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
+ iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens   Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
+    </item>
+    
+    <item>
+      <title>Celebrating 10 years of 8:36pm</title>
+      <link>https://example.com/post/2020-01-04-celebrating-ten-years-836pm/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/post/2020-01-04-celebrating-ten-years-836pm/</guid>
+      <description>Today marks something special. Ten years ago, inspired by Buster Benson I started taking a picture at 8:36pm every day. A simple thing you might think, but in the end I kept doing it and to this day I still do.
+Keeping a habit for 10 years makes it a bit extraordinairy and I can say I will continue taking a picture! Below you will find this years movie of all the photos I took.</description>
+    </item>
+    
+    <item>
+      <title>Interview for the Podcast: Side Project Show</title>
+      <link>https://example.com/media/side-project-show-abn-amro-podcast/</link>
+      <pubDate>Thu, 26 Dec 2019 17:14:24 +0100</pubDate>
+      
+      <guid>https://example.com/media/side-project-show-abn-amro-podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating my brewery (Part 3)</title>
+      <link>https://example.com/post/2019-12-19-automating-my-brewery-part-3/</link>
+      <pubDate>Thu, 19 Dec 2019 23:23:17 +0100</pubDate>
+      
+      <guid>https://example.com/post/2019-12-19-automating-my-brewery-part-3/</guid>
+      <description>In this part of building my own automated brewery I want to focus on something I have never done before. And that this: Designing my own PCB (printed circuit board) is something I was fascinated in for some time, but I always thought of it as somthing very complex and hard to learn. Luckily I got introducted to EasyEDA by my brother and spend a few afternoons watching video tutorials. After rummaging around a bit and some frustration I ordered my first board.</description>
+    </item>
+    
+    <item>
+      <title>Automating my brewery (Part 2)</title>
+      <link>https://example.com/post/2019-11-18-automating-my-brewery-part-2/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/post/2019-11-18-automating-my-brewery-part-2/</guid>
+      <description>In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:
+The enclosure contains the following things:
+ Backside:  230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input   Frontside:  Traffic-light interface: lights to indicate what is on.</description>
+    </item>
+    
+    <item>
+      <title>A small mention in an article about data monitoring in De Telegraaf</title>
+      <link>https://example.com/media/big-brother-werkvloer-you-telegraaf/</link>
+      <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
+      
+      <guid>https://example.com/media/big-brother-werkvloer-you-telegraaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fontys interview about curiousity</title>
+      <link>https://example.com/media/fontys-interview/</link>
+      <pubDate>Thu, 21 Nov 2019 12:34:30 +0100</pubDate>
+      
+      <guid>https://example.com/media/fontys-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating my brewery (Part 1)</title>
+      <link>https://example.com/post/2019-11-17-automating-my-brewery-part-1/</link>
+      <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
+      
+      <guid>https://example.com/post/2019-11-17-automating-my-brewery-part-1/</guid>
+      <description>As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.
+My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified Weck-kettle.</description>
+    </item>
+    
+    <item>
+      <title>Wafl</title>
+      <link>https://example.com/client/wafl/</link>
+      <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
+      
+      <guid>https://example.com/client/wafl/</guid>
+      <description>For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients.</description>
+    </item>
+    
+    <item>
+      <title>The Idea Machine</title>
+      <link>https://example.com/post/2019-10-21-the-idea-machine/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/post/2019-10-21-the-idea-machine/</guid>
+      <description>Boredom is something we all experience in different ways. And the solution isn’t always that easy. You might dwell for a certain amount of time on the couch.. Or restless as you are think about thinks you might want to do, but they never seem to come up.
+I think a certain part boredom is necessary to facilitate ideas and other serendipitous discoveries. However there might be times, in which you would like for the pure boredom to disappear.</description>
+    </item>
+    
+    <item>
+      <title>Eerst Hulp Bij Abonnementen (EHBA)</title>
+      <link>https://example.com/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</link>
+      <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
+      
+      <guid>https://example.com/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</guid>
+      <description>One of my first projects for learning programming and navigating around the digitale sphere was building a visualization based on transport data. As I use public transport for all travel I naturally wanted to know how I spend my money on it.
+This question has been popping in and out of my mind ever since and more recently I had some time to tinker again. This time I was wonder if I could recommend subscriptions based on historical data from a person.</description>
+    </item>
+    
+    <item>
+      <title>EHBA.app</title>
+      <link>https://example.com/project/ehba/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://example.com/project/ehba/</guid>
+      <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
+    </item>
+    
+    <item>
+      <title>Panel member @ Big Brother Awards</title>
+      <link>https://example.com/media/big-brother-awards/</link>
+      <pubDate>Thu, 24 Jan 2019 13:59:47 +0100</pubDate>
+      
+      <guid>https://example.com/media/big-brother-awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalstats</title>
+      <link>https://example.com/project/personalstats/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/project/personalstats/</guid>
+      <description>A little web application that pulls in data from Workflowy to make it more understandable</description>
+    </item>
+    
+    <item>
+      <title>8:36pm - 2018</title>
+      <link>https://example.com/post/2019-01-06-836pm-2018/</link>
+      <pubDate>Sun, 06 Jan 2019 20:48:47 +0100</pubDate>
+      
+      <guid>https://example.com/post/2019-01-06-836pm-2018/</guid>
+      <description>As we close out 2018 and start out the new year fresh, the one thing left to do is make a video of all the 8:36pm photos that I took that year. And when uploading this video I checked out when I started, which is 2010. Thus this marks the 10th year that I&amp;rsquo;m doing this&amp;hellip; Here&amp;rsquo;s the video:
+  Phew, racking in around 3000 photos so far&amp;hellip; For all I can say is that I will probably be going somewhere with this.</description>
+    </item>
+    
+    <item>
+      <title>Nolostcapital</title>
+      <link>https://example.com/client/nolostcapital/</link>
+      <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
+      
+      <guid>https://example.com/client/nolostcapital/</guid>
+      <description>For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act. The backend service was done in Django and the front-end in Vue.</description>
+    </item>
+    
+    <item>
+      <title>iPhone XS NFC Shortcuts</title>
+      <link>https://example.com/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
+      <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
+      
+      <guid>https://example.com/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
+      <description>I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a NFC reader. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)
+Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag.</description>
+    </item>
+    
+    <item>
+      <title>Ambassador for the Digital Society School Amsterdam</title>
+      <link>https://example.com/project/ambassador-digital-society-school-amsterdam/</link>
+      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
+      
+      <guid>https://example.com/project/ambassador-digital-society-school-amsterdam/</guid>
+      <description>In 2018 - 2020 I am one of the ambassadors for the Digital Society School located in Amsterdam</description>
+    </item>
+    
+    <item>
+      <title>Making and Fixing Things</title>
+      <link>https://example.com/post/2018-08-27-making-and-fixing-things/</link>
+      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      
+      <guid>https://example.com/post/2018-08-27-making-and-fixing-things/</guid>
+      <description>I bougth a 3D printertogether with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
+As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like Fusion360.</description>
+    </item>
+    
+    <item>
+      <title>Article: Mag jouw baas je bloeddruk weten als hij jou ermee kan helpen?</title>
+      <link>https://example.com/media/intermediar/</link>
+      <pubDate>Fri, 22 Jun 2018 14:51:29 +0200</pubDate>
+      
+      <guid>https://example.com/media/intermediar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundsup</title>
+      <link>https://example.com/client/fundsup/</link>
+      <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
+      
+      <guid>https://example.com/client/fundsup/</guid>
+      <description>To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform.</description>
+    </item>
+    
+    <item>
+      <title>Watermelon</title>
+      <link>https://example.com/client/watermelon/</link>
+      <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
+      
+      <guid>https://example.com/client/watermelon/</guid>
+      <description>In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.</description>
+    </item>
+    
+    <item>
+      <title>Colliers</title>
+      <link>https://example.com/client/colliers/</link>
+      <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
+      
+      <guid>https://example.com/client/colliers/</guid>
+      <description>Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.</description>
+    </item>
+    
+    <item>
+      <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
+      <link>https://example.com/client/bzk/</link>
+      <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
+      
+      <guid>https://example.com/client/bzk/</guid>
+      <description>Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.
+My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.</description>
+    </item>
+    
+    <item>
+      <title>Restoring an old plane</title>
+      <link>https://example.com/post/2018-04-29-restoring_an_old_plane/</link>
+      <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
+      
+      <guid>https://example.com/post/2018-04-29-restoring_an_old_plane/</guid>
+      <description>At one of the stands of a flea market during Kingsday here in the Netherlands, I found an old plane. And for only 2 euro I couldn&amp;rsquo;t leave it behind. I took it on me to restore it to its former glory. First step, dismantle the broken off handle, removing any drops of paint and cleaning the chisel from all the rust. I also took measurements of the old handle and started designing that in Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>Brewing a new batch of beer</title>
+      <link>https://example.com/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
+      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
+      
+      <guid>https://example.com/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
+      <description>Past week we spend a day at a brewery! We made a new batch for our brewery Nooitgedacht. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough Kratfunding, we only ship to the Netherlands currently!
+Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.</description>
+    </item>
+    
+    <item>
+      <title>Article: Zorgvisie Ict, De Patient als wetenschaps-instrument</title>
+      <link>https://example.com/media/zorgvisie-ict/</link>
+      <pubDate>Sun, 22 Apr 2018 00:19:43 +0200</pubDate>
+      
+      <guid>https://example.com/media/zorgvisie-ict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview: Arte TV: CES &amp; Wearables</title>
+      <link>https://example.com/media/arte-tv/</link>
+      <pubDate>Sun, 22 Apr 2018 00:16:25 +0200</pubDate>
+      
+      <guid>https://example.com/media/arte-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview: Volmaakte Mens (VPRO)</title>
+      <link>https://example.com/media/volmaakte-mens/</link>
+      <pubDate>Sun, 22 Apr 2018 00:15:14 +0200</pubDate>
+      
+      <guid>https://example.com/media/volmaakte-mens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sous-vide Rice Cooker</title>
+      <link>https://example.com/project/sous-vide-ricecooker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
+      
+      <guid>https://example.com/project/sous-vide-ricecooker/</guid>
+      <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
+    </item>
+    
+    <item>
+      <title>DIY Longboard</title>
+      <link>https://example.com/project/diy-longboard/</link>
+      <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
+      
+      <guid>https://example.com/project/diy-longboard/</guid>
+      <description>I created my own longboard from scratch (with a Mondrian pattern on the back).</description>
+    </item>
+    
+    <item>
+      <title>De Padvinders</title>
+      <link>https://example.com/project/de-padvinders/</link>
+      <pubDate>Sat, 21 Apr 2018 23:07:36 +0200</pubDate>
+      
+      <guid>https://example.com/project/de-padvinders/</guid>
+      <description>Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &amp;lsquo;tell me five ways I can save an hour a day.&amp;rsquo; Whatever you need to pay for this service, it will pay for itself in a week. ~ Seth Godin</description>
+    </item>
+    
+    <item>
+      <title>Interview: Een Leuk Boek, slimmer en productiever werken</title>
+      <link>https://example.com/media/een-leuk-boek/</link>
+      <pubDate>Sat, 21 Apr 2018 23:01:21 +0200</pubDate>
+      
+      <guid>https://example.com/media/een-leuk-boek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mondriaantje</title>
+      <link>https://example.com/project/mondriaantje/</link>
+      <pubDate>Sat, 21 Apr 2018 22:55:11 +0200</pubDate>
+      
+      <guid>https://example.com/project/mondriaantje/</guid>
+      <description>Input your name and get your own personalized Mondrian!</description>
+    </item>
+    
+    <item>
+      <title>Berichtenbox Forwarder</title>
+      <link>https://example.com/project/berichtenbox-forwarder/</link>
+      <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
+      
+      <guid>https://example.com/project/berichtenbox-forwarder/</guid>
+      <description>A small utility that enables automagic fetching of messages of our government.</description>
+    </item>
+    
+    <item>
+      <title>Article: P&amp;O Actueel, The Quantified Workplace</title>
+      <link>https://example.com/media/po-actueel-qwp/</link>
+      <pubDate>Sat, 21 Apr 2018 22:17:10 +0200</pubDate>
+      
+      <guid>https://example.com/media/po-actueel-qwp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: TEDxYouth Groningen, 8:36pm</title>
+      <link>https://example.com/media/tedxyouth-groningen/</link>
+      <pubDate>Sat, 21 Apr 2018 21:23:09 +0200</pubDate>
+      
+      <guid>https://example.com/media/tedxyouth-groningen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🎁 Wishlist</title>
+      <link>https://example.com/wishlist/</link>
+      <pubDate>Sat, 21 Apr 2018 21:17:28 +0200</pubDate>
+      
+      <guid>https://example.com/wishlist/</guid>
+      <description>Below is my wishlist, if there&amp;rsquo;s something I&amp;rsquo;ve done for you and you would like to give me something in return, this could serve as a list of inspiration. ✌️
+Physical stuff  Iris by Makers Cabinet. The Electric State (hardcover). An Ascaso I-Mini 2 Red The Evening LP by Ford. Hario VST-2000B for coffee. A Garmin InReach Mini A knityak scarf A Diresta Ice Pick A copper colored GrowlerWerks uKeg 128 A Feynman t-shirt.</description>
+    </item>
+    
+    <item>
+      <title>Quantified Self community</title>
+      <link>https://example.com/project/quantifiedself/</link>
+      <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
+      
+      <guid>https://example.com/project/quantifiedself/</guid>
+      <description>I co-founded the QS Amsterdam group &amp;amp; started the QS Conference in Europe.</description>
+    </item>
+    
+    <item>
+      <title>Article: Groene Amsterdammer, Het alziend oog van de baas</title>
+      <link>https://example.com/media/groene_amsterdammer/</link>
+      <pubDate>Sat, 21 Apr 2018 21:05:01 +0200</pubDate>
+      
+      <guid>https://example.com/media/groene_amsterdammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Curious Corner of the Internet</title>
+      <link>https://example.com/project/curious_corner/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>https://example.com/project/curious_corner/</guid>
+      <description>A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!</description>
+    </item>
+    
+    <item>
+      <title>Brouwerij Nooitgedacht</title>
+      <link>https://example.com/project/brouwerij_nooitgedacht/</link>
+      <pubDate>Sat, 21 Apr 2018 17:56:24 +0200</pubDate>
+      
+      <guid>https://example.com/project/brouwerij_nooitgedacht/</guid>
+      <description>Brouwerij Nooitgedacht is our brewery that I run together with friends.</description>
+    </item>
+    
+    <item>
+      <title>Talking about my phone usage</title>
+      <link>https://example.com/post/2018-01-26-talking-about-my-phone-usage/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2018-01-26-talking-about-my-phone-usage/</guid>
+      <description>Last year before I went on holiday to Portugal I had the opportunity to give a talk at the Quantified Self 2017 Conference in Amsterdam. I decided just the night before to talk about how much I use my phone (or better how much I shouldn&amp;rsquo;t use it!). The wonderful folks over at QS Labs created a page with all the videos with transcripts. I&amp;rsquo;ve embedded my video below:
+  </description>
+    </item>
+    
+    <item>
+      <title>Creating smart bubble counter fermentation process tracking</title>
+      <link>https://example.com/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</guid>
+      <description>This weekend I spend my time on electronics, with a specific goal in mind, automating the tracking of a fermentation vessel that I use for brewing. My starting point was a Wemos D1 mini lite, which is a cheap arduino compatible chip with wifi options.
+I wanted to track how many bubbles we&amp;rsquo;re sent past the airlock and also needed a photo interupter gate. So in the end everything is pretty cheap and I only needed some more LEDs, an enclosure, spare wires and some free time!</description>
+    </item>
+    
+    <item>
+      <title>8:36pm - 2017</title>
+      <link>https://example.com/post/2018-01-03-836pm-2017/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2018-01-03-836pm-2017/</guid>
+      <description>As I&amp;rsquo;ve been doing for the past 7 years now, I made a movie out of all the 8:36pm pictures I took this year. It&amp;rsquo;s embedded below from Vimeo:
+  If you can spot yourself, thanks for being part of my life this year! It&amp;rsquo;s been great fun and I&amp;rsquo;ll take some time to update some of the projects I&amp;rsquo;ve worked on as well.</description>
+    </item>
+    
+    <item>
+      <title>Sustrans</title>
+      <link>https://example.com/client/sustrans/</link>
+      <pubDate>Fri, 04 Aug 2017 19:01:15 +0200</pubDate>
+      
+      <guid>https://example.com/client/sustrans/</guid>
+      <description>For Sustrans in the United Kingdom I made a custom dashboard that allows people to gain insights into their own mobility based on the Moves app (sadly, now deprecated!)</description>
+    </item>
+    
+    <item>
+      <title>Getting started with a LoRaWan gateway</title>
+      <link>https://example.com/post/2017-06-03-getting-started-with-a-lorawan-gateway/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2017-06-03-getting-started-with-a-lorawan-gateway/</guid>
+      <description>Most of the work I do is software related, but sometimes I do dabble in hardware. As a result I receive more and more requests for hardware related projects. As an aspiring maker I do want to explore this side of technology more so these projects are perfect opportunities for me to learn.
+And while learning I thought it would be nice to share what I learned so far as well!</description>
+    </item>
+    
+    <item>
+      <title>Permanent Beta</title>
+      <link>https://example.com/project/permanent-beta/</link>
+      <pubDate>Wed, 31 May 2017 00:09:50 +0200</pubDate>
+      
+      <guid>https://example.com/project/permanent-beta/</guid>
+      <description>For the Permanent Beta community I build tools that help them organize the community in a more fluid way.</description>
+    </item>
+    
+    <item>
+      <title>Predicting energy usage with Prophet</title>
+      <link>https://example.com/post/2017-03-16-predicting-energy-usage-with-prophet/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2017-03-16-predicting-energy-usage-with-prophet/</guid>
+      <description>Facebook recently released Prophet, a library that makes it easy to create predictions based on time-series data. When the time was right to tinker around, I thought of a dataset I&amp;rsquo;ve been collecting for some time now, which is the smart energy meter we have for our house.
+And with some tinkering to get Prophet to play nice with my containers and Jupyter I had my first prediction in a few minutes:</description>
+    </item>
+    
+    <item>
+      <title>All my 8:36pm photos of 2016</title>
+      <link>https://example.com/post/2017-01-02-836pm-2016/</link>
+      <pubDate>Mon, 02 Jan 2017 20:42:46 +0200</pubDate>
+      
+      <guid>https://example.com/post/2017-01-02-836pm-2016/</guid>
+      <description>Happy new year! Hope you had a blast the past few weeks! I surely did :)
+As a tradition when a new year starts, I had to make a movie of all my 8:36pm photos of past year. And this time its easier as every, since I saved the After Effects project template of last year. Here&amp;rsquo;s the video:
+  Why shoot a picture everyday you might ask? Here&amp;rsquo;s the answer!</description>
+    </item>
+    
+    <item>
+      <title>Brewing beer in a modified kettle</title>
+      <link>https://example.com/post/2016-11-15-brewing-beer-in-a-modified-kettle/</link>
+      <pubDate>Tue, 15 Nov 2016 15:42:46 +0200</pubDate>
+      
+      <guid>https://example.com/post/2016-11-15-brewing-beer-in-a-modified-kettle/</guid>
+      <description>It took me a while, but I managed to write this post about the thing I&amp;rsquo;ve been spending some time on in the last few months: brewing beer. I started collecting things for my own setup a while ago and took the plunge to buy a kettle: For now the temperature will be manually controlled, and I will be stirring for a while, but I&amp;rsquo;m slowly working towards and enclosure that covers the pump and a PID for temperature control.</description>
+    </item>
+    
+    <item>
+      <title>On holiday in Italy: Rome, Florence, Pisa &amp; Cinque Terre</title>
+      <link>https://example.com/post/2016-08-25-holiday-italy-cinque-terre/</link>
+      <pubDate>Thu, 25 Aug 2016 15:42:46 +0200</pubDate>
+      
+      <guid>https://example.com/post/2016-08-25-holiday-italy-cinque-terre/</guid>
+      <description>This summer I spend 2 weeks in Italy together with Chantal. We started off in Rome, spending our time in Trastevere. We visited all the main tourist attractions, because I hadn&amp;rsquo;t visited Rome before. Time passed by pretty quickly and we traveled to Florence by BlaBlaCar. After a day of traveling, it&amp;rsquo;s great to jump in a pool!
+Florence is an amazing city, especially when you can watch the sun set over the city, the food is good and if you dive a bit into Italian culture you&amp;rsquo;ll find hidden gems!</description>
+    </item>
+    
+    <item>
+      <title>SETUP - Utrecht</title>
+      <link>https://example.com/client/setup/</link>
+      <pubDate>Thu, 04 Aug 2016 19:01:06 +0200</pubDate>
+      
+      <guid>https://example.com/client/setup/</guid>
+      <description>For SETUP I contributed on several projects by building prototypes on the topics on ethics, privacy and technology.</description>
+    </item>
+    
+    <item>
+      <title>London on a double-bike</title>
+      <link>https://example.com/post/2016-07-25-double-bike-london/</link>
+      <pubDate>Mon, 25 Jul 2016 13:09:06 +0200</pubDate>
+      
+      <guid>https://example.com/post/2016-07-25-double-bike-london/</guid>
+      <description>On sunday the 10th of June I left my parents place on a double-bike. Together with a friend we cycled to Zwolle, took a train and prepared ourselves in the evening for a trip to London. As we took the boat to Harwich the next day I didn&amp;rsquo;t know what to expect as I hadn&amp;rsquo;t visited England before.
+
+As we talked with locals it turns out it&amp;rsquo;s much more enjoyable if you take the small hilly roads towards your destination.</description>
+    </item>
+    
+    <item>
+      <title>Qount.us</title>
+      <link>https://example.com/project/qountus/</link>
+      <pubDate>Sun, 05 Jun 2016 16:29:59 +0200</pubDate>
+      
+      <guid>https://example.com/project/qountus/</guid>
+      <description>How can we use personal data to improve the way we do our work? Qount.us was a dashboard collecting personal data with a goal to increase insights that might boost the quality of life surrounding work.</description>
+    </item>
+    
+    <item>
+      <title>A talk about the many things a little experiment can teach you</title>
+      <link>https://example.com/post/2016-06-02-many-things-little-experiment/</link>
+      <pubDate>Thu, 02 Jun 2016 10:04:02 +0200</pubDate>
+      
+      <guid>https://example.com/post/2016-06-02-many-things-little-experiment/</guid>
+      <description>On the 14th of March 2016 I gave a short talk at TEDxYouth Groningen, and the video is finally online! I&amp;rsquo;ve embedded the video below, it&amp;rsquo;s in dutch but I&amp;rsquo;m sure the subtitles will be available shortly. My talk is about the all the photos I took so far at 8:36pm. I started without any specific reason, but found out that you could figure it out while doing it as well.</description>
+    </item>
+    
+    <item>
+      <title>Fixing (LinkedIn) interfaces with Chrome plugins</title>
+      <link>https://example.com/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</link>
+      <pubDate>Mon, 02 May 2016 22:19:59 +0200</pubDate>
+      
+      <guid>https://example.com/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</guid>
+      <description>Online services tend to change their functionality or interaction. Sometimes in a good way, other times in a bad way. Most recently LinkedIn made a little change in the way accepting (and replying to) invites works. I personally use LinkedIn as a address book and leave it alone at times, never inviting people but combing trough the invites. I used to reply with a text-expander snippet too see if a connection is valuable, but this seemed to be impossible lately.</description>
+    </item>
+    
+    <item>
+      <title>👨‍💻 About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. I connect API&amp;rsquo;s, work with large datasets, models or visualizations. All to solve questions, discover patterns or explore new opportunities.
+The main question I wonder about is:
+ How do we turn all the data we have available into information, to knowledge and finally wisdom? And can we use it for good?</description>
+    </item>
+    
+    <item>
+      <title>Making Waves</title>
+      <link>https://example.com/post/2016-03-08-making-waves/</link>
+      <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
+      
+      <guid>https://example.com/post/2016-03-08-making-waves/</guid>
+      <description>So far today has been enjoyable, until around noon when someone texted me with a url pointing to nu.nl, showing an article about the Data Protection Authority telling me it is forbidden for employers to use wearables to track their employees (also on tweakers.net). The research the article points to is actually two companies that run my dashboards. Before I get into details, let me state the following:
+ The privacy of an employee is of utmost importance!</description>
+    </item>
+    
+    <item>
+      <title>Privacy &amp; Gracefully revealing depth</title>
+      <link>https://example.com/post/2016-02-23-privacy-gracefully-revealing-depth/</link>
+      <pubDate>Tue, 23 Feb 2016 14:11:46 +0100</pubDate>
+      
+      <guid>https://example.com/post/2016-02-23-privacy-gracefully-revealing-depth/</guid>
+      <description>Just a couple of days ago I read a post from Atlassian explaining some new features, but the most interesting aspect was that they explore gracefully revealing depth. To me this same concept can also be applied to privacy, ethics and more problems. Even though it&amp;rsquo;s about functionality, the same can be applied to complexity.
+As we are faced with interesting problems about privacy and ethics, would the way of gracefully revealing complexity work for making the right choices or settings the right parameters?</description>
+    </item>
+    
+    <item>
+      <title>Musings on transparency</title>
+      <link>https://example.com/post/2016-02-16-musings-on-transparency/</link>
+      <pubDate>Tue, 16 Feb 2016 15:10:08 +0100</pubDate>
+      
+      <guid>https://example.com/post/2016-02-16-musings-on-transparency/</guid>
+      <description>I&amp;rsquo;ve been thinking about and exploring transparency a lot lately. As I&amp;rsquo;m building dashboards for employees, transparency is one of the key factors of integration within the workforce. But there are some funny things about transparency and this is why most companies and organisations are having difficulty adopting a transparant way of working.
+ Ownership is spread when sharing processes, this lessens your level of power, but this world is not just about ownership any more, access is what it is all about.</description>
+    </item>
+    
+    <item>
+      <title>On solving annoying things</title>
+      <link>https://example.com/post/2016-01-29-on-solving-annoying-things/</link>
+      <pubDate>Fri, 29 Jan 2016 10:33:56 +0100</pubDate>
+      
+      <guid>https://example.com/post/2016-01-29-on-solving-annoying-things/</guid>
+      <description>The dutch government and other (bigger) organisations seem to have a habit to annoy people. One of the reasons they do so is security by obscurity. It has it’s flaw as shown in this blogpost by @levelsio.
+He wrote a little script that fetches and forwards all the email, which everyone can do after loggin in with DigiD. As shown, this takes a lot of steps. Automating it can be done with less then 50 lines of code.</description>
+    </item>
+    
+    <item>
+      <title>Sous-vide food with a rice cooker</title>
+      <link>https://example.com/post/2016-01-20-sous-vide-rice-cooker/</link>
+      <pubDate>Wed, 20 Jan 2016 15:56:41 +0100</pubDate>
+      
+      <guid>https://example.com/post/2016-01-20-sous-vide-rice-cooker/</guid>
+      <description>This has been on my tinker-list for around 4 years, and I&amp;rsquo;ve finally got around doing it. I made a little temperature controlled relay to my rice-cooker which enables me to use it as a sous-vide apparatus. That&amp;rsquo;s wonderful, because it&amp;rsquo;s now easier to prepare meat, and most importantly, eat 67 °C eggs. So how did I do it? I bought a really cheap PID from DealExtreme, and with some help of Martin Deen I had everything set up.</description>
+    </item>
+    
+    <item>
+      <title>Data and reflections about 2015</title>
+      <link>https://example.com/post/2016-01-02-data-reflections-2015/</link>
+      <pubDate>Sat, 02 Jan 2016 17:34:51 +0100</pubDate>
+      
+      <guid>https://example.com/post/2016-01-02-data-reflections-2015/</guid>
+      <description>Another year passed an I&amp;rsquo;m due to update my projects page and create another one for next year! To close past year and explore the next I&amp;rsquo;ve used YearCompass for my reflections. It took me over 3 afternoons to completely fill it out, but it&amp;rsquo;s an enjoyable ride! It&amp;rsquo;s great looking backwards into your calendar and see all that you have achieved.
+I&amp;rsquo;ve also concatenated all my 8:36pm photos into a video like I do every year.</description>
+    </item>
+    
+    <item>
+      <title>A lecture in Ghent</title>
+      <link>https://example.com/post/2015-12-02-a-lecture-in-ghent/</link>
+      <pubDate>Wed, 02 Dec 2015 11:25:13 +0100</pubDate>
+      
+      <guid>https://example.com/post/2015-12-02-a-lecture-in-ghent/</guid>
+      <description>A few weeks ago I gave a lecture in Ghent, a beautiful city and so I decided to spend the weekend at an AirBnB host to enjoy the city! Here&amp;rsquo;s a picture I took:
+I&amp;rsquo;ve uploaded all the slides from the lecture on Slideshare for you to enjoy. It was my longest lecture and I&amp;rsquo;ve learned some useful things while doing so. I find that having a storyline with little pieces is harder to keep up over longer times, so next time I will try to venture more in depth of some of my personal tracking experiments, for example my phone usage.</description>
+    </item>
+    
+    <item>
+      <title>Quantified Phone Usage with iPython</title>
+      <link>https://example.com/post/2015-10-12-quantified-phone-usage-ipython/</link>
+      <pubDate>Mon, 12 Oct 2015 11:35:38 +0200</pubDate>
+      
+      <guid>https://example.com/post/2015-10-12-quantified-phone-usage-ipython/</guid>
+      <description>Technology is making it easier to collect data, for example phone usage. From the 1st of January I tracked how much I&amp;rsquo;ve used my phone by installing an app called Moment. It runs in the background and silently tracks how much you use your phone. As said, the first step towards behaviour-change is providing insight in current behaviour.
+Lately I&amp;rsquo;ve been exploring iPython for data-analysis and sharing snippets of data. I&amp;rsquo;ve started a Github repository that contains some notebooks I&amp;rsquo;m working on.</description>
+    </item>
+    
+    <item>
+      <title>Sri Lanka for holiday!</title>
+      <link>https://example.com/post/2015-09-22-sri-lanka-for-holiday/</link>
+      <pubDate>Tue, 22 Sep 2015 14:30:38 +0200</pubDate>
+      
+      <guid>https://example.com/post/2015-09-22-sri-lanka-for-holiday/</guid>
+      <description>Long overdue, but now I have some time to spend writing a blogpost. The previous month I&amp;rsquo;ve spend 3 weeks in Sri Lanka! For two weeks, we discovered the island, visiting beaches, jungle, towns and cities. The culture is wonderful and people are very friendly. It&amp;rsquo;s also been a great opportunity to try out some new things, for example dabbling in photography and exploring apps like VSCO. In this post, all of the pictures have been shot with a S-120 and then improved with VSCO.</description>
+    </item>
+    
+    <item>
+      <title>Holiday to Denmark, Berlin and the south of France</title>
+      <link>https://example.com/post/2015-07-28-holiday-to-denmark-berlin-and-the-south-of-france/</link>
+      <pubDate>Tue, 28 Jul 2015 10:11:18 +0200</pubDate>
+      
+      <guid>https://example.com/post/2015-07-28-holiday-to-denmark-berlin-and-the-south-of-france/</guid>
+      <description>I&amp;rsquo;ve been on holiday for most the past month. The urge to travel has been growing since a few years, and this year I&amp;rsquo;ve been to several new cities in Europe. After the QS Conference in San Francisco in June, I came back, only to pack my bags once again to hop on a bus to Denmark. My father organises a yearly travel group to the Haervejsmarchen. Together with Chantal we joined him!</description>
+    </item>
+    
+    <item>
+      <title>An interview for the Perfect Human and other publications</title>
+      <link>https://example.com/post/2015-06-08-perfect-human-vpro-tv-publications/</link>
+      <pubDate>Mon, 08 Jun 2015 07:55:14 +0200</pubDate>
+      
+      <guid>https://example.com/post/2015-06-08-perfect-human-vpro-tv-publications/</guid>
+      <description>Two months ago I spent some time before a camera for a documentary series of the VPRO. The series is called The Perfect Human and explores how technology helps us create a better being. My project with Colliers: The Quantified Workplace is highlighted in the interview. You can watch it online here.
+At the end of the past year, I spend an afternoon at the Ministry of Health, Welfare and Sport, to contribute towards a document about e-Health.</description>
+    </item>
+    
+    <item>
+      <title>Something&#39;s brewing!</title>
+      <link>https://example.com/post/2015-05-18-somethings-brewing/</link>
+      <pubDate>Mon, 18 May 2015 11:12:35 +0200</pubDate>
+      
+      <guid>https://example.com/post/2015-05-18-somethings-brewing/</guid>
+      <description>And it&amp;rsquo;s beer! Well it&amp;rsquo;s stored now and bubbling away! Yesterday afternoon I&amp;rsquo;ve brewed my first batch of beer. With the gear and knowledge of a friend, we manufactured 48 liters of pale ale. The sunny afternoon also was a perfect opportunity for my new camera, so I took some tests shots. Here&amp;rsquo;s the brewery in my backyard:
+The recipe we decided on included star-anise and lemongrass. Sadly the coriander seeds got lost and we skipped those.</description>
+    </item>
+    
+    <item>
+      <title>Lago di Garda</title>
+      <link>https://example.com/post/2015-05-14-lago-di-garda/</link>
+      <pubDate>Thu, 14 May 2015 17:43:30 +0200</pubDate>
+      
+      <guid>https://example.com/post/2015-05-14-lago-di-garda/</guid>
+      <description>I&amp;rsquo;ve been on a little holiday!
+
+The destination was Moniga del Garda, Italy. And I&amp;rsquo;ve shot some great panorama&amp;rsquo;s that I wanted to share with you:
+  
+This summer I&amp;rsquo;m visiting Sri Lanka and I bought a little pocket camera to help me with some better pictures. I chose the S120, because of Neistat.</description>
+    </item>
+    
+    <item>
+      <title>Gradual Privacy for personal data</title>
+      <link>https://example.com/post/2015-02-26-gradual-privacy-personal-data/</link>
+      <pubDate>Thu, 26 Feb 2015 11:03:57 +0100</pubDate>
+      
+      <guid>https://example.com/post/2015-02-26-gradual-privacy-personal-data/</guid>
+      <description>In the past few months I&amp;rsquo;ve been building more and more dashboards for clients. The idea of collecting personal data however always raises questions about privacy. To solve this, I&amp;rsquo;ve been developing a way to implement gradual privacy.
+Gradual privacy is a way to let the end-user decide who can see what data. The best way to explain, is just to show it:
+
+The columns are the kind of data.</description>
+    </item>
+    
+    <item>
+      <title>Creating the Intelligence Room</title>
+      <link>https://example.com/post/2015-02-02-creating-intelligence-room/</link>
+      <pubDate>Mon, 02 Feb 2015 12:45:05 +0100</pubDate>
+      
+      <guid>https://example.com/post/2015-02-02-creating-intelligence-room/</guid>
+      <description>Over the past few months I&amp;rsquo;ve been steadily involved with a project that aims to recreate an war/control/intelligence room that you see in movies. The one difference is that the room is ment for decision-makers within bigger companies. Often, urgent en relevant questions go unanswered, but the Intelligence Room helps fixing this.
+During the Big Improvement Day we showcased our concept and I&amp;rsquo;ve created a little Django app that matches all attendees based on topics they provided when signing up for the event.</description>
+    </item>
+    
+    <item>
+      <title>8:36pm, a 2014 video!</title>
+      <link>https://example.com/post/2015-01-06-836pm-2014-video/</link>
+      <pubDate>Tue, 06 Jan 2015 01:16:54 +0100</pubDate>
+      
+      <guid>https://example.com/post/2015-01-06-836pm-2014-video/</guid>
+      <description>This is my fourth year that I&amp;rsquo;m taking pictures everyday at 8:36pm. A little something that I plan to keep on doing for my entire life. Every year I make a small movie off all the pictures! Have a look:
+  Highlights of this year including a holiday across the netherlands, moving to a new home and Italy! Hope 2015 will be as great as last year!</description>
+    </item>
+    
+    <item>
+      <title>3D printing lampshades or any object based on data.</title>
+      <link>https://example.com/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</link>
+      <pubDate>Sun, 14 Dec 2014 23:23:25 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</guid>
+      <description>Last week I stayed at Herman&amp;rsquo;s place for a couple of days. While there we primarily discussed buttons, 3D printers and other nerdy stuff. As it happend I&amp;rsquo;d look over on his desk and found some test prints for lampshades made of ABS. That got me thinking.. Just a few hours later I was knees deep in code trying to generate something that would look like a 3D model:
+I&amp;rsquo;m generating a model with a library called Tangible.</description>
+    </item>
+    
+    <item>
+      <title>Learning about power-usage data from my home</title>
+      <link>https://example.com/post/2014-11-21-learning-about-power-usage-data-home/</link>
+      <pubDate>Fri, 21 Nov 2014 10:32:23 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-11-21-learning-about-power-usage-data-home/</guid>
+      <description>I recently moved to a new home, and I got a freshly installed new electricity meter that&amp;rsquo;s a little bit more intelligent. It was now possible for me to sign up for slimmemeterportal.nl, that let&amp;rsquo;s you access the power-usage data from the meter by a 15 minute window. That&amp;rsquo;s quite some data to play with!
+Being interested in the data, I wrote a little scraper that collects it for me and stores it in a SQL database, from there on, with Flask and Peewee it was quite simple to create a little API for my own dataset.</description>
+    </item>
+    
+    <item>
+      <title>My server got hacked, this is what I did</title>
+      <link>https://example.com/post/2014-11-10-my-server-got-hacked/</link>
+      <pubDate>Mon, 10 Nov 2014 09:18:36 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-11-10-my-server-got-hacked/</guid>
+      <description>On friday evening local time (GMT+1) around 21:00 hours my server got hacked, it&amp;rsquo;s CPU immediately shot up towards 100% and my provider removed the box from it&amp;rsquo;s hypervisor node around 18 hours later. Just a few minutes later I got a call from a friend who uses one of my developed applications that it doesn&amp;rsquo;t seem to work anymore.
+After trying SSH-ing into the server (which failed), I logged on to the dashboard for managing my VPS, looking at the CPU usage:</description>
+    </item>
+    
+    <item>
+      <title>3 Years of computing</title>
+      <link>https://example.com/post/2014-10-04-3-years-computing/</link>
+      <pubDate>Sat, 04 Oct 2014 22:42:13 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-10-04-3-years-computing/</guid>
+      <description>This picture below might seem blurry to you, and indeed it is, but for me it is a significant picture that reflect 3 years of working behind my computer.
+I&amp;rsquo;ve been running the Lifeslice program for over 3 years now and I thought it was about time to do something with it! The picture above is generated with over 4000 webcamshots taken during that time.
+There&amp;rsquo;s a trove of other data in too.</description>
+    </item>
+    
+    <item>
+      <title>Lessons learned building Django projects: 2</title>
+      <link>https://example.com/post/2014-09-16-lessons-learned-building-django-projects-2/</link>
+      <pubDate>Tue, 16 Sep 2014 11:42:19 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-09-16-lessons-learned-building-django-projects-2/</guid>
+      <description>As of recently I&amp;rsquo;ve started my graduation phase of my current study. I&amp;rsquo;ve managed to get my own project in for my graduation thesis, which means I&amp;rsquo;ll be spending more time developing with Django. This post is more of a reminder of the things I&amp;rsquo;ve learned so far&amp;hellip; The previous post can be read here.
+ The inspectdb tool is priceless when using other databases in which you have no schema&amp;rsquo;s yet!</description>
+    </item>
+    
+    <item>
+      <title>From east to west in The Netherlands</title>
+      <link>https://example.com/post/2014-08-07-east-west-netherlands/</link>
+      <pubDate>Thu, 07 Aug 2014 15:53:28 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-08-07-east-west-netherlands/</guid>
+      <description>It&amp;rsquo;s holiday, and I&amp;rsquo;ve spend most of my time last month in The Netherlands hiking. From the east to the west, to complement what we did two years ago. And I wanted to share some pictures of my adventure:
+In 19 days we hiked over 360 kilometers, staying at farmers, friends, campinggrounds or somewhere else. It was a blast! We&amp;rsquo;ll see where we end up next year! For those interested, the route is called the Marskramerspad.</description>
+    </item>
+    
+    <item>
+      <title>Tinkering with the Meetup API</title>
+      <link>https://example.com/post/2014-07-02-meetup-api-tinkering/</link>
+      <pubDate>Wed, 02 Jul 2014 13:46:39 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-07-02-meetup-api-tinkering/</guid>
+      <description>Meetup.com is a service that I use and have been using to organize events for networks. Even though I like Meetup as a service, there are some thing you just cannot do. For example it&amp;rsquo;s kind of hard to make use of the internal knowledge or connections that people have within the network itself. And you are limited to Meetup for sending messages to everyone.
+About a week ago I sat down to explore their API, to see if you could somehow build upon their service.</description>
+    </item>
+    
+    <item>
+      <title>The Metabiography, written in the cloud</title>
+      <link>https://example.com/post/2014-06-07-metabiography-written-cloud/</link>
+      <pubDate>Sat, 07 Jun 2014 22:04:13 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-06-07-metabiography-written-cloud/</guid>
+      <description>Last month, most of my time was spend on a project for Yuri Veerman &amp;amp; Elsbeth Fraanje, who are part of the Quantified Reality project by het Mediafonds &amp;amp; the Sandberg Institute. Elsbeth and Yuri are exploring the possiblities of (auto)generating a biography from somebody&amp;rsquo;s meta-data and created the the aptly named Metabiography.
+I was asked by Yuri &amp;amp; Elsbeth to build a working prototype For now, it&amp;rsquo;s in pre-beta phase, but below is a screenshot how it could look like.</description>
+    </item>
+    
+    <item>
+      <title>Thought Kinetics at Coded Matters: Extended Senses</title>
+      <link>https://example.com/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</link>
+      <pubDate>Mon, 02 Jun 2014 18:33:45 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</guid>
+      <description>Last sunday my brother and I had an exhibition with Thought Kinetics and artist-talk at Coded Matters: Extended Senses. We showed our static prototype exploring the visualization of datasets that are collect and visualized in a static way. This is our first step towards a more realtime system where we can use any data and visualize it on a canvas in an abstract way.
+We also gave a talk about our process how we got from a prototype towards a more solid system that uses Node.</description>
+    </item>
+    
+    <item>
+      <title>Quantified Self Europe Conference #3</title>
+      <link>https://example.com/post/2014-05-14-quantified-self-europe-conference-3/</link>
+      <pubDate>Wed, 14 May 2014 10:35:11 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-05-14-quantified-self-europe-conference-3/</guid>
+      <description>Last weekend I spend my time at the Casa400 hotel for the Quantified Self Europe Conference. With around 250 attendees and 30% of the people giving a talk, you could truly say that&amp;rsquo;s been an carefully curated unconference.
+I gave a lunch-time ignite talk about my project Qount.us and people liked it! Hopefully the video will be up soon. And I pre-ordered a few Vitalconnect patches for experimenting, including Thought Kinetics.</description>
+    </item>
+    
+    <item>
+      <title>The curious corner on video</title>
+      <link>https://example.com/post/2014-04-19-curious-corner-video/</link>
+      <pubDate>Sat, 19 Apr 2014 20:21:11 +0200</pubDate>
+      
+      <guid>https://example.com/post/2014-04-19-curious-corner-video/</guid>
+      <description>I&amp;rsquo;ve curated 6 editions of the Curious Corner of the Internet until this day. It started out as an experiment of just showing my saved-for-later links in a presentation. The newsletter essentially was a second format, and I didn&amp;rsquo;t explore my chances for a talk much further. Until now, during the Week for the Entrepreneur in the Netherlands, that I&amp;rsquo;d give it another shot. Sadly, it&amp;rsquo;s in dutch, but here&amp;rsquo;s the video:</description>
+    </item>
+    
+    <item>
+      <title>I made it into another book and co-authored my first white-paper</title>
+      <link>https://example.com/post/2014-03-27-made-into-another-book-and-white-paper/</link>
+      <pubDate>Thu, 27 Mar 2014 22:52:32 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-03-27-made-into-another-book-and-white-paper/</guid>
+      <description>Last year I gave a little talk at the Cross Media Cafe in Hilversum. Happily afterwards I gave a little interview and people took a few photos. This year started pretty nice with some media coverage, but at the end of february a book landed in the mail:
+I made a scan of the page and it&amp;rsquo;s available on Scribd. And together with the working group of patient generated data, we&amp;rsquo;ve written a white paper about the data that persons generate that healthcare could use.</description>
+    </item>
+    
+    <item>
+      <title>Lessons learned building Django projects</title>
+      <link>https://example.com/post/2014-03-09-lessons-learned-building-django-projects/</link>
+      <pubDate>Sun, 09 Mar 2014 23:39:23 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-03-09-lessons-learned-building-django-projects/</guid>
+      <description>I&amp;rsquo;ve been using Django as my go-to framework for the past few months. So far I&amp;rsquo;ve enjoyed the ride, but have learned some things that I&amp;rsquo;d like to share with you:
+ During project setup, create a virtual environment for yourself to work in. Use the &amp;lsquo;pip freeze&amp;rsquo; for creating a requirements.txt that helps you manage dependencies. Don&amp;rsquo;t use any paths within the views. Instead, use the reverse function for looking up routes that correspond to the url.</description>
+    </item>
+    
+    <item>
+      <title>Experimenting with company activity dashboards</title>
+      <link>https://example.com/post/2014-02-07-experimenting-company-activity-dashboards/</link>
+      <pubDate>Fri, 07 Feb 2014 14:44:58 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-02-07-experimenting-company-activity-dashboards/</guid>
+      <description>As an experiment, I&amp;rsquo;m collecting data from the Moves app from multiple persons within a organisation. The goal is to find out what&amp;rsquo;s possible with the amount of data the persons generate each day. Currently, the collection of data is ongoing and the next step would be the visualization of the data. Here are some simple graphs you can make with the data:
+Further steps could be exploring what a group wants from visualisations like this.</description>
+    </item>
+    
+    <item>
+      <title>All the 8:36pm photos of 2013</title>
+      <link>https://example.com/post/2014-01-20-836pm-photos-2013/</link>
+      <pubDate>Mon, 20 Jan 2014 00:06:54 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-01-20-836pm-photos-2013/</guid>
+      <description>Like last year, I made a small video of all my 8:36pm photos. With a bit of help from my brother, I managed to get everything into after effects and put it together. Let the nostalgia commence:
+  Looking back in a glance, the things I notice are: less computer work, more socializing and the increment in the amount of beverages and food photos. Next to that, I failed keeping up this year and missed a lot of photos.</description>
+    </item>
+    
+    <item>
+      <title>Taping interviews</title>
+      <link>https://example.com/post/2014-01-13-taping-interviews/</link>
+      <pubDate>Mon, 13 Jan 2014 13:23:32 +0100</pubDate>
+      
+      <guid>https://example.com/post/2014-01-13-taping-interviews/</guid>
+      <description>Last week I&amp;rsquo;ve spend some time before camera lenses. On wednesday I got a call for an interview for RTL Nieuws about CES and wearables. A quick interview got me 2 minutes of fame (on from 18:10) on television. On thursday, a longer interview for Arte TV, that will be shown later this month (viewable online too).
+]</description>
+    </item>
+    
+    <item>
+      <title>Cooking up and getting down in Chemistry</title>
+      <link>https://example.com/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</link>
+      <pubDate>Fri, 27 Dec 2013 15:54:56 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</guid>
+      <description>I made a small visit to Paris at the start of November and I had the opportunity to visit the Lab Store. I&amp;rsquo;ve read about the concept in a book called The Lab that I&amp;rsquo;ve bought during my first visit to San Francisco. It&amp;rsquo;s just pure luck that I come across that book in a little bookstore, but it feels like the adventure is just about to start..
+While visiting the Lab Store I had to buy one of the Le Whaf&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Using Moves data for?</title>
+      <link>https://example.com/post/2013-12-18-using-moves-data/</link>
+      <pubDate>Wed, 18 Dec 2013 18:29:35 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-12-18-using-moves-data/</guid>
+      <description>In July I wrote a little wrapper for the Moves App API. But I didn&amp;rsquo;t develop the ideas I had for it any further due to time constraints. But other projects got me into it and I wanted to share what I&amp;rsquo;m currently building. I&amp;rsquo;ve drawn the same concept of a fitbit dashboard over to a Moves Dashboard, so we can use the same data. And I&amp;rsquo;ve got some friends who come up with great ideas too!</description>
+    </item>
+    
+    <item>
+      <title>The Curious Corner of the Internet</title>
+      <link>https://example.com/post/2013-11-27-curious-corner-of-the-internet/</link>
+      <pubDate>Wed, 27 Nov 2013 20:47:26 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-11-27-curious-corner-of-the-internet/</guid>
+      <description>I&amp;rsquo;ve been walking around with a newsletter idea for some months now. It all started at Permanent Beta where I gave a talk together with my twin. Basically it wasn&amp;rsquo;t really a talk, just a roadshow of awesome stuff we come across on our daily surf on the web. The audience loved it! Why not curate this content into a newsletter?
+That&amp;rsquo;s just what I did with The Curious Corner of the Internet, a monthly newsletter stocked with the stuff I find during that last month.</description>
+    </item>
+    
+    <item>
+      <title>A Jawbone API Python library</title>
+      <link>https://example.com/post/2013-11-15-jawbone-api-python-library/</link>
+      <pubDate>Fri, 15 Nov 2013 20:15:23 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-11-15-jawbone-api-python-library/</guid>
+      <description>I&amp;rsquo;ve been wearing a Jawbone UP for the last few months. There are things I like about it, the app, the sleep interface and the options you have for notifications. Some other things I dislike, the 3.5mm jack for syncing for example&amp;hellip; It&amp;rsquo;s annoying. They have it solved with the next version though.
+As with all the other devices that I&amp;rsquo;ve been wearing I wanted to get the data out of it.</description>
+    </item>
+    
+    <item>
+      <title>Twins in New York!</title>
+      <link>https://example.com/post/2013-10-29-twins-in-new-york/</link>
+      <pubDate>Tue, 29 Oct 2013 21:31:49 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-10-29-twins-in-new-york/</guid>
+      <description>Being in de United States is a perfect excuse for visiting my brother! After enjoying a 5 hour flight (with wifi!) and a delayed subway ride: here&amp;rsquo;s the two of us before the skyline of New York City:
+I&amp;rsquo;ve had 8 days to explore the city, mostly by foot and metro. The first I found the most enjoyable, while the latter turned out to be faster most of the time. At least I walked all three off the main bridges to Manhatten and strolled trough Central Park and The Highline:</description>
+    </item>
+    
+    <item>
+      <title>Making sense of your phone invoices</title>
+      <link>https://example.com/post/2013-10-21-making-sense-of-your-phone-invoices/</link>
+      <pubDate>Mon, 21 Oct 2013 10:02:44 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-10-21-making-sense-of-your-phone-invoices/</guid>
+      <description>Telephone companies tend to have a lot of data about a user. This data includes some information that could help you decide whether you could pay for another subscription that fits more to your usage. To fix that problem I&amp;rsquo;ve build a dashboard which uses all the information available trough the invoices my current company (T-mobile) provides in a PDF. (FYI, I got a version running that&amp;rsquo;s also working with receipts from Vodafone)</description>
+    </item>
+    
+    <item>
+      <title>San Francisco and #QS13</title>
+      <link>https://example.com/post/2013-10-14-san-francisco-and-qs13/</link>
+      <pubDate>Mon, 14 Oct 2013 03:56:31 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-10-14-san-francisco-and-qs13/</guid>
+      <description>Taking a week off from my study, hopping on the plane to San Francisco on monday morning at 10 o&amp;rsquo;clock. Arrived at noon and we managed to hack our way into the AirBnB place. Uptime: 24 hours. Grab a beer with Yuri and Peter. Decide to visit the Apple Store and do some misc shopping. Italian dinner. Crash on a couch. Conclusion: way better then classes I&amp;rsquo;m supposed to be in.</description>
+    </item>
+    
+    <item>
+      <title>A quick list of all my recent things in the media</title>
+      <link>https://example.com/post/2013-09-30-recent-media/</link>
+      <pubDate>Mon, 30 Sep 2013 09:22:26 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-09-30-recent-media/</guid>
+      <description>September has been good on me so far. I&amp;rsquo;ve started my third year of my bachelor degree while on the opposite end my work seems to increase. I&amp;rsquo;ve been interviewed for a new TV-programme called Toekomstmakers. It&amp;rsquo;s in dutch but the video is can be found here:
+I&amp;rsquo;ve also written a column about the Quantified Self an the influences it could create within the health sector. The column has been added to the book Diagnose Zorginnovatie and has been presented at the Diagnose Zorg Innovatie congres.</description>
+    </item>
+    
+    <item>
+      <title>Building a Fitbit organisation dashboard</title>
+      <link>https://example.com/post/2013-08-15-fitbit-organisation-dashboard/</link>
+      <pubDate>Thu, 15 Aug 2013 18:54:46 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-08-15-fitbit-organisation-dashboard/</guid>
+      <description>The Fitbit is one of the best tools for activity tracking.The interface is nice and the hardware is durable and syncs wirelessly. For a personal level is good, but using group-wise or equipping all employees with a Fitbit turns out to be non-existent.
+During the past few days I&amp;rsquo;ve spend some time building a dashboard that lets people see the data from all users within a group. It gets all data trough the Fitbit API and summarizes it into a view per day/week/month.</description>
+    </item>
+    
+    <item>
+      <title>On a tandem bicycle to Bregenz</title>
+      <link>https://example.com/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</link>
+      <pubDate>Mon, 05 Aug 2013 17:40:13 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</guid>
+      <description>Two weeks ago I left the small village of Sloten in The Netherlands with a lofty goal, to reach Rome in Italy. On a tandem bicycle with a friend.
+A total distance around 2300km was meant to be covered. In the fourth day, we left the Netherlands and went into Germany.. Traveling trough the Ruhr area and cycling next to the Rhine.
+Next, the Swabian Jura and with 2 weeks we covered most of Germany.</description>
+    </item>
+    
+    <item>
+      <title>A python library for the Moves App API</title>
+      <link>https://example.com/post/2013-07-09-python-library-moves-app-api/</link>
+      <pubDate>Tue, 09 Jul 2013 19:52:23 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-07-09-python-library-moves-app-api/</guid>
+      <description>For Quantified Self starters I recommend the really nice Moves App. The interface is really nice and the battery drain isn&amp;rsquo;t that bad if you recharge it twice a day. They recently opened up their API enabling developers like me to create apps based on their platform. For me the first step towards creating an app is a easier way to communicate with the API.
+As with the fitbit, I&amp;rsquo;ve written a open-source library for you to use!</description>
+    </item>
+    
+    <item>
+      <title>Late night TekTok, talking QS and education</title>
+      <link>https://example.com/post/2013-07-04-late-night-tektok-talking-qs-and-education/</link>
+      <pubDate>Thu, 04 Jul 2013 22:22:41 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-07-04-late-night-tektok-talking-qs-and-education/</guid>
+      <description>Last month a give a small talk around the Quantified Self and how it fits into the education:
+  What amazed me was that the room was full of inspiring people designing stuff for the &amp;lsquo;now&amp;rsquo;, thus implementing it only when the future is already happening. Nevertheless I&amp;rsquo;m sure some good things will follow because people are aware and the connectedness helps solving these things.</description>
+    </item>
+    
+    <item>
+      <title>Diving into hardware!</title>
+      <link>https://example.com/post/2013-06-12-moving-into-hardware/</link>
+      <pubDate>Wed, 12 Jun 2013 20:34:13 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-06-12-moving-into-hardware/</guid>
+      <description>Software is not all there is, I&amp;rsquo;m diving into hardware! For the last month a lot of electronics have passed my hands, including sensors, arduinos and others. I&amp;rsquo;ve been given a Makey Makey by Loes and now doing a hardware project in collaboration with Setup and it involves this big red button.
+I&amp;rsquo;ll try my best to keep you posted of my hardware adventures!</description>
+    </item>
+    
+    <item>
+      <title>QS Europe Conference</title>
+      <link>https://example.com/post/2013-05-15-qs-europe-conference/</link>
+      <pubDate>Wed, 15 May 2013 11:42:07 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-05-15-qs-europe-conference/</guid>
+      <description>I&amp;rsquo;ve spend past weekend enjoying what I do most, submerge in a community driven event, to come out two days later sleep deprived but full with ideas and enthusiasm. As one of the organisers of the conference you might think that it&amp;rsquo;s a though thing to do, coordinating it all, but with a wonderful group of people from america and the QS Amsterdam team it was a blast!
+The atmosphere of the group was really great and we had almost 300 people at the venue.</description>
+    </item>
+    
+    <item>
+      <title>A small bite of news</title>
+      <link>https://example.com/post/2013-05-07-small-news/</link>
+      <pubDate>Tue, 07 May 2013 20:12:21 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-05-07-small-news/</guid>
+      <description>Just two quick bits of newsworthy stuff I wanted to share with you since I got back from Italy (which was really wonderful!):
+I gave a small interview about big-data for the dutch television programme Bedrijf in Beeld. Quite happy with the result:
+  Also, we reached the local dutch newspaper De Spits. The Quantified Self was mentioned by the Rode Kater, a famous little comic:</description>
+    </item>
+    
+    <item>
+      <title>Part-up</title>
+      <link>https://example.com/client/partup/</link>
+      <pubDate>Sun, 21 Apr 2013 22:55:11 +0200</pubDate>
+      
+      <guid>https://example.com/client/partup/</guid>
+      <description>Data strategy &amp;amp; API</description>
+    </item>
+    
+    <item>
+      <title>Building a Personal Health Dashboard with Panic&#39;s Statusboard</title>
+      <link>https://example.com/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/</link>
+      <pubDate>Mon, 15 Apr 2013 22:43:23 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/</guid>
+      <description>When Panic released their Statusboard app and I discovered it was possible to use JSON and html to embed it into pages, my mind raced with ideas about what to build. Both the Zeo and Fitbit API offer JSON output thus could be embeddable. To give a quick overview what it looks like with dummy data embedded, have a look at the following image:
+The next step is to implement a simple server side script that shapes and caches the JSON data in the correct format.</description>
+    </item>
+    
+    <item>
+      <title>Data-visualisation for the Hogeschool van Amsterdam</title>
+      <link>https://example.com/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</link>
+      <pubDate>Thu, 11 Apr 2013 21:49:08 +0200</pubDate>
+      
+      <guid>https://example.com/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</guid>
+      <description>Together with Heinze I&amp;rsquo;ve guided and taught several students from the Hogeschool van Amsterdam about data and data-visualisation. In 3 days packed with GPS-trackers, stories, examples and code we&amp;rsquo;ve made some interesting visualisations.
+Some were shown in Carre during the education conference organised by the Hogeschool van Amsterdam. Thanks Captain Video for the awesome setup with a cube:
+Ofcourse I&amp;rsquo;ve also made my own data-visualisation. The data consists of minute-by-minute data available trough the Fitbit data API.</description>
+    </item>
+    
+    <item>
+      <title>Generating Mondrian like art with D3 &amp; Javascript</title>
+      <link>https://example.com/post/2013-03-05-generating-mondrian-art-d3-javascript/</link>
+      <pubDate>Tue, 05 Mar 2013 15:38:34 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-03-05-generating-mondrian-art-d3-javascript/</guid>
+      <description>SETUP is holding a competition to get programming known as modern day craftwork. I whole-fully agree to this and decided to enter the contest!
+With a small part of my time spend while traveling I and finally finishing up I&amp;rsquo;ve gotten my last version up and running. I use javascript and D3 (SVG) for drawing the elements as this is a library that I wanted to explore. The ease of use and adoption rate of it made a good starting point for me to quickly get to a result.</description>
+    </item>
+    
+    <item>
+      <title>On the TV for VPRO Labyrint</title>
+      <link>https://example.com/post/2013-02-26-vpro-labyrint/</link>
+      <pubDate>Tue, 26 Feb 2013 09:47:05 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-02-26-vpro-labyrint/</guid>
+      <description>On sunday evening, the VPRO aired a new episode of Labyrint, a show for popular science. This episode included coverage of the Quantified Self and an interview with me (in dutch)! I&amp;rsquo;ve included the video for you to watch below:
+I&amp;rsquo;m very happy with the end result! As tracking becomes more ubiquitous more people will start to use it.</description>
+    </item>
+    
+    <item>
+      <title>Pecha Kucha about The Quantified Self and Permanent Beta</title>
+      <link>https://example.com/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/</link>
+      <pubDate>Tue, 12 Feb 2013 14:55:38 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/</guid>
+      <description>On the 7th of February I gave my first Pecha Kucha talk. Together with Jan-Henk Bouman we introduced the crowd (around 100 people) into the world of QS. With a geek to non-geek dialogue we kept our pace trough our 6:40 of fame. The video is below (in dutch):
+  Watch the Permanent Beta meetup group for upcoming events about The Quantified Self!</description>
+    </item>
+    
+    <item>
+      <title>8:36pm - 2012</title>
+      <link>https://example.com/post/2013-01-29-836pm-2012/</link>
+      <pubDate>Tue, 29 Jan 2013 23:26:09 +0100</pubDate>
+      
+      <guid>https://example.com/post/2013-01-29-836pm-2012/</guid>
+      <description>Without further comments, all my 8:36pm photo moments collected during 2012, stitched together in a movie:
+  All I can say is, thanks to all the people who made 2012 an awesome year! I&amp;rsquo;m sure 2013 is going to be the same!</description>
+    </item>
+    
+    <item>
+      <title>Metabolite testing with Talking20</title>
+      <link>https://example.com/post/2012-12-16-metabolite-testing-with-talking20/</link>
+      <pubDate>Sun, 16 Dec 2012 20:13:53 +0100</pubDate>
+      
+      <guid>https://example.com/post/2012-12-16-metabolite-testing-with-talking20/</guid>
+      <description>When I arrived home this weekend, a small package was waiting for me. It included the Talking20 metabolite kit I&amp;rsquo;d pre-ordered. And tonight I finally got around of donating some of my blood to the spot card. The package included, 3 spot cards and envelopes, and for each spot-card: an alcohol wipe, bandage and 3 lancets.
+It&amp;rsquo;s quick and easy to get started, but I also got some helpful assistance from my mother :).</description>
+    </item>
+    
+    <item>
+      <title>Startup Weekend Utrecht</title>
+      <link>https://example.com/post/2012-11-20-startup-weekend-utrecht/</link>
+      <pubDate>Tue, 20 Nov 2012 11:31:27 +0100</pubDate>
+      
+      <guid>https://example.com/post/2012-11-20-startup-weekend-utrecht/</guid>
+      <description>Last weekend I participated in Startup Weekend Utrecht. At almost 100 attendees, we&amp;rsquo;ve got the 8th floor of the Nijenoord building pretty stocked.
+As I predicted, I got an idea during the pitching process. Luckily I was able to pitch it anyhow and after the voting procedure the announcement was made that I made it to the top 13 viable ideas. So now I had to go and create a team!</description>
+    </item>
+    
+    <item>
+      <title>The Quantified Self and the New Aesthetic</title>
+      <link>https://example.com/post/2012-10-28-the-quantified-self-new-aesthetic/</link>
+      <pubDate>Sun, 28 Oct 2012 01:45:21 +0200</pubDate>
+      
+      <guid>https://example.com/post/2012-10-28-the-quantified-self-new-aesthetic/</guid>
+      <description>The Quantified Self is all about getting data about ourselves. We distill information and use that to our knowledge to improve our lives and that of others. Self-knowledge trough numbers. As we use algorithms in our lives we don&amp;rsquo;t think that often about how they see us, but this is exactly what the New Aesthetic is about.
+And here&amp;rsquo;s the cross-over between the New Aesthetic and QS. Machines and algorithms run our lives, and how they look at the world causes us to act.</description>
+    </item>
+    
+    <item>
+      <title>Karlskrona, Sweden</title>
+      <link>https://example.com/post/2012-10-18-karlskrona-sweden/</link>
+      <pubDate>Thu, 18 Oct 2012 00:07:05 +0200</pubDate>
+      
+      <guid>https://example.com/post/2012-10-18-karlskrona-sweden/</guid>
+      <description>Just here for a few days, united with my brother. Travelling trough Kopenhagen and the lower country-side of Sweden. Visiting Hyper Island while my brother finishes his project and going by train to Malmö on the last day.</description>
+    </item>
+    
+    <item>
+      <title>Plugin Heuristics</title>
+      <link>https://example.com/post/2012-09-24-plugin-heuristics/</link>
+      <pubDate>Mon, 24 Sep 2012 09:21:34 +0200</pubDate>
+      
+      <guid>https://example.com/post/2012-09-24-plugin-heuristics/</guid>
+      <description>At the third Quantified Self Conference in Stanford last week I gave a talk about Plugin Heuristcs, a term that describes something I&amp;rsquo;ve come across during my years of self-tracking experiments.
+Plugin Heuristics confines an architecture that I propose for self-tracking things with a side-effect. For example when tracking my food intake for at least a month, it changed the way my brain remembers all the things I&amp;rsquo;ve eaten. When I got started I could barely remember one day of intake, when a month has passed, your memory for food specific things increases to almost a week.</description>
+    </item>
+    
+    <item>
+      <title>Hiking 500 kilometers</title>
+      <link>https://example.com/post/2012-08-25-hiking-500-kilometers/</link>
+      <pubDate>Sat, 25 Aug 2012 18:50:59 +0200</pubDate>
+      
+      <guid>https://example.com/post/2012-08-25-hiking-500-kilometers/</guid>
+      <description>That&amp;rsquo;s what I did this summer, together with a friend. And here&amp;rsquo;s one of the pictures I took:
+(if your interested, you can find the route as KML here)</description>
+    </item>
+    
+    <item>
+      <title>Showertrack!</title>
+      <link>https://example.com/post/2012-07-15-showertrack/</link>
+      <pubDate>Sun, 15 Jul 2012 22:06:18 +0200</pubDate>
+      
+      <guid>https://example.com/post/2012-07-15-showertrack/</guid>
+      <description>So much projects, so little time&amp;hellip; But hey, let&amp;rsquo;s just use some of my spare time for keeping you guys updated on the stuff I do. I&amp;rsquo;ve been doing several things, but the most interesting right now is a new iPhone app concept that we&amp;rsquo;ve been developing since last month. Together with Nils Waanders and Willemijn Edens we are creating an app which helps people save water while showering. It&amp;rsquo;s called Showertrack.</description>
+    </item>
+    
+    <item>
+      <title>Storify as slides for talks</title>
+      <link>https://example.com/post/2012-05-31-storify-as-slides-for-talks/</link>
+      <pubDate>Thu, 31 May 2012 15:34:18 +0200</pubDate>
+      
+      <guid>https://example.com/post/2012-05-31-storify-as-slides-for-talks/</guid>
+      <description>I like Storify, a service that lets you curate your own story based from sources like Twitter, Facebook or other social networks. And sometimes I wonder what would happen if you let people curate it live on a beamer during festivals or want to use it for public talks&amp;hellip; Then the website isn&amp;rsquo;t that handy or slide-enabled.
+But it shouldn&amp;rsquo;t be that hard to extract all data from Storify and glue everything together into a slide-ready format right?</description>
+    </item>
+    
+    <item>
+      <title>Using Zeo Raw Data for performances</title>
+      <link>https://example.com/post/2012-03-27-using-zeo-raw-data-for-performances/</link>
+      <pubDate>Tue, 27 Mar 2012 22:11:55 +0200</pubDate>
+      
+      <guid>https://example.com/post/2012-03-27-using-zeo-raw-data-for-performances/</guid>
+      <description>Together with my brother I run a little experiment called Hoofdbeelden. It&amp;rsquo;s a exploration for both of us as an artist and how we can use data generated by me as a person can be used for audio/visual performances. We&amp;rsquo;ve had a few gigs so far, but our last at Fiber Festival certainly made sure for the both of us that this is something we want to do.
+In short Hoofdbeelden is a system which allows us tap into devices hooked onto my body for real-time information.</description>
+    </item>
+    
+    <item>
+      <title>Video&#39;s of a few talks I gave last few months</title>
+      <link>https://example.com/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/</link>
+      <pubDate>Wed, 15 Feb 2012 13:03:22 +0100</pubDate>
+      
+      <guid>https://example.com/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/</guid>
+      <description>During the last few months I&amp;rsquo;ve given several talks about the Quantified Self and lifehacking. The video&amp;rsquo;s of two of these talks are embedded below. Enjoy!
+Urban Screens  
+Inspirationshot #3
+  </description>
+    </item>
+    
+    <item>
+      <title>Datavisualisatie voor het CBS</title>
+      <link>https://example.com/post/2012-01-16-datavisualisatie-voor-het-cbs/</link>
+      <pubDate>Mon, 16 Jan 2012 11:43:23 +0100</pubDate>
+      
+      <guid>https://example.com/post/2012-01-16-datavisualisatie-voor-het-cbs/</guid>
+      <description>Het CBS organiseert de eerste seminar over interactieve data visualisaties op 3 februari in Den Haag. Voor de seminar is een wedstrijd gemaakt en ik had een vrije middag over om er mee aan de slag te gaan.
+Nadat ik alle drie de data-sets heb bekeken leek het mij het beste om de derde (Landbouw; economische omvang naar omvangsklasse, hoofdbedrijfstype &amp;amp; regio) aan de slag te gaan. Nadat ik de data had gedownload heb ik eerst Google Refine gebruikt om de data schoon te maken en te filteren.</description>
+    </item>
+    
+    <item>
+      <title>2011, A Summary</title>
+      <link>https://example.com/post/2012-01-01-2011-a-summary/</link>
+      <pubDate>Sun, 01 Jan 2012 16:35:05 +0100</pubDate>
+      
+      <guid>https://example.com/post/2012-01-01-2011-a-summary/</guid>
+      <description>Last year has been full with adventures! Going to San Francisco, organizing QS Europe and starting another bachelor degree in Media Technology&amp;hellip; And of course I continued with taking a picture everyday at 8:36pm.
+  Let&amp;rsquo;s see what 2012 brings!</description>
+    </item>
+    
+    <item>
+      <title>QS Europe 2011</title>
+      <link>https://example.com/post/2011-12-19-qs-europe-2011/</link>
+      <pubDate>Mon, 19 Dec 2011 13:02:30 +0100</pubDate>
+      
+      <guid>https://example.com/post/2011-12-19-qs-europe-2011/</guid>
+      <description>In one year I started with my idea to go the the first Quantified Self Conference in San Francisco, Mountain View. The idea brought me there, with all the helping hands of people supporting me. When Martijn and me got back, we agreed to organize a second conference in Amsterdam.
+The QS Amsterdam crew joined in and at the 26 &amp;amp; 27th of November we organized QS Europe. I never organized a conference so big and it was truly fantastic to see 250 people enjoying their time at the conference.</description>
+    </item>
+    
+    <item>
+      <title>Going interactive!</title>
+      <link>https://example.com/post/2011-11-21-going-interactive/</link>
+      <pubDate>Mon, 21 Nov 2011 11:24:26 +0100</pubDate>
+      
+      <guid>https://example.com/post/2011-11-21-going-interactive/</guid>
+      <description>Some of you may have noticed it already, but from now on, I&amp;rsquo;m available as freelancer! I&amp;rsquo;ve made the last step towards it two weeks ago and I&amp;rsquo;m now registered at the Chamber of Commerce. Most of the projects are covered with this. And one of them is an interactive showcase for the Freemote festival in Utrecht in the beginning of December.
+Together with my brother we are building a hybrid manifestation of visualizing brainwaves and other personal metrics.</description>
+    </item>
+    
+    <item>
+      <title>Stand Up Inspiration: Mijn Reis naar #QS2011</title>
+      <link>https://example.com/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/</link>
+      <pubDate>Mon, 10 Oct 2011 17:41:01 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/</guid>
+      <description>On the 19th of september I was at Stand Up Inspiration and I could tell my story of my trip to San Francisco &amp;amp; the Quantified Self conference. The story is in dutch, but if you&amp;rsquo;re curious, have a look:
+  </description>
+    </item>
+    
+    <item>
+      <title>Moon phases and sleep patterns</title>
+      <link>https://example.com/post/2011-10-06-moon-phases-and-sleep-patterns/</link>
+      <pubDate>Thu, 06 Oct 2011 10:54:09 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-10-06-moon-phases-and-sleep-patterns/</guid>
+      <description>Even before I got a Zeo, I was wondering if the phases of the moon are of influence of my sleep quality. With the Zeo that offers an API, I finally had a chance to investigate. As it turns out after four months of experimenting: the phase of the moon doesn&amp;rsquo;t have any influence on my sleep quality or the time it takes to fall asleep.
+I&amp;rsquo;ve been building my own interface for the Zeo, because the flash based website doesn&amp;rsquo;t suit my needs, here&amp;rsquo;s a small screenshot:</description>
+    </item>
+    
+    <item>
+      <title>Publishing personal caloric values</title>
+      <link>https://example.com/post/2011-09-27-publishing-personal-caloric-values/</link>
+      <pubDate>Tue, 27 Sep 2011 09:24:16 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-09-27-publishing-personal-caloric-values/</guid>
+      <description>I&amp;rsquo;ve started tracking my food intake with Foodzy about 13 days ago. And while doing that I already came across some interesting things. I&amp;rsquo;ve never been fully tracking my food intake, but the Foodzy app on my iPhone with extensive database (including typical dutch food) makes it quite easy. I&amp;rsquo;ve been tracking for thirteen days now.
+The first step I wanted to take is to generate a baseline of my typical food consumption(and thus caloric values), this way I can see where I can make improvements and measure the changes.</description>
+    </item>
+    
+    <item>
+      <title>Preview of my San Francisco Report</title>
+      <link>https://example.com/post/2011-09-01-preview-of-my-san-francisco-report/</link>
+      <pubDate>Thu, 01 Sep 2011 10:39:03 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-09-01-preview-of-my-san-francisco-report/</guid>
+      <description>]
+For the people who sponsored me for my trip to San Francisco, I&amp;rsquo;m building a report inspired my Nicholas Felton about my trip. I wanted to show you a small preview on the right:
+I&amp;rsquo;m aiming to have at least 4 page worth of data to show you. Since I&amp;rsquo;ve never dived deep into Processing, the building time is somewhat extended, so I don&amp;rsquo;t know when it&amp;rsquo;ll be finished. I started studying Media Technology as well, so spare time is a little bit limited.</description>
+    </item>
+    
+    <item>
+      <title>How I would like to write.</title>
+      <link>https://example.com/post/2011-08-17-how-i-would-like-to-write/</link>
+      <pubDate>Wed, 17 Aug 2011 09:50:01 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-08-17-how-i-would-like-to-write/</guid>
+      <description>From how to live safely in a sciencefictional universe by Charles Yu.
+ I’m typing, even though strictly speaking I am using the TM-31’s cognitive-visual-motor-sound-activated recording module, which operates, as you might guess, by simultaneously tracking output from the user’s neural activity, voice, finger movements, retinal movements, and facial muscle contractions. It’s part keyboard, part microphone, part optical scan, and part brain scan. When I want to type, I raise my hands up in front of me, palms down, in a position approximating typing, and a virtual QWERTY layout materializes in front of me.</description>
+    </item>
+    
+    <item>
+      <title>Python library for the FitBit API</title>
+      <link>https://example.com/post/2011-07-18-python-library-fitbit-api/</link>
+      <pubDate>Mon, 18 Jul 2011 20:50:56 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-07-18-python-library-fitbit-api/</guid>
+      <description>My quest of building API wrappers in python continues with the FitBit. The handy devices tracks most of my activities and movements during daytime. So it&amp;rsquo;s an excellent self-tracking device, especially with the wireless sync. There wasn&amp;rsquo;t an API interface available in python, so with some borrowed code I decided to build my own.
+I made an GitHub repository with the code and an example for you to use. Please fork and correct any changes that you think would be useful for me to learn!</description>
+    </item>
+    
+    <item>
+      <title>Sync Kindle notes and clippings to Evernote</title>
+      <link>https://example.com/post/2011-07-08-kindle-notes-evernote-sync/</link>
+      <pubDate>Fri, 08 Jul 2011 12:11:46 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-07-08-kindle-notes-evernote-sync/</guid>
+      <description>Since I got my Kindle I started reading a lot more books and articles. And one of the nice things you can do is add notes and clip certain pieces of text. The Kindle saves all those things into a text file for easy access, but I wanted those to be searchable as well in my system.
+I wrote a small python script that extracts all notes and clippings from the text file and creates a new note in Evernote for each of them.</description>
+    </item>
+    
+    <item>
+      <title>First nights with the Zeo sleep monitor</title>
+      <link>https://example.com/post/2011-06-22-zeo-sleep-monitor/</link>
+      <pubDate>Wed, 22 Jun 2011 21:53:57 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-06-22-zeo-sleep-monitor/</guid>
+      <description>During the QS Conference the awesome guys from Zeo gifted me one of their sleep monitors. And 1 week ago it arrived by mail. I promised to create as much value in return if I liked the Zeo. And I do, I absolutely do. Here is why:
+As an average person sleep 8 hours a day you spend 1/3 of your life lying in bed&amp;hellip; That&amp;rsquo;s a lot of time spend.</description>
+    </item>
+    
+    <item>
+      <title>San Francisco 2011 &amp; #QS2011</title>
+      <link>https://example.com/post/2011-06-07-san-francisco-2011-qs2011/</link>
+      <pubDate>Tue, 07 Jun 2011 15:49:07 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-06-07-san-francisco-2011-qs2011/</guid>
+      <description>On the 25th of may my trip started with a 11 hour long flight straight to San Francisco to visit the Quantified Self Conference in Mountain View. The trip was funded by donations, ideas and people.
+Together with Martijn Aslander I&amp;rsquo;ve spent the first few days as a tourist and visited most of the spots that represent San Francisco. Then we boarded the Caltrain for Mountain View.
+I volunteered at the the conference which brought me way more then being just there as a guest.</description>
+    </item>
+    
+    <item>
+      <title>My effort for a better readinglist</title>
+      <link>https://example.com/post/2011-05-08-my-effort-for-a-better-readinglist/</link>
+      <pubDate>Sun, 08 May 2011 10:24:29 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-05-08-my-effort-for-a-better-readinglist/</guid>
+      <description>I love the Read It Later List service. Each day I save about 20-30 articles from Google Reader or my Twitter client so I can read them later. However, these amounts make it hard for me to process all the things I save. That&amp;rsquo;s why I need a readinglist that has additional filtering/speed/shortcuts.
+As my endeavors with Python continue, for the last few months I&amp;rsquo;ve been developing my own version of the perfect readinglist build upon the API of Read It Later List.</description>
+    </item>
+    
+    <item>
+      <title>My method for improving dream recall</title>
+      <link>https://example.com/post/2011-04-19-my-method-for-improving-dream-recall/</link>
+      <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-04-19-my-method-for-improving-dream-recall/</guid>
+      <description>On average, a human spends one third (8 hours) of it&amp;rsquo;s time sleeping. That&amp;rsquo;s a lot and one of the reasons I decided to dip my interest into dreaming and dream recall.
+With trial and error, I&amp;rsquo;ve made a modified version of the WILD method that works for me with a success-rate of about 80% for dream recall, no lucid state yet. So here is how it works:
+ Determine the amount of sleep you want to get (preferring a multiple of 1.</description>
+    </item>
+    
+    <item>
+      <title>Extendability</title>
+      <link>https://example.com/post/2011-04-15-extendability/</link>
+      <pubDate>Fri, 15 Apr 2011 08:52:11 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-04-15-extendability/</guid>
+      <description>It started millions of years ago with fire and the invention of language. Then simple tools and in later stages, clothing and shoes. Nowadays the trend continues with more sophisticated technology. Smartphones and watches are some of the things we keep on us at all times. Humans have developed the habit to extend themselves by using technology. In such a way that it sprouted a certain feeling of loss when not having access to the technology of which we&amp;rsquo;ve made our own.</description>
+    </item>
+    
+    <item>
+      <title>Mobypicture Export</title>
+      <link>https://example.com/post/2011-04-10-mobypicture-export/</link>
+      <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-04-10-mobypicture-export/</guid>
+      <description>I love Mobypicture. It&amp;rsquo;s the service I use to post my pictures onto Twitter, Flickr and Facebook. It makes uploading photos from my mobile phone as simple as it could possibly be. Even better, the service is free to use, unlike Flickr which only allows access to last 200 images if you go with their freemium model. But sadly using Mobypicture isn&amp;rsquo;t without downsides. There is no export functionality as of yet.</description>
+    </item>
+    
+    <item>
+      <title>So what am I tracking?</title>
+      <link>https://example.com/post/2011-03-31-what-am-i-tracking/</link>
+      <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-03-31-what-am-i-tracking/</guid>
+      <description>I&amp;rsquo;ll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I&amp;rsquo;m tracking to function as an archive or feedback loop. If I have some more time, I&amp;rsquo;ll explain the things I use to make this all possible.
+ Distance travelled (which cities did I visit?) Which people do I meet everyday?</description>
+    </item>
+    
+    <item>
+      <title>Trip to Brussels</title>
+      <link>https://example.com/post/2011-03-13-trip-to-brussels/</link>
+      <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
+      
+      <guid>https://example.com/post/2011-03-13-trip-to-brussels/</guid>
+      <description>This week I travelled to Brussels so I could give a talk at the Quantified Self Meetup group there. And I&amp;rsquo;ve been involved in the startup Scanadu which is about broadcasting your health. Together with people like Walter de Brouwer and Misha Chellam we are going to take a different approach to health. During my stay in Brussels I&amp;rsquo;ve learned a lot (including my level of French, it&amp;rsquo;s really bad!). Really liked the city though!</description>
+    </item>
+    
+    <item>
+      <title>Measuring mouse interaction</title>
+      <link>https://example.com/post/2011-02-27-measuring-mouse-interaction/</link>
+      <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
+      
+      <guid>https://example.com/post/2011-02-27-measuring-mouse-interaction/</guid>
+      <description>I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&amp;rsquo;t draw any conclusions about it because I switched my operating system too!
+However more recently I started using MacLogger and together with Jelle I&amp;rsquo;ve made some custom python and processing scripts that should offer more insight into my mouse usage.</description>
+    </item>
+    
+    <item>
+      <title>Dabblings in Processing</title>
+      <link>https://example.com/post/2011-01-08-dabblings-in-processing/</link>
+      <pubDate>Sat, 08 Jan 2011 14:20:30 +0100</pubDate>
+      
+      <guid>https://example.com/post/2011-01-08-dabblings-in-processing/</guid>
+      <description>The collected data of 2010, mostly trough PersonalStats, but Foursquare and Twitter too, is a huge amount. Next to interpreting this data and using the information to create a feedback moment, the data can also turned into art. Nicholas Felton makes a perfect example: his highly interesting Annual Report fascinates me in both visual and informational ways.
+As Kees discovered Processing, it left me wondering what I could do with it.</description>
+    </item>
+    
+    <item>
+      <title>2010, A summary</title>
+      <link>https://example.com/post/2010-12-31-2010-a-summary/</link>
+      <pubDate>Fri, 31 Dec 2010 12:16:04 +0100</pubDate>
+      
+      <guid>https://example.com/post/2010-12-31-2010-a-summary/</guid>
+      <description>&amp;mdash; title: 2010, A summary date: 2010-12-31 12:16:04.000000000 +01:00 &amp;mdash;
+This year passed with an excellent speed, not to quick, but certainly not slowly. I think pictures say more then words so I would like to share with you every picture I took at 8:36pm during 2010:
+  (Huge thanks to my brother Kees who was so kind to make a video of it!)
+Not only did I finish my bachelor degree this year, but I also started Qs Amsterdam and some other interesting projects.</description>
+    </item>
+    
+    <item>
+      <title>Geolocation based grocery reminders</title>
+      <link>https://example.com/post/2010-12-04-geolocation-based-grocery-reminders/</link>
+      <pubDate>Sat, 04 Dec 2010 14:26:44 +0100</pubDate>
+      
+      <guid>https://example.com/post/2010-12-04-geolocation-based-grocery-reminders/</guid>
+      <description>I really don&amp;rsquo;t like shopping for groceries and I developed the habit to forget half of my groceries&amp;hellip;. A digital grocery list would be perfect&amp;hellip;. shortly after discussing todo-lists with Martijn Aslander I was inspired to build a mashup to solve my problem.
+Based on information gathered by Instamapper in combination with the Haversine formula it is possible to calcuate the distance between two points on a sphere. When the distance is small enough a push notification including a link to my digital grocery list is send to my iPhone trough the Notifo API.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on data portability</title>
+      <link>https://example.com/post/2010-11-25-thoughts-on-data-portability/</link>
+      <pubDate>Thu, 25 Nov 2010 14:24:10 +0100</pubDate>
+      
+      <guid>https://example.com/post/2010-11-25-thoughts-on-data-portability/</guid>
+      <description>I am troubled by data portability. It is a highly overlooked factor. And in many services I used for collecting the export function was simply not present.. If i left the service I lost my data, a sad case&amp;hellip;
+Recent actions of social networks like facebook allow a user to export data, but only by rules set by facebook. Another example could be Runkeeper, which i use to collect my efforts of exercising.</description>
+    </item>
+    
+    <item>
+      <title>Why shoot a photo at 8:36pm?</title>
+      <link>https://example.com/post/2010-11-09-why-shoot-a-photo-at-836pm/</link>
+      <pubDate>Tue, 09 Nov 2010 11:24:17 +0100</pubDate>
+      
+      <guid>https://example.com/post/2010-11-09-why-shoot-a-photo-at-836pm/</guid>
+      <description>On the second of January 2010 I started shooting a picture everyday at 8:36pm, inspired by Buster Benson. Curiosity brought me into it, and if people asked me why I often could not give a sufficient answer. As if it were a form of art.
+But now I often wonder about history&amp;hellip; How people lived and how further back you go, the less we remember or can find. Technology nowadays could help us bring a more complete image to our future.</description>
+    </item>
+    
+    <item>
+      <title>My view of technology</title>
+      <link>https://example.com/post/2010-10-06-my-view-of-technology/</link>
+      <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
+      
+      <guid>https://example.com/post/2010-10-06-my-view-of-technology/</guid>
+      <description>A random train of thoughts:
+When biology is technology and man tries to grasp the amount of data generated and collected, most people think of this as unnatural. Yet it&amp;rsquo;s true that mankind can not yet understand the potential of ambient measuring of information streams. Ubiquitous capture of data could bring insight in how technology and specifically our body (which is a perfect example of technology in it&amp;rsquo;s own right) works.</description>
+    </item>
+    
+    <item>
+      <title>QS Amsterdam Recap #1</title>
+      <link>https://example.com/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>https://example.com/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro!
+I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+    </item>
+    
+    <item>
+      <title>GeoTracking: streaming GPS locations</title>
+      <link>https://example.com/post/2010-08-31-geotracking-streaming-gps-locations/</link>
+      <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
+      
+      <guid>https://example.com/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
+      <description>I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.
+Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.
+  I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>📫 Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>If you want to get in touch we me, the easiest way is to reach out by email. You can email me at:
+jsplattel@gmail.com
+And remember:
+ Foar de kofje net eamelje!
+ ~ A frisian saying meaning: don&amp;rsquo;t whine before we had a coffee.</description>
+    </item>
+    
+  </channel>
+</rss>

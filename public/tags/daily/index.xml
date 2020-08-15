@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>daily on Joost Plattel</title>
+    <link>https://example.com/tags/daily/</link>
+    <description>Recent content in daily on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 04 Jan 2020 20:13:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Celebrating 10 years of 8:36pm</title>
+      <link>https://example.com/post/2020-01-04-celebrating-ten-years-836pm/</link>
+      <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
+      
+      <guid>https://example.com/post/2020-01-04-celebrating-ten-years-836pm/</guid>
+      <description>Today marks something special. Ten years ago, inspired by Buster Benson I started taking a picture at 8:36pm every day. A simple thing you might think, but in the end I kept doing it and to this day I still do.
+Keeping a habit for 10 years makes it a bit extraordinairy and I can say I will continue taking a picture! Below you will find this years movie of all the photos I took.</description>
+    </item>
+    
+  </channel>
+</rss>

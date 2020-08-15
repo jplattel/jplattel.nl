@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Joost Plattel</title>
+    <link>https://example.com/tags/data/</link>
+    <description>Recent content in data on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Thu, 21 Nov 2019 13:59:47 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A small mention in an article about data monitoring in De Telegraaf</title>
+      <link>https://example.com/media/big-brother-werkvloer-you-telegraaf/</link>
+      <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
+      
+      <guid>https://example.com/media/big-brother-werkvloer-you-telegraaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panel member @ Big Brother Awards</title>
+      <link>https://example.com/media/big-brother-awards/</link>
+      <pubDate>Thu, 24 Jan 2019 13:59:47 +0100</pubDate>
+      
+      <guid>https://example.com/media/big-brother-awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalstats</title>
+      <link>https://example.com/project/personalstats/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/project/personalstats/</guid>
+      <description>A little web application that pulls in data from Workflowy to make it more understandable</description>
+    </item>
+    
+    <item>
+      <title>Mobypicture Export</title>
+      <link>https://example.com/post/2011-04-10-mobypicture-export/</link>
+      <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-04-10-mobypicture-export/</guid>
+      <description>I love Mobypicture. It&amp;rsquo;s the service I use to post my pictures onto Twitter, Flickr and Facebook. It makes uploading photos from my mobile phone as simple as it could possibly be. Even better, the service is free to use, unlike Flickr which only allows access to last 200 images if you go with their freemium model. But sadly using Mobypicture isn&amp;rsquo;t without downsides. There is no export functionality as of yet.</description>
+    </item>
+    
+  </channel>
+</rss>

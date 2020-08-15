@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workflowy on Joost Plattel</title>
+    <link>https://example.com/tags/workflowy/</link>
+    <description>Recent content in workflowy on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Tue, 08 Jan 2019 00:05:29 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/workflowy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalstats</title>
+      <link>https://example.com/project/personalstats/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/project/personalstats/</guid>
+      <description>A little web application that pulls in data from Workflowy to make it more understandable</description>
+    </item>
+    
+  </channel>
+</rss>

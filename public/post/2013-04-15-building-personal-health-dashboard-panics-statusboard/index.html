@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Building a Personal Health Dashboard with Panic&#39;s Statusboard </title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta property="og:title" content="Building a Personal Health Dashboard with Panic&#39;s Statusboard" />
+<meta property="og:description" content="When Panic released their Statusboard app and I discovered it was possible to use JSON and html to embed it into pages, my mind raced with ideas about what to build. Both the Zeo and Fitbit API offer JSON output thus could be embeddable. To give a quick overview what it looks like with dummy data embedded, have a look at the following image:
+The next step is to implement a simple server side script that shapes and caches the JSON data in the correct format." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/" />
+<meta property="article:published_time" content="2013-04-15T22:43:23+02:00" />
+<meta property="article:modified_time" content="2013-04-15T22:43:23+02:00" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Building a Personal Health Dashboard with Panic&#39;s Statusboard"/>
+<meta name="twitter:description" content="When Panic released their Statusboard app and I discovered it was possible to use JSON and html to embed it into pages, my mind raced with ideas about what to build. Both the Zeo and Fitbit API offer JSON output thus could be embeddable. To give a quick overview what it looks like with dummy data embedded, have a look at the following image:
+The next step is to implement a simple server side script that shapes and caches the JSON data in the correct format."/>
+
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://example.com/css/style-white.css">
+  <link rel="stylesheet" href="https://example.com/css/custom.css">
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://example.com/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://example.com/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://example.com/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://example.com/icon/favicon-16x16.png">
+<link rel="manifest" href="https://example.com/icon/site.webmanifest">
+<link rel="mask-icon" href="https://example.com/icon/safari-pinned-tab.svg" color="#5bbad5">
+  
+  
+  
+  
+  
+</head>
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+    <header id="header">
+  <a href="https://example.com">
+    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
+      <title>Joost Plattel</title>
+      <desc>Logo Joost Plattel</desc>
+      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
+    </svg>
+    <div id="title">
+      <h1>Joost Plattel</h1>
+    </div>
+  </a>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
+      
+    </ul>
+  </div>
+</header>
+  
+
+    
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Building a Personal Health Dashboard with Panic&#39;s Statusboard
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2013-04-15 22:43:23 &#43;0200 CEST" itemprop="datePublished">15-04-2013</time>
+          
+        </div>
+        
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>When Panic released their <a href="http://panic.com/statusboard/">Statusboard app</a> and I discovered it was possible to use JSON and html to embed it into pages, my mind raced with ideas about what to build. Both the Zeo and Fitbit API offer JSON output thus could be embeddable. To give a quick overview what it looks like with dummy data embedded, have a look at the following image:</p>
+<p><img src="/img/photo.PNG" alt="Personal Health Dashboard"></p>
+<p>The next step is to implement a simple server side script that shapes and caches the JSON data in the correct format. We&rsquo;ll make that a weekend project. And you&rsquo;re not limited to Fitbit or Zeo data any more, any API or maybe even trough <a href="https://www.stathat.com/">StatHat</a> could offer a way for making it visual for the personal health dashboard :)</p>
+
+    </div>
+  </article>
+
+  
+  
+
+
+
+
+
+  <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/post">Posts</a></li>
+         
+          <li><a href="/project">Projects</a></li>
+         
+          <li><a href="/wishlist">Wishlist</a></li>
+         
+          <li><a href="/about">About</a></li>
+         
+          <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </div>
+
+    <div id="toc-footer" style="display: none">
+      <nav id="TableOfContents"></nav>
+    </div>
+
+    <div id="share-footer" style="display: none">
+      
+      <ul>
+  
+  
+    
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f">
+      <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&text=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&title=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&is_video=false&description=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard&body=Check out this article: https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f">
+      <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&title=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&title=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.stumbleupon.com/submit?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&title=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://digg.com/submit?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&title=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-digg fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&name=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard&description=When%20Panic%20released%20their%20Statusboard%20app%20and%20I%20discovered%20it%20was%20possible%20to%20use%20JSON%20and%20html%20to%20embed%20it%20into%20pages%2c%20my%20mind%20raced%20with%20ideas%20about%20what%20to%20build.%20Both%20the%20Zeo%20and%20Fitbit%20API%20offer%20JSON%20output%20thus%20could%20be%20embeddable.%20To%20give%20a%20quick%20overview%20what%20it%20looks%20like%20with%20dummy%20data%20embedded%2c%20have%20a%20look%20at%20the%20following%20image%3a%0aThe%20next%20step%20is%20to%20implement%20a%20simple%20server%20side%20script%20that%20shapes%20and%20caches%20the%20JSON%20data%20in%20the%20correct%20format.">
+      <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fexample.com%2fpost%2f2013-04-15-building-personal-health-dashboard-panics-statusboard%2f&t=Building%20a%20Personal%20Health%20Dashboard%20with%20Panic%27s%20Statusboard">
+      <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+      
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;">
+          <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;">
+          <i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;">
+          <i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+          <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
+
+  </div>
+</div>
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  <script src="/js/main.js"></script>
+  
+  
+  
+
+
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+  
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-18951988-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+  
+</body>
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+<script src="/lib/jquery/jquery.min.js"></script>
+<script src="/js/main.js"></script>
+</html>

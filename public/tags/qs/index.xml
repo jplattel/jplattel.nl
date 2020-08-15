@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QS on Joost Plattel</title>
+    <link>https://example.com/tags/qs/</link>
+    <description>Recent content in QS on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Tue, 08 Jan 2019 00:05:29 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/qs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalstats</title>
+      <link>https://example.com/project/personalstats/</link>
+      <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
+      
+      <guid>https://example.com/project/personalstats/</guid>
+      <description>A little web application that pulls in data from Workflowy to make it more understandable</description>
+    </item>
+    
+    <item>
+      <title>So what am I tracking?</title>
+      <link>https://example.com/post/2011-03-31-what-am-i-tracking/</link>
+      <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
+      
+      <guid>https://example.com/post/2011-03-31-what-am-i-tracking/</guid>
+      <description>I&amp;rsquo;ll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I&amp;rsquo;m tracking to function as an archive or feedback loop. If I have some more time, I&amp;rsquo;ll explain the things I use to make this all possible.
+ Distance travelled (which cities did I visit?) Which people do I meet everyday?</description>
+    </item>
+    
+    <item>
+      <title>My view of technology</title>
+      <link>https://example.com/post/2010-10-06-my-view-of-technology/</link>
+      <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
+      
+      <guid>https://example.com/post/2010-10-06-my-view-of-technology/</guid>
+      <description>A random train of thoughts:
+When biology is technology and man tries to grasp the amount of data generated and collected, most people think of this as unnatural. Yet it&amp;rsquo;s true that mankind can not yet understand the potential of ambient measuring of information streams. Ubiquitous capture of data could bring insight in how technology and specifically our body (which is a perfect example of technology in it&amp;rsquo;s own right) works.</description>
+    </item>
+    
+    <item>
+      <title>QS Amsterdam Recap #1</title>
+      <link>https://example.com/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>https://example.com/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro!
+I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+    </item>
+    
+    <item>
+      <title>GeoTracking: streaming GPS locations</title>
+      <link>https://example.com/post/2010-08-31-geotracking-streaming-gps-locations/</link>
+      <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
+      
+      <guid>https://example.com/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
+      <description>I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.
+Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.
+  I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>
+    </item>
+    
+  </channel>
+</rss>

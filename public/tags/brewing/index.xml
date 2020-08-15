@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brewing on Joost Plattel</title>
+    <link>https://example.com/tags/brewing/</link>
+    <description>Recent content in brewing on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/brewing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automating my brewery (Part 2)</title>
+      <link>https://example.com/post/2019-11-18-automating-my-brewery-part-2/</link>
+      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
+      
+      <guid>https://example.com/post/2019-11-18-automating-my-brewery-part-2/</guid>
+      <description>In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:
+The enclosure contains the following things:
+ Backside:  230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input   Frontside:  Traffic-light interface: lights to indicate what is on.</description>
+    </item>
+    
+    <item>
+      <title>Brewing a new batch of beer</title>
+      <link>https://example.com/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
+      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
+      
+      <guid>https://example.com/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
+      <description>Past week we spend a day at a brewery! We made a new batch for our brewery Nooitgedacht. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough Kratfunding, we only ship to the Netherlands currently!
+Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.</description>
+    </item>
+    
+    <item>
+      <title>Something&#39;s brewing!</title>
+      <link>https://example.com/post/2015-05-18-somethings-brewing/</link>
+      <pubDate>Mon, 18 May 2015 11:12:35 +0200</pubDate>
+      
+      <guid>https://example.com/post/2015-05-18-somethings-brewing/</guid>
+      <description>And it&amp;rsquo;s beer! Well it&amp;rsquo;s stored now and bubbling away! Yesterday afternoon I&amp;rsquo;ve brewed my first batch of beer. With the gear and knowledge of a friend, we manufactured 48 liters of pale ale. The sunny afternoon also was a perfect opportunity for my new camera, so I took some tests shots. Here&amp;rsquo;s the brewery in my backyard:
+The recipe we decided on included star-anise and lemongrass. Sadly the coriander seeds got lost and we skipped those.</description>
+    </item>
+    
+  </channel>
+</rss>

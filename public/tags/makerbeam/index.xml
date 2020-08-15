@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>makerbeam on Joost Plattel</title>
+    <link>https://example.com/tags/makerbeam/</link>
+    <description>Recent content in makerbeam on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sun, 17 Nov 2019 19:49:34 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/makerbeam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automating my brewery (Part 1)</title>
+      <link>https://example.com/post/2019-11-17-automating-my-brewery-part-1/</link>
+      <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
+      
+      <guid>https://example.com/post/2019-11-17-automating-my-brewery-part-1/</guid>
+      <description>As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.
+My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified Weck-kettle.</description>
+    </item>
+    
+  </channel>
+</rss>

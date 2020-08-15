@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberry on Joost Plattel</title>
+    <link>https://example.com/tags/raspberry/</link>
+    <description>Recent content in raspberry on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Mon, 21 Oct 2019 12:36:42 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/raspberry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Idea Machine</title>
+      <link>https://example.com/post/2019-10-21-the-idea-machine/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
+      
+      <guid>https://example.com/post/2019-10-21-the-idea-machine/</guid>
+      <description>Boredom is something we all experience in different ways. And the solution isn’t always that easy. You might dwell for a certain amount of time on the couch.. Or restless as you are think about thinks you might want to do, but they never seem to come up.
+I think a certain part boredom is necessary to facilitate ideas and other serendipitous discoveries. However there might be times, in which you would like for the pure boredom to disappear.</description>
+    </item>
+    
+  </channel>
+</rss>

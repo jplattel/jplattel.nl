@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Creating smart bubble counter fermentation process tracking </title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta property="og:title" content="Creating smart bubble counter fermentation process tracking" />
+<meta property="og:description" content="This weekend I spend my time on electronics, with a specific goal in mind, automating the tracking of a fermentation vessel that I use for brewing. My starting point was a Wemos D1 mini lite, which is a cheap arduino compatible chip with wifi options.
+I wanted to track how many bubbles we&rsquo;re sent past the airlock and also needed a photo interupter gate. So in the end everything is pretty cheap and I only needed some more LEDs, an enclosure, spare wires and some free time!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/" />
+<meta property="article:published_time" content="2018-01-07T00:00:00+00:00" />
+<meta property="article:modified_time" content="2018-01-07T00:00:00+00:00" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Creating smart bubble counter fermentation process tracking"/>
+<meta name="twitter:description" content="This weekend I spend my time on electronics, with a specific goal in mind, automating the tracking of a fermentation vessel that I use for brewing. My starting point was a Wemos D1 mini lite, which is a cheap arduino compatible chip with wifi options.
+I wanted to track how many bubbles we&rsquo;re sent past the airlock and also needed a photo interupter gate. So in the end everything is pretty cheap and I only needed some more LEDs, an enclosure, spare wires and some free time!"/>
+
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://example.com/css/style-white.css">
+  <link rel="stylesheet" href="https://example.com/css/custom.css">
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://example.com/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://example.com/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://example.com/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://example.com/icon/favicon-16x16.png">
+<link rel="manifest" href="https://example.com/icon/site.webmanifest">
+<link rel="mask-icon" href="https://example.com/icon/safari-pinned-tab.svg" color="#5bbad5">
+  
+  
+  
+  
+  
+</head>
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+    <header id="header">
+  <a href="https://example.com">
+    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
+      <title>Joost Plattel</title>
+      <desc>Logo Joost Plattel</desc>
+      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
+    </svg>
+    <div id="title">
+      <h1>Joost Plattel</h1>
+    </div>
+  </a>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
+      
+    </ul>
+  </div>
+</header>
+  
+
+    
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Creating smart bubble counter fermentation process tracking
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2018-01-07 00:00:00 &#43;0000 UTC" itemprop="datePublished">07-01-2018</time>
+          
+        </div>
+        
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>This weekend I spend my time on electronics, with a specific goal in mind, automating the tracking of a fermentation vessel that I use for brewing. My starting point was a Wemos D1 mini lite, which is a cheap arduino compatible chip with wifi options.</p>
+<p>I wanted to track how many bubbles we&rsquo;re sent past the airlock and also needed a photo interupter gate. So in the end everything is pretty cheap and I only needed some more LEDs, an enclosure, spare wires and some free time!</p>
+<p>My first version was build directly on a prototype board of the Wemo, but after selecting the enclosure I decided not to use any headers too keep a lower profile. Here&rsquo;s what my testing setup looked like:</p>
+<p><img src="/img/test2.jpg" alt="Testing setup for figuring out if the sensor worked correctly and fluid types selection"></p>
+<p>While testing I could try different fluids, and the more opaque ones are better. So coffee seems like a perfect option. When everything worked correctly I mapped all ports on the enclosure, drilled or cut them out and soldered everything to the Wemo. The LEDs were mount on the enclosure with trough-mounts. Here&rsquo;s a video of the latest test setup.</p>
+<p>And a picture of the device after everything is put together! Now I only need to make a web interface.</p>
+<p><img src="/img/end3.JPG" alt="Final product that enables me to track bubbles in a fermentation process"></p>
+<p>As for the code, it&rsquo;s simply a counter that tracks how many bubbles go past the airlock. And every 10 minutes it pings to a server with the count. I&rsquo;ve uploaded the <a href="https://gist.github.com/jplattel/1a7e76f1fedf7caa43753fcde04b6a24">Arduino code to Github</a> and embedded it below:</p>
+
+    </div>
+  </article>
+
+  
+  
+
+
+
+
+
+  <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/post">Posts</a></li>
+         
+          <li><a href="/project">Projects</a></li>
+         
+          <li><a href="/wishlist">Wishlist</a></li>
+         
+          <li><a href="/about">About</a></li>
+         
+          <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </div>
+
+    <div id="toc-footer" style="display: none">
+      <nav id="TableOfContents"></nav>
+    </div>
+
+    <div id="share-footer" style="display: none">
+      
+      <ul>
+  
+  
+    
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f">
+      <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&text=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&title=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&is_video=false&description=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking&body=Check out this article: https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f">
+      <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&title=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&title=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.stumbleupon.com/submit?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&title=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://digg.com/submit?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&title=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-digg fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&name=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking&description=This%20weekend%20I%20spend%20my%20time%20on%20electronics%2c%20with%20a%20specific%20goal%20in%20mind%2c%20automating%20the%20tracking%20of%20a%20fermentation%20vessel%20that%20I%20use%20for%20brewing.%20My%20starting%20point%20was%20a%20Wemos%20D1%20mini%20lite%2c%20which%20is%20a%20cheap%20arduino%20compatible%20chip%20with%20wifi%20options.%0aI%20wanted%20to%20track%20how%20many%20bubbles%20we%26rsquo%3bre%20sent%20past%20the%20airlock%20and%20also%20needed%20a%20photo%20interupter%20gate.%20So%20in%20the%20end%20everything%20is%20pretty%20cheap%20and%20I%20only%20needed%20some%20more%20LEDs%2c%20an%20enclosure%2c%20spare%20wires%20and%20some%20free%20time%21">
+      <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fexample.com%2fpost%2f2018-01-07-creating-smart-bubble-counter-fermentation-tracking%2f&t=Creating%20smart%20bubble%20counter%20fermentation%20process%20tracking">
+      <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+      
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;">
+          <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;">
+          <i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;">
+          <i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+          <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
+
+  </div>
+</div>
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  <script src="/js/main.js"></script>
+  
+  
+  
+
+
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+  
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-18951988-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+  
+</body>
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+<script src="/lib/jquery/jquery.min.js"></script>
+<script src="/js/main.js"></script>
+</html>

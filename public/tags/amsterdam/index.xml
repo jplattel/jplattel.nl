@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amsterdam on Joost Plattel</title>
+    <link>https://example.com/tags/amsterdam/</link>
+    <description>Recent content in Amsterdam on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Mon, 27 Sep 2010 11:41:42 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/amsterdam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>QS Amsterdam Recap #1</title>
+      <link>https://example.com/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
+      
+      <guid>https://example.com/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro!
+I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+    </item>
+    
+  </channel>
+</rss>

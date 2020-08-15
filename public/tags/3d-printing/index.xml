@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D printing on Joost Plattel</title>
+    <link>https://example.com/tags/3d-printing/</link>
+    <description>Recent content in 3D printing on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Mon, 27 Aug 2018 21:25:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making and Fixing Things</title>
+      <link>https://example.com/post/2018-08-27-making-and-fixing-things/</link>
+      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      
+      <guid>https://example.com/post/2018-08-27-making-and-fixing-things/</guid>
+      <description>I bougth a 3D printertogether with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
+As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like Fusion360.</description>
+    </item>
+    
+  </channel>
+</rss>
