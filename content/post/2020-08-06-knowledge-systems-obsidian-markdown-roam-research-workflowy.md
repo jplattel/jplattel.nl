@@ -1,8 +1,14 @@
-+++
-title = "In search for a knowledge system"
-date = 2020-08-06T13:24:28+02:00
-draft = false
-+++
+---
+title: "In search for a knowledge system"
+date: 2020-08-06T13:24:28+02:00
+tags:
+- pkm
+- knowledge
+- management
+- system
+- discovery
+- obsidian
+---
 
 For years I've been looking for a system which would augment my own thinking with the help of the computer. One of the main promises of a digital life is things could more efficient. Or easily shareable and more resilient (Once you have backups..). For a meriad of reasons the switch should be obvious but for the most of us, that's not what we experience. Why is that?
 

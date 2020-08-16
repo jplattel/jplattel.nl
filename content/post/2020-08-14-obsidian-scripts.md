@@ -1,7 +1,15 @@
-+++
-title="My daily journaling scripts for Obsidian"
-date=2020-08-15T09:37:33+02:00
-+++
+---
+title: "My daily journaling scripts for Obsidian"
+date: "2020-08-15T09:37:33+02:00"
+tags:
+- obsidian
+- notes
+- scripts
+- javascript
+- automation
+- osx
+- mac
+---
 
 Since I'm quite a heavy user of [Obsidian](https://obsidian.md) I'd like to share some of my scripts I've written for it. Please note that all of the scripts make use of [Keyboard Meastro](https://www.keyboardmaestro.com/main/) as a way to activate them and some of them use javascript automation within Mac OS X. So it's Apple only for now.
 
