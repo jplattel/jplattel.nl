@@ -15,7 +15,7 @@ article .highlight pre{
     font-size: 15px;
 }
 
-header#header:hover a svg#logo path{
+header#header:hover svg#logo path{
     fill: #006ad4
 }
 
@@ -118,5 +118,18 @@ header#header:hover a svg#logo path{
     }
     .client-list {
         grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 480px){
+    header#header #nav ul li.icon{
+        right: 0
+    }
+    header#header #nav ul li.icon a{
+        margin-right: 0px
+    }
+    header#header #nav ul li{
+        border: 0px;
+        margin-right: 0px
     }
 }
