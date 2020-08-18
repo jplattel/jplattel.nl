@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/notes/</link>
+    <description>Recent content in notes on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 15 Aug 2020 09:37:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://jplattel.nl/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My daily journaling scripts for Obsidian</title>
+      <link>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</guid>
+      <description>Since I&amp;rsquo;m quite a heavy user of Obsidian I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of Keyboard Meastro as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.
+Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates.</description>
+    </item>
+    
+  </channel>
+</rss>

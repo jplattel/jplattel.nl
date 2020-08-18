@@ -7,10 +7,154 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 30 May 2020 23:27:24 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 20:58:41 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>chrome</title>
+      <link>https://jplattel.nl/tags/chrome/</link>
+      <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jquery</title>
+      <link>https://jplattel.nl/tags/jquery/</link>
+      <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugin</title>
+      <link>https://jplattel.nl/tags/plugin/</link>
+      <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpa</title>
+      <link>https://jplattel.nl/tags/rpa/</link>
+      <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://jplattel.nl/tags/automation/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://jplattel.nl/tags/javascript/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://jplattel.nl/tags/mac/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>https://jplattel.nl/tags/notes/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obsidian</title>
+      <link>https://jplattel.nl/tags/obsidian/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osx</title>
+      <link>https://jplattel.nl/tags/osx/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/osx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripts</title>
+      <link>https://jplattel.nl/tags/scripts/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discovery</title>
+      <link>https://jplattel.nl/tags/discovery/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>knowledge</title>
+      <link>https://jplattel.nl/tags/knowledge/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://jplattel.nl/tags/management/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pkm</title>
+      <link>https://jplattel.nl/tags/pkm/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/pkm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system</title>
+      <link>https://jplattel.nl/tags/system/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/system/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>django</title>

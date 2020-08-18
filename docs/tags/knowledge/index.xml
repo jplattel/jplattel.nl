@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>knowledge on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/knowledge/</link>
+    <description>Recent content in knowledge on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 13:24:28 +0200</lastBuildDate>
+    
+	<atom:link href="https://jplattel.nl/tags/knowledge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In search for a knowledge system</title>
+      <link>https://jplattel.nl/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</guid>
+      <description>For years I&amp;rsquo;ve been looking for a system which would augment my own thinking with the help of the computer. One of the main promises of a digital life is things could more efficient. Or easily shareable and more resilient (Once you have backups..). For a meriad of reasons the switch should be obvious but for the most of us, that&amp;rsquo;s not what we experience. Why is that?
+I started of with just Word documents in folders.</description>
+    </item>
+    
+  </channel>
+</rss>

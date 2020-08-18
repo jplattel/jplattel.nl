@@ -6,30 +6,20 @@
     <description>Recent content in plugin on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 02 May 2016 22:19:59 +0200</lastBuildDate>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 20:58:41 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fixing (LinkedIn) interfaces with Chrome plugins</title>
-      <link>https://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</link>
-      <pubDate>Mon, 02 May 2016 22:19:59 +0200</pubDate>
+      <title>Chrome plugins for RPA</title>
+      <link>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</link>
+      <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
       
-      <guid>https://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</guid>
-      <description>Online services tend to change their functionality or interaction. Sometimes in a good way, other times in a bad way. Most recently LinkedIn made a little change in the way accepting (and replying to) invites works. I personally use LinkedIn as a address book and leave it alone at times, never inviting people but combing trough the invites. I used to reply with a text-expander snippet too see if a connection is valuable, but this seemed to be impossible lately.</description>
-    </item>
-    
-    <item>
-      <title>Plugin Heuristics</title>
-      <link>https://jplattel.nl/post/2012-09-24-plugin-heuristics/</link>
-      <pubDate>Mon, 24 Sep 2012 09:21:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2012-09-24-plugin-heuristics/</guid>
-      <description>At the third Quantified Self Conference in Stanford last week I gave a talk about Plugin Heuristcs, a term that describes something I&#39;ve come across during my years of self-tracking experiments. Here are the slides:
-
-Plugin Heuristics confines an architecture that I propose for self-tracking things with a side-effect. For example when tracking my food intake for at least a month, it changed the way my brain remembers all the things I&#39;ve eaten.</description>
+      <guid>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</guid>
+      <description>As someone who creates shortcuts and automations all the time I often get asked questions about certain things to automate that aren&amp;rsquo;t really like the things I personally do.
+Most of the time this has to do with web applications and the barrier of create an entire app (if there even is an API available) is way to high based on price or time spend. More recently I discovered that an easy way of packaging and shipping things for individuals to larger groups could often be in the form of a Chrome extension.</description>
     </item>
     
   </channel>

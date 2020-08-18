@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>obsidian on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/obsidian/</link>
+    <description>Recent content in obsidian on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 15 Aug 2020 09:37:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://jplattel.nl/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My daily journaling scripts for Obsidian</title>
+      <link>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</link>
+      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</guid>
+      <description>Since I&amp;rsquo;m quite a heavy user of Obsidian I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of Keyboard Meastro as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.
+Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates.</description>
+    </item>
+    
+    <item>
+      <title>In search for a knowledge system</title>
+      <link>https://jplattel.nl/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</link>
+      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</guid>
+      <description>For years I&amp;rsquo;ve been looking for a system which would augment my own thinking with the help of the computer. One of the main promises of a digital life is things could more efficient. Or easily shareable and more resilient (Once you have backups..). For a meriad of reasons the switch should be obvious but for the most of us, that&amp;rsquo;s not what we experience. Why is that?
+I started of with just Word documents in folders.</description>
+    </item>
+    
+  </channel>
+</rss>
