@@ -21,6 +21,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   Sortimo boxes (contact me if you want to give these, I might have some specific ones!)
 *   A full size wired Dremel kit
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
+*   [Knipex Cobra XS](http://www.knipex.com/en/cobra-xs/)
 
 ## Experience
 
