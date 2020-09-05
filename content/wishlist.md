@@ -22,6 +22,8 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A full size wired Dremel kit
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   [Knipex Cobra XS](http://www.knipex.com/en/cobra-xs/)
+*   A set of [Omnifixo](https://omnifixo.com/products/of-l4-1) helping hands
+*   A Go set.
 
 ## Experience
 
