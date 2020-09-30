@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jplattel.nl/tags/3d-printing/</loc>
+    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</loc>
+    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/post/</loc>
+    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/raspberry-pi/</loc>
+    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/technology/</loc>
+    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/tags/chrome/</loc>
     <lastmod>2020-08-16T20:58:41+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</loc>
-    <lastmod>2020-08-16T20:58:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/</loc>
     <lastmod>2020-08-16T20:58:41+02:00</lastmod>
   </url>
   
@@ -28,17 +58,7 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/post/</loc>
-    <lastmod>2020-08-16T20:58:41+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jplattel.nl/tags/rpa/</loc>
-    <lastmod>2020-08-16T20:58:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2020-08-16T20:58:41+02:00</lastmod>
   </url>
   
@@ -153,12 +173,22 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/inventory/</loc>
+    <lastmod>2020-03-19T16:33:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/project/organization-supply/</loc>
     <lastmod>2020-03-19T16:33:53+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jplattel.nl/project/</loc>
+    <lastmod>2020-03-19T16:33:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/supply/</loc>
     <lastmod>2020-03-19T16:33:53+01:00</lastmod>
   </url>
   
@@ -388,7 +418,47 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/aws/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/chalice/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/project/ehba/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/nederland/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/ov/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/ov-chipkaart/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/public/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/svelte/</loc>
+    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/transport/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url>
   
@@ -473,8 +543,18 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/tags/3d-printing/</loc>
-    <lastmod>2018-08-27T21:25:18+02:00</lastmod>
+    <loc>https://jplattel.nl/tags/amsterdam/</loc>
+    <lastmod>2018-09-18T17:17:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/ethics/</loc>
+    <lastmod>2018-09-18T17:17:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/science/</loc>
+    <lastmod>2018-09-18T17:17:26+02:00</lastmod>
   </url>
   
   <url>
@@ -623,6 +703,16 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/groningen/</loc>
+    <lastmod>2018-04-22T00:13:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/longboard/</loc>
+    <lastmod>2018-04-22T00:13:25+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/project/de-padvinders/</loc>
     <lastmod>2018-04-21T23:07:36+02:00</lastmod>
   </url>
@@ -643,6 +733,11 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/script/</loc>
+    <lastmod>2018-04-21T22:18:35+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/media/po-actueel-qwp/</loc>
     <lastmod>2018-04-21T22:17:10+02:00</lastmod>
   </url>
@@ -658,6 +753,11 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/quantified-self/</loc>
+    <lastmod>2018-04-21T21:10:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/project/quantifiedself/</loc>
     <lastmod>2018-04-21T21:10:30+02:00</lastmod>
   </url>
@@ -668,7 +768,27 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/corner/</loc>
+    <lastmod>2018-04-21T20:38:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/curious/</loc>
+    <lastmod>2018-04-21T20:38:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/newsletter/</loc>
+    <lastmod>2018-04-21T20:38:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/project/curious_corner/</loc>
+    <lastmod>2018-04-21T20:38:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/web/</loc>
     <lastmod>2018-04-21T20:38:30+02:00</lastmod>
   </url>
   
@@ -1208,11 +1328,6 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/tags/quantified-self/</loc>
-    <lastmod>2011-03-31T12:26:07+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jplattel.nl/tags/self-tracking/</loc>
     <lastmod>2011-03-31T12:26:07+02:00</lastmod>
   </url>
@@ -1293,18 +1408,8 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/tags/technology/</loc>
-    <lastmod>2010-10-06T18:42:10+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jplattel.nl/tags/thoughts/</loc>
     <lastmod>2010-10-06T18:42:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/amsterdam/</loc>
-    <lastmod>2010-09-27T11:41:42+02:00</lastmod>
   </url>
   
   <url>

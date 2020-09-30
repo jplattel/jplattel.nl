@@ -1,32 +1,22 @@
-+++
-title = "Berichtenbox Forwarder"
-date = 2018-04-21T22:18:35+02:00
-year = 2017
-draft = false
+---
+title: "Berichtenbox Forwarder"
+date: 2018-04-21T22:18:35+02:00
+year: 2017
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+# Example: `tags: ["machine-learning", "deep-learning"]`
+tags: ['python', "script"]
 
 # Project summary to display on homepage.
-summary = "A small utility that enables automagic fetching of messages of our government."
+summary: "A small utility that enables automagic fetching of messages of our government."
 
 # Optional image to display on homepage.
-image_preview = "mijn-overheid.png"
+image_preview: "mijn-overheid.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "/post/2016-01-29-on-solving-annoying-things/"
+external_link: "/post/2016-01-29-on-solving-annoying-things/"
+---
 
-# Does the project detail page use math formatting?
-math = false
+I got a bit [annoyed](/post/2016-01-29-on-solving-annoying-things/) about checking the mailbox we get from our government here in the Netherlands. Thus I wrote a little script that would do it for me and press the forward to my email button.
 
-# Does the project detail page use source code highlighting?
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
-
-+++
+It's open-source on [Github](https://github.com/jplattel/berichtenbox-forwarder)!

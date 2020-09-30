@@ -1,31 +1,12 @@
-+++
-title = "The Curious Corner of the Internet"
-date = 2018-04-21T20:38:30+02:00
-year = 2019
+---
+title: "The Curious Corner of the Internet"
+date: 2018-04-21T20:38:30+02:00
+year: 2019
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags: ["newsletter", "curious", "corner", "web"] # Example: `tags: ["machine-learning", "deep-learning"]
+summary: "A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!" # Project summary to display on homepage.
+image_preview: "corner.png" # Optional image to display on homepage.
+external_link: "https://curiouscorner.nl" # Optional external URL for project (replaces project detail page).
+---
 
-# Project summary to display on homepage.
-summary = "A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!"
-
-# Optional image to display on homepage.
-image_preview = "corner.png"
-
-# Optional external URL for project (replaces project detail page).
-external_link = "https://curiouscorner.nl"
-
-# Does the project detail page use math formatting?
-math = false
-
-# Does the project detail page use source code highlighting?
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
-
-+++
+A [monthly newsletter](https://curiouscorner.nl) that is meant for curious people! Every month you will get a bunch of links sourced from the most curious corners of the web. If you want to be on the receiving end of this, you only need to leave behind your email and confirm it once:

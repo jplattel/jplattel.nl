@@ -6,20 +6,19 @@
     <description>Recent content in newsletter on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 27 Nov 2013 20:47:26 +0100</lastBuildDate>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sat, 21 Apr 2018 20:38:30 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Curious Corner of the Internet</title>
-      <link>https://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</link>
-      <pubDate>Wed, 27 Nov 2013 20:47:26 +0100</pubDate>
+      <link>https://jplattel.nl/project/curious_corner/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
       
-      <guid>https://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</guid>
-      <description>I&#39;ve been walking around with a newsletter idea for some months now. It all started at Permanent Beta where I gave a talk together with my twin. Basically it wasn&#39;t really a talk, just a roadshow of awesome stuff we come across on our daily surf on the web. The audience loved it! Why not curate this content into a newsletter?
-That&#39;s just what I did with The Curious Corner of the Internet, a monthly newsletter stocked with the stuff I find during that last month.</description>
+      <guid>https://jplattel.nl/project/curious_corner/</guid>
+      <description>A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!</description>
     </item>
     
   </channel>

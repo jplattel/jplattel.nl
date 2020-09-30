@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Organization.supply</title>
+      <link>https://jplattel.nl/project/organization-supply/</link>
+      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/project/organization-supply/</guid>
+      <description>An inventory management tool build with Python &amp;amp; Django</description>
+    </item>
+    
+    <item>
       <title>Micropython LCD menu: upymenu</title>
       <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
@@ -39,6 +48,24 @@ When I made the switch towards micropython I saw no such thing existed. But havi
       <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
       <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
  iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens   Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
+    </item>
+    
+    <item>
+      <title>EHBA.app</title>
+      <link>https://jplattel.nl/project/ehba/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/ehba/</guid>
+      <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
+    </item>
+    
+    <item>
+      <title>Berichtenbox Forwarder</title>
+      <link>https://jplattel.nl/project/berichtenbox-forwarder/</link>
+      <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/berichtenbox-forwarder/</guid>
+      <description>A small utility that enables automagic fetching of messages of our government.</description>
     </item>
     
     <item>

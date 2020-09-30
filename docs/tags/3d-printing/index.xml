@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 27 Aug 2018 21:25:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 15:41:29 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building an ARM Terminal</title>
+      <link>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</link>
+      <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</guid>
+      <description>For long I&amp;rsquo;ve been inspired by future interfaces commonly seen in science fiction movies and other things like comics or concept art. I&amp;rsquo;ve been following the Cyberdeck reddit for some time and when I came accross the ARM Terminal by Back7 I knew I had to build one..
+Fast forward a few months and one 3D printer later, I&amp;rsquo;ve managed to print most of the parts (For smaller printers like the Prusa Mini I have it&amp;rsquo;s better to split the bigger parts and glue them together later with superglue).</description>
+    </item>
     
     <item>
       <title>Making and Fixing Things</title>

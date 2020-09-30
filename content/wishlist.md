@@ -18,7 +18,6 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A copper colored [GrowlerWerks uKeg 128](https://www.brouwland.com/nl/korting/d/growlerwerks-ukeg-128-verkoperd-3-8-l)
 *   A [Feynman](https://teespring.com/new-feynman?tsmac=store&tsmic=fermats-library#pid=228&cid=5923&sid=front) t-shirt.
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
-*   Sortimo boxes (contact me if you want to give these, I might have some specific ones!)
 *   A full size wired Dremel kit
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   [Knipex Cobra XS](http://www.knipex.com/en/cobra-xs/)
@@ -27,12 +26,13 @@ Below is my wishlist, if there's something I've done for you and you would like 
 
 ## Experience
 
-*   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument))
+*   Play with a modular set up for a day.
 *   Underwater diving
-*   Forge my own axe and/or blades
+*   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument))
 
 ## People already gave me
 
+*   Forge my own axe and/or blades (Thanks Chantal! ❤️)
 *   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   [This puzzle](https://puzzle.lamingtondrive.com/) (thanks Nathalie!)
 *   The [Cool Tools](https://www.bol.com/nl/p/cool-tools/9200000020982860/) book, thanks [Vitamine Communicatie](https://www.vitaminecommunicatie.nl/)!

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ov on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/ov/</link>
+    <description>Recent content in ov on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Mon, 05 Aug 2019 00:05:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://jplattel.nl/tags/ov/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EHBA.app</title>
+      <link>https://jplattel.nl/project/ehba/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/ehba/</guid>
+      <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
+    </item>
+    
+  </channel>
+</rss>

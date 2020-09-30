@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 20:58:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 15:41:29 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3D printing</title>
+      <link>https://jplattel.nl/tags/3d-printing/</link>
+      <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/3d-printing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry pi</title>
+      <link>https://jplattel.nl/tags/raspberry-pi/</link>
+      <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://jplattel.nl/tags/technology/</link>
+      <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/technology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chrome</title>
@@ -180,6 +207,24 @@
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inventory</title>
+      <link>https://jplattel.nl/tags/inventory/</link>
+      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supply</title>
+      <link>https://jplattel.nl/tags/supply/</link>
+      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/supply/</guid>
       <description></description>
     </item>
     
@@ -445,6 +490,78 @@
     </item>
     
     <item>
+      <title>aws</title>
+      <link>https://jplattel.nl/tags/aws/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chalice</title>
+      <link>https://jplattel.nl/tags/chalice/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/chalice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nederland</title>
+      <link>https://jplattel.nl/tags/nederland/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/nederland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ov</title>
+      <link>https://jplattel.nl/tags/ov/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ov-chipkaart</title>
+      <link>https://jplattel.nl/tags/ov-chipkaart/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ov-chipkaart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public</title>
+      <link>https://jplattel.nl/tags/public/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svelte</title>
+      <link>https://jplattel.nl/tags/svelte/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/svelte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transport</title>
+      <link>https://jplattel.nl/tags/transport/</link>
+      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>personalstats</title>
       <link>https://jplattel.nl/tags/personalstats/</link>
       <pubDate>Tue, 08 Jan 2019 00:05:29 +0100</pubDate>
@@ -526,11 +643,29 @@
     </item>
     
     <item>
-      <title>3D printing</title>
-      <link>https://jplattel.nl/tags/3d-printing/</link>
-      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
+      <title>Amsterdam</title>
+      <link>https://jplattel.nl/tags/amsterdam/</link>
+      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
       
-      <guid>https://jplattel.nl/tags/3d-printing/</guid>
+      <guid>https://jplattel.nl/tags/amsterdam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethics</title>
+      <link>https://jplattel.nl/tags/ethics/</link>
+      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://jplattel.nl/tags/science/</link>
+      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/science/</guid>
       <description></description>
     </item>
     
@@ -661,6 +796,78 @@
     </item>
     
     <item>
+      <title>groningen</title>
+      <link>https://jplattel.nl/tags/groningen/</link>
+      <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/groningen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>longboard</title>
+      <link>https://jplattel.nl/tags/longboard/</link>
+      <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/longboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>script</title>
+      <link>https://jplattel.nl/tags/script/</link>
+      <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantified Self</title>
+      <link>https://jplattel.nl/tags/quantified-self/</link>
+      <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/quantified-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corner</title>
+      <link>https://jplattel.nl/tags/corner/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/corner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curious</title>
+      <link>https://jplattel.nl/tags/curious/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/curious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newsletter</title>
+      <link>https://jplattel.nl/tags/newsletter/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/newsletter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://jplattel.nl/tags/web/</link>
+      <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>dream</title>
       <link>https://jplattel.nl/tags/dream/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
@@ -742,15 +949,6 @@
     </item>
     
     <item>
-      <title>Quantified Self</title>
-      <link>https://jplattel.nl/tags/quantified-self/</link>
-      <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/quantified-self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>self-tracking</title>
       <link>https://jplattel.nl/tags/self-tracking/</link>
       <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
@@ -814,29 +1012,11 @@
     </item>
     
     <item>
-      <title>technology</title>
-      <link>https://jplattel.nl/tags/technology/</link>
-      <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>thoughts</title>
       <link>https://jplattel.nl/tags/thoughts/</link>
       <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amsterdam</title>
-      <link>https://jplattel.nl/tags/amsterdam/</link>
-      <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/amsterdam/</guid>
       <description></description>
     </item>
     

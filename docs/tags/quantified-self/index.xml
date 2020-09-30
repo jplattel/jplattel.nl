@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 31 Mar 2011 12:26:07 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Apr 2018 21:10:30 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/quantified-self/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantified Self community</title>
+      <link>https://jplattel.nl/project/quantifiedself/</link>
+      <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/quantifiedself/</guid>
+      <description>I co-founded the QS Amsterdam group &amp;amp; started the QS Conference in Europe.</description>
+    </item>
     
     <item>
       <title>So what am I tracking?</title>

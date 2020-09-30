@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 20:58:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 15:41:29 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building an ARM Terminal</title>
+      <link>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</link>
+      <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</guid>
+      <description>For long I&amp;rsquo;ve been inspired by future interfaces commonly seen in science fiction movies and other things like comics or concept art. I&amp;rsquo;ve been following the Cyberdeck reddit for some time and when I came accross the ARM Terminal by Back7 I knew I had to build one..
+Fast forward a few months and one 3D printer later, I&amp;rsquo;ve managed to print most of the parts (For smaller printers like the Prusa Mini I have it&amp;rsquo;s better to split the bigger parts and glue them together later with superglue).</description>
+    </item>
     
     <item>
       <title>Chrome plugins for RPA</title>
@@ -86,7 +96,7 @@ I started of with just Word documents in folders.</description>
       <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
       
       <guid>https://jplattel.nl/project/organization-supply/</guid>
-      <description>Simple inventory management tool build with Python &amp;amp; Django</description>
+      <description>An inventory management tool build with Python &amp;amp; Django</description>
     </item>
     
     <item>
@@ -406,7 +416,8 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
       <pubDate>Sat, 21 Apr 2018 23:07:36 +0200</pubDate>
       
       <guid>https://jplattel.nl/project/de-padvinders/</guid>
-      <description>Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &amp;lsquo;tell me five ways I can save an hour a day.&amp;rsquo; Whatever you need to pay for this service, it will pay for itself in a week. ~ Seth Godin</description>
+      <description>My first real project that got a bit out of hand and developed in a business while I was a student. Together with 4 other friends I helped people with working smarter on their computer, basically doing as Seth Godin said:
+ Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &amp;lsquo;tell me five ways I can save an hour a day.</description>
     </item>
     
     <item>
