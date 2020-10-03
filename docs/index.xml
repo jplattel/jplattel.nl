@@ -657,17 +657,6 @@ As we talked with locals it turns out it&amp;rsquo;s much more enjoyable if you 
     </item>
     
     <item>
-      <title>👨‍💻 About</title>
-      <link>https://jplattel.nl/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/about/</guid>
-      <description>I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. I connect API&amp;rsquo;s, work with large datasets, models or visualizations. All to solve questions, discover patterns or explore new opportunities.
-The main question I wonder about is:
- How do we turn all the data we have available into information, to knowledge and finally wisdom? And can we use it for good?</description>
-    </item>
-    
-    <item>
       <title>Making Waves</title>
       <link>https://jplattel.nl/post/2016-03-08-making-waves/</link>
       <pubDate>Tue, 08 Mar 2016 14:32:49 +0100</pubDate>
@@ -1607,6 +1596,17 @@ Since reading about self-tracking I was fascinated by GPS location and geospatia
       
       <guid>https://jplattel.nl/search/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>👨‍💻 About</title>
+      <link>https://jplattel.nl/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jplattel.nl/about/</guid>
+      <description>I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities. I connect API&amp;rsquo;s, work with large datasets, models or visualizations. All to solve questions, discover patterns or explore new opportunities.
+The main question I wonder about is:
+ How do we turn all the data we have available into information, to knowledge and finally wisdom? And can we use it for good?</description>
     </item>
     
     <item>

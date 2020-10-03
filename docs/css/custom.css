@@ -67,7 +67,7 @@ header#header:hover svg#logo path{
     float: left;
 }
 
-.project-item h4{
+.project-item h3{
     float: left;
     color: #383838;
     display: block;

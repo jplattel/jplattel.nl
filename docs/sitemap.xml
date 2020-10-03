@@ -873,11 +873,6 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/about/</loc>
-    <lastmod>2016-04-20T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jplattel.nl/post/2016-03-08-making-waves/</loc>
     <lastmod>2016-03-08T14:32:49+01:00</lastmod>
   </url>
@@ -1449,6 +1444,10 @@
   
   <url>
     <loc>https://jplattel.nl/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/about/</loc>
   </url>
   
   <url>
