@@ -1,7 +1,6 @@
-+++
-date=2016-04-20T00:00:00
-title="👨‍💻 About"
-+++
+---
+title: "👨‍💻 About"
+---
 
 I’m Joost Plattel, **a data-strategist**. I help organizations and individuals develop and build strategies for data-related questions and opportunities.  I connect API's, work with large datasets, models or visualizations. All to solve questions, discover patterns or explore new opportunities. 
 
