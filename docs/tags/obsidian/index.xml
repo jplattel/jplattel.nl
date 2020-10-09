@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 09:37:33 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2020 10:23:30 +0200</lastBuildDate>
     
 	<atom:link href="https://jplattel.nl/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Obsidian Clipper</title>
+      <link>https://jplattel.nl/project/obsidian-clipper/</link>
+      <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/obsidian-clipper/</guid>
+      <description>This is an unofficial clipper for Obsidian that allows you to easily clip a selection to a note in Obsidian. More information can be found on Github or in this blogpost.</description>
+    </item>
     
     <item>
       <title>My daily journaling scripts for Obsidian</title>

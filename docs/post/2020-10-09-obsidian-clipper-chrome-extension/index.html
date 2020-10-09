@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Creating an Obsidian Clipper </title>
+  <meta name="description" content="I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta property="og:title" content="Creating an Obsidian Clipper" />
+<meta property="og:description" content="As you might have distilled from previous post I am an avid user of Obsidian. The application is under heavy development and their plugin API is not ready yet. Not wanting to wait, I set out to develop some scripts. In this post I wanted to share my latest project on an idea that is strongly connected to this as well.
+Previously I used Evernote and often I would clip things from the web." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/" />
+<meta property="article:published_time" content="2020-10-09T10:08:19+02:00" />
+<meta property="article:modified_time" content="2020-10-09T10:08:19+02:00" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Creating an Obsidian Clipper"/>
+<meta name="twitter:description" content="As you might have distilled from previous post I am an avid user of Obsidian. The application is under heavy development and their plugin API is not ready yet. Not wanting to wait, I set out to develop some scripts. In this post I wanted to share my latest project on an idea that is strongly connected to this as well.
+Previously I used Evernote and often I would clip things from the web."/>
+
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
+  <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://jplattel.nl/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://jplattel.nl/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://jplattel.nl/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://jplattel.nl/icon/favicon-16x16.png">
+<link rel="manifest" href="https://jplattel.nl/icon/site.webmanifest">
+<link rel="mask-icon" href="https://jplattel.nl/icon/safari-pinned-tab.svg" color="#5bbad5">
+  
+  
+  
+  
+  
+</head>
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+    <header id="header">
+    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
+      <title>Joost Plattel</title>
+      <desc>Logo Joost Plattel</desc>
+      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
+    </svg>
+    <div id="title">
+      <h1>
+        <a href="https://jplattel.nl">Joost Plattel</a>
+      </h1>
+    </div>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
+      
+    </ul>
+  </div>
+</header>
+  
+
+    
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Creating an Obsidian Clipper
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2020-10-09 10:08:19 &#43;0200 CEST" itemprop="datePublished">09-10-2020</time>
+          
+        </div>
+        
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>As you might have distilled from previous post I am an avid user of <a href="https://obsidian.md/">Obsidian</a>. The application is under heavy development and their plugin API is not ready yet. Not wanting to wait, I set out to develop <a href="https://jplattel.nl/post/2020-08-14-obsidian-scripts/">some scripts</a>. In this post I wanted to share my latest project on an idea that is strongly connected to this as well.</p>
+<p>Previously I used Evernote and often I would clip things from the web. With Obsidian this wasn&rsquo;t possible. I&rsquo;ve been using <a href="https://quotebacks.net/">Quotebacks</a> for getting clips into markdown and pasting them into Obsidian. But the longer I did that the more cumbersome it looked to me.</p>
+<p>Thus I set out to develop a webclipper for Obsidian! One of the first things I came across is that a Chrome extension is not able to open <code>obsidian://</code> protocols (or any other than <code>http(s)://</code>), so I had to find a workaround for that. And I did, <em>woohoo</em>! I would redirect to a static page which would fetch data out of the url parameters and that page would open Obsidian for me!</p>
+<p>Without further ado, here&rsquo;s a quick screencast:</p>
+<p><img src="/img/2020-10-09-screencast-obsidian-clipper.gif" alt="Demo screencast of the Obsidian Clipper"></p>
+<p>All the code and install manual is on <a href="https://github.com/jplattel/obsidian-clipper">Github</a>. This little project even has it own <a href="https://jplattel.github.io/obsidian-clipper/">landing page</a>!</p>
+
+    </div>
+  </article>
+
+  
+  
+
+
+
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  
+  
+  
+
+
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2020  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+  
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-18951988-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+  
+</body>
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script src="/js/main.js"></script>
+</html>
