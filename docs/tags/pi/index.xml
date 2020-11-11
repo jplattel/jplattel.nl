@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 21 Oct 2019 12:36:42 +0200</lastBuildDate>
-    
-	<atom:link href="https://jplattel.nl/tags/pi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Oct 2019 12:36:42 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/pi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Idea Machine</title>
       <link>https://jplattel.nl/post/2019-10-21-the-idea-machine/</link>

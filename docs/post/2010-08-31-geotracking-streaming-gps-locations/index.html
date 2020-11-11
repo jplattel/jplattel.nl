@@ -133,7 +133,7 @@ Since reading about self-tracking I was fascinated by GPS location and geospatia
 <p>Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://player.vimeo.com/video/8545134" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- </div>
+</div>
 <p>I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone. So I ventured into python and after reading <a href="http://eric-blue.com/2010/08/28/geolocation-gps-and-self-tracking/">Eric Blue’s blog</a> I came up with a solution.</p>
 <p>After learning the basics of python and starting with Google App Engine I developed an app that aggregates my location from the Instamapper API to Google App Engine(GAE) and stores it in the datastore. GAE will then generate an image of my location (with some delay). The reason i chose for GAE is the portability of the data generated, so i can move between services without losing older data and having the ability to manipulate it.</p>
 <p><em>At the moment I’m figuring out how to work with cron-jobs to poll for the location automatically and make the application more robust(with raising errors etc).</em></p>

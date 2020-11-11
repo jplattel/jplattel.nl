@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 05 Aug 2019 00:05:13 +0200</lastBuildDate>
-    
-	<atom:link href="https://jplattel.nl/tags/svelte/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 05 Aug 2019 00:05:13 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/svelte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EHBA.app</title>
       <link>https://jplattel.nl/project/ehba/</link>

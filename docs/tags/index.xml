@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 10:23:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2020 21:17:39 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arduino</title>
+      <link>https://jplattel.nl/tags/arduino/</link>
+      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/arduino/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bluetooth</title>
+      <link>https://jplattel.nl/tags/bluetooth/</link>
+      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/bluetooth/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>c</title>
+      <link>https://jplattel.nl/tags/c/</link>
+      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronics</title>
+      <link>https://jplattel.nl/tags/electronics/</link>
+      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyboard</title>
+      <link>https://jplattel.nl/tags/keyboard/</link>
+      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/keyboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wemo</title>
+      <link>https://jplattel.nl/tags/wemo/</link>
+      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/wemo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chrome</title>

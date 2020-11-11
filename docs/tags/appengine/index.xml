@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 31 Aug 2010 21:30:52 +0200</lastBuildDate>
-    
-	<atom:link href="https://jplattel.nl/tags/appengine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Aug 2010 21:30:52 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/appengine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GeoTracking: streaming GPS locations</title>
       <link>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</link>
