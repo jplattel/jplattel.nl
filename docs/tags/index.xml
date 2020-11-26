@@ -126,6 +126,42 @@
     </item>
     
     <item>
+      <title>aws</title>
+      <link>https://jplattel.nl/tags/aws/</link>
+      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>https://jplattel.nl/tags/azure/</link>
+      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://jplattel.nl/tags/python/</link>
+      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>serverless</title>
+      <link>https://jplattel.nl/tags/serverless/</link>
+      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>jquery</title>
       <link>https://jplattel.nl/tags/jquery/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
@@ -266,15 +302,6 @@
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/postgres/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://jplattel.nl/tags/python/</link>
-      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/python/</guid>
       <description></description>
     </item>
     
@@ -554,15 +581,6 @@
       <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/ns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aws</title>
-      <link>https://jplattel.nl/tags/aws/</link>
-      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/aws/</guid>
       <description></description>
     </item>
     

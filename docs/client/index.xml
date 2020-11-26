@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 30 May 2020 23:27:24 +0200</lastBuildDate><atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Aug 2020 10:15:04 +0200</lastBuildDate><atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EsperantoXL</title>
+      <link>https://jplattel.nl/client/esperantoxl/</link>
+      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/esperantoxl/</guid>
+      <description>For EsperantoXL I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.</description>
+    </item>
+    
     <item>
       <title>Dropper</title>
       <link>https://jplattel.nl/client/dropper/</link>

@@ -108,6 +108,36 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/aws/</loc>
+    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/azure/</loc>
+    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/client/</loc>
+    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/client/esperantoxl/</loc>
+    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/python/</loc>
+    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/serverless/</loc>
+    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</loc>
     <lastmod>2020-08-16T20:58:41+02:00</lastmod>
   </url>
@@ -198,11 +228,6 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/client/</loc>
-    <lastmod>2020-05-30T23:27:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jplattel.nl/tags/django/</loc>
     <lastmod>2020-05-30T23:27:24+02:00</lastmod>
   </url>
@@ -214,11 +239,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/postgres/</loc>
-    <lastmod>2020-05-30T23:27:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/python/</loc>
     <lastmod>2020-05-30T23:27:24+02:00</lastmod>
   </url>
   
@@ -470,11 +490,6 @@
   <url>
     <loc>https://jplattel.nl/tags/ns/</loc>
     <lastmod>2019-08-17T20:01:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/aws/</loc>
-    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url>
   
   <url>
