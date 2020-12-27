@@ -8,7 +8,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 ## Physical stuff
 
 *   [Iris](https://www.makerscabinet.com/collections/all-flagship-products/products/iris) by Makers Cabinet.
-*   [The Electric State](https://www.amazon.de/Electric-State-Simon-St%C3%A5lenhag/dp/1501181416?tag=jplattel-21) (hardcover).
+*   [Tales from the Loop](https://www.amazon.nl/Tales-Loop-Simon-Stalenhag/dp/1624650392) (hardcover).
 *   An [Ascaso I-Mini 2 Red](https://www.ascaso.lt/en-gb/coffee-grinder-ascaso-imini-red-shining-aluminium.html)
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
 *   [Hario VST-2000B](https://www.amazon.com/Hario-Drip-Coffee-Scale-Timer/dp/B009GPJMOU?tag=breakwindo-20) for coffee.
@@ -32,6 +32,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 
 ## People already gave me
 
+*   [The Electric State](https://www.amazon.de/Electric-State-Simon-St%C3%A5lenhag/dp/1501181416?tag=jplattel-21) (hardcover).
 *   Forge my own axe and/or blades (Thanks Chantal! ❤️)
 *   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   [This puzzle](https://puzzle.lamingtondrive.com/) (thanks Nathalie!)
