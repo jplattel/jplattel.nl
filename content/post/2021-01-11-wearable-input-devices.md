@@ -10,7 +10,7 @@ categories: ["technology"] # Example: `catagories: ["machine-learning", "deep-le
 
 For years I've been exploring the internet for input devices. From keyboards to voice or gestured controlled ways *to get thoughts out of my head as fast/good as it can be possible*. I wanted to dive deeper into why this is important to me and why I'm interested in this space.
 
-Traditionally pen & paper was the solution that was flexible enough. But it lacked the searchability and ways of exploring it on different tangets. Right now we're mostly digital an rely on our keyboards to create mainly text. 
+Traditionally pen & paper was the solution that was flexible enough. But it lacked the searchability and ways of exploring it on different tangents. Right now we're mostly digital and rely on our keyboards to create mainly text. 
 
 Creative processes also moved to digital ways, using the iPad as entrypoint. With smart assistants even voice gets into the space as well, allowing you to draft notes with just your voice.
 
