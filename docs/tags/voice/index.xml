@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 08:41:16 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/voice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 11:03:56 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/voice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bandwith problems with Human Computer Interfaces</title>
+      <link>https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/</link>
+      <pubDate>Thu, 14 Jan 2021 11:03:56 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/</guid>
+      <description>I have been thinking about the bandwidth problem we face with computer interaces. When typing with a keyboard or dictating trough speech, the computer cannot keep up with a stream of thoughts. Our bandwidth is limited by our output.
+One of the more future forwards solutions is Neuralink, but to me it seems like quite an invasive solution, not without any risks..
+Often times we may find solutions for this in a different space, in this case, a pointer can be found in the legal system.</description>
+    </item>
+    
     <item>
       <title>Exploring wearable input devices</title>
       <link>https://jplattel.nl/post/2021-01-11-wearable-input-devices/</link>
