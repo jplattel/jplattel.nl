@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>polymorph on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/polymorph/</link>
+    <description>Recent content in polymorph on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 16:29:27 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/polymorph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wearable keyboard prototypes</title>
+      <link>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</link>
+      <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</guid>
+      <description>As I&amp;rsquo;ve highlighted in previous posts, a wearable keyboard is one of my main projects this month. In this post I want to show you some pictures of the first prototypes and tell you a bit more about the proces of designing a keyboard. Remember I&amp;rsquo;ve got really no experience on ergonomics or knowledge about user-interface, I mostly go by feel here as it&amp;rsquo;s a highly personalized product (for now!).</description>
+    </item>
+    
+  </channel>
+</rss>
