@@ -63,10 +63,6 @@ weight = 7
   # Post page settings
   show_updated = false # default
 
-  [params.comments]
-    enabled = false # default
-    engine = "disqus" # more supported engines will be added.
-
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
