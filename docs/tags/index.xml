@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 16:29:27 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jan 2021 12:45:18 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javascript</title>
+      <link>https://jplattel.nl/tags/javascript/</link>
+      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obsidian</title>
+      <link>https://jplattel.nl/tags/obsidian/</link>
+      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugin</title>
+      <link>https://jplattel.nl/tags/plugin/</link>
+      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>https://jplattel.nl/tags/typescript/</link>
+      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3D printing</title>
       <link>https://jplattel.nl/tags/3d-printing/</link>
@@ -171,15 +207,6 @@
     </item>
     
     <item>
-      <title>obsidian</title>
-      <link>https://jplattel.nl/tags/obsidian/</link>
-      <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/obsidian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>raspberry pi</title>
       <link>https://jplattel.nl/tags/raspberry-pi/</link>
       <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
@@ -243,15 +270,6 @@
     </item>
     
     <item>
-      <title>plugin</title>
-      <link>https://jplattel.nl/tags/plugin/</link>
-      <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/plugin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rpa</title>
       <link>https://jplattel.nl/tags/rpa/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
@@ -266,15 +284,6 @@
       <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/automation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>javascript</title>
-      <link>https://jplattel.nl/tags/javascript/</link>
-      <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/javascript/</guid>
       <description></description>
     </item>
     
