@@ -2,7 +2,10 @@
 title: "👨‍💻 About"
 ---
 
+{{< figure alt="Joost Plattel" src="/img/joost-plattel_octagon_250px.png" class="profile-image">}}
+
 I’m Joost Plattel, **a data-strategist**. I help organizations and individuals develop and build strategies for data-related questions and opportunities.  I connect API's, work with large datasets, models or visualizations. All to solve questions, discover patterns or explore new opportunities. 
+
 
 The main question I wonder about is:
 

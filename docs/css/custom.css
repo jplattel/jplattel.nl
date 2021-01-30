@@ -39,6 +39,19 @@ header#header:hover svg#logo path{
     text-decoration: underline;
 }
 
+img.profile-image{
+    float: right;
+    width: 150px;
+    padding-left: 25px;
+    display: block;
+}
+figure.profile-image{
+    float: right;
+    padding-left: 25px;
+    margin: 0px;
+    width: 150px;
+}
+
 .project-list{
     display: grid;
     align-items: start;
