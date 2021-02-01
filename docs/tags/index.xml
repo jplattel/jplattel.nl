@@ -7,31 +7,85 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 28 Jan 2021 12:45:18 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 10:40:07 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>javascript</title>
-      <link>https://jplattel.nl/tags/javascript/</link>
-      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      <title>curious corner</title>
+      <link>https://jplattel.nl/tags/curious-corner/</link>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
       
-      <guid>https://jplattel.nl/tags/javascript/</guid>
+      <guid>https://jplattel.nl/tags/curious-corner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ebook</title>
+      <link>https://jplattel.nl/tags/ebook/</link>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronics</title>
+      <link>https://jplattel.nl/tags/electronics/</link>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyboard</title>
+      <link>https://jplattel.nl/tags/keyboard/</link>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/keyboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>obsidian</title>
       <link>https://jplattel.nl/tags/obsidian/</link>
-      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/obsidian/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>pcb</title>
+      <link>https://jplattel.nl/tags/pcb/</link>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/pcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pid</title>
+      <link>https://jplattel.nl/tags/pid/</link>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/pid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plugin</title>
       <link>https://jplattel.nl/tags/plugin/</link>
-      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://jplattel.nl/tags/javascript/</link>
+      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/javascript/</guid>
       <description></description>
     </item>
     
@@ -50,15 +104,6 @@
       <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/3d-printing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keyboard</title>
-      <link>https://jplattel.nl/tags/keyboard/</link>
-      <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/keyboard/</guid>
       <description></description>
     </item>
     
@@ -158,15 +203,6 @@
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>electronics</title>
-      <link>https://jplattel.nl/tags/electronics/</link>
-      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/electronics/</guid>
       <description></description>
     </item>
     

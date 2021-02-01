@@ -1,7 +1,6 @@
 ---
 title: "January: Project Month"
 date: 2021-01-31T10:40:07+01:00
-draft: true
 
 # Tags and categories
 tags: ["keyboard", "pid", "obsidian", "plugin", "curious corner", "ebook", "pcb", "electronics"] # Example: `tags: ["machine-learning", "deep-learning"]`
