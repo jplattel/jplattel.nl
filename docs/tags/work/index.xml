@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/work/</link>
+    <description>Recent content in work on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Fri, 12 Feb 2021 21:55:30 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workspaces instead of applications</title>
+      <link>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</link>
+      <pubDate>Fri, 12 Feb 2021 21:55:30 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</guid>
+      <description>As most of my work I do lives on my computer one of the main things I do is switch applications. When referencing something on the internet and applying it in a editor or copy-pasting an address from a contact to google maps search, most of it is done while switching applications.
+For some switches the friction is reduced, for example lookups through Alfred.app or pretty printing some JSON with jq.</description>
+    </item>
+    
+  </channel>
+</rss>
