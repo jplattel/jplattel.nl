@@ -10,18 +10,14 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   [Iris](https://www.makerscabinet.com/collections/all-flagship-products/products/iris) by Makers Cabinet.
 *   [Tales from the Loop](https://www.amazon.nl/Tales-Loop-Simon-Stalenhag/dp/1624650392) (hardcover).
 *   [Things from the flood](https://www.bol.com/nl/p/things-from-the-flood/9200000129251022/) (hardcover).
-*   An [Ascaso I-Mini 2 Red](https://www.ascaso.lt/en-gb/coffee-grinder-ascaso-imini-red-shining-aluminium.html)
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
-*   [Hario VST-2000B](https://www.amazon.com/Hario-Drip-Coffee-Scale-Timer/dp/B009GPJMOU?tag=breakwindo-20) for coffee.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
-*   A [knityak](https://knityak.com/) scarf
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
 *   A copper colored [GrowlerWerks uKeg 128](https://www.brouwland.com/nl/korting/d/growlerwerks-ukeg-128-verkoperd-3-8-l)
-*   A [Feynman](https://teespring.com/new-feynman?tsmac=store&tsmic=fermats-library#pid=228&cid=5923&sid=front) t-shirt.
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
 *   A full size wired Dremel kit
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
-*   [Knipex Cobra XS](http://www.knipex.com/en/cobra-xs/)
+*   [Knipex Cobra XS](https://www.knipex.com/cobra-xs)
 *   A set of [Omnifixo](https://omnifixo.com/products/of-l4-1) helping hands
 *   A Go set.
 
