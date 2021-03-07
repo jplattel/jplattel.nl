@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Improving the ANT PCB Maker head </title>
+  <meta name="description" content="I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  
+  <meta property="og:title" content="Improving the ANT PCB Maker head" />
+<meta property="og:description" content="I&rsquo;ve been tinkering with the ANT PCB Maker for some time now. I&rsquo;ve had quite a few problems with gcode controller that suddenly stops working and the controller has been in a plastic box without enough space for easy modifications.
+To solve the last one I devised a plan together with my brother to create a additional space below the CNC itself. There&rsquo;s more then enough room and with a piano hinge everything is easily accessible!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jplattel.nl/post/2021-03-07-improving-the-ant-head/" />
+<meta property="article:published_time" content="2021-03-07T20:12:27+01:00" />
+<meta property="article:modified_time" content="2021-03-07T20:12:27+01:00" />
+
+  <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2021-03-07-improving-the-ant-head/">
+  
+  
+  
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
+  <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://jplattel.nl/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://jplattel.nl/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://jplattel.nl/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://jplattel.nl/icon/favicon-16x16.png">
+<link rel="manifest" href="https://jplattel.nl/icon/site.webmanifest">
+<link rel="mask-icon" href="https://jplattel.nl/icon/safari-pinned-tab.svg" color="#5bbad5">
+  
+  
+  
+  
+  
+</head>
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+    <header id="header">
+    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
+      <title>Joost Plattel</title>
+      <desc>Logo Joost Plattel</desc>
+      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
+    </svg>
+    <div id="title">
+      <h1>
+        <a href="https://jplattel.nl">Joost Plattel</a>
+      </h1>
+    </div>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
+      
+    </ul>
+  </div>
+</header>
+  
+
+    
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Improving the ANT PCB Maker head
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2021-03-07 20:12:27 &#43;0100 CET" itemprop="datePublished">07-03-2021</time>
+          
+        </div>
+        
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>I&rsquo;ve been tinkering with the <a href="https://jplattel.nl/post/2020-05-02-ant-pcb-maker/">ANT PCB Maker</a> for some time now. I&rsquo;ve had quite a few problems with gcode controller that suddenly stops working and the controller has been in a plastic box without enough space for easy modifications.</p>
+<p>To solve the last one I devised a plan together with my brother to create a additional space below the CNC itself. There&rsquo;s more then enough room and with a piano hinge everything is easily accessible! So that&rsquo;s the easy upgrade. The other problem was the overheating Z-axis motor. I wanted to switch to a NEMA-11 stepper driver but to do so required me to design a new head.</p>
+<p>Which in the end I did. It&rsquo;s not really production ready and your milage may vary but I wanted to share it anyway! So here&rsquo;s a quick screenshot of what the head looks like currently with support for a NEMA-11 stepper and drag chain instead of a wire-harness.</p>
+<p><img src="/img/ant-new-head-design.png" alt="Newly designed ANT PCB Maker Head"></p>
+<p>If you&rsquo;re curious on the parts, here&rsquo;s what you need for an upgrade:</p>
+<ul>
+<li><a href="https://nl.aliexpress.com/item/32897352971.html?spm=a2g0s.9042311.0.0.27424c4dtZRNNp">NEMA-11 Stepper</a></li>
+<li><a href="https://nl.aliexpress.com/item/4000284572410.html?spm=a2g0s.9042311.0.0.27424c4d0s69zZ">5 to 8 mm coupler</a></li>
+<li><a href="https://nl.aliexpress.com/item/32507277503.html?spm=a2g0s.9042311.0.0.27424c4d0s69zZ">100mm threaded T8 rod with 2mm pitch lead</a> (lower pitch might even be better, but I didnt have one of those!)</li>
+<li>Some random M3 screws to mount the captive nut</li>
+<li>2.5M 16mm screws for mounting the NEMA stepper</li>
+<li>Countersunk M3 6mm screws for mounting the drag chain mount to the head.</li>
+<li>If you want to install the drag chain you&rsquo;ll need some screws for that as well.</li>
+</ul>
+<p>If you want to build it you will also need to adapt the mounting points for the captive nut of the threaded rod. This also includes drilling in some 3D printed parts to support connections, but that shouldn&rsquo;t be to hard. The captive nut is sandwitched between two printed parts.</p>
+<p><img src="/img/ant-captive-nut-threaded-rod.png" alt=""></p>
+<p>If you want to upgrade your ANT PCB Maker to a top-mounted NEMA-11, you can try this! The main reason I went with a top mounted one was due the the fact I don&rsquo;t want any milled copper to enter the bottom mounted one (as with the recent design by the ANT Team).</p>
+<p><strong><a href="/files/2021-03-07-ant-modified-head-jplattel.zip">Download STL files for the ANT head.</a></strong></p>
+
+    </div>
+  </article>
+
+  
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2021  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  
+  
+  
+
+
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2021  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+  
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-18951988-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+  
+</body>
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script src="/js/main.js"></script>
+</html>
