@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Finalizing the hardware for a wearable keyboard </title>
+  <meta name="description" content="I’m Joost Plattel, a data-strategist. I help organizations and individuals develop and build strategies for data-related questions and opportunities.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  
+  <meta property="og:title" content="Finalizing the hardware for a wearable keyboard" />
+<meta property="og:description" content="In a previous post I&rsquo;ve shown physical prototypes of a wearable keyboard I&rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.
+Most of the comments I get have to do with why I don&rsquo;t use dictation. There are several reasons for that, namely I&rsquo;m taking my notes bilingual (English &amp; Dutch) and I don&rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&hellip;" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/" />
+<meta property="article:published_time" content="2021-04-19T21:01:37+02:00" />
+<meta property="article:modified_time" content="2021-04-19T21:01:37+02:00" />
+
+  <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/">
+  
+  
+  
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
+  <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://jplattel.nl/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://jplattel.nl/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://jplattel.nl/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://jplattel.nl/icon/favicon-16x16.png">
+<link rel="manifest" href="https://jplattel.nl/icon/site.webmanifest">
+<link rel="mask-icon" href="https://jplattel.nl/icon/safari-pinned-tab.svg" color="#5bbad5">
+  
+  
+  
+  
+  
+</head>
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+    <header id="header">
+    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
+      <title>Joost Plattel</title>
+      <desc>Logo Joost Plattel</desc>
+      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
+    </svg>
+    <div id="title">
+      <h1>
+        <a href="https://jplattel.nl">Joost Plattel</a>
+      </h1>
+    </div>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
+      
+    </ul>
+  </div>
+</header>
+  
+
+    
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Finalizing the hardware for a wearable keyboard
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2021-04-19 21:01:37 &#43;0200 CEST" itemprop="datePublished">19-04-2021</time>
+          
+        </div>
+        
+        <div class="article-category">
+            <i class="fas fa-archive"></i>
+            
+            
+            <a class="category-link" href="/categories/technology">technology</a>
+            
+        </div>
+        
+        
+        <div class="article-tag">
+            <i class="fas fa-tag"></i>
+            
+            
+            <a class="tag-link" href="/tags/technology" rel="tag">technology</a>
+            
+            
+            <a class="tag-link" href="/tags/hardware" rel="tag">hardware</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/keyboard" rel="tag">keyboard</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/wearable" rel="tag">wearable</a>
+            
+        </div> 
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>In <a href="http://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/">a previous post</a> I&rsquo;ve shown physical prototypes of a wearable keyboard I&rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.</p>
+<p>Most of the comments I get have to do with <em>why I don&rsquo;t use dictation.</em> There are several reasons for that, namely I&rsquo;m taking my notes bilingual (English &amp; Dutch) and I don&rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&hellip;</p>
+<p>As a recent post by <a href="https://www.stavros.io/posts/keyyyyyyyys/">Stavros Korokithakis</a> reached Hacker News I thought I wanted to write an update on where I am at with my prototype. So without further ado some pictures:</p>
+<p><img src="/img/wearable-keyboard-1.png" alt=""></p>
+<p>Right now I&rsquo;m on <strong>Prototype 10</strong> of the current hardware, which is mature enough for me to go into the area of software. I only need to wiring things up on the inside to get the buttons to work. <strong>Prototype 10</strong> will have the following:</p>
+<ul>
+<li>10 keys as input</li>
+<li>2 OLED screens</li>
+<li>1 SD-card for configuration &amp; note keeping</li>
+<li>A bluetooth / ESP-NOW interface for communicating as a mesh with other devices.</li>
+<li>Magnets! (for coupling and later a case!)</li>
+</ul>
+<p><img src="/img/wearable-keyboard-3.png" alt=""></p>
+<p>The magnets for now function as a way to group the two keyboards together. In a future version I&rsquo;d imagine them also triggering a reed-switch to turn of the device. There&rsquo;s also more then enough room for an NFC chip to automate stuff like pairing with bluetooth.</p>
+<p><img src="/img/wearable-keyboard-2.png" alt=""></p>
+<p>The small little rectangles on the inside are the two OLED-screens that gives us a small interface for easing the learning-curve and even offer an interface to your notes. Maybe one screen can give hints on what you&rsquo;re typing and the other show the context of the current sentence.. There&rsquo;s a lot of possibilities!</p>
+<p>As for a name, that&rsquo;s still undecided! I&rsquo;ll hope to show you more about the software side as soon as I get the final soldering done!</p>
+
+    </div>
+  </article>
+
+  
+
+<h2>Related posts that might be of interest</h2>
+<ul>
+	
+        <li><a href="/post/2021-01-31-closing-january/">January: Project Month</a></li>
+	
+        <li><a href="/post/2021-01-20-wearable-keyboard-prototypes/">Wearable keyboard prototypes</a></li>
+	
+        <li><a href="/post/2021-01-14-bandwith-problems-human-computer-interfaces/">Bandwith problems with Human Computer Interfaces</a></li>
+	
+</ul>
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2021  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  
+  
+  
+
+
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2021  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+  
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-18951988-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+  
+</body>
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script src="/js/main.js"></script>
+</html>

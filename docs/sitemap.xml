@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jplattel.nl/post/2021-03-07-improving-the-ant-head/</loc>
-    <lastmod>2021-03-07T20:12:27+01:00</lastmod>
+    <loc>https://jplattel.nl/categories/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/hardware/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jplattel.nl/</loc>
-    <lastmod>2021-03-07T20:12:27+01:00</lastmod>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/keyboard/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jplattel.nl/post/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/technology/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/categories/technology/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/wearable/</loc>
+    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/post/2021-03-07-improving-the-ant-head/</loc>
     <lastmod>2021-03-07T20:12:27+01:00</lastmod>
   </url>
   
@@ -24,11 +64,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/obsidian/</loc>
-    <lastmod>2021-02-12T21:55:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2021-02-12T21:55:30+01:00</lastmod>
   </url>
   
@@ -45,11 +80,6 @@
   <url>
     <loc>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</loc>
     <lastmod>2021-02-12T21:55:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/categories/</loc>
-    <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url>
   
   <url>
@@ -73,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/tags/keyboard/</loc>
-    <lastmod>2021-01-31T10:40:07+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jplattel.nl/tags/pcb/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url>
@@ -94,11 +119,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/plugin/</loc>
-    <lastmod>2021-01-31T10:40:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/categories/technology/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url>
   
@@ -164,11 +184,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/voice/</loc>
-    <lastmod>2021-01-14T11:03:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/wearable/</loc>
     <lastmod>2021-01-14T11:03:56+01:00</lastmod>
   </url>
   
@@ -254,11 +269,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/raspberry-pi/</loc>
-    <lastmod>2020-09-08T15:41:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/technology/</loc>
     <lastmod>2020-09-08T15:41:29+02:00</lastmod>
   </url>
   
@@ -879,11 +889,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/food/</loc>
-    <lastmod>2018-04-22T00:14:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/hardware/</loc>
     <lastmod>2018-04-22T00:14:12+02:00</lastmod>
   </url>
   
