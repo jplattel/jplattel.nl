@@ -8,16 +8,15 @@ Below is my wishlist, if there's something I've done for you and you would like 
 ## Physical stuff
 
 *   [Iris](https://www.makerscabinet.com/collections/all-flagship-products/products/iris) by Makers Cabinet.
+*   A [book stand](https://www.taschenboeken.nl/atlas-bookstand-yellow.html).
 *   [Tales from the Loop](https://www.amazon.nl/Tales-Loop-Simon-Stalenhag/dp/1624650392) (hardcover).
 *   [Things from the flood](https://www.bol.com/nl/p/things-from-the-flood/9200000129251022/) (hardcover).
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   A Diresta [Ice Pick](http://shop.jimmydiresta.com/ice-pick/)
-*   A copper colored [GrowlerWerks uKeg 128](https://www.brouwland.com/nl/korting/d/growlerwerks-ukeg-128-verkoperd-3-8-l)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
 *   A full size wired Dremel kit
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
-*   [Knipex Cobra XS](https://www.knipex.com/cobra-xs)
 *   A set of [Omnifixo](https://omnifixo.com/products/of-l4-1) helping hands
 *   A Go set.
 
