@@ -81,7 +81,6 @@ figure.profile-image{
 }
 
 .project-item h3{
-    float: left;
     color: #383838;
     display: block;
     margin: 0px;
@@ -93,6 +92,22 @@ figure.profile-image{
     border-bottom-right-radius: 6px;
 }
 
+.project-item .webring{
+    text-decoration: underline;
+}
+.project-item .webring-links{
+    display:block;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+    display: flex;
+    justify-content: space-around;
+}
+.project-list .project-item a.webring:hover{
+    background-color: white;
+}
 
 .project-image{
     width: 100%;

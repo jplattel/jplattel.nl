@@ -1081,6 +1081,9 @@ body {
 .project-list .project-item p {
   display: inline;
 }
+.project-list .project-item h1 {
+  display: block;
+}
 article header .posttitle {
   margin-top: 0;
   margin-bottom: 0;
