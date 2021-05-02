@@ -78,6 +78,7 @@ figure.profile-image{
     border: 1px solid #bbb;
     border-radius: 6px;
     float: left;
+    width: 100%
 }
 
 .project-item h3{
