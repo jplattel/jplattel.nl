@@ -15,8 +15,12 @@ article .highlight pre{
     font-size: 15px;
 }
 
-header#header:hover svg#logo path{
+header#header svg#logo path{
     fill: #006ad4
+}
+
+section{
+    margin-top: 30px;
 }
 
 #header #nav{
@@ -53,32 +57,23 @@ figure.profile-image{
 }
 
 .project-list{
-    display: grid;
-    align-items: start;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 10px;
-    row-gap: 10px;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+    columns: 2;
+    /* column-gap: 1rem; */
+    width: 100%;
 }
 
-.project-list a{
+.content .project-list a{
     background-image: none;
-    border-radius: 6px;
-}
-
-.project-list a:hover{
-    background-image: none;
-    background-color: #bbb;
-    margin: 0px;
-    padding: 0px;
+    text-decoration: none;
+    border: 0px
 }
 
 .project-item{
     border: 1px solid #bbb;
     border-radius: 6px;
-    float: left;
-    width: 100%
+    margin: 0 8px 8px 0; /* Some gutter */
+    width: 100%;
+    display: inline-block
 }
 
 .project-item h3{
@@ -117,7 +112,7 @@ figure.profile-image{
 
 .client-list{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 30px;
     row-gap: 30px;
 }
@@ -134,7 +129,8 @@ figure.profile-image{
 }
 
 .client-image{
-    width: 100%
+    width: 100%;
+    filter: grayscale(100%);
 }
 .client-logo-single{
     float: right;
