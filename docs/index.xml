@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 04 May 2021 08:15:07 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 11:55:34 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amsterdam University of Applied Science</title>
+      <link>https://jplattel.nl/client/hogeschool-van-amsterdam/</link>
+      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/hogeschool-van-amsterdam/</guid>
+      <description>For the Amsterdam University of Applied Science I&amp;rsquo;ve build a application that let&amp;rsquo;s people discover &amp;amp; connect with Talent initiatives within the Amsterdam Metropolitan Region.
+The entire stack of the web application is based on modern technology &amp;amp; build entirely with javascript.
+The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelte.</description>
+    </item>
+    
     <item>
       <title>Rhizomatic notetaking</title>
       <link>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</link>

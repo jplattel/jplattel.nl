@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 04 May 2021 08:15:07 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 11:55:34 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>backend</title>
+      <link>https://jplattel.nl/tags/backend/</link>
+      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frontend</title>
+      <link>https://jplattel.nl/tags/frontend/</link>
+      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>https://jplattel.nl/tags/js/</link>
+      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strapi</title>
+      <link>https://jplattel.nl/tags/strapi/</link>
+      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/strapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svelte</title>
+      <link>https://jplattel.nl/tags/svelte/</link>
+      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/svelte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talent</title>
+      <link>https://jplattel.nl/tags/talent/</link>
+      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/talent/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deleuze</title>
       <link>https://jplattel.nl/tags/deleuze/</link>
@@ -797,15 +851,6 @@
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/public/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>svelte</title>
-      <link>https://jplattel.nl/tags/svelte/</link>
-      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/svelte/</guid>
       <description></description>
     </item>
     

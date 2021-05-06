@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jplattel.nl/client/hogeschool-van-amsterdam/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/backend/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/client/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/frontend/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/js/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/strapi/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/svelte/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/talent/</loc>
+    <lastmod>2021-05-06T11:55:34+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/categories/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url>
@@ -14,11 +64,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/guattari/</loc>
-    <lastmod>2021-05-04T08:15:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url>
   
@@ -49,11 +94,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/rhizome/</loc>
-    <lastmod>2021-05-04T08:15:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url>
   
@@ -309,11 +349,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/azure/</loc>
-    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/client/</loc>
     <lastmod>2020-08-18T10:15:04+02:00</lastmod>
   </url>
   
@@ -684,11 +719,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/public/</loc>
-    <lastmod>2019-08-05T00:05:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/svelte/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url>
   
