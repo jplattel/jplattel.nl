@@ -733,31 +733,6 @@
   </url>
   
   <url>
-    <loc>https://jplattel.nl/project/personalstats/</loc>
-    <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/personalstats/</loc>
-    <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/qs/</loc>
-    <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/quantifiedself/</loc>
-    <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/workflowy/</loc>
-    <lastmod>2019-01-08T00:05:29+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jplattel.nl/post/2019-01-06-836pm-2018/</loc>
     <lastmod>2019-01-06T20:48:47+01:00</lastmod>
   </url>
@@ -1013,6 +988,11 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/qs/</loc>
+    <lastmod>2018-04-21T21:10:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/tags/quantified-self/</loc>
     <lastmod>2018-04-21T21:10:30+02:00</lastmod>
   </url>
@@ -1080,11 +1060,6 @@
   <url>
     <loc>https://jplattel.nl/post/2017-06-03-getting-started-with-a-lorawan-gateway/</loc>
     <lastmod>2017-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/project/permanent-beta/</loc>
-    <lastmod>2017-05-31T00:09:50+02:00</lastmod>
   </url>
   
   <url>
@@ -1599,6 +1574,11 @@
   
   <url>
     <loc>https://jplattel.nl/tags/qsbru/</loc>
+    <lastmod>2011-03-13T21:55:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/quantifiedself/</loc>
     <lastmod>2011-03-13T21:55:20+01:00</lastmod>
   </url>
   

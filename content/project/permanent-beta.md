@@ -1,7 +1,7 @@
 ---
 title: "Permanent Beta"
 date: 2017-05-31T00:09:50+02:00
-draft: false
+draft: true
 year: 2017
 
 tags: []
