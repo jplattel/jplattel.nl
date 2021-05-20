@@ -28,5 +28,14 @@ Since a few months Obsidian now allows users to write plugins in Typescript. Whi
 Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates.</description>
     </item>
     
+    <item>
+      <title>Wafl</title>
+      <link>https://jplattel.nl/client/wafl/</link>
+      <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/client/wafl/</guid>
+      <description>For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte in javascript.</description>
+    </item>
+    
   </channel>
 </rss>

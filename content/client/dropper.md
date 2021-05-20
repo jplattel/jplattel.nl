@@ -8,4 +8,4 @@ image_preview = "dropper.png"
 external_link = "http://www.dropper.nl"
 +++
 
-For Dropper I've implemented improvements for their Django application.
+For Dropper I've implemented improvements for their _Django_ application. 

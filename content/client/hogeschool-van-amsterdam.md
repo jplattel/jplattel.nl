@@ -10,6 +10,6 @@ external_link = "" # Optional external URL for project (replaces project detail 
 
 For the [Amsterdam University of Applied Science](https://www.amsterdamuas.com/) I've build a application that let's people discover & connect with Talent initiatives within the Amsterdam Metropolitan Region.
 
-The entire stack of the web application is based on modern technology & build entirely with javascript. 
+The entire stack of the web application is based on modern technology & build entirely with _javascript_. 
 
 The backend is done with [Strapi](https://strapi.io/) and the frontend run with [Sapper](https://sapper.svelte.dev/) & [Svelte](https://svelte.dev/).

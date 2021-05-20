@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quantified Self on Joost Plattel</title>
+    <title>quantified-self on Joost Plattel</title>
     <link>https://jplattel.nl/tags/quantified-self/</link>
-    <description>Recent content in Quantified Self on Joost Plattel</description>
+    <description>Recent content in quantified-self on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 21 Apr 2018 21:10:30 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/quantified-self/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 May 2018 23:27:24 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/quantified-self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colliers</title>
+      <link>https://jplattel.nl/client/colliers/</link>
+      <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/colliers/</guid>
+      <description>Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.
+During the entire year of tracking Phoebe V. Moore as researcher investigated the impact of the platform.
+As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with Python and the main dashboard is based on Django.</description>
+    </item>
+    
     <item>
       <title>Quantified Self community</title>
       <link>https://jplattel.nl/project/quantifiedself/</link>

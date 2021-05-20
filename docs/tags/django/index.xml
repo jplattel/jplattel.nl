@@ -26,5 +26,45 @@
       <description>An inventory management tool build with Python &amp;amp; Django</description>
     </item>
     
+    <item>
+      <title>Nolostcapital</title>
+      <link>https://jplattel.nl/client/nolostcapital/</link>
+      <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/client/nolostcapital/</guid>
+      <description>For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act.
+The backend service was done in python &amp;amp; Django and the front-end in Vue.</description>
+    </item>
+    
+    <item>
+      <title>Fundsup</title>
+      <link>https://jplattel.nl/client/fundsup/</link>
+      <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/fundsup/</guid>
+      <description>To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform. The main technology of this stack was python &amp;amp; Django for the backend and the API and Vue for the front-end. The database was PostGres with JSON fields allowing for querying non-schema based fields.</description>
+    </item>
+    
+    <item>
+      <title>Watermelon</title>
+      <link>https://jplattel.nl/client/watermelon/</link>
+      <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/watermelon/</guid>
+      <description>In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.
+Once I got started I also converted their current stack to support Docker &amp;amp; implemented an auth gateway that would take in older auth flows and support better authentication for the API. The API was build in python &amp;amp; Django with Django Rest Framework (DRF)</description>
+    </item>
+    
+    <item>
+      <title>Colliers</title>
+      <link>https://jplattel.nl/client/colliers/</link>
+      <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/colliers/</guid>
+      <description>Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.
+During the entire year of tracking Phoebe V. Moore as researcher investigated the impact of the platform.
+As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with Python and the main dashboard is based on Django.</description>
+    </item>
+    
   </channel>
 </rss>

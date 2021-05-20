@@ -6,7 +6,7 @@ year = 2018
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["python", "aws", "lambda"]
 
 # Project summary to display on homepage.
 summary = "Data strategy & API"
@@ -18,7 +18,6 @@ image_preview = "partup-logo.png"
 external_link = "https://part-up.com"
 
 +++
-
-At Part-up I helped develop the latest version of their platform based on a Vue front-end and backend with Python on AWS Lambda. 
-
 The goal of Part-up is to facilitate more flexible work trough their platform, based on recommendations & talent.
+
+I helped develop the latest version of their platform based on a Vue front-end and backend with Python on AWS Lambda & Serverless. 

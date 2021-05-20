@@ -458,6 +458,21 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/api/</loc>
+    <lastmod>2020-05-20T00:19:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/app-engine/</loc>
+    <lastmod>2020-05-20T00:19:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/integration/</loc>
+    <lastmod>2020-05-20T00:19:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/client/vogsy/</loc>
     <lastmod>2020-05-20T00:19:14+02:00</lastmod>
   </url>
@@ -743,6 +758,11 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/vue/</loc>
+    <lastmod>2018-11-27T21:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/tags/iphone/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url>
@@ -828,6 +848,21 @@
   </url>
   
   <url>
+    <loc>https://jplattel.nl/tags/docker/</loc>
+    <lastmod>2018-05-30T23:28:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/docker-compose/</loc>
+    <lastmod>2018-05-30T23:28:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/drf/</loc>
+    <lastmod>2018-05-30T23:28:49+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jplattel.nl/client/watermelon/</loc>
     <lastmod>2018-05-30T23:28:49+02:00</lastmod>
   </url>
@@ -835,6 +870,16 @@
   <url>
     <loc>https://jplattel.nl/client/colliers/</loc>
     <lastmod>2018-05-30T23:27:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/quantified-self/</loc>
+    <lastmod>2018-05-30T23:27:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/jupyter/</loc>
+    <lastmod>2018-05-30T23:25:32+02:00</lastmod>
   </url>
   
   <url>
@@ -989,11 +1034,6 @@
   
   <url>
     <loc>https://jplattel.nl/tags/qs/</loc>
-    <lastmod>2018-04-21T21:10:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jplattel.nl/tags/quantified-self/</loc>
     <lastmod>2018-04-21T21:10:30+02:00</lastmod>
   </url>
   
@@ -1340,6 +1380,11 @@
   <url>
     <loc>https://jplattel.nl/post/2013-05-07-small-news/</loc>
     <lastmod>2013-05-07T20:12:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jplattel.nl/tags/lambda/</loc>
+    <lastmod>2013-04-21T22:55:11+02:00</lastmod>
   </url>
   
   <url>

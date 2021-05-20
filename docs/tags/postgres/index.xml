@@ -17,5 +17,14 @@
       <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application.</description>
     </item>
     
+    <item>
+      <title>Fundsup</title>
+      <link>https://jplattel.nl/client/fundsup/</link>
+      <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/fundsup/</guid>
+      <description>To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform. The main technology of this stack was python &amp;amp; Django for the backend and the API and Vue for the front-end. The database was PostGres with JSON fields allowing for querying non-schema based fields.</description>
+    </item>
+    
   </channel>
 </rss>

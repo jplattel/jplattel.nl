@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>integration on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/integration/</link>
+    <description>Recent content in integration on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Wed, 20 May 2020 00:19:14 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vogsy</title>
+      <link>https://jplattel.nl/client/vogsy/</link>
+      <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/vogsy/</guid>
+      <description>For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.
+All API integrations where build with Python on App Engine. For each integration a seperate integration layer is build with full test-coverage. The architecture is based on Domain Driven Design (DDD).</description>
+    </item>
+    
+  </channel>
+</rss>

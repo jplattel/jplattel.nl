@@ -25,7 +25,8 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/esperantoxl/</guid>
-      <description>For EsperantoXL I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.</description>
+      <description>For EsperantoXL I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.
+This solution allows for processing million lines of codes in a unsupported datafile, analyze &amp;amp; run queries on it and return it through a callback towards the no-code platform once again. Most of the implementations are based on Python.</description>
     </item>
     
     <item>
@@ -43,7 +44,8 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/vogsy/</guid>
-      <description>For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.</description>
+      <description>For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.
+All API integrations where build with Python on App Engine. For each integration a seperate integration layer is build with full test-coverage. The architecture is based on Domain Driven Design (DDD).</description>
     </item>
     
     <item>
@@ -52,7 +54,7 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
       
       <guid>https://jplattel.nl/client/wafl/</guid>
-      <description>For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients.</description>
+      <description>For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte in javascript.</description>
     </item>
     
     <item>
@@ -61,7 +63,8 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
       
       <guid>https://jplattel.nl/client/nolostcapital/</guid>
-      <description>For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act. The backend service was done in Django and the front-end in Vue.</description>
+      <description>For Nolostcapital I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act.
+The backend service was done in python &amp;amp; Django and the front-end in Vue.</description>
     </item>
     
     <item>
@@ -70,7 +73,7 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/fundsup/</guid>
-      <description>To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform.</description>
+      <description>To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform. The main technology of this stack was python &amp;amp; Django for the backend and the API and Vue for the front-end. The database was PostGres with JSON fields allowing for querying non-schema based fields.</description>
     </item>
     
     <item>
@@ -79,7 +82,8 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/watermelon/</guid>
-      <description>In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.</description>
+      <description>In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.
+Once I got started I also converted their current stack to support Docker &amp;amp; implemented an auth gateway that would take in older auth flows and support better authentication for the API. The API was build in python &amp;amp; Django with Django Rest Framework (DRF)</description>
     </item>
     
     <item>
@@ -88,7 +92,9 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/colliers/</guid>
-      <description>Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.</description>
+      <description>Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.
+During the entire year of tracking Phoebe V. Moore as researcher investigated the impact of the platform.
+As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with Python and the main dashboard is based on Django.</description>
     </item>
     
     <item>
@@ -98,7 +104,7 @@ The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelt
       
       <guid>https://jplattel.nl/client/bzk/</guid>
       <description>Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.
-My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government.</description>
+My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government. Most work is done in Python and Jupyter notebooks as the technology stack.</description>
     </item>
     
     <item>

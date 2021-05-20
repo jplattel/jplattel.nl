@@ -14,7 +14,8 @@
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/esperantoxl/</guid>
-      <description>For EsperantoXL I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.</description>
+      <description>For EsperantoXL I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.
+This solution allows for processing million lines of codes in a unsupported datafile, analyze &amp;amp; run queries on it and return it through a callback towards the no-code platform once again. Most of the implementations are based on Python.</description>
     </item>
     
     <item>
@@ -24,6 +25,15 @@
       
       <guid>https://jplattel.nl/project/ehba/</guid>
       <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
+    </item>
+    
+    <item>
+      <title>Part-up</title>
+      <link>https://jplattel.nl/client/partup/</link>
+      <pubDate>Sun, 21 Apr 2013 22:55:11 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/partup/</guid>
+      <description>Data strategy &amp;amp; API</description>
     </item>
     
   </channel>

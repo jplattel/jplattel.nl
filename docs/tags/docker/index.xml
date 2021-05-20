@@ -6,20 +6,16 @@
     <description>Recent content in docker on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sun, 09 Mar 2014 23:39:23 +0100</lastBuildDate>
-    
-	<atom:link href="https://jplattel.nl/tags/docker/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Wed, 30 May 2018 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lessons learned building Django projects</title>
-      <link>https://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</link>
-      <pubDate>Sun, 09 Mar 2014 23:39:23 +0100</pubDate>
+      <title>Watermelon</title>
+      <link>https://jplattel.nl/client/watermelon/</link>
+      <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
       
-      <guid>https://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</guid>
-      <description>I&#39;ve been using Django as my go-to framework for the past few months. So far I&#39;ve enjoyed the ride, but have learned some things that I&#39;d like to share with you:
- During project setup, create a virtual environment for yourself to work in. Use the &#39;pip freeze&#39; for creating a requirements.txt that helps you manage dependencies. Don&#39;t use any paths within the views. Instead, use the reverse function for looking up routes that correspond to the url.</description>
+      <guid>https://jplattel.nl/client/watermelon/</guid>
+      <description>In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.
+Once I got started I also converted their current stack to support Docker &amp;amp; implemented an auth gateway that would take in older auth flows and support better authentication for the API. The API was build in python &amp;amp; Django with Django Rest Framework (DRF)</description>
     </item>
     
   </channel>

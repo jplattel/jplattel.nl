@@ -5,7 +5,7 @@ draft = false
 year = 2018
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["javascript", "svelte"]
 
 # Optional image to display on homepage.
 image_preview = "wafl.png"
@@ -14,4 +14,4 @@ image_preview = "wafl.png"
 external_link = ""
 +++
 
-For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients.
+For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with _Svelte_ in javascript.
