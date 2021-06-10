@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 04 May 2021 08:15:07 +0200</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 15:11:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software architecture for wearable computer</title>
+      <link>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</link>
+      <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</guid>
+      <description>As you can read in previous posts. I&amp;rsquo;ve spend the last year designing a wearable keyboard that would allow you to type while walking. When I finally soldered everything, checked the connections for no shorts I tried flashing micropython on the Wemo D32 Pro&amp;rsquo;s that I use one didn&amp;rsquo;t seem to work.. Luckily I had a replacement on hand (learned that the hard-way, I&amp;rsquo;ll always be ordering extra now!).
+Before I want to dive into the software architecture, I wanted to explain why I don&amp;rsquo;t went with QMK or at least, not directly (more on that later!</description>
+    </item>
+    
     <item>
       <title>Rhizomatic notetaking</title>
       <link>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</link>

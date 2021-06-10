@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/software/</link>
-    <description>Recent content in software on Joost Plattel</description>
+    <title>micropython on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/micropython/</link>
+    <description>Recent content in micropython on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 15:11:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 15:11:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/micropython/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software architecture for wearable computer</title>
       <link>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</link>
