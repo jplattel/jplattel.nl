@@ -1,5 +1,5 @@
 ---
-title: "Software architecture for wearable computer"
+title: "Software architecture for a wearable computer"
 date: 2021-06-10T15:11:47+02:00
 draft: false
 
