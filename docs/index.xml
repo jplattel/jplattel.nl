@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 15:11:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jul 2021 22:53:02 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning to work with a new keyboard &amp; layout</title>
+      <link>https://jplattel.nl/post/2021-07-03-learning-to-write-new-keyboard-layout/</link>
+      <pubDate>Sat, 03 Jul 2021 22:53:02 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-07-03-learning-to-write-new-keyboard-layout/</guid>
+      <description>When developing the wearable keyboard, one of the biggest fears I had was about the learning-curve. Most people will ask about it once they grok the chording keyboard, but I found myself unable to answer on how hard it would be to learn..
+There&amp;rsquo;s loads of people searching on the web for the best ways to learn a new keyboard layout, most of the time swichting away from qwerty to another layout like Dvorak or Workman.</description>
+    </item>
+    
     <item>
       <title>Software architecture for a wearable computer</title>
       <link>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</link>
