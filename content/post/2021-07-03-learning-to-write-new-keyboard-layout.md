@@ -22,5 +22,7 @@ For now I've set the modest goal of getting to 25 wpm. (which is still slow, but
 |2021-05|Practice on FreshKeebInLA (roughly 4 hours)|~10 wpm|
 |2021-07-01|Typing on the Prototype 10 (10 minutes)|~10 wpm|
 |2021-07-03|Typing on the Prototype 10 (15 minutes)|~10 wpm|
+|2021-08-29|Typing on the Prototype 10 (1 hour)|~12 wpm|
+|2021-08-30|Typing on the Prototype 10 (1,5 hour)|~14 wpm|
 
 Now back to more practicing! 
