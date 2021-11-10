@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 28 Jan 2021 12:45:18 +0100</lastBuildDate><atom:link href="https://jplattel.nl/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 10:07:55 +0100</lastBuildDate><atom:link href="https://jplattel.nl/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Taxonomy (Part 1)</title>
+      <link>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</link>
+      <pubDate>Wed, 10 Nov 2021 10:07:55 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</guid>
+      <description>While explaining and introducing Obsidian to people I&amp;rsquo;ve noticed that the free form way of setup allows for so much flexibility. This results in an big amount of questions on how you would structure the links, tags and your vault. And while there are some solutions like PARA or LYT, I think the best system is the one you create yourself.
+One of the main reasons is that you&amp;rsquo;ll learn a lot about how you think about the data relevant to you.</description>
+    </item>
+    
     <item>
       <title>Obsidian Query Langauge plugin published</title>
       <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>

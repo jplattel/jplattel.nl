@@ -13,9 +13,10 @@
 <meta property="og:description" content="I&rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.
 When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/" />
+<meta property="og:url" content="https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-01-28T21:28:46+01:00" />
 <meta property="article:modified_time" content="2020-01-28T21:28:46+01:00" />
+
 
   <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/">
   
@@ -134,12 +135,12 @@ When I made the switch towards micropython I saw no such thing existed. But havi
       <p>I&rsquo;ve published my first library to <a href="https://pypi.org/project/upymenu/">PyPi</a>! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the <a href="https://github.com/arduino-libraries/LiquidCrystal">Liquid Crystal</a> and <a href="https://github.com/VaSe7u/LiquidMenu">Liquid Menu</a> while developing on an Arduino.</p>
 <p>When I made the switch towards micropython I saw no such thing existed. But having a <a href="https://www.wikiwand.com/en/Finite-state_machine">statemachine</a> like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!</p>
 <p>Once you have configured your LCD with your board, you can use it like this to create a menu:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> machine <span style="color:#f92672">import</span> Pin, I2C <span style="color:#75715e"># Basics for creating an LCD interface</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> machine <span style="color:#f92672">import</span> Pin, I2C <span style="color:#75715e"># Basics for creating an LCD interface</span>
 <span style="color:#f92672">from</span> esp8266_i2c_lcd <span style="color:#f92672">import</span> I2cLcd <span style="color:#75715e"># Example LCD interface used</span>
 <span style="color:#f92672">from</span> upymenu <span style="color:#f92672">import</span> Menu, MenuAction, MenuNoop
 
 <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">action_callback</span>():
-    <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;callback action chosen&#34;</span>)
+    print(<span style="color:#e6db74">&#34;callback action chosen&#34;</span>)
 
 submenu <span style="color:#f92672">=</span> Menu(<span style="color:#e6db74">&#34;Submenu&#34;</span>)
 submenu_action_1 <span style="color:#f92672">=</span> MenuAction(<span style="color:#e6db74">&#34;Submenu Action&#34;</span>, callback<span style="color:#f92672">=</span>action_callback)

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 23 Sep 2021 14:58:31 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 10:07:55 +0100</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Taxonomy (Part 1)</title>
+      <link>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</link>
+      <pubDate>Wed, 10 Nov 2021 10:07:55 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</guid>
+      <description>While explaining and introducing Obsidian to people I&amp;rsquo;ve noticed that the free form way of setup allows for so much flexibility. This results in an big amount of questions on how you would structure the links, tags and your vault. And while there are some solutions like PARA or LYT, I think the best system is the one you create yourself.
+One of the main reasons is that you&amp;rsquo;ll learn a lot about how you think about the data relevant to you.</description>
+    </item>
+    
     <item>
       <title>The case for single purpose tools in these digital times</title>
       <link>https://jplattel.nl/post/2021-09-23-single-purpose-tools/</link>
@@ -822,7 +832,7 @@ As we talked with locals it turns out it&amp;rsquo;s much more enjoyable if you 
     <item>
       <title>A talk about the many things a little experiment can teach you</title>
       <link>https://jplattel.nl/post/2016-06-02-many-things-little-experiment/</link>
-      <pubDate>Thu, 02 Jun 2016 10:04:02 +0200</pubDate>
+      <pubDate>Thu, 02 Jun 2016 10:04:02 +0000</pubDate>
       
       <guid>https://jplattel.nl/post/2016-06-02-many-things-little-experiment/</guid>
       <description>On the 14th of March 2016 I gave a short talk at TEDxYouth Groningen, and the video is finally online! I&amp;rsquo;ve embedded the video below, it&amp;rsquo;s in dutch but I&amp;rsquo;m sure the subtitles will be available shortly. My talk is about the all the photos I took so far at 8:36pm. I started without any specific reason, but found out that you could figure it out while doing it as well.</description>

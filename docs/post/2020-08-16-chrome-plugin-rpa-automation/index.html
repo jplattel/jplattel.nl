@@ -13,9 +13,10 @@
 <meta property="og:description" content="As someone who creates shortcuts and automations all the time I often get asked questions about certain things to automate that aren&rsquo;t really like the things I personally do.
 Most of the time this has to do with web applications and the barrier of create an entire app (if there even is an API available) is way to high based on price or time spend. More recently I discovered that an easy way of packaging and shipping things for individuals to larger groups could often be in the form of a Chrome extension." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/" />
+<meta property="og:url" content="https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-08-16T20:58:41+02:00" />
 <meta property="article:modified_time" content="2020-08-16T20:58:41+02:00" />
+
 
   <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/">
   
@@ -127,7 +128,7 @@ Most of the time this has to do with web applications and the barrier of create 
 <p>Most of the time this has to do with web applications and the barrier of create an entire app (if there even is an API available) is way to high based on price or time spend. More recently I discovered that an easy way of packaging and shipping things for individuals to larger groups could often be in the form of a <em>Chrome extension</em>.</p>
 <p>Most of the things I made can be solved with <strong>RPA</strong> (robotic proces automation, a fancy abbreviation). And getting started with a chrome extension is rather easy.</p>
 <p>Believe it or not, but even at this time, the easiest way to automate stuff could still be jQuery, so you will only need three files, a <code>manifest.json</code> that lists all the things the extension requires and needs access too:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">{
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">{
   <span style="color:#f92672">&#34;name&#34;</span>: <span style="color:#e6db74">&#34;Example RPA Extension&#34;</span>,
   <span style="color:#f92672">&#34;version&#34;</span>: <span style="color:#e6db74">&#34;0.0.1&#34;</span>,
   <span style="color:#f92672">&#34;manifest_version&#34;</span>: <span style="color:#ae81ff">2</span>,
@@ -148,7 +149,7 @@ Most of the time this has to do with web applications and the barrier of create 
   ]
 }
 </code></pre></div><p>A <code>background.js</code> which is activated when the button or keyboard shortcut is pressed. For the ease of use I&rsquo;ve included a version of jquery as well so the <code>automate.js</code> script can use jQuery.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#a6e22e">chrome</span>.<span style="color:#a6e22e">browserAction</span>.<span style="color:#a6e22e">onClicked</span>.<span style="color:#a6e22e">addListener</span>(<span style="color:#66d9ef">function</span> (<span style="color:#a6e22e">tab</span>) {
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#a6e22e">chrome</span>.<span style="color:#a6e22e">browserAction</span>.<span style="color:#a6e22e">onClicked</span>.<span style="color:#a6e22e">addListener</span>(<span style="color:#66d9ef">function</span> (<span style="color:#a6e22e">tab</span>) {
 	<span style="color:#75715e">// for the current tab, inject the &#34;automate.js&#34; file &amp; execute it
 </span><span style="color:#75715e"></span>	<span style="color:#a6e22e">chrome</span>.<span style="color:#a6e22e">tabs</span>.<span style="color:#a6e22e">executeScript</span>(<span style="color:#66d9ef">null</span>, { <span style="color:#a6e22e">file</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;jquery.js&#34;</span> }, <span style="color:#66d9ef">function</span>() {
 		<span style="color:#a6e22e">chrome</span>.<span style="color:#a6e22e">tabs</span>.<span style="color:#a6e22e">executeScript</span>(<span style="color:#a6e22e">tab</span>.<span style="color:#a6e22e">ib</span>, {
@@ -158,7 +159,7 @@ Most of the time this has to do with web applications and the barrier of create 
 	
 });
 </code></pre></div><p>And finally a <code>automate.js</code> for that contains the javascript code for automation:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#75715e">// this is the code which will be injected into a given page...
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#75715e">// this is the code which will be injected into a given page...
 </span><span style="color:#75715e"></span>(<span style="color:#66d9ef">function</span>() {
 	<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Hello from your Chrome extension&#34;</span>)
 })();
