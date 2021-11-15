@@ -34,3 +34,5 @@ The projects folder on my computer also starts with `2`. This way if I'm talking
 So this will make it clear why this folder structure makes sense to me, it's all about bridging things and naming unification. Again, this works for me, but you might have different requirements that might need another setup!
 
 In the next part I'll explain on how I decide between a note and tag (and how I use subtags!)
+
+*[Continue reading with part 2](https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/)*
