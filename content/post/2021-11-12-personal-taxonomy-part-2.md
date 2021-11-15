@@ -1,6 +1,6 @@
 ---
 title: "Personal Taxonomy (Part 2)"
-date: 2021-11-12T10:28:10+01:00
+date: 2021-11-15T10:28:10+01:00
 draft: false
 
 # Tags and categories

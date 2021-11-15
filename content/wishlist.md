@@ -8,8 +8,6 @@ Below is my wishlist, if there's something I've done for you and you would like 
 ## Physical stuff
 
 *   A [book stand](https://www.taschenboeken.nl/atlas-bookstand-yellow.html).
-*   [Tales from the Loop](https://www.amazon.nl/Tales-Loop-Simon-Stalenhag/dp/1624650392) (hardcover).
-*   [Things from the flood](https://www.bol.com/nl/p/things-from-the-flood/9200000129251022/) (hardcover).
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick)
@@ -17,10 +15,9 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A [Dremel 4300](https://www.hornbach.nl/shop/DREMEL-Multitool-4300-incl-3-hulpstukken-en-45-accessoires/6418176/artikel.html).
 *   A [Makita router](https://www.coolblue.nl/product/402575/makita-rt0700cx3j.html)
 *   A benchtop power supply. (not sure which one yet!)
-*   An [Rigol DS1000Z](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
+*   An [Rigol DS1074Z+(S+)](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
-*   [Stria](https://www.makerscabinet.com/products/stria-1).
 
 ## Experience
 
@@ -33,6 +30,8 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   [Iris](https://www.makerscabinet.com/collections/all-flagship-products/products/iris) by Makers Cabinet (Thanks Martijn!).
 *   [The Electric State](https://www.amazon.de/Electric-State-Simon-St%C3%A5lenhag/dp/1501181416?tag=jplattel-21) (hardcover).
 *   Forge my own axe and/or blades (Thanks Chantal! ❤️)
+*   [Tales from the Loop](https://www.amazon.nl/Tales-Loop-Simon-Stalenhag/dp/1624650392) (hardcover).
+*   [Things from the flood](https://www.bol.com/nl/p/things-from-the-flood/9200000129251022/) (hardcover).
 *   [Every tool's a hammer](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) by Adam Savage
 *   [This puzzle](https://puzzle.lamingtondrive.com/) (thanks Nathalie!)
 *   The [Cool Tools](https://www.bol.com/nl/p/cool-tools/9200000020982860/) book, thanks [Vitamine Communicatie](https://www.vitaminecommunicatie.nl/)!
