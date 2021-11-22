@@ -14,9 +14,8 @@
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/hogeschool-van-amsterdam/</guid>
-      <description>For the Amsterdam University of Applied Science I&amp;rsquo;ve build a application that let&amp;rsquo;s people discover &amp;amp; connect with Talent initiatives within the Amsterdam Metropolitan Region.
-The entire stack of the web application is based on modern technology &amp;amp; build entirely with javascript.
-The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelte.</description>
+      <description>For the Amsterdam University of Applied Science I&amp;rsquo;ve build an application that let&amp;rsquo;s people discover &amp;amp; connect with Talent initiatives within the Amsterdam Metropolitan Region. The goal of the application is to bridge the gap between organisations and talent initiatives.
+The entire stack of the web application is based on modern technology &amp;amp; build entirely with javascript. The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelte.</description>
     </item>
     
   </channel>
