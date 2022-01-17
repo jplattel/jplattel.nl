@@ -11,30 +11,6 @@
     <loc>https://jplattel.nl/post/</loc>
     <lastmod>2021-12-30T11:31:59+01:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/post/2021-12-28-custom-earbud-with-photogrammetry-and-sla-resin/</loc>
-    <lastmod>2021-12-28T21:17:40+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/3dprinting/</loc>
-    <lastmod>2021-12-26T23:28:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/arduino/</loc>
-    <lastmod>2021-12-26T23:28:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/client/</loc>
-    <lastmod>2021-12-26T23:28:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/electronics/</loc>
-    <lastmod>2021-12-26T23:28:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/client/jawsaver/</loc>
-    <lastmod>2021-12-26T23:28:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/prototyping/</loc>
-    <lastmod>2021-12-26T23:28:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
-    <lastmod>2021-12-26T23:28:49+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/categories/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
@@ -48,6 +24,9 @@
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/categories/software/</loc>
+    <lastmod>2021-11-15T10:28:10+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/taxonomy/</loc>
@@ -73,6 +52,12 @@
   </url><url>
     <loc>https://jplattel.nl/post/2021-07-03-learning-to-write-new-keyboard-layout/</loc>
     <lastmod>2021-07-03T22:53:02+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/3dprinting/</loc>
+    <lastmod>2021-06-30T23:28:49+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/</loc>
+    <lastmod>2021-06-30T23:28:49+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/front404/</loc>
     <lastmod>2021-06-30T23:28:49+02:00</lastmod>
@@ -158,6 +143,9 @@
     <loc>https://jplattel.nl/tags/ebook/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
+    <loc>https://jplattel.nl/tags/electronics/</loc>
+    <lastmod>2021-01-31T10:40:07+01:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/post/2021-01-31-closing-january/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
@@ -191,6 +179,9 @@
     <loc>https://jplattel.nl/tags/polymorph/</loc>
     <lastmod>2021-01-20T16:29:27+01:00</lastmod>
   </url><url>
+    <loc>https://jplattel.nl/tags/prototyping/</loc>
+    <lastmod>2021-01-20T16:29:27+01:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</loc>
     <lastmod>2021-01-20T16:29:27+01:00</lastmod>
   </url><url>
@@ -217,6 +208,9 @@
   </url><url>
     <loc>https://jplattel.nl/tags/photos/</loc>
     <lastmod>2021-01-06T15:18:14+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/arduino/</loc>
+    <lastmod>2020-11-11T21:17:39+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/bluetooth/</loc>
     <lastmod>2020-11-11T21:17:39+01:00</lastmod>
