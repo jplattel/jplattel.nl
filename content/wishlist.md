@@ -7,7 +7,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 
 ## Physical stuff
 
-*   A [Spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
+*   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   A [ratcheting driver](https://www.leatherman.com/ratchet-driver-931030.html) for the leatherman I own.
 *   [Rollstoel](https://www.rollstoell.nl/winkel/).

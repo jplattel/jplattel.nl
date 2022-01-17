@@ -7,7 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 06 May 2021 11:55:34 +0200</lastBuildDate><atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jawsaver</title>
+      <link>https://jplattel.nl/client/jawsaver/</link>
+      <pubDate>Sun, 26 Dec 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/jawsaver/</guid>
+      <description>Jawsaver engineers smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.
+All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.</description>
+    </item>
+    
+    <item>
+      <title>Front404</title>
+      <link>https://jplattel.nl/client/front404/</link>
+      <pubDate>Wed, 30 Jun 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/front404/</guid>
+      <description>Bas van Oerle and Thomas voor &amp;rsquo;t Hekke asked me to develop a series of crystals and 3D print them for immersive theater. I&amp;rsquo;ve designed a set of 16 crystals that can be filled with LEDs for interactivity.</description>
+    </item>
+    
     <item>
       <title>Amsterdam University of Applied Science</title>
       <link>https://jplattel.nl/client/hogeschool-van-amsterdam/</link>

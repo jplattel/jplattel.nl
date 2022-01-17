@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 10:28:10 +0100</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 11:31:59 +0100</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keeping an unread list</title>
+      <link>https://jplattel.nl/post/2021-12-30-keeping-an-unread-list/</link>
+      <pubDate>Thu, 30 Dec 2021 11:31:59 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-12-30-keeping-an-unread-list/</guid>
+      <description>For all the things I organize, inbox zero might just be one of the biggest achievements. Frequently less then 5 emails are in my inbox and every day I work, the todo-list shrinks. But there&amp;rsquo;s one list that keeps on growing, and that&amp;rsquo;s my read it later list in Pocket.
+For years I&amp;rsquo;ve been collecting stuff I read and find on the internet. Mostly due to my newsletter, The Curious Corner of the Internet, but also to keep a list of things to inspire me and discover again at a later stage&amp;hellip; For years I&amp;rsquo;ve been trying to empty out that list during a holiday, but I never managed to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Custom earbuds and hearing protection with photogrammetry</title>
+      <link>https://jplattel.nl/post/2021-12-28-custom-earbud-with-photogrammetry-and-sla-resin/</link>
+      <pubDate>Tue, 28 Dec 2021 21:17:40 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-12-28-custom-earbud-with-photogrammetry-and-sla-resin/</guid>
+      <description>For my client Jawsaver I was asked to develop an electronic prototype. One of the things I&amp;rsquo;d love to do when starting out such a development project is to get a sense of how much space I have to work with. And I discover a novel way for me to develop custom earbuds!
+Intro I&amp;rsquo;d like to show you the steps and walk you through how I did it! Here&amp;rsquo;s the things you&amp;rsquo;ll need:</description>
+    </item>
+    
     <item>
       <title>Personal Taxonomy (Part 2)</title>
       <link>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</link>

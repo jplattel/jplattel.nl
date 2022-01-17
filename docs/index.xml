@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 10:28:10 +0100</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 11:31:59 +0100</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keeping an unread list</title>
+      <link>https://jplattel.nl/post/2021-12-30-keeping-an-unread-list/</link>
+      <pubDate>Thu, 30 Dec 2021 11:31:59 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-12-30-keeping-an-unread-list/</guid>
+      <description>For all the things I organize, inbox zero might just be one of the biggest achievements. Frequently less then 5 emails are in my inbox and every day I work, the todo-list shrinks. But there&amp;rsquo;s one list that keeps on growing, and that&amp;rsquo;s my read it later list in Pocket.
+For years I&amp;rsquo;ve been collecting stuff I read and find on the internet. Mostly due to my newsletter, The Curious Corner of the Internet, but also to keep a list of things to inspire me and discover again at a later stage&amp;hellip; For years I&amp;rsquo;ve been trying to empty out that list during a holiday, but I never managed to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Custom earbuds and hearing protection with photogrammetry</title>
+      <link>https://jplattel.nl/post/2021-12-28-custom-earbud-with-photogrammetry-and-sla-resin/</link>
+      <pubDate>Tue, 28 Dec 2021 21:17:40 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2021-12-28-custom-earbud-with-photogrammetry-and-sla-resin/</guid>
+      <description>For my client Jawsaver I was asked to develop an electronic prototype. One of the things I&amp;rsquo;d love to do when starting out such a development project is to get a sense of how much space I have to work with. And I discover a novel way for me to develop custom earbuds!
+Intro I&amp;rsquo;d like to show you the steps and walk you through how I did it! Here&amp;rsquo;s the things you&amp;rsquo;ll need:</description>
+    </item>
+    
+    <item>
+      <title>Jawsaver</title>
+      <link>https://jplattel.nl/client/jawsaver/</link>
+      <pubDate>Sun, 26 Dec 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/jawsaver/</guid>
+      <description>Jawsaver engineers smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.
+All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.</description>
+    </item>
+    
     <item>
       <title>Personal Taxonomy (Part 2)</title>
       <link>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</link>
@@ -64,6 +94,15 @@ I haven&amp;rsquo;t seen a carpenter bring only one tool to the job, you;ll need
       <guid>https://jplattel.nl/post/2021-07-03-learning-to-write-new-keyboard-layout/</guid>
       <description>When developing the wearable keyboard, one of the biggest fears I had was about the learning-curve. Most people will ask about it once they grok the chording keyboard, but I found myself unable to answer on how hard it would be to learn..
 There&amp;rsquo;s loads of people searching on the web for the best ways to learn a new keyboard layout, most of the time swichting away from qwerty to another layout like Dvorak or Workman.</description>
+    </item>
+    
+    <item>
+      <title>Front404</title>
+      <link>https://jplattel.nl/client/front404/</link>
+      <pubDate>Wed, 30 Jun 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/front404/</guid>
+      <description>Bas van Oerle and Thomas voor &amp;rsquo;t Hekke asked me to develop a series of crystals and 3D print them for immersive theater. I&amp;rsquo;ve designed a set of 16 crystals that can be filled with LEDs for interactivity.</description>
     </item>
     
     <item>
@@ -681,7 +720,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
       
       <guid>https://jplattel.nl/wishlist/</guid>
       <description>Below is my wishlist, if there&amp;rsquo;s something I&amp;rsquo;ve done for you and you would like to give me something in return, this could serve as a list of inspiration. ✌️
-Physical stuff  A book stand. The Evening LP by Ford. A Garmin InReach Mini A Diresta Ice Pick Comics drawn by Moebius A Dremel 4300. A Makita router A benchtop power supply. (not sure which one yet!) An Rigol DS1074Z+(S+) oscilloscope.</description>
+Physical stuff  A spinthariscope. OffGrid Bag with faraday function. A ratcheting driver for the leatherman I own. Rollstoel. A book stand. The Evening LP by Ford. A Garmin InReach Mini A Diresta Ice Pick Comics drawn by Moebius   A Makita router An Rigol DS1074Z+(S+) oscilloscope.</description>
     </item>
     
     <item>

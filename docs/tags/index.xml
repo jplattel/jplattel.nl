@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 10:28:10 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3dprinting</title>
+      <link>https://jplattel.nl/tags/3dprinting/</link>
+      <pubDate>Sun, 26 Dec 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/3dprinting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arduino</title>
+      <link>https://jplattel.nl/tags/arduino/</link>
+      <pubDate>Sun, 26 Dec 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronics</title>
+      <link>https://jplattel.nl/tags/electronics/</link>
+      <pubDate>Sun, 26 Dec 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prototyping</title>
+      <link>https://jplattel.nl/tags/prototyping/</link>
+      <pubDate>Sun, 26 Dec 2021 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/prototyping/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>notes</title>
       <link>https://jplattel.nl/tags/notes/</link>
@@ -225,15 +261,6 @@
     </item>
     
     <item>
-      <title>electronics</title>
-      <link>https://jplattel.nl/tags/electronics/</link>
-      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/electronics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pcb</title>
       <link>https://jplattel.nl/tags/pcb/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
@@ -297,15 +324,6 @@
     </item>
     
     <item>
-      <title>prototyping</title>
-      <link>https://jplattel.nl/tags/prototyping/</link>
-      <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/prototyping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>keyboards</title>
       <link>https://jplattel.nl/tags/keyboards/</link>
       <pubDate>Thu, 14 Jan 2021 11:03:56 +0100</pubDate>
@@ -347,15 +365,6 @@
       <pubDate>Wed, 06 Jan 2021 15:18:14 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>arduino</title>
-      <link>https://jplattel.nl/tags/arduino/</link>
-      <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/arduino/</guid>
       <description></description>
     </item>
     
