@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<!-- TODO: gallery -->
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  <div class="content" itemprop="articleBody">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,22 @@
+{{ define "main"}}
+<section id="clients">
+    <a href="/client">
+        <h2>Professional clients</h2>
+    </a>
+
+    <p>
+        My <a href="/client">clients</a> vary from small startups to goverments and everything in between. 
+        People recommend me for my unique combination of <i>curiousity</i> and <i>applied solutions</i>.
+    </p>
+
+    <div class="client-list">
+        {{ range (where .Site.RegularPages "Section" "in" (slice "client")) }}
+        <div class="client-item">
+            <a href="{{ .Permalink }}">
+                <img class="client-image" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="{{- .Title -}} {">
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

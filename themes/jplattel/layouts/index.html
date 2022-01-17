@@ -1,0 +1,111 @@
+{{ define "main" }}
+
+  <section id="about">
+    <h1>👋 Hey there!</h1>
+    <img src="/img/joost-plattel_octagon_250px.png" alt="Joost Plattel" class="profile-image">
+    <p>
+      I’m Joost Plattel, a <strong>data-strategist</strong>. I help organizations and individuals develop and build 
+      strategies for data-related questions and opportunities. I connect API’s, work with large datasets, 
+      models or visualizations. <a href="/about">Curious about more?</a>
+    </p>
+
+    {{ if isset .Site.Params "social" }}
+      <p>Find me on
+        {{ $length := (len .Site.Params.social) }}
+        {{ range $index, $elem := .Site.Params.social}}
+        {{ if eq $elem.name "email" }}
+          <a class="icon" target="_blank" rel="noopener" href="mailto:{{ $elem.link }}">
+            <i class="fas fa-envelope"></i>
+          </a>
+          {{ else if eq $elem.name "rss" }}
+          <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}">
+            <i class="fas fa-rss"></i>
+          </a>
+          {{ else }}
+          <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}">
+            <i class="fab fa-{{ lower $elem.name }}"></i>
+          </a>
+          {{ end }}
+          {{ if (lt (add $index 2) $length) }}
+            {{- print " , " -}}
+          {{ else if (lt (add $index 1) $length) }}
+            {{- print " and " -}}
+          {{ else }}
+            {{- print "." -}}
+          {{ end }}
+        {{ end }}
+      </p>
+    {{ end }}
+  </section>
+
+  <!-- Posts -->
+  <section id="writing">
+    <a href="{{ .Site.Params.mainSection | absURL }}">
+      <h2>Latest Posts</h2>
+    </a>
+    <ul class="post-list">
+      {{ range first 10 (where .Site.RegularPages "Section" "in" (slice "post")) }}
+        <li class="post-item">
+          <div class="meta"><time datetime="{{ time .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.dateFormat }}</time></div>
+          <a href="{{ .Permalink }}">{{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <!-- Clients -->
+  <section id="clients">
+    <a href="/client">
+      <h2>Professional clients</h2>
+    </a>
+
+    <p>
+      My <a href="/client">clients</a> vary from small startups to goverments and everything in between. 
+      People recommend me for my unique combination of <i>curiousity</i> and <i>applied solutions</i>.
+    </p>
+    <div class="client-list">
+      {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "client")) }}
+        <div class="client-item">
+          <a href="{{ .Permalink }}">
+            <img class="client-image" src="img/{{.Params.image_preview}}" alt="{{- .Title -}} {">
+          </a>
+        </div>
+      {{ end }}
+    </div>
+    
+  </section>
+
+  <!-- Projects -->
+  <section id="projects">
+    <a href="/project">
+      <h2>Recent Projects</h2>
+    </a>
+    <p>
+      When I'm not working I'd like to spend my time on different <a href="/project">projects</a>. 
+      Below you will find both professional & personal projects.
+    </p>
+    <div class="project-list">
+      <div class="project-item">
+        <a href="https://webring.stavros.io">
+          <h3>Member of the Tech makers webring</h3>
+          <img class="project-image" src="img/webring.png" alt="">
+        </a>
+        <div class="webring-links">
+          <a class="webring prev" href="https://webring.stavros.io/prev">Previous</a>
+          <a class="webring rand" href="https://webring.stavros.io/random">Random</a>
+          <a class="webring next" href="https://webring.stavros.io/next">Next</a>
+        </div>
+      </div>
+      {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "project")) }}
+      <a href="{{ .Permalink }}">
+        <div class="project-item">
+          <h3>{{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}</h3>
+          <img class="project-image" src="img/{{.Params.image_preview}}" alt="">
+        </div>
+      </a>
+      {{ end }}
+    </div>
+    
+  </section>
+
+{{ end }}
