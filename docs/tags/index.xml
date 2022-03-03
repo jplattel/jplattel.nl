@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 10:28:10 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aws</title>
+      <link>https://jplattel.nl/tags/aws/</link>
+      <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynamodb</title>
+      <link>https://jplattel.nl/tags/dynamodb/</link>
+      <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/dynamodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frontend</title>
+      <link>https://jplattel.nl/tags/frontend/</link>
+      <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>serverless</title>
+      <link>https://jplattel.nl/tags/serverless/</link>
+      <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svelte</title>
+      <link>https://jplattel.nl/tags/svelte/</link>
+      <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/svelte/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>notes</title>
       <link>https://jplattel.nl/tags/notes/</link>
@@ -90,15 +135,6 @@
     </item>
     
     <item>
-      <title>frontend</title>
-      <link>https://jplattel.nl/tags/frontend/</link>
-      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/frontend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>js</title>
       <link>https://jplattel.nl/tags/js/</link>
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
@@ -113,15 +149,6 @@
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/strapi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>svelte</title>
-      <link>https://jplattel.nl/tags/svelte/</link>
-      <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/svelte/</guid>
       <description></description>
     </item>
     
@@ -432,15 +459,6 @@
     </item>
     
     <item>
-      <title>aws</title>
-      <link>https://jplattel.nl/tags/aws/</link>
-      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>azure</title>
       <link>https://jplattel.nl/tags/azure/</link>
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
@@ -455,15 +473,6 @@
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>serverless</title>
-      <link>https://jplattel.nl/tags/serverless/</link>
-      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/serverless/</guid>
       <description></description>
     </item>
     
@@ -612,6 +621,24 @@
     </item>
     
     <item>
+      <title>beer</title>
+      <link>https://jplattel.nl/tags/beer/</link>
+      <pubDate>Tue, 21 Apr 2020 17:56:24 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brewery</title>
+      <link>https://jplattel.nl/tags/brewery/</link>
+      <pubDate>Tue, 21 Apr 2020 17:56:24 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/brewery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>inventory</title>
       <link>https://jplattel.nl/tags/inventory/</link>
       <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
@@ -698,15 +725,6 @@
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/automating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>beer</title>
-      <link>https://jplattel.nl/tags/beer/</link>
-      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/beer/</guid>
       <description></description>
     </item>
     
@@ -1121,15 +1139,6 @@
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/woodworking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brewery</title>
-      <link>https://jplattel.nl/tags/brewery/</link>
-      <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brewery/</guid>
       <description></description>
     </item>
     

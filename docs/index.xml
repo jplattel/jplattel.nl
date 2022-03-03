@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 30 Dec 2021 11:31:59 +0100</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitale Fitheid</title>
+      <link>https://jplattel.nl/client/digitale-fitheid/</link>
+      <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/digitale-fitheid/</guid>
+      <description>For digital fitness (Digitale Fitheid in dutch) I&amp;rsquo;ve created a questionnaire where people can discover how well versed they are with technology and digital tools. The small test is developed in Svelte &amp;amp; run on AWS with DynamoDB / Chalice as a backend.
+Curious about the test? It&amp;rsquo;s dutch only for now, but you can find it here!</description>
+    </item>
+    
     <item>
       <title>Keeping an unread list</title>
       <link>https://jplattel.nl/post/2021-12-30-keeping-an-unread-list/</link>
@@ -321,6 +331,15 @@ All API integrations where build with Python on App Engine. For each integration
       
       <guid>https://jplattel.nl/post/2020-05-02-ant-pcb-maker/</guid>
       <description>Strange times we live in these days. Staying at home does allow me to work on projects which have been slowly progressing over time. And one of those is the Ant PCB Maker. A CoreXY based small CNC mill that can make printed circuit boards (PCBs). Contrary to the guide I&amp;rsquo;ve decided to built mine a little bigger. This should allow me to create PCBs which are up to 200x200mm without any problems.</description>
+    </item>
+    
+    <item>
+      <title>Brouwerij Nooitgedacht</title>
+      <link>https://jplattel.nl/project/brouwerij_nooitgedacht/</link>
+      <pubDate>Tue, 21 Apr 2020 17:56:24 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/brouwerij_nooitgedacht/</guid>
+      <description>Brouwerij Nooitgedacht is our brewery that I run together with friends.</description>
     </item>
     
     <item>
@@ -728,15 +747,6 @@ Physical stuff  A spinthariscope. OffGrid Bag with faraday function. A ratchetin
       
       <guid>https://jplattel.nl/project/curious_corner/</guid>
       <description>A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!</description>
-    </item>
-    
-    <item>
-      <title>Brouwerij Nooitgedacht</title>
-      <link>https://jplattel.nl/project/brouwerij_nooitgedacht/</link>
-      <pubDate>Sat, 21 Apr 2018 17:56:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/brouwerij_nooitgedacht/</guid>
-      <description>Brouwerij Nooitgedacht is our brewery that I run together with friends.</description>
     </item>
     
     <item>

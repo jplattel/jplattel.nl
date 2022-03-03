@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/beer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2020 17:56:24 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/beer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brouwerij Nooitgedacht</title>
+      <link>https://jplattel.nl/project/brouwerij_nooitgedacht/</link>
+      <pubDate>Tue, 21 Apr 2020 17:56:24 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/brouwerij_nooitgedacht/</guid>
+      <description>Brouwerij Nooitgedacht is our brewery that I run together with friends.</description>
+    </item>
+    
     <item>
       <title>Automating my brewery (Part 2)</title>
       <link>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</link>
@@ -37,15 +46,6 @@ My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified
       <guid>https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
       <description>Past week we spend a day at a brewery! We made a new batch for our brewery Nooitgedacht. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough Kratfunding, we only ship to the Netherlands currently!
 Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.</description>
-    </item>
-    
-    <item>
-      <title>Brouwerij Nooitgedacht</title>
-      <link>https://jplattel.nl/project/brouwerij_nooitgedacht/</link>
-      <pubDate>Sat, 21 Apr 2018 17:56:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/brouwerij_nooitgedacht/</guid>
-      <description>Brouwerij Nooitgedacht is our brewery that I run together with friends.</description>
     </item>
     
     <item>
