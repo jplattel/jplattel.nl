@@ -1,5 +1,5 @@
 ---
-title: "Obsidian Query Langauge plugin published"
+title: "Obsidian Query Language plugin published"
 date: 2021-01-28T12:45:18+01:00
 draft: false
 

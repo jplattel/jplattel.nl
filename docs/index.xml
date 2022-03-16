@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 04 Jan 2022 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Mar 2022 20:42:07 +0100</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes &amp; ideas on storage systems</title>
+      <link>https://jplattel.nl/post/2022-03-16-storage-systems/</link>
+      <pubDate>Wed, 16 Mar 2022 20:42:07 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2022-03-16-storage-systems/</guid>
+      <description>As most of my posts, the main reason I write them is to share some thoughts on recent things I&amp;rsquo;ve been working on. This one is also one of them, as I&amp;rsquo;ve been cleaning up, moving and mostly re-organizing my stuff.
+So it&amp;rsquo;s all about storage and that might seem a bit boring and at times it is. There&amp;rsquo;s a good reason for me to write about this as I&amp;rsquo;ve got some things that I do that might be benificial for any of you!</description>
+    </item>
+    
     <item>
       <title>Digitale Fitheid</title>
       <link>https://jplattel.nl/client/digitale-fitheid/</link>
@@ -166,7 +176,7 @@ As it turned out, I worked on way more than 3 projects, still did some work for 
     </item>
     
     <item>
-      <title>Obsidian Query Langauge plugin published</title>
+      <title>Obsidian Query Language plugin published</title>
       <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>
       <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
       
