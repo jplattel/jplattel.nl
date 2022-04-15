@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 10:28:10 +0100</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 11:15:17 +0200</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating VT-40 custom keyboard</title>
+      <link>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</link>
+      <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</guid>
+      <description>I&amp;rsquo;m no stranger to making keyboards and while I&amp;rsquo;m tinkering with creating a wearable keyboard I&amp;rsquo;ve stumbled upon many other builds of people that do interesting stuff.
+I&amp;rsquo;ve been browsing the usual reddits (r/mk, r/ErgoMechKeyboards and the likes) I stumbled upon a nice looking project that would get me into ortholinear&amp;hellip; I wanted a keyboard different enough that it&amp;rsquo;s worth building. So I ended up with the VT-40.
+My brother ordered the pcbs and components, I ordered the keycaps &amp;amp; switches since.</description>
+    </item>
+    
     <item>
       <title>Personal Taxonomy (Part 2)</title>
       <link>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</link>

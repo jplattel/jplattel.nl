@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 04 Jan 2022 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 11:15:17 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY</title>
+      <link>https://jplattel.nl/tags/diy/</link>
+      <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronics</title>
+      <link>https://jplattel.nl/tags/electronics/</link>
+      <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>making</title>
+      <link>https://jplattel.nl/tags/making/</link>
+      <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pico</title>
+      <link>https://jplattel.nl/tags/pico/</link>
+      <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/pico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry</title>
+      <link>https://jplattel.nl/tags/raspberry/</link>
+      <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/raspberry/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>aws</title>
       <link>https://jplattel.nl/tags/aws/</link>
@@ -257,15 +302,6 @@
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/ebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>electronics</title>
-      <link>https://jplattel.nl/tags/electronics/</link>
-      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/electronics/</guid>
       <description></description>
     </item>
     
@@ -747,15 +783,6 @@
     </item>
     
     <item>
-      <title>DIY</title>
-      <link>https://jplattel.nl/tags/diy/</link>
-      <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/diy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>projects</title>
       <link>https://jplattel.nl/tags/projects/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
@@ -842,15 +869,6 @@
       <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/printer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>raspberry</title>
-      <link>https://jplattel.nl/tags/raspberry/</link>
-      <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/raspberry/</guid>
       <description></description>
     </item>
     
@@ -1040,15 +1058,6 @@
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/maker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>making</title>
-      <link>https://jplattel.nl/tags/making/</link>
-      <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/making/</guid>
       <description></description>
     </item>
     

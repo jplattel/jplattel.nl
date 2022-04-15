@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jplattel.nl/</loc>
-    <lastmod>2022-03-16T20:42:07+01:00</lastmod>
+    <loc>https://jplattel.nl/categories/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/post/2022-03-16-storage-systems/</loc>
-    <lastmod>2022-03-16T20:42:07+01:00</lastmod>
+    <loc>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/diy/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/electronics/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/making/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/pico/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/raspberry/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/categories/technology/</loc>
+    <lastmod>2022-04-15T11:15:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/post/2022-03-16-storage-systems/</loc>
     <lastmod>2022-03-16T20:42:07+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/aws/</loc>
@@ -32,14 +59,8 @@
     <loc>https://jplattel.nl/tags/svelte/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
-    <lastmod>2022-01-04T23:28:49+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/post/2021-12-30-keeping-an-unread-list/</loc>
     <lastmod>2021-12-30T11:31:59+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/categories/</loc>
-    <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/notes/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
@@ -54,9 +75,6 @@
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/taxonomy/</loc>
-    <lastmod>2021-11-15T10:28:10+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/categories/technology/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</loc>
@@ -156,9 +174,6 @@
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/ebook/</loc>
-    <lastmod>2021-01-31T10:40:07+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/electronics/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2021-01-31-closing-january/</loc>
@@ -413,9 +428,6 @@
     <loc>https://jplattel.nl/tags/brewing/</loc>
     <lastmod>2019-11-21T21:55:31+01:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/tags/diy/</loc>
-    <lastmod>2019-11-21T21:55:31+01:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/tags/projects/</loc>
     <lastmod>2019-11-21T21:55:31+01:00</lastmod>
   </url><url>
@@ -456,9 +468,6 @@
     <lastmod>2019-10-21T12:36:42+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/printer/</loc>
-    <lastmod>2019-10-21T12:36:42+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/raspberry/</loc>
     <lastmod>2019-10-21T12:36:42+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2019-10-21-the-idea-machine/</loc>
@@ -549,9 +558,6 @@
     <lastmod>2018-08-27T21:25:18+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/maker/</loc>
-    <lastmod>2018-08-27T21:25:18+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/making/</loc>
     <lastmod>2018-08-27T21:25:18+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</loc>
