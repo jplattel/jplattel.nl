@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 15 Apr 2022 11:15:17 +0200</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 21:18:41 +0200</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring Mainsail With Zerotier</title>
+      <link>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
+      <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
+      <description>This blogpost mostly functions as a reminder to myself on how to configure Mainsail to use Zerotier. If you&amp;rsquo;re unfamiliar with any of the two, the first one is a operating system made for running a 3D printer and the second one allows for a network layer for personal computing, connecting devices over SD-WAN &amp;amp; VPN.
+I was running Octoprint for a while, but after a tip by David from Dato I went on to explore Mainsail.</description>
+    </item>
+    
     <item>
       <title>Creating VT-40 custom keyboard</title>
       <link>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</link>
