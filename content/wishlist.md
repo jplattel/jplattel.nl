@@ -10,7 +10,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   A [ratcheting driver](https://www.leatherman.com/ratchet-driver-931030.html) for the leatherman I own.
-*   [Rollstoel](https://www.rollstoell.nl/winkel/).
+*   [Rollstoel](https://www.buitenontbijtjes.nl/winkel/buitenstoel/).
 *   A [book stand](https://www.taschenboeken.nl/atlas-bookstand-yellow.html).
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
