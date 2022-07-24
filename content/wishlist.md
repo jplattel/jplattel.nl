@@ -11,7 +11,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   A [ratcheting driver](https://www.leatherman.com/ratchet-driver-931030.html) for the leatherman I own.
 *   [Rollstoel](https://www.buitenontbijtjes.nl/winkel/buitenstoel/).
-*   A [book stand](https://www.taschenboeken.nl/atlas-bookstand-yellow.html).
+
 *   [The Evening LP](https://www.merchbar.com/dance-electronic-edm/ford-902429/ford-the-evening-lp-vinyl) by Ford.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick)
@@ -30,6 +30,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 
 ## People already gave me
 
+*   A [book stand](https://www.taschenboeken.nl/atlas-bookstand-yellow.html) (Dankjewel [Jenna](https://www.jennapostma.nl/)!).
 *   [Iris](https://www.makerscabinet.com/collections/all-flagship-products/products/iris) by Makers Cabinet (Thanks Martijn!).
 *   [The Electric State](https://www.amazon.de/Electric-State-Simon-St%C3%A5lenhag/dp/1501181416?tag=jplattel-21) (hardcover).
 *   Forge my own axe and/or blades (Thanks Chantal! ❤️)

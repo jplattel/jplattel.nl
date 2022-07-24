@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/computer/</link>
+    <description>Recent content in computer on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sun, 24 Jul 2022 12:04:43 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Progress on wandering.computer</title>
+      <link>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
+      <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
+      <description>Slowly but surely I&amp;rsquo;m making progress on my personal project. Creating a wearable keyboard that can be used while walking has been a dream of mine for a couple of years. One of the decision I made upfront is that I makes no sense to rush this project.
+The main reason is that most of the stuff I create these days either have to be brought to market as soon as possible (by yesterday please!</description>
+    </item>
+    
+  </channel>
+</rss>
