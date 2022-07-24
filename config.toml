@@ -81,6 +81,9 @@ weight = 7
     name = "reddit"
     link = "https://www.reddit.com/user/jplattel"
   [[params.social]]
+    name = "goodreads"
+    link = "https://www.goodreads.com/user/show/4883795-joost-plattel"
+  [[params.social]]
     name = "email"
     link = "jsplattel@gmail.com"  # no need for "mailto:" in the head
   
