@@ -3,8 +3,9 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Joost Plattel"
 theme = "jplattel"
-copyright = "Joost Plattel" # cactus will use title if copyright is not set
-googleAnalytics = "UA-18951988-1"
+copyright = "Joost Plattel"
+
+googleAnalytics = "G-C2L3ECH2MV"
 
 # summaryLength = 2
 
