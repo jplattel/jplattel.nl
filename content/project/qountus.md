@@ -2,6 +2,8 @@
 title: "Qount.us"
 date: 2016-06-05T16:29:59+02:00
 draft: false
+archived: true 
+year: 2015
 
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`

@@ -1,7 +1,7 @@
 ---
 title: "Brouwerij Nooitgedacht"
 date: 2020-04-21T17:56:24+02:00
-year: ""
+year: 2022
 draft: false
 
 # Tags: can be used for filtering projects.

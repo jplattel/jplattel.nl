@@ -8,4 +8,4 @@ image_preview = "dropper.png"
 external_link = "http://www.dropper.nl"
 +++
 
-For Dropper I've implemented improvements for their _Django_ application. 
+For Dropper I've implemented improvements for their _Django_ application. Dropper was a startup that was into last-mile delivery. Optimization where mostly on the performance side of things.

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 24 Jul 2022 12:04:43 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 15:41:44 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A history and list of wearable keyboards</title>
+      <link>https://jplattel.nl/post/2022-08-02-a-brief-history-of-wearable-keyboards/</link>
+      <pubDate>Tue, 02 Aug 2022 15:41:44 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2022-08-02-a-brief-history-of-wearable-keyboards/</guid>
+      <description>While exploring the internet for inspiration and ideas around a wearable keyboard I&amp;rsquo;ve come across multiple sites, persons and ideas. It seems there&amp;rsquo;s not really a good index or overview of the history on wearable keyboards. So I thought I&amp;rsquo;d make one myself!
+This overview might not be complete, if you&amp;rsquo;re thinking I&amp;rsquo;m missing a crucial part, please contact me or open a Github issue!. Some links might have alternatives or other, but I chose to keep the main influences in this list only!</description>
+    </item>
+    
     <item>
       <title>Progress on wandering.computer</title>
       <link>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
@@ -362,7 +372,7 @@ I started of with just Word documents in folders.</description>
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/dropper/</guid>
-      <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application.</description>
+      <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application. Dropper was a startup that was into last-mile delivery. Optimization where mostly on the performance side of things.</description>
     </item>
     
     <item>
@@ -505,7 +515,7 @@ My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified
       <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
       
       <guid>https://jplattel.nl/client/wafl/</guid>
-      <description>For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte in javascript.</description>
+      <description>For Maurice van Dinther and Wafl.nu I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte. If a backend was required it was build with Chalice.</description>
     </item>
     
     <item>
@@ -1876,7 +1886,7 @@ Since reading about self-tracking I was fascinated by GPS location and geospatia
       
       <guid>https://jplattel.nl/about/</guid>
       <description>👋 Hey there! I&amp;rsquo;m Joost, and I&amp;rsquo;d like to call myself an auxiliarytechnologist.
-I assist organisations and individuals with technology. The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. I explore the fringes of new technology and keep a wide network of people to draw from different avenues.
+I facilitate organisations and individuals with technology. The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. I explore the fringes of new technology and keep a wide network of people to draw from different avenues.
 By building prototypes, tinkering and iterating publicly we can discover what may lie ahead.</description>
     </item>
     

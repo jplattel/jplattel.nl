@@ -3,7 +3,7 @@ title: "Permanent Beta"
 date: 2017-05-31T00:09:50+02:00
 draft: true
 year: 2017
-
+archived: true 
 tags: []
 # Project summary to display on homepage.
 summary: "For the Permanent Beta community I build tools that help them organize the community in a more fluid way."

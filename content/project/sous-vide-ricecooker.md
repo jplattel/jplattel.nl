@@ -3,6 +3,7 @@ title: "Sous-vide Rice Cooker"
 date: 2018-04-22T00:14:12+02:00
 draft: false
 year: 2015
+archived: true 
 
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`

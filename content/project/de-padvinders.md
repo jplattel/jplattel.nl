@@ -6,6 +6,7 @@ year: 2011
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`
 tags: []
+archived: true 
 
 # Project summary to display on homepage.
 summary: ""

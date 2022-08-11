@@ -1,7 +1,14 @@
 {{ define "main" }}
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header>
+      {{ if .Params.external_link }}
+      <a href="{{ .Params.external_link }}">
+        <img class="client-logo-single" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
+      </a>
+      {{ else }}
       <img class="client-logo-single" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
+      {{ end }}
+      
 
       <h1 itemprop="name headline">
         {{ .Title }}

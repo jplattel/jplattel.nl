@@ -2,7 +2,7 @@
 
   <section id="about">
     <h1>👋 Hey there!</h1>
-    <img src="/img/joost-plattel_octagon_250px.png" alt="Joost Plattel" class="profile-image">
+    <img src="/img/joost_plattel.png" alt="Joost Plattel" class="profile-image">
     <p>
       I’m Joost Plattel, a <strong>auxiliary technologist</strong>. I assist organisations and individuals with technology. 
       The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. 
@@ -88,25 +88,34 @@
       Below you will find both professional & personal projects.
     </p>
     <div class="project-list">
-      <div class="project-item">
-        <a href="https://webring.stavros.io">
+      <a href="https://webring.stavros.io">
+        <div class="project-item" style="width: 49%; margin-left: -2%">
           <h3>Member of the Tech makers webring</h3>
           <img class="project-image" src="img/webring.png" alt="">
-        </a>
-        <div class="webring-links">
-          <a class="webring prev" href="https://webring.stavros.io/prev">Previous</a>
-          <a class="webring rand" href="https://webring.stavros.io/random">Random</a>
-          <a class="webring next" href="https://webring.stavros.io/next">Next</a>
-        </div>
-      </div>
-      {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "project")) }}
-      <a href="{{ .Permalink }}">
-        <div class="project-item">
-          <h3>{{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}</h3>
-          <img class="project-image" src="img/{{.Params.image_preview}}" alt="">
+          <div class="webring-links">
+            <a class="webring prev" href="https://webring.stavros.io/prev">Previous</a>
+            <a class="webring rand" href="https://webring.stavros.io/random">Random</a>
+            <a class="webring next" href="https://webring.stavros.io/next">Next</a>
+          </div>
         </div>
       </a>
+
+      {{ $pages := (where .Site.RegularPages "Section" "in" (slice "project")) }}
+      {{ range $idx, $item := first 9 (sort $pages ".Params.year"  "desc") }}
+
+        <a href="{{ .Permalink }}" class="project-link">
+          <div class="project-item">
+            <h3>
+              {{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}
+              {{ if .Params.archived }}<i style="float: right; font-size: 10px">(archived)</i>{{ else }}{{ end }}
+            </h3>
+            <img class="project-image {{ if .Params.archived }}archived{{end}}" src="img/{{.Params.image_preview}}" alt="">
+          </div>
+        </a>
+        
+        
       {{ end }}
+      
     </div>
     
   </section>

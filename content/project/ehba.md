@@ -2,6 +2,8 @@
 title: "EHBA.app"
 date: 2019-08-05T00:05:13+02:00
 draft: false
+archived: true 
+year: 2019
 
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`
@@ -21,4 +23,4 @@ I'm often traveling by public transport here in the Netherlands. An OV-Chipkaart
 
 I set out to solve this with a little Svelte application to get started with this technology. The backend is running on serverless and only does the calculations.
 
-Have a look at [ehba.app](https://ehba.app)!
+This project is [archived on Github](https://github.com/jplattel/ehba) and currently not supported any more.

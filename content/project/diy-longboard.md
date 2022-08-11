@@ -3,6 +3,8 @@ title: "DIY Longboard"
 date: 2018-04-22T00:13:25+02:00
 draft: false
 year: 2017
+archived: true 
+
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`
 tags: ["making", "longboard", "groningen"]

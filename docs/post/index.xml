@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 24 Jul 2022 12:04:43 +0200</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 15:41:44 +0200</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A history and list of wearable keyboards</title>
+      <link>https://jplattel.nl/post/2022-08-02-a-brief-history-of-wearable-keyboards/</link>
+      <pubDate>Tue, 02 Aug 2022 15:41:44 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2022-08-02-a-brief-history-of-wearable-keyboards/</guid>
+      <description>While exploring the internet for inspiration and ideas around a wearable keyboard I&amp;rsquo;ve come across multiple sites, persons and ideas. It seems there&amp;rsquo;s not really a good index or overview of the history on wearable keyboards. So I thought I&amp;rsquo;d make one myself!
+This overview might not be complete, if you&amp;rsquo;re thinking I&amp;rsquo;m missing a crucial part, please contact me or open a Github issue!. Some links might have alternatives or other, but I chose to keep the main influences in this list only!</description>
+    </item>
+    
     <item>
       <title>Progress on wandering.computer</title>
       <link>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>

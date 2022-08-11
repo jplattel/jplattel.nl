@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> 👨‍💻 About </title>
-  <meta name="description" content="I’m Joost Plattel, I&#39;d like to call myself an auxiliary technologist. I assist organisations and individuals with technology and help them future strategies.">
+  <meta name="description" content="I’m Joost Plattel, I&#39;d like to call myself an auxiliary technologist. I facilitate organisations and individuals with technology and help them future strategies.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   
   <meta property="og:title" content="👨‍💻 About" />
 <meta property="og:description" content="👋 Hey there! I&rsquo;m Joost, and I&rsquo;d like to call myself an auxiliarytechnologist.
-I assist organisations and individuals with technology. The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. I explore the fringes of new technology and keep a wide network of people to draw from different avenues.
+I facilitate organisations and individuals with technology. The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. I explore the fringes of new technology and keep a wide network of people to draw from different avenues.
 By building prototypes, tinkering and iterating publicly we can discover what may lie ahead." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://jplattel.nl/about/" /><meta property="article:section" content="" />
@@ -30,6 +30,8 @@ By building prototypes, tinkering and iterating publicly we can discover what ma
   
   <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
   <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
+  <link disabled id="dark-mode-theme" rel="stylesheet" href="https://jplattel.nl/css/dark.css">
+
   
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -54,12 +56,9 @@ By building prototypes, tinkering and iterating publicly we can discover what ma
 <body class="max-width mx-auto px3 ltr">
   <div class="content index py4">
 
+    
     <header id="header">
-    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
-      <title>Joost Plattel</title>
-      <desc>Logo Joost Plattel</desc>
-      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
-    </svg>
+    
     <div id="title">
       <h1>
         <a href="https://jplattel.nl">Joost Plattel</a>
@@ -83,11 +82,14 @@ By building prototypes, tinkering and iterating publicly we can discover what ma
        
         <li><a href="/contact">Contact</a></li>
       
+      <li>
+        <i id="toggle-theme" class="fa fa-moon"></i>
+      </li>
     </ul>
   </div>
-</header>
-  
 
+</header>
+    
     
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -100,20 +102,21 @@ By building prototypes, tinkering and iterating publicly we can discover what ma
 </figure>
 
 <p>👋 Hey there! I&rsquo;m Joost, and I&rsquo;d like to call myself an <em><!-- raw HTML omitted -->auxiliary<!-- raw HTML omitted --> technologist</em>.</p>
-<p>I assist organisations and individuals with technology. The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. I explore the fringes of new technology and keep a wide network of people to draw from different avenues.</p>
+<p>I facilitate organisations and individuals with technology. The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. I explore the fringes of new technology and keep a wide network of people to draw from different avenues.</p>
 <p>By building prototypes, tinkering and iterating publicly we can discover what may lie ahead. Whether you would like physical device that measures something or an headless API that serves your customers, I&rsquo;ll be delighted to help you out!</p>
 <p>My <a href="/client">clients</a> range from individuals to startups and even the government or large organizations. People recommend my for my unique combination of curiousity with applied solutions. Wondering what else I do? Have a look at my other <a href="/project">projects</a>.</p>
 <p>In my other time I run my mostly monthly newsletter, <a href="https://curiouscorner.nl">The Curious Corner of the Internet</a> and our small brewery <a href="http://brouwerijnooitgedacht.nl/">Brouwerij Nooitgedacht</a> with friends.<!-- raw HTML omitted --></p>
 <h2 id="work-with-me">Work with me</h2>
 <p>If you (or your organization) want to explore the possiblities of working together <a href="/contact">get in touch</a> with me. People recommend me for my unique combination of curiousity and applied solutions.</p>
-<p>Most of the work I do consists of consulting and/or development. In the case of consulting, my curiousity and wide network provides me with a wide variety of solutions. W</p>
-<p>hen developing a technical solution for a client my preferred tools are <code>Python</code> / <code>Django</code> / <code>Jupyter</code> / <code>Javascript</code> / <code>Node</code> and platforms like <code>AWS</code>, <code>Serverless</code> or <code>Digital Ocean</code>. Hardware related things are mostly done on the <code>MicroPython</code> framework and mostly run on <code>ESP</code> related chips.</p>
-<p>On a sidenote, I reserve at most 2 days a week for a single client. This allows for enough cross-overs to keep things fresh and evolving.</p>
+<p>Most of the work I do consists of consulting and/or development. In the case of consulting, my curiousity and wide network provides me with a wide variety of solutions.</p>
+<p>When developing a technical solution for a client my preferred tools are <code>Python</code> / <code>Django</code> / <code>Jupyter</code> / <code>Javascript</code> / <code>Node</code> and platforms like <code>AWS</code>, <code>Serverless</code> or <code>Digital Ocean</code>. Hardware related things are mostly done on the <code>MicroPython</code> framework and mostly run on <code>ESP</code> related chips.</p>
+<p>I&rsquo;m also well known with small scall manufacturing tools like <code>FDM</code> &amp; <code>resin</code> printers as well as electronics and parametric design work in <code>Fusion360</code>. As well as basic PCB design and electronics knowledge.</p>
+<p><em>On a sidenote, I aim to work at most 2 days a week for a single client. This allows for enough cross-overs to keep things fresh and evolving. Ofcourse exceptions can be made in consultation.</em></p>
 
   </div>
 </article>
 
-
+    
     <footer id="footer">
   <div class="footer-left">
     Copyright  &copy; 2022  Joost Plattel 
@@ -138,8 +141,7 @@ By building prototypes, tinkering and iterating publicly we can discover what ma
     </nav>
   </div>
 </footer>
-
-
+    
   </div>
   
     

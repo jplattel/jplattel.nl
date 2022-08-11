@@ -2,6 +2,7 @@
 title: "Berichtenbox Forwarder"
 date: 2018-04-21T22:18:35+02:00
 year: 2017
+archived: true 
 
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`
@@ -19,4 +20,4 @@ external_link: "/post/2016-01-29-on-solving-annoying-things/"
 
 I got a bit [annoyed](/post/2016-01-29-on-solving-annoying-things/) about checking the mailbox we get from our government here in the Netherlands. Thus I wrote a little script that would do it for me and press the forward to my email button.
 
-It's open-source on [Github](https://github.com/jplattel/berichtenbox-forwarder)!
+It's open-source on [Github](https://github.com/jplattel/berichtenbox-forwarder), but not supported any more.

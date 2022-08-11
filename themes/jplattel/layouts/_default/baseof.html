@@ -4,13 +4,14 @@
 <body class="max-width mx-auto px3 ltr">
   <div class="content index py4">
 
+    
     {{ partial "header.html" . }}
-
+    
     {{ block "main" . }}
     {{ end }}
-
+    
     {{ partial "footer.html" . }}
-
+    
   </div>
   {{ if .Site.GoogleAnalytics }}
     {{ if .Site.Params.googleAnalyticsAsync }}

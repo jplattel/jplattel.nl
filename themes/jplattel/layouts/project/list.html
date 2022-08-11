@@ -3,11 +3,17 @@
   <h1>💡 Projects</h1>
 
   <div class="project-list">
-    {{ range (where .Site.RegularPages "Section" "in" (slice "project")) }}
-    <a href="{{ .Permalink }}">
+    {{ $pages := (where .Site.RegularPages "Section" "in" (slice "project")) }}
+    {{ range $idx, $item := (sort $pages ".Params.year"  "desc") }}
+
+    <a href="{{ .Permalink }}" class="project-link">
       <div class="project-item">
-        <h3>{{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}</h3>
-        <img class="project-image" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
+        <h3>
+          {{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}
+
+          {{ if .Params.archived }}<i style="float: right; font-size: 10px">(archived)</i>{{ else }}{{ end }}
+        </h3>
+        <img class="project-image {{ if .Params.archived }}archived{{end}}" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
       </div>
     </a>
     {{ end }}

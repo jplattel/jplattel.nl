@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> Organization.supply </title>
-  <meta name="description" content="I’m Joost Plattel, I&#39;d like to call myself an auxiliary technologist. I assist organisations and individuals with technology and help them future strategies.">
+  <meta name="description" content="I’m Joost Plattel, I&#39;d like to call myself an auxiliary technologist. I facilitate organisations and individuals with technology and help them future strategies.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
@@ -28,6 +28,8 @@
   
   <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
   <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
+  <link disabled id="dark-mode-theme" rel="stylesheet" href="https://jplattel.nl/css/dark.css">
+
   
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -52,12 +54,9 @@
 <body class="max-width mx-auto px3 ltr">
   <div class="content index py4">
 
+    
     <header id="header">
-    <svg style=" padding-bottom: 0px" xmlns="http://www.w3.org/2000/svg" class="octagon" width="60" height="60" id="logo" viewBox="0 0 24 24">
-      <title>Joost Plattel</title>
-      <desc>Logo Joost Plattel</desc>
-      <path fill="#383838" d="M16.142 2l5.858 5.858v8.284l-5.858 5.858h-8.284l-5.858-5.858v-8.284l5.858-5.858h8.284zm.829-2h-9.942l-7.029 7.029v9.941l7.029 7.03h9.941l7.03-7.029v-9.942l-7.029-7.029z"></path>
-    </svg>
+    
     <div id="title">
       <h1>
         <a href="https://jplattel.nl">Joost Plattel</a>
@@ -81,11 +80,14 @@
        
         <li><a href="/contact">Contact</a></li>
       
+      <li>
+        <i id="toggle-theme" class="fa fa-moon"></i>
+      </li>
     </ul>
   </div>
-</header>
-  
 
+</header>
+    
     
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header>
@@ -121,7 +123,7 @@
   
     <div class="content" itemprop="articleBody">
       <p>With our <a href="http://brouwerijnooitgedacht.nl/">brewery</a> we have to deal with inventory &amp; supplies. To solve this I had to build my own solution, thus <a href="https://organization.supply">Organization.supply</a> was born.</p>
-<p>This Django/python application solves the inventory problems for us and I&rsquo;m building integrations for ecommerce &amp; financial software!</p>
+<p>This Django/python application solves the inventory problems for us. It&rsquo;s not in active development at this moment as it suits most of our needs from the brewery.</p>
 
     </div>
   </article>
@@ -151,14 +153,13 @@
   </div>
 </footer>
 
-
   <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
   <script src="/lib/jquery/jquery.min.js"></script>
   
   
   
 
-
+    
     <footer id="footer">
   <div class="footer-left">
     Copyright  &copy; 2022  Joost Plattel 
@@ -183,8 +184,7 @@
     </nav>
   </div>
 </footer>
-
-
+    
   </div>
   
     

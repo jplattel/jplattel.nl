@@ -53,7 +53,7 @@ This solution allows for processing million lines of codes in a unsupported data
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/dropper/</guid>
-      <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application.</description>
+      <description>For Dropper I&amp;rsquo;ve implemented improvements for their Django application. Dropper was a startup that was into last-mile delivery. Optimization where mostly on the performance side of things.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@ All API integrations where build with Python on App Engine. For each integration
       <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
       
       <guid>https://jplattel.nl/client/wafl/</guid>
-      <description>For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte in javascript.</description>
+      <description>For Maurice van Dinther and Wafl.nu I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte. If a backend was required it was build with Chalice.</description>
     </item>
     
     <item>

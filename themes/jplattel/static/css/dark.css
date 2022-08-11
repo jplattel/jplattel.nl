@@ -1,0 +1,22 @@
+html {
+    background-color: #171717 !important;
+}
+body {
+    background-color: #171717 !important;
+    color: white;
+}
+#header #nav ul li a, #header #nav ul li i {
+    color: white;    
+}
+
+.content a{
+    color: #3997f4
+}
+
+.project-item{
+    background-color: #333;
+    border: #444
+}
+.project-item h3{
+    color: white;
+}

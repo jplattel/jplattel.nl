@@ -2,6 +2,7 @@
 title: "ical2roam"
 date: 2021-09-20T18:42:08+02:00
 draft: false
+year: 2021
 tags: [] # Example: `tags: ["machine-learning", "deep-learning"]`
 summary: "A small little web-application that lets you import iCal exports to Roam Research" # Used on the project card
 image_preview: "ical2roam-logo.png" # Used as thumbnail

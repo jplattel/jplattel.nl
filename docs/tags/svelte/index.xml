@@ -34,7 +34,7 @@ The entire stack of the web application is based on modern technology &amp;amp; 
       <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
       
       <guid>https://jplattel.nl/client/wafl/</guid>
-      <description>For Maurice van Dinther I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte in javascript.</description>
+      <description>For Maurice van Dinther and Wafl.nu I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with Svelte. If a backend was required it was build with Chalice.</description>
     </item>
     
     <item>
