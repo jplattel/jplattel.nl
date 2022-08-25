@@ -2,7 +2,7 @@
 title: "👨‍💻 About"
 ---
 
-{{< figure alt="Joost Plattel" src="/img/joost-plattel_octagon_250px.png" class="profile-image">}}
+{{< figure alt="Joost Plattel" src="/img/joost_plattel.png" class="profile-image">}}
 
 👋 Hey there! I'm Joost, and I'd like to call myself an _<abbr title="Extra and/or expendable">auxiliary</abbr> technologist_. 
 

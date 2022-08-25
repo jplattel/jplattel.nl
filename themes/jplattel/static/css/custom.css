@@ -47,11 +47,17 @@ img.profile-image{
     display: block;
     border-radius: 10px;
 }
+
 figure.profile-image{
+  float: right;
+  margin: 0px
+}
+figure.profile-image img{
     float: right;
-    padding-left: 25px;
-    margin: 0px;
-    width: 150px;
+    width: 145px;
+    margin-left: 20px;
+    display: block;
+    border-radius: 10px;
 }
 
 .project-list{
