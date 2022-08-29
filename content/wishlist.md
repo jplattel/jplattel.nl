@@ -5,7 +5,7 @@ date: 2018-04-21T21:17:28+02:00
 
 Below is my wishlist, if there's something I've done for you and you would like to give me something in return, this could serve as a list of inspiration. ✌️
 
-## Physical stuff
+## Physical stuff and/or activities
 
 *   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
@@ -18,15 +18,12 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
 <!-- *   A [Dremel 4300](https://www.hornbach.nl/shop/DREMEL-Multitool-4300-incl-3-hulpstukken-en-45-accessoires/6418176/artikel.html). -->
-
-## Experience
-
+*   Underwater diving lessons
 *   Play with a modular set up for a day.
-*   Underwater diving
-*   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument))
 
 ## People already gave me
 
+*   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument)) (Thanks to the [toevallige ontmoeting](https://www.detoevalligeontmoeting.be/)!)
 *   A [ratcheting driver](https://www.leatherman.com/ratchet-driver-931030.html) for the leatherman I own. (Thanks Mei & Kees!)
 *   A [book stand](https://www.taschenboeken.nl/atlas-bookstand-yellow.html) (Dankjewel [Jenna](https://www.jennapostma.nl/)!).
 *   [Iris](https://www.makerscabinet.com/collections/all-flagship-products/products/iris) by Makers Cabinet (Thanks Martijn!).
