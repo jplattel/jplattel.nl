@@ -10,6 +10,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   [Rollstoel](https://www.buitenontbijtjes.nl/winkel/buitenstoel/).
+*   [The Light Versatile Pillow](https://ostrichpillow.eu/products/light-versatile-pillow?variant=39922783158436) by Ostrich pillows
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
@@ -17,7 +18,6 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   An [Rigol DS1074Z+(S+)](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
-*   Underwater diving lessons
 *   Play with a modular set up for a day.
 <!-- *   A [Dremel 4300](https://www.hornbach.nl/shop/DREMEL-Multitool-4300-incl-3-hulpstukken-en-45-accessoires/6418176/artikel.html). -->
 
