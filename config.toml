@@ -70,6 +70,9 @@ weight = 7
     name = "twitter"
     link = "https://twitter.com/jplattel"
   [[params.social]]
+    name = "mastodon"
+    link = "https://mastodon.nl/@jplattel"
+  [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/joostplattel"
   [[params.social]]
