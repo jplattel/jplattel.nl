@@ -12,12 +12,11 @@
   <meta property="og:title" content="GeoTracking: streaming GPS locations" />
 <meta property="og:description" content="I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.
 Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.
-  I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone." />
+I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2010-08-31T21:30:52+02:00" />
 <meta property="article:modified_time" content="2010-08-31T21:30:52+02:00" />
-
 
   <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/">
   
@@ -142,85 +141,85 @@ Since reading about self-tracking I was fascinated by GPS location and geospatia
 <p>After learning the basics of python and starting with Google App Engine I developed an app that aggregates my location from the Instamapper API to Google App Engine(GAE) and stores it in the datastore. GAE will then generate an image of my location (with some delay). The reason i chose for GAE is the portability of the data generated, so i can move between services without losing older data and having the ability to manipulate it.</p>
 <p><em>At the moment I’m figuring out how to work with cron-jobs to poll for the location automatically and make the application more robust(with raising errors etc).</em></p>
 <p>I want to share my (crappy) coding work so you can have an idea how it works. It is not advisable to use this code and I am still figuring out Git(to share) so bear with me… if this does not work for you…</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> cgi
-<span style="color:#f92672">import</span> datetime
-<span style="color:#f92672">import</span> os
-<span style="color:#f92672">import</span> urllib
-
-<span style="color:#f92672">from</span> django.utils <span style="color:#f92672">import</span> simplejson
-<span style="color:#f92672">from</span> google.appengine.api <span style="color:#f92672">import</span> users
-<span style="color:#f92672">from</span> google.appengine.ext.webapp <span style="color:#f92672">import</span> template
-<span style="color:#f92672">from</span> google.appengine.ext <span style="color:#f92672">import</span> webapp
-<span style="color:#f92672">from</span> google.appengine.ext.webapp.util <span style="color:#f92672">import</span> run_wsgi_app
-<span style="color:#f92672">from</span> google.appengine.api <span style="color:#f92672">import</span> urlfetch
-<span style="color:#f92672">from</span> google.appengine.ext <span style="color:#f92672">import</span> db
-
-<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">FrontPage</span>(webapp<span style="color:#f92672">.</span>RequestHandler):
-    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get</span>(self):
-        user <span style="color:#f92672">=</span> users<span style="color:#f92672">.</span>get_current_user()
-        self<span style="color:#f92672">.</span>redirect(users<span style="color:#f92672">.</span>create_login_url(<span style="color:#e6db74">&#39;/map/&#39;</span>))
-
-<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">GeoLocation</span>(db<span style="color:#f92672">.</span>Model):
-    longitude <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    latitude <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    timestamp <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    device_key <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    device_label <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    altitude <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    speed <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    heading <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
-    date <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>DateTimeProperty(auto_now_add<span style="color:#f92672">=</span><span style="color:#66d9ef">True</span>)
-
-<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Fetch</span>(webapp<span style="color:#f92672">.</span>RequestHandler):
-    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get</span>(self):
-        message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;...&#39;</span>
-        url <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;http://www.instamapper.com/api?action=getPositions&amp;key=###ENTER YOUR DEVICE_KEY HERE###&amp;num=10&amp;format=json&#39;</span>
-        d <span style="color:#f92672">=</span> urlfetch<span style="color:#f92672">.</span>fetch(url)
-        <span style="color:#66d9ef">if</span> d<span style="color:#f92672">.</span>status_code <span style="color:#f92672">==</span> <span style="color:#ae81ff">200</span>:
-            locations <span style="color:#f92672">=</span> dict(simplejson<span style="color:#f92672">.</span>loads(d<span style="color:#f92672">.</span>content))
-            locations <span style="color:#f92672">=</span> locations[<span style="color:#e6db74">&#39;positions&#39;</span>]
-            <span style="color:#66d9ef">for</span> location <span style="color:#f92672">in</span> locations:
-                location <span style="color:#f92672">=</span> dict(location)
-
-                geo_location <span style="color:#f92672">=</span> GeoLocation()
-                geo_location<span style="color:#f92672">.</span>longitude <span style="color:#f92672">=</span> str(float(location[<span style="color:#e6db74">&#39;longitude&#39;</span>]))
-                geo_location<span style="color:#f92672">.</span>latitude <span style="color:#f92672">=</span> str(float(location[<span style="color:#e6db74">&#39;latitude&#39;</span>]))
-                geo_location<span style="color:#f92672">.</span>timestamp <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;timestamp&#39;</span>])
-                geo_location<span style="color:#f92672">.</span>device_key <span style="color:#f92672">=</span> location[<span style="color:#e6db74">&#39;device_key&#39;</span>]
-                geo_location<span style="color:#f92672">.</span>device_label <span style="color:#f92672">=</span> location[<span style="color:#e6db74">&#39;device_label&#39;</span>]
-                geo_location<span style="color:#f92672">.</span>altitude <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;altitude&#39;</span>])
-                geo_location<span style="color:#f92672">.</span>speed <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;speed&#39;</span>])
-                geo_location<span style="color:#f92672">.</span>heading <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;heading&#39;</span>])
-                geo_location<span style="color:#f92672">.</span>put()
-
-            message <span style="color:#f92672">=</span> locations
-        <span style="color:#66d9ef">else</span>: 
-            message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Something went wrong&#39;</span>
-        self<span style="color:#f92672">.</span>response<span style="color:#f92672">.</span>out<span style="color:#f92672">.</span>write(message)   
-
-<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Map</span>(webapp<span style="color:#f92672">.</span>RequestHandler):
-    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get</span>(self):
-        message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Not working yet&#39;</span>
-        d <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>GqlQuery(<span style="color:#e6db74">&#39;SELECT * FROM GeoLocation ORDER BY date DESC&#39;</span>) 
-        d <span style="color:#f92672">=</span> d<span style="color:#f92672">.</span>get()
-        <span style="color:#66d9ef">if</span> d:
-            message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;![](/img/staticmap?zoom=14&amp;size=512x512&amp;maptype=roadmap&amp;markers=color:blue|label:S|&#39;</span> <span style="color:#f92672">+</span> d<span style="color:#f92672">.</span>latitude <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;,&#39;</span> <span style="color:#f92672">+</span> d<span style="color:#f92672">.</span>longitude <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;&amp;sensor=false)&#39;</span>
-        self<span style="color:#f92672">.</span>response<span style="color:#f92672">.</span>out<span style="color:#f92672">.</span>write(message) 
-
-application <span style="color:#f92672">=</span> webapp<span style="color:#f92672">.</span>WSGIApplication(
-                                     [(<span style="color:#e6db74">&#39;/&#39;</span>, FrontPage),
-                                      (<span style="color:#e6db74">&#39;/map/&#39;</span>, Map),
-                                      (<span style="color:#e6db74">&#39;/map/fetch/&#39;</span>, Fetch),
-
-                                      ],
-                                     debug<span style="color:#f92672">=</span><span style="color:#66d9ef">True</span>)
-
-<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
-    run_wsgi_app(application)
-
-<span style="color:#66d9ef">if</span> __name__ <span style="color:#f92672">==</span> <span style="color:#e6db74">&#34;__main__&#34;</span>:
-    main()
-</code></pre></div><p>When i got the cronjobs figured out i can let Instamapper run on my jailbroken iPhone 4 during the day as this does not lower battery life significantly. At the moment of typing I&rsquo;ve tracked 2 days worth of points every 2 minutes.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">import</span> cgi
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> datetime
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> os
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> urllib
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> django.utils <span style="color:#f92672">import</span> simplejson
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> google.appengine.api <span style="color:#f92672">import</span> users
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> google.appengine.ext.webapp <span style="color:#f92672">import</span> template
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> google.appengine.ext <span style="color:#f92672">import</span> webapp
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> google.appengine.ext.webapp.util <span style="color:#f92672">import</span> run_wsgi_app
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> google.appengine.api <span style="color:#f92672">import</span> urlfetch
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> google.appengine.ext <span style="color:#f92672">import</span> db
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">FrontPage</span>(webapp<span style="color:#f92672">.</span>RequestHandler):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get</span>(self):
+</span></span><span style="display:flex;"><span>        user <span style="color:#f92672">=</span> users<span style="color:#f92672">.</span>get_current_user()
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>redirect(users<span style="color:#f92672">.</span>create_login_url(<span style="color:#e6db74">&#39;/map/&#39;</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">GeoLocation</span>(db<span style="color:#f92672">.</span>Model):
+</span></span><span style="display:flex;"><span>    longitude <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    latitude <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    timestamp <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    device_key <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    device_label <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    altitude <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    speed <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    heading <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>StringProperty()
+</span></span><span style="display:flex;"><span>    date <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>DateTimeProperty(auto_now_add<span style="color:#f92672">=</span><span style="color:#66d9ef">True</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Fetch</span>(webapp<span style="color:#f92672">.</span>RequestHandler):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get</span>(self):
+</span></span><span style="display:flex;"><span>        message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;...&#39;</span>
+</span></span><span style="display:flex;"><span>        url <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;http://www.instamapper.com/api?action=getPositions&amp;key=###ENTER YOUR DEVICE_KEY HERE###&amp;num=10&amp;format=json&#39;</span>
+</span></span><span style="display:flex;"><span>        d <span style="color:#f92672">=</span> urlfetch<span style="color:#f92672">.</span>fetch(url)
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> d<span style="color:#f92672">.</span>status_code <span style="color:#f92672">==</span> <span style="color:#ae81ff">200</span>:
+</span></span><span style="display:flex;"><span>            locations <span style="color:#f92672">=</span> dict(simplejson<span style="color:#f92672">.</span>loads(d<span style="color:#f92672">.</span>content))
+</span></span><span style="display:flex;"><span>            locations <span style="color:#f92672">=</span> locations[<span style="color:#e6db74">&#39;positions&#39;</span>]
+</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">for</span> location <span style="color:#f92672">in</span> locations:
+</span></span><span style="display:flex;"><span>                location <span style="color:#f92672">=</span> dict(location)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>                geo_location <span style="color:#f92672">=</span> GeoLocation()
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>longitude <span style="color:#f92672">=</span> str(float(location[<span style="color:#e6db74">&#39;longitude&#39;</span>]))
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>latitude <span style="color:#f92672">=</span> str(float(location[<span style="color:#e6db74">&#39;latitude&#39;</span>]))
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>timestamp <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;timestamp&#39;</span>])
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>device_key <span style="color:#f92672">=</span> location[<span style="color:#e6db74">&#39;device_key&#39;</span>]
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>device_label <span style="color:#f92672">=</span> location[<span style="color:#e6db74">&#39;device_label&#39;</span>]
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>altitude <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;altitude&#39;</span>])
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>speed <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;speed&#39;</span>])
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>heading <span style="color:#f92672">=</span> str(location[<span style="color:#e6db74">&#39;heading&#39;</span>])
+</span></span><span style="display:flex;"><span>                geo_location<span style="color:#f92672">.</span>put()
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>            message <span style="color:#f92672">=</span> locations
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">else</span>: 
+</span></span><span style="display:flex;"><span>            message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Something went wrong&#39;</span>
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>response<span style="color:#f92672">.</span>out<span style="color:#f92672">.</span>write(message)   
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Map</span>(webapp<span style="color:#f92672">.</span>RequestHandler):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get</span>(self):
+</span></span><span style="display:flex;"><span>        message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Not working yet&#39;</span>
+</span></span><span style="display:flex;"><span>        d <span style="color:#f92672">=</span> db<span style="color:#f92672">.</span>GqlQuery(<span style="color:#e6db74">&#39;SELECT * FROM GeoLocation ORDER BY date DESC&#39;</span>) 
+</span></span><span style="display:flex;"><span>        d <span style="color:#f92672">=</span> d<span style="color:#f92672">.</span>get()
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> d:
+</span></span><span style="display:flex;"><span>            message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;![](/img/staticmap?zoom=14&amp;size=512x512&amp;maptype=roadmap&amp;markers=color:blue|label:S|&#39;</span> <span style="color:#f92672">+</span> d<span style="color:#f92672">.</span>latitude <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;,&#39;</span> <span style="color:#f92672">+</span> d<span style="color:#f92672">.</span>longitude <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;&amp;sensor=false)&#39;</span>
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>response<span style="color:#f92672">.</span>out<span style="color:#f92672">.</span>write(message) 
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>application <span style="color:#f92672">=</span> webapp<span style="color:#f92672">.</span>WSGIApplication(
+</span></span><span style="display:flex;"><span>                                     [(<span style="color:#e6db74">&#39;/&#39;</span>, FrontPage),
+</span></span><span style="display:flex;"><span>                                      (<span style="color:#e6db74">&#39;/map/&#39;</span>, Map),
+</span></span><span style="display:flex;"><span>                                      (<span style="color:#e6db74">&#39;/map/fetch/&#39;</span>, Fetch),
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>                                      ],
+</span></span><span style="display:flex;"><span>                                     debug<span style="color:#f92672">=</span><span style="color:#66d9ef">True</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
+</span></span><span style="display:flex;"><span>    run_wsgi_app(application)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> __name__ <span style="color:#f92672">==</span> <span style="color:#e6db74">&#34;__main__&#34;</span>:
+</span></span><span style="display:flex;"><span>    main()
+</span></span></code></pre></div><p>When i got the cronjobs figured out i can let Instamapper run on my jailbroken iPhone 4 during the day as this does not lower battery life significantly. At the moment of typing I&rsquo;ve tracked 2 days worth of points every 2 minutes.</p>
 
     </div>
   </article>

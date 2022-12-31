@@ -17,7 +17,6 @@ Since a few months Obsidian now allows users to write plugins in Typescript. Whi
 <meta property="article:published_time" content="2021-01-28T12:45:18+01:00" />
 <meta property="article:modified_time" content="2021-01-28T12:45:18+01:00" />
 
-
   <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/">
   
   
@@ -141,14 +140,14 @@ Since a few months Obsidian now allows users to write plugins in Typescript. Whi
 <p>Since a few months Obsidian now allows users to write plugins in Typescript. While I&rsquo;m not that versed in the <em>Typescript/Javascript</em> verse I did manage to write my first plugin! (well, technically not the first, but the only one published!)</p>
 <p>You can download the plugin through the community plugins in Obsidian or install it manually <a href="https://github.com/jplattel/obsidian-query-language">from Github</a>.</p>
 <p>The plugin allows you to create query blocks and use the Obsidian vault as a data-source, gathering knowledge about your notes. For example, this is the query I build to list the last 5 daily notes in Obsidian:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#ae81ff">```oql</span>
-<span style="color:#f92672">name</span>: <span style="color:#ae81ff">Last 5 created daily notes</span>
-<span style="color:#f92672">query</span>: <span style="color:#e6db74">&#34;&#39;100 Daily/&#34;</span>
-<span style="color:#f92672">template</span>: <span style="color:#e6db74">&#34;list&#34;</span>
-<span style="color:#f92672">sort</span>: <span style="color:#e6db74">&#34;created&#34;</span>
-<span style="color:#f92672">limit</span>: <span style="color:#ae81ff">5</span>
-<span style="color:#ae81ff">```</span>
-</code></pre></div><p>While developing this plugin I actually got thinking more about storing queries itself within the data. Normal database&rsquo;s don&rsquo;t really allow you store queries within the data itself. Sure, it&rsquo;s possible to store queries and re-use them. But that&rsquo;s  the same as embedded within the data itself.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#ae81ff">```oql</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">name</span>: <span style="color:#ae81ff">Last 5 created daily notes</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">query</span>: <span style="color:#e6db74">&#34;&#39;100 Daily/&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">template</span>: <span style="color:#e6db74">&#34;list&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">sort</span>: <span style="color:#e6db74">&#34;created&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">limit</span>: <span style="color:#ae81ff">5</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">```</span>
+</span></span></code></pre></div><p>While developing this plugin I actually got thinking more about storing queries itself within the data. Normal database&rsquo;s don&rsquo;t really allow you store queries within the data itself. Sure, it&rsquo;s possible to store queries and re-use them. But that&rsquo;s  the same as embedded within the data itself.</p>
 <p>This pattern is interesting as the query context is often relevent for the output, and storing the query within the data results in having both in the same place, allowing you to connect the dots quicker!</p>
 <blockquote>
 <p>Storing queries within the data itself joins the query within the context, allowing users to <a href="https://www.wikiwand.com/en/Grok">grok</a> the note quicker!</p>

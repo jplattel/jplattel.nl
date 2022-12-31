@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 02 Aug 2022 15:41:44 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 18:45:19 +0100</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Workflows for Calibre</title>
+      <link>https://jplattel.nl/post/2022-12-18-reading-workflows-calibre/</link>
+      <pubDate>Sun, 18 Dec 2022 18:45:19 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2022-12-18-reading-workflows-calibre/</guid>
+      <description>I&amp;rsquo;ve been reading books on my Kindle for a years and I&amp;rsquo;ve never really had a pretty workflow for it, all the books just simply end up in Calibre and I manually sync my library with the device itself. Lately I&amp;rsquo;ve spend some time automating the process a bit and I wanted to share that with you! I&amp;rsquo;ve been using plugins that solve things for me:
+Goodreads Sync Once you mark a book as read on Goodreads the &amp;lsquo;Date Read&amp;rsquo; column is automatically updated with todays date.</description>
+    </item>
+    
     <item>
       <title>A history and list of wearable keyboards</title>
       <link>https://jplattel.nl/post/2022-08-02-a-brief-history-of-wearable-keyboards/</link>
@@ -45,7 +55,7 @@ I was running Octoprint for a while, but after a tip by David from Dato I went o
       
       <guid>https://jplattel.nl/post/2022-04-20-836pm-2021/</guid>
       <description>Long overdue, and it&amp;rsquo;s missing more photos then I&amp;rsquo;d like, here&amp;rsquo;s the 8:36pm video of 2021! Thanks to Quinten Swagerman with helping out making it into a video! (Switching to a new mac broke the old After Effects I was still using&amp;hellip;)
-  Onto another year!</description>
+Onto another year!</description>
     </item>
     
     <item>
@@ -419,7 +429,7 @@ All API integrations where build with Python on App Engine. For each integration
       
       <guid>https://jplattel.nl/post/2020-03-05-custom-camera-mount-prusa-mini/</guid>
       <description>Since a month I own a small 3D printer: the Prusa Mini. I&amp;rsquo;ve printed almost half my current spool of filament and I can say I love the way the Prusa Mini works for me. Once of the upgrades I have done is move towards Octoprint for my workflow, this allows me to connect everything together from my own computer. Here&amp;rsquo;s how it works:
- I design a component or body with Fusion 360, and in the &amp;lsquo;Make&amp;rsquo; menu option I choose to pass the file to the Prusa Slicer application In Prusa Slicer I configure any supports required or tweak any print settings.</description>
+I design a component or body with Fusion 360, and in the &amp;lsquo;Make&amp;rsquo; menu option I choose to pass the file to the Prusa Slicer application In Prusa Slicer I configure any supports required or tweak any print settings.</description>
     </item>
     
     <item>
@@ -439,7 +449,7 @@ When I made the switch towards micropython I saw no such thing existed. But havi
       
       <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
       <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
- iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens   Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
+iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins: Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens Virtualenv (with virtualenvwrapper) All environments are saved in the ~/.</description>
     </item>
     
     <item>
@@ -478,7 +488,7 @@ Keeping a habit for 10 years makes it a bit extraordinairy and I can say I will 
       <guid>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</guid>
       <description>In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:
 The enclosure contains the following things:
- Backside:  230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input   Frontside:  Traffic-light interface: lights to indicate what is on.</description>
+Backside: 230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input Frontside: Traffic-light interface: lights to indicate what is on.</description>
     </item>
     
     <item>
@@ -563,7 +573,7 @@ This question has been popping in and out of my mind ever since and more recentl
       
       <guid>https://jplattel.nl/post/2019-01-06-836pm-2018/</guid>
       <description>As we close out 2018 and start out the new year fresh, the one thing left to do is make a video of all the 8:36pm photos that I took that year. And when uploading this video I checked out when I started, which is 2010. Thus this marks the 10th year that I&amp;rsquo;m doing this&amp;hellip; Here&amp;rsquo;s the video:
-  Phew, racking in around 3000 photos so far&amp;hellip; For all I can say is that I will probably be going somewhere with this.</description>
+Phew, racking in around 3000 photos so far&amp;hellip; For all I can say is that I will probably be going somewhere with this.</description>
     </item>
     
     <item>
@@ -601,7 +611,7 @@ Anyhow, one of the ideas I wanted to work out was the action of turning on an al
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
       
       <guid>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
-      <description>I bougth a 3D printertogether with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
+      <description>I bougth a 3D printer together with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
 As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like Fusion360.</description>
     </item>
     
@@ -725,7 +735,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
       
       <guid>https://jplattel.nl/project/de-padvinders/</guid>
       <description>My first real project that got a bit out of hand and developed in a business while I was a student. Together with 4 other friends I helped people with working smarter on their computer, basically doing as Seth Godin said:
- Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &amp;lsquo;tell me five ways I can save an hour a day.</description>
+Go find a geek. Someone who understands Gmail, Outlook, and other basic tools. Pay him to sit next to you for an hour and watch you work. Then say, &amp;rsquo;tell me five ways I can save an hour a day.</description>
     </item>
     
     <item>
@@ -780,7 +790,7 @@ Our plan is to use Kratfunding in a way to organise enough money to be self-suff
       
       <guid>https://jplattel.nl/wishlist/</guid>
       <description>Below is my wishlist, if there&amp;rsquo;s something I&amp;rsquo;ve done for you and you would like to give me something in return, this could serve as a list of inspiration. ✌️
-Physical stuff and/or activities  A spinthariscope. OffGrid Bag with faraday function. Rollstoel. The Light Versatile Pillow by Ostrich pillows A Garmin InReach Mini A Diresta Ice Pick Comics drawn by Moebius A Makita router An Rigol DS1074Z+(S+) oscilloscope. A set of 123 Blocks A Go set.</description>
+Physical stuff and/or activities A spinthariscope. OffGrid Bag with faraday function. Rollstoel. The Light Versatile Pillow by Ostrich pillows A Garmin InReach Mini A Diresta Ice Pick Comics drawn by Moebius A Makita router An Rigol DS1074Z+(S+) oscilloscope. A set of 123 Blocks A Go set.</description>
     </item>
     
     <item>
@@ -816,8 +826,7 @@ Physical stuff and/or activities  A spinthariscope. OffGrid Bag with faraday fun
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</guid>
-      <description>Last year before I went on holiday to Portugal I had the opportunity to give a talk at the Quantified Self 2017 Conference in Amsterdam. I decided just the night before to talk about how much I use my phone (or better how much I shouldn&amp;rsquo;t use it!). The wonderful folks over at QS Labs created a page with all the videos with transcripts. I&amp;rsquo;ve embedded my video below:
-  </description>
+      <description>Last year before I went on holiday to Portugal I had the opportunity to give a talk at the Quantified Self 2017 Conference in Amsterdam. I decided just the night before to talk about how much I use my phone (or better how much I shouldn&amp;rsquo;t use it!). The wonderful folks over at QS Labs created a page with all the videos with transcripts. I&amp;rsquo;ve embedded my video below:</description>
     </item>
     
     <item>
@@ -837,7 +846,7 @@ I wanted to track how many bubbles we&amp;rsquo;re sent past the airlock and als
       
       <guid>https://jplattel.nl/post/2018-01-03-836pm-2017/</guid>
       <description>As I&amp;rsquo;ve been doing for the past 7 years now, I made a movie out of all the 8:36pm pictures I took this year. It&amp;rsquo;s embedded below from Vimeo:
-  If you can spot yourself, thanks for being part of my life this year! It&amp;rsquo;s been great fun and I&amp;rsquo;ll take some time to update some of the projects I&amp;rsquo;ve worked on as well.</description>
+If you can spot yourself, thanks for being part of my life this year! It&amp;rsquo;s been great fun and I&amp;rsquo;ll take some time to update some of the projects I&amp;rsquo;ve worked on as well.</description>
     </item>
     
     <item>
@@ -877,7 +886,7 @@ And with some tinkering to get Prophet to play nice with my containers and Jupyt
       <guid>https://jplattel.nl/post/2017-01-02-836pm-2016/</guid>
       <description>Happy new year! Hope you had a blast the past few weeks! I surely did :)
 As a tradition when a new year starts, I had to make a movie of all my 8:36pm photos of past year. And this time its easier as every, since I saved the After Effects project template of last year. Here&amp;rsquo;s the video:
-  Why shoot a picture everyday you might ask? Here&amp;rsquo;s the answer!</description>
+Why shoot a picture everyday you might ask? Here&amp;rsquo;s the answer! And in case you want to get all your photos of Mobypicture as well, here&amp;rsquo;s the gist:</description>
     </item>
     
     <item>
@@ -915,7 +924,6 @@ Florence is an amazing city, especially when you can watch the sun set over the 
       
       <guid>https://jplattel.nl/post/2016-07-25-double-bike-london/</guid>
       <description>On sunday the 10th of June I left my parents place on a double-bike. Together with a friend we cycled to Zwolle, took a train and prepared ourselves in the evening for a trip to London. As we took the boat to Harwich the next day I didn&amp;rsquo;t know what to expect as I hadn&amp;rsquo;t visited England before.
-
 As we talked with locals it turns out it&amp;rsquo;s much more enjoyable if you take the small hilly roads towards your destination.</description>
     </item>
     
@@ -953,7 +961,7 @@ As we talked with locals it turns out it&amp;rsquo;s much more enjoyable if you 
       
       <guid>https://jplattel.nl/post/2016-03-08-making-waves/</guid>
       <description>So far today has been enjoyable, until around noon when someone texted me with a url pointing to nu.nl, showing an article about the Data Protection Authority telling me it is forbidden for employers to use wearables to track their employees (also on tweakers.net). The research the article points to is actually two companies that run my dashboards. Before I get into details, let me state the following:
- The privacy of an employee is of utmost importance!</description>
+The privacy of an employee is of utmost importance!</description>
     </item>
     
     <item>
@@ -973,7 +981,7 @@ As we are faced with interesting problems about privacy and ethics, would the wa
       
       <guid>https://jplattel.nl/post/2016-02-16-musings-on-transparency/</guid>
       <description>I&amp;rsquo;ve been thinking about and exploring transparency a lot lately. As I&amp;rsquo;m building dashboards for employees, transparency is one of the key factors of integration within the workforce. But there are some funny things about transparency and this is why most companies and organisations are having difficulty adopting a transparant way of working.
- Ownership is spread when sharing processes, this lessens your level of power, but this world is not just about ownership any more, access is what it is all about.</description>
+Ownership is spread when sharing processes, this lessens your level of power, but this world is not just about ownership any more, access is what it is all about.</description>
     </item>
     
     <item>
@@ -1070,9 +1078,7 @@ The recipe we decided on included star-anise and lemongrass. Sadly the coriander
       
       <guid>https://jplattel.nl/post/2015-05-14-lago-di-garda/</guid>
       <description>I&amp;rsquo;ve been on a little holiday!
-
 The destination was Moniga del Garda, Italy. And I&amp;rsquo;ve shot some great panorama&amp;rsquo;s that I wanted to share with you:
-  
 This summer I&amp;rsquo;m visiting Sri Lanka and I bought a little pocket camera to help me with some better pictures. I chose the S120, because of Neistat.</description>
     </item>
     
@@ -1084,8 +1090,7 @@ This summer I&amp;rsquo;m visiting Sri Lanka and I bought a little pocket camera
       <guid>https://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/</guid>
       <description>In the past few months I&amp;rsquo;ve been building more and more dashboards for clients. The idea of collecting personal data however always raises questions about privacy. To solve this, I&amp;rsquo;ve been developing a way to implement gradual privacy.
 Gradual privacy is a way to let the end-user decide who can see what data. The best way to explain, is just to show it:
-
-The columns are the kind of data.</description>
+The columns are the kind of data. And the rows are the parties you could share with.</description>
     </item>
     
     <item>
@@ -1105,7 +1110,7 @@ During the Big Improvement Day we showcased our concept and I&amp;rsquo;ve creat
       
       <guid>https://jplattel.nl/post/2015-01-06-836pm-2014-video/</guid>
       <description>This is my fourth year that I&amp;rsquo;m taking pictures everyday at 8:36pm. A little something that I plan to keep on doing for my entire life. Every year I make a small movie off all the pictures! Have a look:
-  Highlights of this year including a holiday across the netherlands, moving to a new home and Italy! Hope 2015 will be as great as last year!</description>
+Highlights of this year including a holiday across the netherlands, moving to a new home and Italy! Hope 2015 will be as great as last year!</description>
     </item>
     
     <item>
@@ -1156,7 +1161,7 @@ There&amp;rsquo;s a trove of other data in too.</description>
       
       <guid>https://jplattel.nl/post/2014-09-16-lessons-learned-building-django-projects-2/</guid>
       <description>As of recently I&amp;rsquo;ve started my graduation phase of my current study. I&amp;rsquo;ve managed to get my own project in for my graduation thesis, which means I&amp;rsquo;ll be spending more time developing with Django. This post is more of a reminder of the things I&amp;rsquo;ve learned so far&amp;hellip; The previous post can be read here.
- The inspectdb tool is priceless when using other databases in which you have no schema&amp;rsquo;s yet!</description>
+The inspectdb tool is priceless when using other databases in which you have no schema&amp;rsquo;s yet!</description>
     </item>
     
     <item>
@@ -1235,7 +1240,7 @@ I made a scan of the page and it&amp;rsquo;s available on Scribd. And together w
       
       <guid>https://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</guid>
       <description>I&amp;rsquo;ve been using Django as my go-to framework for the past few months. So far I&amp;rsquo;ve enjoyed the ride, but have learned some things that I&amp;rsquo;d like to share with you:
- During project setup, create a virtual environment for yourself to work in. Use the &amp;lsquo;pip freeze&amp;rsquo; for creating a requirements.txt that helps you manage dependencies. Don&amp;rsquo;t use any paths within the views. Instead, use the reverse function for looking up routes that correspond to the url.</description>
+During project setup, create a virtual environment for yourself to work in. Use the &amp;lsquo;pip freeze&amp;rsquo; for creating a requirements.txt that helps you manage dependencies. Don&amp;rsquo;t use any paths within the views. Instead, use the reverse function for looking up routes that correspond to the url.</description>
     </item>
     
     <item>
@@ -1255,7 +1260,7 @@ Further steps could be exploring what a group wants from visualisations like thi
       
       <guid>https://jplattel.nl/post/2014-01-20-836pm-photos-2013/</guid>
       <description>Like last year, I made a small video of all my 8:36pm photos. With a bit of help from my brother, I managed to get everything into after effects and put it together. Let the nostalgia commence:
-  Looking back in a glance, the things I notice are: less computer work, more socializing and the increment in the amount of beverages and food photos. Next to that, I failed keeping up this year and missed a lot of photos.</description>
+Looking back in a glance, the things I notice are: less computer work, more socializing and the increment in the amount of beverages and food photos. Next to that, I failed keeping up this year and missed a lot of photos.</description>
     </item>
     
     <item>
@@ -1383,7 +1388,7 @@ As with the fitbit, I&amp;rsquo;ve written a open-source library for you to use!
       
       <guid>https://jplattel.nl/post/2013-07-04-late-night-tektok-talking-qs-and-education/</guid>
       <description>Last month a give a small talk around the Quantified Self and how it fits into the education:
-  What amazed me was that the room was full of inspiring people designing stuff for the &amp;lsquo;now&amp;rsquo;, thus implementing it only when the future is already happening. Nevertheless I&amp;rsquo;m sure some good things will follow because people are aware and the connectedness helps solving these things.</description>
+What amazed me was that the room was full of inspiring people designing stuff for the &amp;rsquo;now&amp;rsquo;, thus implementing it only when the future is already happening. Nevertheless I&amp;rsquo;m sure some good things will follow because people are aware and the connectedness helps solving these things.</description>
     </item>
     
     <item>
@@ -1414,7 +1419,7 @@ The atmosphere of the group was really great and we had almost 300 people at the
       <guid>https://jplattel.nl/post/2013-05-07-small-news/</guid>
       <description>Just two quick bits of newsworthy stuff I wanted to share with you since I got back from Italy (which was really wonderful!):
 I gave a small interview about big-data for the dutch television programme Bedrijf in Beeld. Quite happy with the result:
-  Also, we reached the local dutch newspaper De Spits. The Quantified Self was mentioned by the Rode Kater, a famous little comic:</description>
+Also, we reached the local dutch newspaper De Spits. The Quantified Self was mentioned by the Rode Kater, a famous little comic:</description>
     </item>
     
     <item>
@@ -1474,7 +1479,7 @@ I&amp;rsquo;m very happy with the end result! As tracking becomes more ubiquito
       
       <guid>https://jplattel.nl/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/</guid>
       <description>On the 7th of February I gave my first Pecha Kucha talk. Together with Jan-Henk Bouman we introduced the crowd (around 100 people) into the world of QS. With a geek to non-geek dialogue we kept our pace trough our 6:40 of fame. The video is below (in dutch):
-  Watch the Permanent Beta meetup group for upcoming events about The Quantified Self!</description>
+Watch the Permanent Beta meetup group for upcoming events about The Quantified Self!</description>
     </item>
     
     <item>
@@ -1484,7 +1489,7 @@ I&amp;rsquo;m very happy with the end result! As tracking becomes more ubiquito
       
       <guid>https://jplattel.nl/post/2013-01-29-836pm-2012/</guid>
       <description>Without further comments, all my 8:36pm photo moments collected during 2012, stitched together in a movie:
-  All I can say is, thanks to all the people who made 2012 an awesome year! I&amp;rsquo;m sure 2013 is going to be the same!</description>
+All I can say is, thanks to all the people who made 2012 an awesome year! I&amp;rsquo;m sure 2013 is going to be the same!</description>
     </item>
     
     <item>
@@ -1582,9 +1587,7 @@ In short Hoofdbeelden is a system which allows us tap into devices hooked onto m
       
       <guid>https://jplattel.nl/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/</guid>
       <description>During the last few months I&amp;rsquo;ve given several talks about the Quantified Self and lifehacking. The video&amp;rsquo;s of two of these talks are embedded below. Enjoy!
-Urban Screens  
-Inspirationshot #3
-  </description>
+Urban Screens Inspirationshot #3</description>
     </item>
     
     <item>
@@ -1604,7 +1607,7 @@ Nadat ik alle drie de data-sets heb bekeken leek het mij het beste om de derde (
       
       <guid>https://jplattel.nl/post/2012-01-01-2011-a-summary/</guid>
       <description>Last year has been full with adventures! Going to San Francisco, organizing QS Europe and starting another bachelor degree in Media Technology&amp;hellip; And of course I continued with taking a picture everyday at 8:36pm.
-  Let&amp;rsquo;s see what 2012 brings!</description>
+Let&amp;rsquo;s see what 2012 brings!</description>
     </item>
     
     <item>
@@ -1633,8 +1636,7 @@ Together with my brother we are building a hybrid manifestation of visualizing b
       <pubDate>Mon, 10 Oct 2011 17:41:01 +0200</pubDate>
       
       <guid>https://jplattel.nl/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/</guid>
-      <description>On the 19th of september I was at Stand Up Inspiration and I could tell my story of my trip to San Francisco &amp;amp; the Quantified Self conference. The story is in dutch, but if you&amp;rsquo;re curious, have a look:
-  </description>
+      <description>On the 19th of september I was at Stand Up Inspiration and I could tell my story of my trip to San Francisco &amp;amp; the Quantified Self conference. The story is in dutch, but if you&amp;rsquo;re curious, have a look:</description>
     </item>
     
     <item>
@@ -1675,7 +1677,7 @@ I&amp;rsquo;m aiming to have at least 4 page worth of data to show you. Since I&
       
       <guid>https://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/</guid>
       <description>From how to live safely in a sciencefictional universe by Charles Yu.
- I’m typing, even though strictly speaking I am using the TM-31’s cognitive-visual-motor-sound-activated recording module, which operates, as you might guess, by simultaneously tracking output from the user’s neural activity, voice, finger movements, retinal movements, and facial muscle contractions. It’s part keyboard, part microphone, part optical scan, and part brain scan. When I want to type, I raise my hands up in front of me, palms down, in a position approximating typing, and a virtual QWERTY layout materializes in front of me.</description>
+I’m typing, even though strictly speaking I am using the TM-31’s cognitive-visual-motor-sound-activated recording module, which operates, as you might guess, by simultaneously tracking output from the user’s neural activity, voice, finger movements, retinal movements, and facial muscle contractions. It’s part keyboard, part microphone, part optical scan, and part brain scan. When I want to type, I raise my hands up in front of me, palms down, in a position approximating typing, and a virtual QWERTY layout materializes in front of me.</description>
     </item>
     
     <item>
@@ -1737,7 +1739,7 @@ As my endeavors with Python continue, for the last few months I&amp;rsquo;ve b
       <guid>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</guid>
       <description>On average, a human spends one third (8 hours) of it&amp;rsquo;s time sleeping. That&amp;rsquo;s a lot and one of the reasons I decided to dip my interest into dreaming and dream recall.
 With trial and error, I&amp;rsquo;ve made a modified version of the WILD method that works for me with a success-rate of about 80% for dream recall, no lucid state yet. So here is how it works:
- Determine the amount of sleep you want to get (preferring a multiple of 1.</description>
+Determine the amount of sleep you want to get (preferring a multiple of 1.</description>
     </item>
     
     <item>
@@ -1765,7 +1767,7 @@ With trial and error, I&amp;rsquo;ve made a modified version of the WILD method 
       
       <guid>https://jplattel.nl/post/2011-03-31-what-am-i-tracking/</guid>
       <description>I&amp;rsquo;ll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I&amp;rsquo;m tracking to function as an archive or feedback loop. If I have some more time, I&amp;rsquo;ll explain the things I use to make this all possible.
- Distance travelled (which cities did I visit?) Which people do I meet everyday?</description>
+Distance travelled (which cities did I visit?) Which people do I meet everyday?</description>
     </item>
     
     <item>
@@ -1805,7 +1807,7 @@ As Kees discovered Processing, it left me wondering what I could do with it.</de
       <guid>https://jplattel.nl/post/2010-12-31-2010-a-summary/</guid>
       <description>&amp;mdash; title: 2010, A summary date: 2010-12-31 12:16:04.000000000 +01:00 &amp;mdash;
 This year passed with an excellent speed, not to quick, but certainly not slowly. I think pictures say more then words so I would like to share with you every picture I took at 8:36pm during 2010:
-  (Huge thanks to my brother Kees who was so kind to make a video of it!)
+(Huge thanks to my brother Kees who was so kind to make a video of it!)
 Not only did I finish my bachelor degree this year, but I also started Qs Amsterdam and some other interesting projects.</description>
     </item>
     
@@ -1867,7 +1869,7 @@ I really enjoyed this amazing meetup with interesting talks! If you are interest
       <guid>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
       <description>I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.
 Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.
-  I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>
+I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>
     </item>
     
     <item>
@@ -1885,7 +1887,7 @@ Since reading about self-tracking I was fascinated by GPS location and geospatia
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jplattel.nl/about/</guid>
-      <description>👋 Hey there! I&amp;rsquo;m Joost, and I&amp;rsquo;d like to call myself an auxiliarytechnologist.
+      <description>👋 Hey there! I&amp;rsquo;m Joost, and I&amp;rsquo;d like to call myself an auxiliary technologist.
 I facilitate organisations and individuals with technology. The daunting task to strategize in a changing world is made hard by the lack of transparency and previous experiences. I explore the fringes of new technology and keep a wide network of people to draw from different avenues.
 By building prototypes, tinkering and iterating publicly we can discover what may lie ahead.</description>
     </item>
@@ -1899,8 +1901,8 @@ By building prototypes, tinkering and iterating publicly we can discover what ma
       <description>If you want to get in touch we me, the easiest way is to reach out by email. You can email me at:
 jsplattel@gmail.com
 And remember:
- Foar de kofje net eamelje!
- ~ A frisian saying meaning: don&amp;rsquo;t whine before we had a coffee.</description>
+Foar de kofje net eamelje!
+~ A frisian saying meaning: don&amp;rsquo;t whine before we had a coffee.</description>
     </item>
     
   </channel>

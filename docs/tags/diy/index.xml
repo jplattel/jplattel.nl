@@ -27,7 +27,7 @@ My brother ordered the pcbs and components, I ordered the keycaps &amp;amp; swit
       <guid>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</guid>
       <description>In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:
 The enclosure contains the following things:
- Backside:  230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input   Frontside:  Traffic-light interface: lights to indicate what is on.</description>
+Backside: 230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input Frontside: Traffic-light interface: lights to indicate what is on.</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@ My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
       
       <guid>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
-      <description>I bougth a 3D printertogether with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
+      <description>I bougth a 3D printer together with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
 As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like Fusion360.</description>
     </item>
     

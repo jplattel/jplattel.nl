@@ -17,7 +17,6 @@ Before I want to dive into the software architecture, I wanted to explain why I 
 <meta property="article:published_time" content="2021-06-10T15:11:47+02:00" />
 <meta property="article:modified_time" content="2021-06-10T15:11:47+02:00" />
 
-
   <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/">
   
   
@@ -143,12 +142,12 @@ Before I want to dive into the software architecture, I wanted to explain why I 
 <li><strong>Reducing the learning-curve</strong>. Learning to type again with just 10 keys is hard. The software should help you when trying to learn this new platform.</li>
 </ol>
 <p>Keeping in mind those 3 principles I set out tinker with Micropython and it&rsquo;s possibilities. This resulted in the following files/folders:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">apps/ <span style="color:#75715e"># All the applications are stored here</span>
-lib/ <span style="color:#75715e"># Things like SD-card, bluetooth oled &amp; keyboard interfaces reside here.</span>
-state.py <span style="color:#75715e"># A shared state between all apps and between the hands.</span>
-boot.py <span style="color:#75715e"># Run at boot, required by micropython</span>
-main.py <span style="color:#75715e"># This is where the state is initialized and hands are connected</span>
-</code></pre></div><p>For now this will be the main structure, but it might change over time. When I got started initially I wanted to have both hands run the entire stack and connect but this resulted in conflicts between states. So the primary hand is keeping track of the state for now. I&rsquo;ve also kept in mind that left handed people might want to flip keys, so you can configure both the primary/secondary hand &amp; the dexterity. For now that yields enough flexibility!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>apps/ <span style="color:#75715e"># All the applications are stored here</span>
+</span></span><span style="display:flex;"><span>lib/ <span style="color:#75715e"># Things like SD-card, bluetooth oled &amp; keyboard interfaces reside here.</span>
+</span></span><span style="display:flex;"><span>state.py <span style="color:#75715e"># A shared state between all apps and between the hands.</span>
+</span></span><span style="display:flex;"><span>boot.py <span style="color:#75715e"># Run at boot, required by micropython</span>
+</span></span><span style="display:flex;"><span>main.py <span style="color:#75715e"># This is where the state is initialized and hands are connected</span>
+</span></span></code></pre></div><p>For now this will be the main structure, but it might change over time. When I got started initially I wanted to have both hands run the entire stack and connect but this resulted in conflicts between states. So the primary hand is keeping track of the state for now. I&rsquo;ve also kept in mind that left handed people might want to flip keys, so you can configure both the primary/secondary hand &amp; the dexterity. For now that yields enough flexibility!</p>
 <p>That&rsquo;s it for now, I don&rsquo;t want to make long stories, with boring copy/pasting of code&hellip; Maybe I&rsquo;ll show you the typing in next post!</p>
 
     </div>

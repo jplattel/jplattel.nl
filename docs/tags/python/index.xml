@@ -63,7 +63,7 @@ When I made the switch towards micropython I saw no such thing existed. But havi
       
       <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
       <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
- iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins:  Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens   Virtualenv (with virtualenvwrapper)  All environments are saved in the ~/.</description>
+iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins: Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens Virtualenv (with virtualenvwrapper) All environments are saved in the ~/.</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@ However more recently I started using MacLogger and together with Jelle I&amp;rs
       <guid>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
       <description>I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.
 Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.
-  I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>
+I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>
     </item>
     
   </channel>
