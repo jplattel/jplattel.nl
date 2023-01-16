@@ -20,6 +20,8 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
 *   [Coffeegrinder](https://motocoffee.nl/product/timemore-chestnut-nano-handmolen/)
 *   Play with a modular set up for a day.
+*   A speedcube
+
 <!-- *   A [Dremel 4300](https://www.hornbach.nl/shop/DREMEL-Multitool-4300-incl-3-hulpstukken-en-45-accessoires/6418176/artikel.html). -->
 
 ## People already gave me
