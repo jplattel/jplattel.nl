@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 11 Mar 2023 19:59:28 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 13:46:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>journaling</title>
+      <link>https://jplattel.nl/tags/journaling/</link>
+      <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/journaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obsidian</title>
+      <link>https://jplattel.nl/tags/obsidian/</link>
+      <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://jplattel.nl/tags/writing/</link>
+      <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/writing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>apple</title>
       <link>https://jplattel.nl/tags/apple/</link>
@@ -257,15 +284,6 @@
       <pubDate>Mon, 15 Nov 2021 10:28:10 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>obsidian</title>
-      <link>https://jplattel.nl/tags/obsidian/</link>
-      <pubDate>Mon, 15 Nov 2021 10:28:10 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/obsidian/</guid>
       <description></description>
     </item>
     
