@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jplattel.nl/categories/</loc>
-    <lastmod>2023-03-27T13:46:47+02:00</lastmod>
+    <loc>https://jplattel.nl/tags/esp32/</loc>
+    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/</loc>
+    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/</loc>
+    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/technology/</loc>
+    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/wandering-computer/</loc>
+    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/wearable/</loc>
+    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/finder-favorites/</loc>
+    <lastmod>2023-04-10T18:04:54+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/mac/</loc>
+    <lastmod>2023-04-10T18:04:54+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/osx/</loc>
+    <lastmod>2023-04-10T18:04:54+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/swift/</loc>
+    <lastmod>2023-04-10T18:04:54+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/swiftui/</loc>
+    <lastmod>2023-04-10T18:04:54+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/categories/</loc>
     <lastmod>2023-03-27T13:46:47+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/journaling/</loc>
@@ -18,9 +51,6 @@
     <lastmod>2023-03-27T13:46:47+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</loc>
-    <lastmod>2023-03-27T13:46:47+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2023-03-27T13:46:47+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/categories/technology/</loc>
@@ -63,9 +93,6 @@
     <lastmod>2022-07-24T12:04:43+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/wandering/</loc>
-    <lastmod>2022-07-24T12:04:43+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/wearable/</loc>
     <lastmod>2022-07-24T12:04:43+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/3dprinting/</loc>
@@ -164,9 +191,6 @@
     <loc>https://jplattel.nl/project/ical2roam/</loc>
     <lastmod>2021-09-20T18:42:08+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/project/</loc>
-    <lastmod>2021-09-20T18:42:08+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/post/2021-08-31-muscle-memory-spatial-orientation-component/</loc>
     <lastmod>2021-08-31T09:06:34+02:00</lastmod>
   </url><url>
@@ -219,9 +243,6 @@
     <lastmod>2021-04-19T21:01:37+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/hardware/</loc>
-    <lastmod>2021-04-19T21:01:37+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/technology/</loc>
     <lastmod>2021-04-19T21:01:37+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2021-03-07-improving-the-ant-head/</loc>
@@ -359,13 +380,7 @@
     <loc>https://jplattel.nl/tags/automation/</loc>
     <lastmod>2020-08-15T09:37:33+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/tags/mac/</loc>
-    <lastmod>2020-08-15T09:37:33+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</loc>
-    <lastmod>2020-08-15T09:37:33+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/osx/</loc>
     <lastmod>2020-08-15T09:37:33+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/scripts/</loc>

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 09:37:33 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/osx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 18:04:54 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/osx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finder Favorites</title>
+      <link>https://jplattel.nl/project/finder-favorites/</link>
+      <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/finder-favorites/</guid>
+      <description>A simple app that let&amp;rsquo;s you group column views of favorite folders</description>
+    </item>
+    
     <item>
       <title>My daily journaling scripts for Obsidian</title>
       <link>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</link>

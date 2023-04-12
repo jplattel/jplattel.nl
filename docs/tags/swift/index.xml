@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swift on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/swift/</link>
+    <description>Recent content in swift on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Mon, 10 Apr 2023 18:04:54 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finder Favorites</title>
+      <link>https://jplattel.nl/project/finder-favorites/</link>
+      <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/finder-favorites/</guid>
+      <description>A simple app that let&amp;rsquo;s you group column views of favorite folders</description>
+    </item>
+    
+  </channel>
+</rss>

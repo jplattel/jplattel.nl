@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 27 Mar 2023 13:46:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 18:04:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wandering.computer</title>
+      <link>https://jplattel.nl/project/wandering-computer/</link>
+      <pubDate>Wed, 12 Apr 2023 18:04:47 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/wandering-computer/</guid>
+      <description>A wearable keyboard made for typing on the go!</description>
+    </item>
+    
+    <item>
+      <title>Finder Favorites</title>
+      <link>https://jplattel.nl/project/finder-favorites/</link>
+      <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/finder-favorites/</guid>
+      <description>A simple app that let&amp;rsquo;s you group column views of favorite folders</description>
+    </item>
+    
     <item>
       <title>Reflecting on 1000 Daily Notes in Obsidian</title>
       <link>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</link>

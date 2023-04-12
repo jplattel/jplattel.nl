@@ -3,7 +3,7 @@ title: "Ambassador for the Digital Society School Amsterdam"
 date: 2018-09-18T17:17:26+02:00
 year: 2018
 draft: false
-
+archived: true
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`
 tags: ["amsterdam", "data", "science", "ethics", "technology"]
