@@ -23,4 +23,6 @@ I'm often traveling by public transport here in the Netherlands. An OV-Chipkaart
 
 I set out to solve this with a little Svelte application to get started with this technology. The backend is running on serverless and only does the calculations.
 
+![](/img/ehba.png)
+
 This project is [archived on Github](https://github.com/jplattel/ehba) and currently not supported any more.

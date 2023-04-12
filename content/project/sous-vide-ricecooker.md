@@ -17,3 +17,5 @@ image_preview: "sous-vide-ricecooker.jpg"
 ---
 
 As one of my first steps into hardware instead of software I created a simple PID driver for my rice cooker allowing me to sous-vide things (or still use it as a rice cooker, ha!)
+
+![](/img/sous-vide-ricecooker.jpg)

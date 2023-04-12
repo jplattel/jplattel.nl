@@ -16,4 +16,6 @@ summary: "I created my own longboard from scratch (with a Mondrian pattern on th
 image_preview: "longboard.jpg"
 ---
 
-I made my own longboard for personal use. And because I like Mondrian I but a bit of that on the back! Thanks to the Maakplek in Groningen!
+I made my own longboard for personal use. And because I like Mondrian I but a bit of that on the back! Thanks to the Maakplek in Groningen! It's one of the first things I mostly made myself just like the [sous-vide ricecooker](https://jplattel.nl/project/sous-vide-ricecooker/).
+
+![](/img/longboard.jpg)

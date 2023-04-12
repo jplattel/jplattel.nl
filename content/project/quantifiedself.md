@@ -20,3 +20,5 @@ external_link: "https://www.meetup.com/qsnetherlands/"
 ---
 
 I founded the Quantified Self community in the Netherlands & Europe in 2011/2012. After organizing the first meetups and visiting the first conference in San Francisco. Together with Maarten den Braber, James Burke, Martijn Aslander & Yuri van Geest I organized the first conference in Amsterdam.
+
+![](/img/quantifiedself.png)
