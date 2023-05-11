@@ -29,4 +29,4 @@ It even has it's own logo! I simply changed a fill color with a somewhat origina
 
 The best value is gained from Chat GPT if you know how to ask questions, even though I'm not familiar with SwiftUI the programming experience that I have makes it easy to fix small logic errors. It helps that I know how to interpret error messages so I can instruct ChatGPT how to solve them. The downside, since ChatGPT is only fed with data from 2021 it's somewhat limited in the most recent changes in SwiftUI... Nevertheless it's pretty awesome!
 
-_Keep an eye on the project page as I might update with more information and possible a repository or `.dmg` installer! (If I can make that work with ChatGPT!)_
+_Keep an eye on [the project page](https://jplattel.nl/project/finder-favorites/) as I might update with more information and possible a repository or `.dmg` installer! (If I can make that work with ChatGPT!)_
