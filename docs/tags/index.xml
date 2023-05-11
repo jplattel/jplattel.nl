@@ -7,7 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 12 Apr 2023 18:04:47 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>https://jplattel.nl/tags/ai/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chat-gpt</title>
+      <link>https://jplattel.nl/tags/chat-gpt/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/chat-gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://jplattel.nl/tags/development/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finder</title>
+      <link>https://jplattel.nl/tags/finder/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://jplattel.nl/tags/mac/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://jplattel.nl/tags/software/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://jplattel.nl/tags/swiftui/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/swiftui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>esp32</title>
       <link>https://jplattel.nl/tags/esp32/</link>
@@ -36,15 +99,6 @@
     </item>
     
     <item>
-      <title>mac</title>
-      <link>https://jplattel.nl/tags/mac/</link>
-      <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/mac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>osx</title>
       <link>https://jplattel.nl/tags/osx/</link>
       <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
@@ -59,15 +113,6 @@
       <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/swift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link>https://jplattel.nl/tags/swiftui/</link>
-      <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/swiftui/</guid>
       <description></description>
     </item>
     
@@ -356,15 +401,6 @@
       <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/micropython/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software</title>
-      <link>https://jplattel.nl/tags/software/</link>
-      <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/software/</guid>
       <description></description>
     </item>
     
@@ -860,15 +896,6 @@
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/developer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://jplattel.nl/tags/development/</link>
-      <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/development/</guid>
       <description></description>
     </item>
     

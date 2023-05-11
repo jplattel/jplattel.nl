@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing SwiftUi apps With Chat GPT</title>
+      <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
+      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
+      <description>ChatGPT is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. paperclips might be optimized..) ✌️
+To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while.</description>
+    </item>
+    
     <item>
       <title>Micropython LCD menu: upymenu</title>
       <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
