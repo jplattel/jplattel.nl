@@ -1,5 +1,5 @@
 ---
-title: "Writing SwiftUi apps With Chat-GPT"
+title: "Writing SwiftUI apps With Chat-GPT"
 date: 2023-05-11T21:52:29+02:00
 draft: false
 
@@ -17,7 +17,7 @@ To figure out how useful it might be for me, I embarked on a journey together wi
 - If you have more then a couple of windows open, copy/pasting files becomes a hassle and a mess... 
 - When re-organizing files it's hard to keep an overview (related to the one above)
 
-So I opened XCode (i did it before a couple of times and after a couple of hours of tinkering I felt defeated..). I felt confident I could at least make it towards a simple app.. And low and behold after a couple of evenings I had an interface that would show folders in a column view...
+So I opened XCode, choose SwiftUI for a mac application and (I did it before a couple of times and after a couple of hours of tinkering I felt defeated..). I felt confident I could at least make it towards a simple app.. And low and behold after a couple of evenings I had an interface that would show folders in a column view... 
 
 Right now I'm about ~40 hours in and I'm adding small features like cross copy/pasting across columns, keeping a selection as well as opening folders as columns if right-clicking with a command key pressed. Here's what it looks like! 
 
