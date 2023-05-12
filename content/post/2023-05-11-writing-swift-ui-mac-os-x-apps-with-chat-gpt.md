@@ -1,5 +1,5 @@
 ---
-title: "Writing SwiftUi apps With Chat GPT"
+title: "Writing SwiftUi apps With Chat-GPT"
 date: 2023-05-11T21:52:29+02:00
 draft: false
 
