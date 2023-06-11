@@ -15,4 +15,4 @@ That's the main idea. I've finished a couple of prototypes and I'm now working t
 
 ![](/img/wandering-computer-mark-vletter.png)
 
-I've also made a [couple](http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/) of [posts](http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/) on the development on this [blog](http://localhost:1313/tags/keyboard/) so far!
+I've also made a [couple](http://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/) of [posts](http://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/) on the development on this [blog](http://jplattel.nl/tags/keyboard/) so far!
