@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>forecasting</title>
+      <link>https://jplattel.nl/tags/forecasting/</link>
+      <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inventory</title>
+      <link>https://jplattel.nl/tags/inventory/</link>
+      <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ordering</title>
+      <link>https://jplattel.nl/tags/ordering/</link>
+      <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ordering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tea</title>
+      <link>https://jplattel.nl/tags/tea/</link>
+      <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/tea/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ai</title>
       <link>https://jplattel.nl/tags/ai/</link>
@@ -860,15 +896,6 @@
       <pubDate>Tue, 21 Apr 2020 17:56:24 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/brewery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inventory</title>
-      <link>https://jplattel.nl/tags/inventory/</link>
-      <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/inventory/</guid>
       <description></description>
     </item>
     

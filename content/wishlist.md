@@ -7,23 +7,22 @@ Below is my wishlist, if there's something I've done for you and you would like 
 
 ## Physical stuff and/or activities
 
+*   A [light mill](https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756).
 *   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
-*   [Rollstoel](https://www.buitenontbijtjes.nl/winkel/buitenstoel/).
-*   [The Light Versatile Pillow](https://ostrichpillow.eu/products/light-versatile-pillow?variant=39922783158436) by Ostrich pillows
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
-*   A [Makita router](https://www.coolblue.nl/product/402575/makita-rt0700cx3j.html)
-*   An [Rigol DS1074Z+(S+)](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
+*   A [Makita router](https://www.makita.nl/artikel/makita-rt0702cx3j-230-v-boven-en-kantenfrees.html)
+*   A [Rigol DS1074Z+(S+)](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
 *   Play with a modular set up for a day.
-*   A [light mill](https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756).
 <!-- *   A [Dremel 4300](https://www.hornbach.nl/shop/DREMEL-Multitool-4300-incl-3-hulpstukken-en-45-accessoires/6418176/artikel.html). -->
 
 ## People already gave me
 
+*   [Rollstoel](https://www.buitenontbijtjes.nl/winkel/buitenstoel/) (Thanks [Kees](https://ikbenke.es)!).
 *   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument)) (Thanks to the [toevallige ontmoeting](https://www.detoevalligeontmoeting.be/)!)
 *   A [ratcheting driver](https://www.leatherman.com/ratchet-driver-931030.html) for the leatherman I own. (Thanks Mei & Kees!)
 *   A [book stand](https://www.taschenboeken.nl/atlas-bookstand-yellow.html) (Dankjewel [Jenna](https://www.jennapostma.nl/)!).

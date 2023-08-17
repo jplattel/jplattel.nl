@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jplattel.nl/client/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/dilmah-tea/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/forecasting/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/inventory/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/ordering/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/tea/</loc>
+    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/tags/ai/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
@@ -17,9 +41,6 @@
     <loc>https://jplattel.nl/tags/finder/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/</loc>
-    <lastmod>2023-05-11T21:52:29+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/tags/mac/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
@@ -30,9 +51,6 @@
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/swiftui/</loc>
-    <lastmod>2023-05-11T21:52:29+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/categories/technology/</loc>
@@ -165,9 +183,6 @@
     <lastmod>2022-03-16T20:42:07+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/aws/</loc>
-    <lastmod>2022-01-04T23:28:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/client/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/digitale-fitheid/</loc>
@@ -454,9 +469,6 @@
   </url><url>
     <loc>https://jplattel.nl/project/brouwerij_nooitgedacht/</loc>
     <lastmod>2020-04-21T17:56:24+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/inventory/</loc>
-    <lastmod>2020-03-19T16:33:53+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/project/organization-supply/</loc>
     <lastmod>2020-03-19T16:33:53+01:00</lastmod>
