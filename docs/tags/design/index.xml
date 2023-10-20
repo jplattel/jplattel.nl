@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ethics on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/ethics/</link>
-    <description>Recent content in ethics on Joost Plattel</description>
+    <title>design on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/design/</link>
+    <description>Recent content in design on Joost Plattel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Symbiose Studio</title>
       <link>https://jplattel.nl/client/symbiose-studio/</link>
@@ -17,15 +17,6 @@
       <description>Working with Bertrand from Symbiose Studio I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. Learn more at Symbiose Studio.
 Photo by Ivar Pel
 Each object carries a microcontroller that is running micropython and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects.</description>
-    </item>
-    
-    <item>
-      <title>Ambassador for the Digital Society School Amsterdam</title>
-      <link>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
-      <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
-      <description>In 2018 - 2020 I am one of the ambassadors for the Digital Society School located in Amsterdam</description>
     </item>
     
   </channel>

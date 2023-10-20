@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jplattel.nl/client/</loc>
-    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/design/</loc>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/ethics/</loc>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/philosophy/</loc>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/symbiose-studio/</loc>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/technology/</loc>
+    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/dilmah-tea/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
@@ -14,13 +35,7 @@
     <loc>https://jplattel.nl/tags/inventory/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/</loc>
-    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/tags/ordering/</loc>
-    <lastmod>2023-06-29T22:00:45+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/tea/</loc>
@@ -63,9 +78,6 @@
     <lastmod>2023-04-12T18:04:47+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/project/</loc>
-    <lastmod>2023-04-12T18:04:47+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/technology/</loc>
     <lastmod>2023-04-12T18:04:47+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/project/wandering-computer/</loc>
@@ -647,9 +659,6 @@
     <loc>https://jplattel.nl/tags/amsterdam/</loc>
     <lastmod>2018-09-18T17:17:26+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/tags/ethics/</loc>
-    <lastmod>2018-09-18T17:17:26+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/tags/science/</loc>
     <lastmod>2018-09-18T17:17:26+02:00</lastmod>
   </url><url>
@@ -1188,7 +1197,6 @@
     <lastmod>2010-08-31T21:30:52+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/home/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://jplattel.nl/about/</loc>
   </url><url>

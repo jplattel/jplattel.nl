@@ -7,7 +7,7 @@ year = 2020
 tags = ['serverless', 'python', 'aws', 'azure']
 
 # Optional image to display on homepage.
-image_preview = "esperantoxl.png"
+image_preview = "esperantoxl-logo.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://esperantoxl.nl/"

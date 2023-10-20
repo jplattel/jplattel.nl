@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 29 Jun 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Symbiose Studio</title>
+      <link>https://jplattel.nl/client/symbiose-studio/</link>
+      <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/symbiose-studio/</guid>
+      <description>Working with Bertrand from Symbiose Studio I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. Learn more at Symbiose Studio.
+Photo by Ivar Pel
+Each object carries a microcontroller that is running micropython and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects.</description>
+    </item>
+    
     <item>
       <title>Dilmah Tea Europe</title>
       <link>https://jplattel.nl/client/dilmah-tea/</link>
