@@ -8,7 +8,7 @@ tags = ["technology", "philosophy", "design", "ethics"]
 external_link = "https://symbiose.studio/" # Optional external URL for project (replaces project detail page).
 +++
 
-Working with [Bertrand from Symbiose Studio](https://symbiose.studio/) I've build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. [Learn more at Symbiose Studio](https://symbiose.studio/). 
+Working with [Bertrand from Symbiose Studio](https://symbiose.studio/) I've build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. [Learn more at Symbiose Studio](https://symbiose.studio/projects/intimate-implant/). 
 
 ![Intimate Implant at Betweter Festival](/img/intimate-implant.jpg)
 
