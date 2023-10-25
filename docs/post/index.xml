@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 13:07:59 +0200</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commandments for personal knowledge systems</title>
+      <link>https://jplattel.nl/post/2023-10-25-commandments-personal-knowledge-systems/</link>
+      <pubDate>Wed, 25 Oct 2023 13:07:59 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2023-10-25-commandments-personal-knowledge-systems/</guid>
+      <description>As we tinker around with our personal knowledge systems (PKM) and make them more intricate and fit for our own patterns, I often tend to look back on how I did things, sometimes to leave them around unchanged.. Since every version is stored in Git, we might as well keep a history.
+If I would start over again, I would guide myself a bit better by using a series of commandments much like religion has it.</description>
+    </item>
+    
     <item>
       <title>Writing SwiftUI apps With Chat-GPT</title>
       <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
