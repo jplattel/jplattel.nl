@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 13:07:59 +0200</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 18:16:42 +0100</lastBuildDate><atom:link href="https://jplattel.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A simple public transport display / clock</title>
+      <link>https://jplattel.nl/post/2023-12-05-simple-public-transport-display/</link>
+      <pubDate>Tue, 05 Dec 2023 18:16:42 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2023-12-05-simple-public-transport-display/</guid>
+      <description>My office is located in a different city, so I have to commute both ways.. Always taking the same initial transport from either my office or my home.. On both sides I&amp;rsquo;d love to have a simple display that shows the most recent leaving transport.
+After some tinkering I&amp;rsquo;ve cobbled together a piece of hardware (with just 10 solder joints!) and a simple API/crawler that kindly scrapes the latest public transport (with kindly I mean at most once an hour).</description>
+    </item>
+    
     <item>
       <title>Commandments for personal knowledge systems</title>
       <link>https://jplattel.nl/post/2023-10-25-commandments-personal-knowledge-systems/</link>
