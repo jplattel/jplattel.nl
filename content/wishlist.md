@@ -13,7 +13,6 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
-*   A [Makita router](https://www.makita.nl/artikel/makita-rt0702cx3j-230-v-boven-en-kantenfrees.html)
 *   A [Rigol DS1074Z+(S+)](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
