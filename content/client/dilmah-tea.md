@@ -11,3 +11,5 @@ external_link = "" # Optional external URL for project (replaces project detail 
 I've helped [Dilmah Tea](https://www.dilmahtea.nl/) with the ordering and forecasting proces. 
 
 More information soon! 
+
+![](https://files.jplattel.nl/2023/12/Am1CPA.jpeg)
