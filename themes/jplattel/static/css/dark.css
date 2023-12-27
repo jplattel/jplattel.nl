@@ -12,7 +12,9 @@ body {
 .content a{
     color: #3997f4
 }
-
+.client-image{
+    filter: invert(100%) grayscale(100%);
+}
 .project-item{
     background-color: #333;
     border: #444
@@ -20,3 +22,4 @@ body {
 .project-item h3{
     color: white;
 }
+

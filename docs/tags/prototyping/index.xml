@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 16:29:27 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOVN</title>
+      <link>https://jplattel.nl/client/sovn/</link>
+      <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/sovn/</guid>
+      <description>Sovn (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.
+All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.</description>
+    </item>
+    
     <item>
       <title>Wearable keyboard prototypes</title>
       <link>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</link>

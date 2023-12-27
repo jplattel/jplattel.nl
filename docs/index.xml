@@ -97,6 +97,16 @@ If you&amp;rsquo;re curious about my current daily note template, I&amp;rsquo;ve
     </item>
     
     <item>
+      <title>SOVN</title>
+      <link>https://jplattel.nl/client/sovn/</link>
+      <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/sovn/</guid>
+      <description>Sovn (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.
+All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.</description>
+    </item>
+    
+    <item>
       <title>Reading Workflows for Calibre</title>
       <link>https://jplattel.nl/post/2022-12-18-reading-workflows-calibre/</link>
       <pubDate>Sun, 18 Dec 2022 18:45:19 +0100</pubDate>
