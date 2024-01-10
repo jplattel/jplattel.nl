@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 22:06:34 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tellart</title>
+      <link>https://jplattel.nl/client/tellart/</link>
+      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/client/tellart/</guid>
+      <description>I&amp;rsquo;ve worked with Tellart on the Dinner in 2050 installation for the UAE Pavilion. For COP28 the goal of this installation is to make people think about climate change in a very personal way.
+Visitors would be asked to tell about their favorite dish which would then be transformed into a dish in 2050 with an ingredient swapped out that would have the most impact on climate change.
+Photo by Diana Kartasheva.</description>
+    </item>
+    
     <item>
       <title>Writing SwiftUI apps With Chat-GPT</title>
       <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>

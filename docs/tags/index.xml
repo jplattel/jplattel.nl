@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 22:06:34 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>https://jplattel.nl/tags/ai/</link>
+      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion</title>
+      <link>https://jplattel.nl/tags/diffusion/</link>
+      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>llm</title>
+      <link>https://jplattel.nl/tags/llm/</link>
+      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://jplattel.nl/tags/python/</link>
+      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whisper</title>
+      <link>https://jplattel.nl/tags/whisper/</link>
+      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/whisper/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>design</title>
       <link>https://jplattel.nl/tags/design/</link>
@@ -77,15 +122,6 @@
       <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/tea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ai</title>
-      <link>https://jplattel.nl/tags/ai/</link>
-      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ai/</guid>
       <description></description>
     </item>
     
@@ -779,15 +815,6 @@
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://jplattel.nl/tags/python/</link>
-      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/python/</guid>
       <description></description>
     </item>
     

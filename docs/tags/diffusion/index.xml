@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diffusion on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/diffusion/</link>
+    <description>Recent content in diffusion on Joost Plattel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Fri, 01 Dec 2023 22:06:34 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tellart</title>
+      <link>https://jplattel.nl/client/tellart/</link>
+      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/client/tellart/</guid>
+      <description>I&amp;rsquo;ve worked with Tellart on the Dinner in 2050 installation for the UAE Pavilion. For COP28 the goal of this installation is to make people think about climate change in a very personal way.
+Visitors would be asked to tell about their favorite dish which would then be transformed into a dish in 2050 with an ingredient swapped out that would have the most impact on climate change.
+Photo by Diana Kartasheva.</description>
+    </item>
+    
+  </channel>
+</rss>

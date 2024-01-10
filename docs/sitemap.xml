@@ -11,11 +11,32 @@
     <loc>https://jplattel.nl/post/</loc>
     <lastmod>2023-12-05T18:16:42+01:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/post/2023-10-25-commandments-personal-knowledge-systems/</loc>
-    <lastmod>2023-10-25T13:07:59+02:00</lastmod>
+    <loc>https://jplattel.nl/tags/ai/</loc>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/</loc>
-    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/diffusion/</loc>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/llm/</loc>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/python/</loc>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/tellart/</loc>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/whisper/</loc>
+    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/post/2023-10-25-commandments-personal-knowledge-systems/</loc>
+    <lastmod>2023-10-25T13:07:59+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/design/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
@@ -27,9 +48,6 @@
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/symbiose-studio/</loc>
-    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/technology/</loc>
@@ -49,9 +67,6 @@
   </url><url>
     <loc>https://jplattel.nl/tags/tea/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/ai/</loc>
-    <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/categories/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
@@ -417,9 +432,6 @@
     <lastmod>2020-08-18T10:15:04+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/esperantoxl/</loc>
-    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/python/</loc>
     <lastmod>2020-08-18T10:15:04+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</loc>
