@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 01 Dec 2023 22:06:34 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 17:09:44 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>circuitpython</title>
+      <link>https://jplattel.nl/tags/circuitpython/</link>
+      <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/circuitpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esp32</title>
+      <link>https://jplattel.nl/tags/esp32/</link>
+      <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ov</title>
+      <link>https://jplattel.nl/tags/ov/</link>
+      <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public transport</title>
+      <link>https://jplattel.nl/tags/public-transport/</link>
+      <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/public-transport/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ai</title>
       <link>https://jplattel.nl/tags/ai/</link>
@@ -180,15 +216,6 @@
     </item>
     
     <item>
-      <title>esp32</title>
-      <link>https://jplattel.nl/tags/esp32/</link>
-      <pubDate>Wed, 12 Apr 2023 18:04:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/esp32/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>wearable</title>
       <link>https://jplattel.nl/tags/wearable/</link>
       <pubDate>Wed, 12 Apr 2023 18:04:47 +0200</pubDate>
@@ -302,15 +329,6 @@
       <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>circuitpython</title>
-      <link>https://jplattel.nl/tags/circuitpython/</link>
-      <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/circuitpython/</guid>
       <description></description>
     </item>
     
@@ -1184,15 +1202,6 @@
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
       
       <guid>https://jplattel.nl/tags/nederland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ov</title>
-      <link>https://jplattel.nl/tags/ov/</link>
-      <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ov/</guid>
       <description></description>
     </item>
     
