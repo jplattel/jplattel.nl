@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 17:09:44 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 20:36:24 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>circuitpython</title>
       <link>https://jplattel.nl/tags/circuitpython/</link>
-      <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
+      <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/circuitpython/</guid>
       <description></description>
@@ -20,9 +20,27 @@
     <item>
       <title>esp32</title>
       <link>https://jplattel.nl/tags/esp32/</link>
-      <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
+      <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://jplattel.nl/tags/javascript/</link>
+      <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-serial</title>
+      <link>https://jplattel.nl/tags/web-serial/</link>
+      <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/tags/web-serial/</guid>
       <description></description>
     </item>
     
@@ -698,15 +716,6 @@
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/plugin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>javascript</title>
-      <link>https://jplattel.nl/tags/javascript/</link>
-      <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/javascript/</guid>
       <description></description>
     </item>
     

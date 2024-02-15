@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 28 Jan 2021 12:45:18 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 20:36:24 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy configuration for Circuit Python devices</title>
+      <link>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
+      <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
+      <description>While developing the OV Klok I&amp;rsquo;ve been exploring how small trinkets and other technological utilities can be configured. Most of the time, it&amp;rsquo;s either trough a captive portal, a self-served webserver or editing a configuration file. Both options aren&amp;rsquo;t really user friendly to me&amp;hellip;
+The captive portal is fails at times and doesn&amp;rsquo;t really work if you have a custom network configuration. The self served webpage requires a user to type in an address or IP, that&amp;rsquo;s only accessible in a specific mode.</description>
+    </item>
+    
     <item>
       <title>Obsidian Query Language plugin published</title>
       <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>
