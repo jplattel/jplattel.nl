@@ -14,6 +14,10 @@ My [clients](/client) range from individuals to startups and even the government
 
 In my other time I run my mostly monthly newsletter, [The Curious Corner of the Internet](https://curiouscorner.nl) and our small brewery [Brouwerij Nooitgedacht](http://brouwerijnooitgedacht.nl/) with friends.</a>
 
+![A photo of Joost Plattel by the kind Daniel Maissan](/img/joost-daniel-maissan.jpg)
+*Photo taken kindly by [Daniel Maissan](https://www.danielmaissan.nl/)*
+
+
 ## Work with me
 
 If you (or your organization) want to explore the possiblities of working together [get in touch](/contact) with me. People recommend me for my unique combination of curiousity and applied solutions. 

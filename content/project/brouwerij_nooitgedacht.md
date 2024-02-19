@@ -8,11 +8,12 @@ draft: false
 # Example: `tags: ["machine-learning", "deep-learning"]`
 tags: ['brewery', 'beer']
 summary: "Brouwerij Nooitgedacht is our brewery that I run together with friends."
-image_preview: "brouwerij_nooitgedacht.jpg"
+image_preview: "brouwerij-nooitgedacht-beer.jpg"
 external_link: "http://brouwerijnooitgedacht.nl"
 ---
 
 With a small group of friends I run a small brewing association called [Brouwerij Nooitgedacht](http://brouwerijnooitgedacht.nl) (Brewery Neverthought). We brew small batches of interesting beers and focus on quality while also keeping space to play around! 
 
-![](/img/brouwerij-nooitgedacht-beer.jpg)
+![](/img/brouwerij_nooitgedacht.jpg)
+![](/img/brouwerij-nooitgedacht.jpg)
 
