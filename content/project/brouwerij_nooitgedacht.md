@@ -14,5 +14,5 @@ external_link: "http://brouwerijnooitgedacht.nl"
 
 With a small group of friends I run a small brewing association called [Brouwerij Nooitgedacht](http://brouwerijnooitgedacht.nl) (Brewery Neverthought). We brew small batches of interesting beers and focus on quality while also keeping space to play around! 
 
-![](/img/brouwerij_nooitgedacht.jpg)
+![](/img/brouwerij-nooitgedacht-beer.jpg)
 
