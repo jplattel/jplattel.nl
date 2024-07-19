@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 15 Feb 2024 20:36:24 +0100</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 21:55:14 +0200</lastBuildDate><atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a small Pingo clock</title>
+      <link>https://jplattel.nl/post/2024-05-25-small-pingo-clock-with-circuitpython/</link>
+      <pubDate>Sat, 25 May 2024 21:55:14 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/post/2024-05-25-small-pingo-clock-with-circuitpython/</guid>
+      <description>I&amp;rsquo;ve been planning to build a Pingo clock for quite some time. Finally having some time available between projects I had most components on hand. With the exception for the bigger LED rings. And I also wanted to have the clock run on Circuitpython instead of Arduino. So I designed a smaller one, with only 7 led rings instead of 9. This also allowed me to print more parts, for example the diffusion screen is printed as well as a custom USB-c charging backplate.</description>
+    </item>
+    
     <item>
       <title>Easy configuration for Circuit Python devices</title>
       <link>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>

@@ -9,19 +9,19 @@ Below is my wishlist, if there's something I've done for you and you would like 
 
 *   A [light mill](https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756).
 *   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
+*   A [Volty bit](https://pcpoodle.com/collections/home/products/volty-bit-for-leatherman-multi-tool)
+*   A (Klein Bottle)[https://kleinbottle.com/]. Who doesn't need a zero-volume bottle or infinite space?
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
-*   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
 *   A [Rigol DS1074Z+(S+)](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
 *   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
 *   Play with a modular set up for a day.
 
-<!-- *   A [Dremel 4300](https://www.hornbach.nl/shop/DREMEL-Multitool-4300-incl-3-hulpstukken-en-45-accessoires/6418176/artikel.html). -->
-
 ## People already gave me
 
+*   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick) (Thanks Simon!)
 *   [Rollstoel](https://www.buitenontbijtjes.nl/winkel/buitenstoel/) (Thanks [Kees](https://ikbenke.es)!).
 *   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument)) (Thanks to the [toevallige ontmoeting](https://www.detoevalligeontmoeting.be/)!)
 *   A [ratcheting driver](https://www.leatherman.com/ratchet-driver-931030.html) for the leatherman I own. (Thanks Mei & Kees!)
@@ -36,7 +36,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   The [Cool Tools](https://www.bol.com/nl/p/cool-tools/9200000020982860/) book, thanks [Vitamine Communicatie](https://www.vitaminecommunicatie.nl/)!
 *   The [cooking book](https://www.taschen.com/pages/en/catalogue/art/all/04639/facts.dali_les_diners_de_gala.htm?gclid=Cj0KEQjwg8i_BRCT9dHt5ZSGi90BEiQAItdjpMqOS3gORWwVrFL8DHsHtD0IkavXJryJbxaRuclqvKYaAnVa8P8HAQ) by Dali
 *   Moebius Library: The World of Edena, thanks [Daan](https://www.linkedin.com/in/daanbuse?ppe=1)!
-*   [Float](http://en.wikipedia.org/wiki/Isolation_tank) in total darkness (thanks marjolein!)
+*   [Float](http://en.wikipedia.org/wiki/Isolation_tank) in total darkness (thanks Marjolein!)
 *   Timothy Ferriss: Tools of Titans
 *   [Lacie Rugged Mini](http://www.lacie.com/us/products/product.htm?id=10564) HD
 *   [Apple Remote](http://www.apple.com/nl/shop/product/MM4T2ZM/A/apple-remote) (old one, not for the new apple TV)

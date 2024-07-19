@@ -18,6 +18,10 @@ I've sorted all of the keyboards by year. Let's go:
 
 While not wearable, the mother of all demo's introducing the first chorder has to be mentioned. Dr. Douglas Engelbart introduced the concept of chording this early! I think this introduction did mark the point from which other input methods would be explored and it lay the groundwork for new interfaces.
 
+### [Microwriter](https://www.wikiwand.com/en/Microwriter) _(1978)_
+
+Also not wearable, but it's really close to the key layout that I use with my prototypes. The CyKey successor also shows some promise, as well as having the same speed of development, haha..
+
 ### [Winnebiko II](https://microship.com/winnebiko-ii/) _(1988)_
 
 Steven K. Roberts, with Winnebiko II. Not exactly wearable, but it's [two handed binary chord handlebar keyboard](https://microship.com/bicycle-mobile-packeteering/) is one of the first examples of a somewhat wearable keyboard that's formed towards the hand, instead of desk. And it travels with you!
@@ -30,7 +34,7 @@ The Septambic Keyer is made by [Steve Mann](https://www.wikiwand.com/en/Steve_Ma
 
 ### [A patent for sewing keys into fabric](https://patentimages.storage.googleapis.com/1e/29/29/012ec271a99059/US20020084989A1.pdf) _(2002)_
 
-An interesting ideas to make keyboarda wearable. Although it would be pretty uncomfortable to wear over longer periods... And how would you wash the pants if they had keys?!
+An interesting ideas to make keyboard wearable. Although it would be pretty uncomfortable to wear over longer periods... And how would you wash the pants if they had keys?!
 
 ### [Yet Another One-hand Keyboard](http://www.chordite.com/) _(2007)_
 
