@@ -10,7 +10,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   A [light mill](https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756).
 *   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
 *   A [Volty bit](https://pcpoodle.com/collections/home/products/volty-bit-for-leatherman-multi-tool)
-*   A (Klein Bottle)[https://kleinbottle.com/]. Who doesn't need a zero-volume bottle or infinite space?
+*   A [Klein Bottle](https://kleinbottle.com/). Who doesn't need a zero-volume bottle or infinite space?
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
