@@ -16,7 +16,7 @@ And I figured out a way to do this. Thanks to the wonderful [val.town](https://v
 import { S3Client } from "https://deno.land/x/s3_lite_client@0.6.1/mod.ts";
 
 const cloudflareR2client = new S3Client({
-  endPoint: "<your bucket endpoint>",            // This stores as secrets in val.town
+  endPoint: Deno.env.get("cloudflareR2Endpoint"),// This stores as secrets in val.town
   region: "auto",
   bucket: Deno.env.get("cloudflareR2Bucket"),    // This stores as secrets in val.town
   accessKey: Deno.env.get("cloudflareR2Key"),    // This stores as secrets in val.town
