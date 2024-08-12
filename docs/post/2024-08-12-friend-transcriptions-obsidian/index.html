@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Transcriptions from Friend in Obsidian </title>
+  <meta name="description" content="I’m Joost Plattel, I&#39;d like to call myself an auxiliary technologist. I assist organisations and individuals with technology and help them future strategies.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  
+  <meta property="og:title" content="Transcriptions from Friend in Obsidian" />
+<meta property="og:description" content="I&rsquo;ve been wearing a Friend / Omi (not to be confused with the other one) for a couple of weeks. This project is interesting to me because of the open-source component and community that it has. So I made my own, including it&rsquo;s own case. One thing I&rsquo;ve been trying to find a solution for has been trying to get all transcription into my note taking program Obsidian.
+And I figured out a way to do this." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jplattel.nl/post/2024-08-12-friend-transcriptions-obsidian/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2024-08-12T20:55:14+02:00" />
+<meta property="article:modified_time" content="2024-08-12T20:55:14+02:00" />
+
+  <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2024-08-12-friend-transcriptions-obsidian/">
+  
+  
+  
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
+  <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
+  <link disabled id="dark-mode-theme" rel="stylesheet" href="https://jplattel.nl/css/dark.css">
+
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://jplattel.nl/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://jplattel.nl/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://jplattel.nl/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://jplattel.nl/icon/favicon-16x16.png">
+<link rel="manifest" href="https://jplattel.nl/icon/site.webmanifest">
+<link rel="mask-icon" href="https://jplattel.nl/icon/safari-pinned-tab.svg" color="#5bbad5">
+  
+  
+  
+  
+
+  
+  </head>
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+    
+    <header id="header">
+    
+    <div id="title">
+      <h1>
+        <a href="https://jplattel.nl">Joost Plattel</a>
+      </h1>
+    </div>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
+      
+      <li>
+        <i id="toggle-theme" class="fa fa-moon"></i>
+      </li>
+    </ul>
+  </div>
+
+</header>
+    
+    
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Transcriptions from Friend in Obsidian
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2024-08-12 20:55:14 &#43;0200 CEST" itemprop="datePublished">2024-08-12</time>
+          
+        </div>
+        
+        <div class="article-category">
+            <i class="fas fa-archive"></i>
+            
+            
+            <a class="category-link" href="/categories/web">web</a>
+            
+            
+            <a class="category-link" href="/categories/internet">internet</a>
+            
+        </div>
+        
+        
+        <div class="article-tag">
+            <i class="fas fa-tag"></i>
+            
+            
+            <a class="tag-link" href="/tags/friend" rel="tag">friend</a>
+            
+            
+            <a class="tag-link" href="/tags/val.town" rel="tag">val.town</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/r2" rel="tag">R2</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/cloudflare" rel="tag">cloudflare</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/webhooks" rel="tag">webhooks</a>
+            
+        </div> 
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>I&rsquo;ve been wearing a <a href="https://github.com/BasedHardware/Omi">Friend / Omi</a> (not to be confused with the <a href="https://www.friend.com/">other one</a>) for a couple of weeks. This project is interesting to me because of the open-source component and community that it has. So I made my own, including it&rsquo;s own case. One thing I&rsquo;ve been trying to find a solution for has been trying to get all transcription into my note taking program <a href="https://obsidian.com">Obsidian</a>.</p>
+<p>And I figured out a way to do this. Thanks to the wonderful <a href="https://val.town">val.town</a> and <a href="https://cloudflare.com/r2">Cloudflare R2</a> (or any S3 bucket compatible provider) it&rsquo;s quite a chain of things, but it works! You start of with a val.town endpoint with the following code:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">import</span> { <span style="color:#a6e22e">S3Client</span> } <span style="color:#a6e22e">from</span> <span style="color:#e6db74">&#34;https://deno.land/x/s3_lite_client@0.6.1/mod.ts&#34;</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">cloudflareR2client</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">S3Client</span>({
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">endPoint</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;&lt;your bucket endpoint&gt;&#34;</span>,            <span style="color:#75715e">// This stores as secrets in val.town
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">region</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;auto&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">bucket</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">Deno</span>.<span style="color:#a6e22e">env</span>.<span style="color:#a6e22e">get</span>(<span style="color:#e6db74">&#34;cloudflareR2Bucket&#34;</span>),    <span style="color:#75715e">// This stores as secrets in val.town
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">accessKey</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">Deno</span>.<span style="color:#a6e22e">env</span>.<span style="color:#a6e22e">get</span>(<span style="color:#e6db74">&#34;cloudflareR2Key&#34;</span>),    <span style="color:#75715e">// This stores as secrets in val.town
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">secretKey</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">Deno</span>.<span style="color:#a6e22e">env</span>.<span style="color:#a6e22e">get</span>(<span style="color:#e6db74">&#34;cloudflareR2Secret&#34;</span>), <span style="color:#75715e">// This stores as secrets in val.town
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>});
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">export</span> <span style="color:#66d9ef">default</span> <span style="color:#66d9ef">async</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">req</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">Request</span>)<span style="color:#f92672">:</span> Promise<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">Response</span><span style="color:#f92672">&gt;</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">currentDate</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> Date().<span style="color:#a6e22e">toISOString</span>(); <span style="color:#75715e">// Otherwise, we take the current date
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">cloudflareR2client</span>.<span style="color:#a6e22e">putObject</span>(<span style="color:#e6db74">&#34;transcription-&#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">currentDate</span> <span style="color:#f92672">+</span> <span style="color:#e6db74">&#34;.json&#34;</span>, <span style="color:#a6e22e">req</span>.<span style="color:#a6e22e">body</span>);
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">Response</span>.<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">ok</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span> });
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><strong>Be sure to connect the Friend app with developer mode to the endpoint!</strong></p>
+<p>Now each transcription is stored into Cloudflare R2. I then use the <a href="https://apps.apple.com/us/app/s3-files-bucket-storage/id6447647340">S3 Files app</a> on my mac to synchronize the R2 bucket. <a href="https://www.noodlesoft.com/">Hazel</a> watches the synced folder and runs a little python script that converts each JSON file containing the transcription into markdown and creates a file in the target folder.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">import</span> glob
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> datetime
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> json
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>TRANSCRIPTION_JSON_DIR <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&lt;transcription_dir&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>TRANSCRIPTION_MD_DIR <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&lt;output dir&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">convert_transcription_to_markdown</span>(transcription_file):
+</span></span><span style="display:flex;"><span>    created_at <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>fromisoformat(transcription_file<span style="color:#f92672">.</span>get(<span style="color:#e6db74">&#34;created_at&#34;</span>))
+</span></span><span style="display:flex;"><span>    markdown_filename <span style="color:#f92672">=</span> created_at<span style="color:#f92672">.</span>isoformat()<span style="color:#f92672">.</span>replace(<span style="color:#e6db74">&#34;:&#34;</span>, <span style="color:#e6db74">&#34;_&#34;</span>)<span style="color:#f92672">.</span>replace(<span style="color:#e6db74">&#34;T&#34;</span>, <span style="color:#e6db74">&#34;_&#34;</span>)[<span style="color:#ae81ff">0</span>:<span style="color:#ae81ff">19</span>] <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;.md&#39;</span>
+</span></span><span style="display:flex;"><span>    structured_data <span style="color:#f92672">=</span> transcription_file<span style="color:#f92672">.</span>get(<span style="color:#e6db74">&#34;structured&#34;</span>, {})
+</span></span><span style="display:flex;"><span>    title <span style="color:#f92672">=</span> structured_data<span style="color:#f92672">.</span>get(<span style="color:#e6db74">&#34;title&#34;</span>)
+</span></span><span style="display:flex;"><span>    emoji <span style="color:#f92672">=</span> structured_data<span style="color:#f92672">.</span>get(<span style="color:#e6db74">&#34;emoji&#34;</span>)
+</span></span><span style="display:flex;"><span>    transcription_text <span style="color:#f92672">=</span> []
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> segment <span style="color:#f92672">in</span> transcription_file[<span style="color:#e6db74">&#39;transcript_segments&#39;</span>]:
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> segment<span style="color:#f92672">.</span>get(<span style="color:#e6db74">&#34;text&#34;</span>):
+</span></span><span style="display:flex;"><span>            transcription_text<span style="color:#f92672">.</span>append(segment<span style="color:#f92672">.</span>get(<span style="color:#e6db74">&#34;text&#34;</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    transcription <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74"> - &#34;</span><span style="color:#f92672">.</span>join(transcription_text)
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># Feel free to modify this template to include more data, like the summary!</span>
+</span></span><span style="display:flex;"><span>    markdown_content <span style="color:#f92672">=</span> <span style="color:#e6db74">f</span><span style="color:#e6db74">&#34;&#34;&#34;---
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">created_at: </span><span style="color:#e6db74">{</span>created_at<span style="color:#f92672">.</span>isoformat()<span style="color:#e6db74">}</span><span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">title: </span><span style="color:#e6db74">{</span>title<span style="color:#e6db74">}</span><span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">---
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74"># </span><span style="color:#e6db74">{</span>emoji<span style="color:#e6db74">}</span><span style="color:#e6db74"> </span><span style="color:#e6db74">{</span>title<span style="color:#e6db74">}</span><span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74"> - </span><span style="color:#e6db74">{</span>transcription<span style="color:#e6db74">}</span><span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">&#34;&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> markdown_filename, markdown_content
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">write_transcription_markdown_file</span>(markdown_filename, markdown_content):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">with</span> open(TRANSCRIPTION_MD_DIR <span style="color:#f92672">+</span> markdown_filename, <span style="color:#e6db74">&#34;w+&#34;</span>) <span style="color:#66d9ef">as</span> markdown_file:
+</span></span><span style="display:flex;"><span>        markdown_file<span style="color:#f92672">.</span>write(markdown_content)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> transcription_file <span style="color:#f92672">in</span> glob<span style="color:#f92672">.</span>glob(TRANSCRIPTION_JSON_DIR <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;*.json&#39;</span>):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">with</span> open(transcription_file, <span style="color:#e6db74">&#39;r&#39;</span>, encoding<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;utf-8&#39;</span>) <span style="color:#66d9ef">as</span> transcription_content:
+</span></span><span style="display:flex;"><span>        markdown_filename, markdown_content <span style="color:#f92672">=</span> convert_transcription_to_markdown(json<span style="color:#f92672">.</span>loads(transcription_content<span style="color:#f92672">.</span>read()))
+</span></span><span style="display:flex;"><span>        print(<span style="color:#e6db74">f</span><span style="color:#e6db74">&#34;Writing </span><span style="color:#e6db74">{</span>markdown_filename<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>)
+</span></span><span style="display:flex;"><span>        write_transcription_markdown_file(markdown_filename, markdown_content)
+</span></span></code></pre></div><p>I then use dataview in my daily note in Obsidian too see all transcriptions for that day for example: <code>TABLE title as Summary, created_at WHERE startswith(file.name, &quot;&lt;date&gt;&quot;) and title SORT file.mtime ASC</code> This results in the following table in Obsidian:</p>
+<p><img src="https://files.jplattel.nl/2024/08/MIdntF.png" alt=""></p>
+<p>This is pretty awesome I think. Since I can now search through everything I spoke about, without taking notes at all! In future versions I might be able to get tasks from files and put reminders into future daily notes etc etc.. Think of the possibilities of having your own voice be an input of your PKM system!</p>
+
+    </div>
+  </article>
+
+  
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2024  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  
+  
+  
+
+    
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2024  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+    
+  </div>
+  
+</body>
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script src="/js/main.js"></script>
+</html>
