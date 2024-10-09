@@ -38,12 +38,11 @@ The backend service was done in python &amp; Django and the front-end in Vue." /
   
 
   
+<link rel="icon" href="https://jplattel.nl/icon/favicon.ico" sizes="any" />
 <link rel="icon" type="image/png" href="https://jplattel.nl/icon/favicon.ico" />
 <link rel="apple-touch-icon" sizes="180x180" href="https://jplattel.nl/icon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://jplattel.nl/icon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://jplattel.nl/icon/favicon-16x16.png">
 <link rel="manifest" href="https://jplattel.nl/icon/site.webmanifest">
-<link rel="mask-icon" href="https://jplattel.nl/icon/safari-pinned-tab.svg" color="#5bbad5">
+
   
   
   
@@ -57,12 +56,41 @@ The backend service was done in python &amp; Django and the front-end in Vue." /
     
     <header id="header">
     
-    <div id="title">
-      <h1>
-        <a href="https://jplattel.nl">Joost Plattel</a>
-      </h1>
-    </div>
-  <div id="nav">
+  <div style="float: left; margin-right: 10px; margin-left: -50px; position: fixed;">
+    <a href="https://jplattel.nl">
+      <svg id="logo" width="35px" height="35px" viewBox="0 0 2363 2363" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" >
+        <g style="fill: #006ad4;" transform="matrix(2.43383,0,0,2.26169,-2377.43,-4549.39)">
+            <path d="M1563,2690.39C1563,2690.93 1563,2691.46 1563,2692C1563,2821.7 1457.7,2927 1328,2927C1198.3,2927 1093,2821.7 1093,2692C1093,2562.3 1198.3,2457 1328,2457L1328,2612.06C1284.77,2612.06 1249.67,2647.16 1249.67,2690.39C1249.67,2733.62 1284.77,2768.72 1328,2768.72C1371.23,2768.72 1406.33,2733.62 1406.33,2690.39L1406.33,2377.06C1406.33,2247.36 1511.63,2142.06 1641.33,2142.06C1771.03,2142.06 1876.33,2247.36 1876.33,2377.06C1876.33,2506.76 1771.03,2612.06 1641.33,2612.06L1641.33,2455.39C1684.57,2455.39 1719.67,2420.29 1719.67,2377.06C1719.67,2333.83 1684.57,2298.72 1641.33,2298.72C1598.1,2298.72 1563,2333.83 1563,2377.06L1563,2690.39L1563,2690.39Z"/>
+        </g>
+        <g style="fill: #006ad4;" transform="matrix(1.21691,0,0,1.13084,287.212,-1243.05)">
+            <circle class="logo-circle" cx="1328" cy="2692" r="235"/>
+        </g>
+        <g style="fill: #006ad4;" transform="matrix(1.21691,0,0,1.13084,-1047.34,-2483.2)">
+            <circle class="logo-circle" cx="1328" cy="2692" r="235"/>
+        </g>
+      </svg>
+      <style>
+        #logo .logo-circle {
+          transition: fill .6s ease;
+        }
+        #logo:hover .logo-circle{
+          fill: transparent;
+        }
+        #logo .logo-circle{
+          fill: #006ad4;
+        }
+
+      </style>
+    </a>
+  </div>
+
+  <div id="title" style="float: left;">
+    <h1 style="font-size: 1.7rem; padding-top: 2px; padding-left: 2px;">
+      <a href="https://jplattel.nl">Joost Plattel</a>
+    </h1>
+  </div>
+  
+  <div id="nav" style="clear:both">
     <ul>
       <li class="icon">
         <a href="#"><i class="fas fa-bars fa-2x"></i></a>
