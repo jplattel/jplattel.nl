@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 12 Aug 2024 20:55:14 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 21:41:28 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>https://jplattel.nl/tags/ai/</link>
+      <pubDate>Mon, 21 Oct 2024 21:41:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recruitment</title>
+      <link>https://jplattel.nl/tags/recruitment/</link>
+      <pubDate>Mon, 21 Oct 2024 21:41:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/recruitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://jplattel.nl/tags/startup/</link>
+      <pubDate>Mon, 21 Oct 2024 21:41:28 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/tags/startup/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cloudflare</title>
       <link>https://jplattel.nl/tags/cloudflare/</link>
@@ -113,15 +140,6 @@
       <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
       
       <guid>https://jplattel.nl/tags/public-transport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ai</title>
-      <link>https://jplattel.nl/tags/ai/</link>
-      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ai/</guid>
       <description></description>
     </item>
     
