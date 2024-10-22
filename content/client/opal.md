@@ -9,4 +9,4 @@ external_link: "https://www.opalcamera.com" # Optional external URL for project 
 
 ---
 
-For Opal I've worked on hardware prototypes under NDA. I've been exploring different protocols and low level unix interfaces. 
+For [Opal](https://opalcamera.com/) I've worked on hardware prototypes under NDA. I've been exploring different protocols and low level unix interfaces. 
