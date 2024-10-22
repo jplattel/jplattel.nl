@@ -3,10 +3,10 @@
     <header>
       {{ if .Params.external_link }}
       <a href="{{ .Params.external_link }}">
-        <img class="client-logo-single" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
+        <img class="client-logo-single client-image" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
       </a>
       {{ else }}
-      <img class="client-logo-single" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
+      <img class="client-logo-single client-image" src="{{ path.Join "img/" .Params.image_preview | absURL }}" alt="">
       {{ end }}
       
 
