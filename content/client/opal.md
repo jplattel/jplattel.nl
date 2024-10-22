@@ -1,6 +1,6 @@
 ---
 title: "Opal"
-draft: True
+draft: False
 date: 2024-09-09T22:06:34+01:00
 year: 2024
 tags: ["prototyping", "electronics", "linux"] # Example: `tags: ["machine-learning", "deep-learning"]`
@@ -9,4 +9,4 @@ external_link: "https://www.opalcamera.com" # Optional external URL for project 
 
 ---
 
-More information added soon...
+For Opal I've worked on hardware prototypes under NDA. I've been exploring different protocols and low level unix interfaces. 
