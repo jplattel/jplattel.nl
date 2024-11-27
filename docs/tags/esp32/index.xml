@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Esp32 on Joost Plattel</title>
-    <link>http://localhost:1313/tags/esp32/</link>
+    <link>https://jplattel.nl/tags/esp32/</link>
     <description>Recent content in Esp32 on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 15 Feb 2024 20:36:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy configuration for Circuit Python devices</title>
-      <link>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
+      <link>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
       <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
-      <guid>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
+      <guid>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
       <description>&lt;p&gt;While developing the &lt;a href=&#34;https://jplattel.nl/project/ov-klok/&#34;&gt;OV Klok&lt;/a&gt; I&amp;rsquo;ve been exploring how small trinkets and other technological utilities can be configured. Most of the time, it&amp;rsquo;s either trough a &lt;a href=&#34;https://www.wikiwand.com/en/Captive_portal&#34;&gt;captive portal&lt;/a&gt;, a self-served webserver or editing a configuration file. Both options aren&amp;rsquo;t really user friendly to me&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The captive portal is fails at times and doesn&amp;rsquo;t really work if you have a custom network configuration.&lt;/li&gt;&#xA;&lt;li&gt;The self served webpage requires a user to type in an address or IP, that&amp;rsquo;s only accessible in a specific mode..&lt;/li&gt;&#xA;&lt;li&gt;The configuration file is prone to errors and requires a user to edit a text file with an editor that they might not be comfortable with.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;web-serial-to-the-rescue&#34;&gt;Web serial to the rescue&lt;/h2&gt;&#xA;&lt;p&gt;For a simple device like the OV Klok a user only needs to configure the device once and I wanted it to be as fool proof as possible while being user-friendly too! I solved this with the power of &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API&#34;&gt;Web Serial&lt;/a&gt;. This allows a user to connect with a serial port through a webbrowser.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OV Klok</title>
-      <link>http://localhost:1313/project/ov-klok/</link>
+      <link>https://jplattel.nl/project/ov-klok/</link>
       <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
-      <guid>http://localhost:1313/project/ov-klok/</guid>
+      <guid>https://jplattel.nl/project/ov-klok/</guid>
       <description>A small hardware project that uses and ESP32 and pressure-forming plastic</description>
     </item>
     <item>
       <title>Wandering.computer</title>
-      <link>http://localhost:1313/project/wandering-computer/</link>
+      <link>https://jplattel.nl/project/wandering-computer/</link>
       <pubDate>Wed, 12 Apr 2023 18:04:47 +0200</pubDate>
-      <guid>http://localhost:1313/project/wandering-computer/</guid>
+      <guid>https://jplattel.nl/project/wandering-computer/</guid>
       <description>A wearable keyboard made for typing on the go!</description>
     </item>
     <item>
       <title>SOVN</title>
-      <link>http://localhost:1313/client/sovn/</link>
+      <link>https://jplattel.nl/client/sovn/</link>
       <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
-      <guid>http://localhost:1313/client/sovn/</guid>
+      <guid>https://jplattel.nl/client/sovn/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://getsovn.com/&#34;&gt;Sovn&lt;/a&gt; (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.&lt;/p&gt;&#xA;&lt;p&gt;All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.&lt;/p&gt;</description>
     </item>
   </channel>

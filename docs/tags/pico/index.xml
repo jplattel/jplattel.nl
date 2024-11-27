@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pico on Joost Plattel</title>
-    <link>http://localhost:1313/tags/pico/</link>
+    <link>https://jplattel.nl/tags/pico/</link>
     <description>Recent content in Pico on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 15 Apr 2022 11:15:17 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pico/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/pico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating VT-40 custom keyboard</title>
-      <link>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</link>
+      <link>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      <guid>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</guid>
+      <guid>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m no stranger to &lt;a href=&#34;https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/&#34;&gt;making keyboards&lt;/a&gt; and while I&amp;rsquo;m tinkering with creating a &lt;a href=&#34;https://wandering.computer/&#34;&gt;wearable keyboard&lt;/a&gt; I&amp;rsquo;ve stumbled upon many other builds of people that do interesting stuff.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been browsing the usual reddits (&lt;a href=&#34;https://reddit.com/r/mechanicalKeyboards/&#34;&gt;r/mk&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/ErgoMechKeyboards/&#34;&gt;r/ErgoMechKeyboards&lt;/a&gt; and the likes) I stumbled upon a nice looking project that would get me into ortholinear&amp;hellip; I wanted a keyboard different enough that it&amp;rsquo;s worth building. So I ended up with the &lt;a href=&#34;https://github.com/vladantrhlik/VT-40/&#34;&gt;VT-40&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ikbenke.es/&#34;&gt;My brother&lt;/a&gt; ordered the pcbs and components, I ordered the keycaps &amp;amp; switches since. With a few weeks passing and a couple of hours soldering stuff together, here&amp;rsquo;s the end result:&lt;/p&gt;</description>
     </item>
   </channel>

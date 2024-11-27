@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on Joost Plattel</title>
-    <link>http://localhost:1313/tags/docker/</link>
+    <link>https://jplattel.nl/tags/docker/</link>
     <description>Recent content in Docker on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 30 May 2018 23:28:49 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Watermelon</title>
-      <link>http://localhost:1313/client/watermelon/</link>
+      <link>https://jplattel.nl/client/watermelon/</link>
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
-      <guid>http://localhost:1313/client/watermelon/</guid>
+      <guid>https://jplattel.nl/client/watermelon/</guid>
       <description>&lt;p&gt;In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.&lt;/p&gt;&#xA;&lt;p&gt;Once I got started I also converted their current stack to support Docker &amp;amp; implemented an auth gateway that would take in older auth flows and support better authentication for the API. The API was build in &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; with Django Rest Framework (DRF)&lt;/p&gt;</description>
     </item>
   </channel>

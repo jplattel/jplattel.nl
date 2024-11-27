@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keyboard on Joost Plattel</title>
-    <link>http://localhost:1313/tags/keyboard/</link>
+    <link>https://jplattel.nl/tags/keyboard/</link>
     <description>Recent content in Keyboard on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 24 Jul 2022 12:04:43 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Progress on wandering.computer</title>
-      <link>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
+      <link>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
       <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
-      <guid>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
+      <guid>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
       <description>&lt;p&gt;Slowly but surely I&amp;rsquo;m making progress on my personal project. Creating a wearable keyboard that can be used while walking has been a dream of mine for a couple of years. One of the decision I made upfront is that I makes no sense to rush this project.&lt;/p&gt;&#xA;&lt;p&gt;The main reason is that most of the stuff I create these days either have to be brought to market as soon as possible (by yesterday please!). The other reason is that cutting corners for such a unique problem I try to solve results into missing certain details or solutions that might not be obvious at first sight. Even though I&amp;rsquo;m not sure if this is going to be a product, I do try to learn on how to design for manufacturing. Thanks to the wonderful folks at &lt;a href=&#34;http://dato.mu/&#34;&gt;Dato&lt;/a&gt; as sparring partners. There&amp;rsquo;s just soo much to learn when developing something from scratch with no previous examples or solutions available&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software architecture for a wearable computer</title>
-      <link>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</link>
+      <link>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</link>
       <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</guid>
+      <guid>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</guid>
       <description>&lt;p&gt;As you can read &lt;a href=&#34;http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/&#34;&gt;in previous posts&lt;/a&gt;. I&amp;rsquo;ve spend the last year designing a wearable keyboard that would allow you to type while walking. When I finally soldered everything, checked the connections for no shorts I tried flashing &lt;a href=&#34;https://micropython.org/&#34;&gt;micropython&lt;/a&gt; on the &lt;code&gt;Wemo D32 Pro&lt;/code&gt;&amp;rsquo;s that I use one didn&amp;rsquo;t seem to work.. Luckily I had a replacement on hand &lt;em&gt;(learned that the hard-way, I&amp;rsquo;ll always be ordering extra now!)&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Before I want to dive into the software architecture, I wanted to explain why I don&amp;rsquo;t went with &lt;a href=&#34;https://github.com/qmk/qmk_firmware/&#34;&gt;QMK&lt;/a&gt; or at least, not directly (more on that later!). While QMK is an awesome piece of software I wanted a bit more flexibility for my project. Interfacing with a SD, running a webserver and such are not things that QMK is meant for. I also wanted to explore Micropython a bit more in depth, since I&amp;rsquo;ve only done small projects with it. So, that&amp;rsquo;s the way to go!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finalizing the hardware for a wearable keyboard</title>
-      <link>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
+      <link>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
       <pubDate>Mon, 19 Apr 2021 21:01:37 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
+      <guid>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;http://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;a previous post&lt;/a&gt; I&amp;rsquo;ve shown physical prototypes of a wearable keyboard I&amp;rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.&lt;/p&gt;&#xA;&lt;p&gt;Most of the comments I get have to do with &lt;em&gt;why I don&amp;rsquo;t use dictation.&lt;/em&gt; There are several reasons for that, namely I&amp;rsquo;m taking my notes bilingual (English &amp;amp; Dutch) and I don&amp;rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>January: Project Month</title>
-      <link>http://localhost:1313/post/2021-01-31-closing-january/</link>
+      <link>https://jplattel.nl/post/2021-01-31-closing-january/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-31-closing-january/</guid>
+      <guid>https://jplattel.nl/post/2021-01-31-closing-january/</guid>
       <description>&lt;p&gt;Before the start of this month, I made a commitment to myself to focus all of my attention to personal projects. Just in between clients I could focus purely on my own things! And when January got started, an idea started in my mind that I wanted to take 3 projects to make some progres on.&lt;/p&gt;&#xA;&lt;p&gt;As it turned out, I worked on way more than 3 projects, still did some work for clients, but looking back at this month, I surely achieved making significant progres on at least 3 of my projects. And I&amp;rsquo;ve even been &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;blogging&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;more&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;about&lt;/a&gt; them for sure! I want to highlight the 5 biggest things I&amp;rsquo;ve worked on this month:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wearable keyboard prototypes</title>
-      <link>http://localhost:1313/post/2021-01-20-wearable-keyboard-prototypes/</link>
+      <link>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</link>
       <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-20-wearable-keyboard-prototypes/</guid>
-      <description>&lt;p&gt;As I&amp;rsquo;ve highlighted in &lt;a href=&#34;http://localhost:1313/post/2021-01-11-wearable-input-devices/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;posts&lt;/a&gt;, &lt;em&gt;a wearable keyboard&lt;/em&gt; is one of my main projects this month. In this post I want to show you some pictures of the first prototypes and tell you a bit more about the proces of designing a keyboard. Remember I&amp;rsquo;ve got really no experience on ergonomics or knowledge about user-interface, I mostly go by feel here as it&amp;rsquo;s a highly personalized product (for now!).&lt;/p&gt;&#xA;&lt;p&gt;Look at other devices like the Keyer or the &lt;code&gt;asetniop&lt;/code&gt; keyboard, I&amp;rsquo;ve made it my focus to develop a wearable keyboard with real keys. As the feedback of pressing a button is quite nice to have, especially when dealing with chording or any form of stenography. The first thing I did was to create a form of my palm &amp;amp; wrist with polymorph, a plastic that allows for easy formation when warm and hardening when cooling down. This form would be the basis for the first prototypes. While testing the ergonomics turned out be be hard, as curled fingers all the time is quite stressfull for the muscles.&lt;/p&gt;</description>
+      <guid>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</guid>
+      <description>&lt;p&gt;As I&amp;rsquo;ve highlighted in &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;posts&lt;/a&gt;, &lt;em&gt;a wearable keyboard&lt;/em&gt; is one of my main projects this month. In this post I want to show you some pictures of the first prototypes and tell you a bit more about the proces of designing a keyboard. Remember I&amp;rsquo;ve got really no experience on ergonomics or knowledge about user-interface, I mostly go by feel here as it&amp;rsquo;s a highly personalized product (for now!).&lt;/p&gt;&#xA;&lt;p&gt;Look at other devices like the Keyer or the &lt;code&gt;asetniop&lt;/code&gt; keyboard, I&amp;rsquo;ve made it my focus to develop a wearable keyboard with real keys. As the feedback of pressing a button is quite nice to have, especially when dealing with chording or any form of stenography. The first thing I did was to create a form of my palm &amp;amp; wrist with polymorph, a plastic that allows for easy formation when warm and hardening when cooling down. This form would be the basis for the first prototypes. While testing the ergonomics turned out be be hard, as curled fingers all the time is quite stressfull for the muscles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Making a bluetooth Sudoku keyboard</title>
-      <link>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
+      <link>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      <guid>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
+      <guid>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
       <description>&lt;p&gt;My girlfriend loves to solves &lt;em&gt;sudoku&lt;/em&gt;&amp;rsquo;s and most of the time she&amp;rsquo;s doing so on her iPhone.. As a belated birthday gift I made her a custom sudoku-keyboard with just &lt;strong&gt;9 keys&lt;/strong&gt;. Who needs more if you just want to do a sudoku right?&lt;/p&gt;&#xA;&lt;p&gt;This was a perfect opportunity for me to dive some more into hardware and especially bluetooth things&amp;hellip; The entire body is 3D printed and has threaded inserts with M3 screws and basic keycaps. After prototyping the electronics I soldered the keycaps together and tadaa:&lt;/p&gt;</description>
     </item>
   </channel>

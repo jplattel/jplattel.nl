@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webhooks on Joost Plattel</title>
-    <link>http://localhost:1313/tags/webhooks/</link>
+    <link>https://jplattel.nl/tags/webhooks/</link>
     <description>Recent content in Webhooks on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 12 Aug 2024 20:55:14 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/webhooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/webhooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transcriptions from Friend in Obsidian</title>
-      <link>http://localhost:1313/post/2024-08-12-friend-transcriptions-obsidian/</link>
+      <link>https://jplattel.nl/post/2024-08-12-friend-transcriptions-obsidian/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      <guid>http://localhost:1313/post/2024-08-12-friend-transcriptions-obsidian/</guid>
+      <guid>https://jplattel.nl/post/2024-08-12-friend-transcriptions-obsidian/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been wearing a &lt;a href=&#34;https://github.com/BasedHardware/Omi&#34;&gt;Friend / Omi&lt;/a&gt; (not to be confused with the &lt;a href=&#34;https://www.friend.com/&#34;&gt;other one&lt;/a&gt;) for a couple of weeks. This project is interesting to me because of the open-source component and community that it has. So I made my own, including it&amp;rsquo;s own case. One thing I&amp;rsquo;ve been trying to find a solution for has been trying to get all transcription into my note taking program &lt;a href=&#34;https://obsidian.com&#34;&gt;Obsidian&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And I figured out a way to do this. Thanks to the wonderful &lt;a href=&#34;https://val.town&#34;&gt;val.town&lt;/a&gt; and &lt;a href=&#34;https://cloudflare.com/r2&#34;&gt;Cloudflare R2&lt;/a&gt; (or any S3 bucket compatible provider) it&amp;rsquo;s quite a chain of things, but it works! You start of with a val.town endpoint with the following code:&lt;/p&gt;</description>
     </item>
   </channel>

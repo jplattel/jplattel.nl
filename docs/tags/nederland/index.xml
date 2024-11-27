@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nederland on Joost Plattel</title>
-    <link>http://localhost:1313/tags/nederland/</link>
+    <link>https://jplattel.nl/tags/nederland/</link>
     <description>Recent content in Nederland on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 05 Aug 2019 00:05:13 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nederland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/nederland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EHBA.app</title>
-      <link>http://localhost:1313/project/ehba/</link>
+      <link>https://jplattel.nl/project/ehba/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      <guid>http://localhost:1313/project/ehba/</guid>
+      <guid>https://jplattel.nl/project/ehba/</guid>
       <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
     </item>
     <item>
       <title>Quantified Self community</title>
-      <link>http://localhost:1313/project/quantifiedself/</link>
+      <link>https://jplattel.nl/project/quantifiedself/</link>
       <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
-      <guid>http://localhost:1313/project/quantifiedself/</guid>
+      <guid>https://jplattel.nl/project/quantifiedself/</guid>
       <description>I co-founded the QS Amsterdam group &amp;amp; started the QS Conference in Europe.</description>
     </item>
   </channel>

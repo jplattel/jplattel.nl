@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Postgres on Joost Plattel</title>
-    <link>http://localhost:1313/tags/postgres/</link>
+    <link>https://jplattel.nl/tags/postgres/</link>
     <description>Recent content in Postgres on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sat, 30 May 2020 23:27:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dropper</title>
-      <link>http://localhost:1313/client/dropper/</link>
+      <link>https://jplattel.nl/client/dropper/</link>
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
-      <guid>http://localhost:1313/client/dropper/</guid>
+      <guid>https://jplattel.nl/client/dropper/</guid>
       <description>&lt;p&gt;For Dropper I&amp;rsquo;ve implemented improvements for their &lt;em&gt;Django&lt;/em&gt; application. Dropper was a startup that was into last-mile delivery. Optimization where mostly on the performance side of things.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fundsup</title>
-      <link>http://localhost:1313/client/fundsup/</link>
+      <link>https://jplattel.nl/client/fundsup/</link>
       <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
-      <guid>http://localhost:1313/client/fundsup/</guid>
+      <guid>https://jplattel.nl/client/fundsup/</guid>
       <description>&lt;p&gt;To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform. The main technology of this stack was &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; for the backend and the API and &lt;em&gt;Vue&lt;/em&gt; for the front-end. The database was PostGres with JSON fields allowing for querying non-schema based fields.&lt;/p&gt;</description>
     </item>
   </channel>

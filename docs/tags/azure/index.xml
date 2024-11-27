@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure on Joost Plattel</title>
-    <link>http://localhost:1313/tags/azure/</link>
+    <link>https://jplattel.nl/tags/azure/</link>
     <description>Recent content in Azure on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 18 Aug 2020 10:15:04 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EsperantoXL</title>
-      <link>http://localhost:1313/client/esperantoxl/</link>
+      <link>https://jplattel.nl/client/esperantoxl/</link>
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      <guid>http://localhost:1313/client/esperantoxl/</guid>
+      <guid>https://jplattel.nl/client/esperantoxl/</guid>
       <description>&lt;p&gt;For &lt;a href=&#34;https://esperantoxl.nl/&#34;&gt;EsperantoXL&lt;/a&gt; I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.&lt;/p&gt;&#xA;&lt;p&gt;This solution allows for processing million lines of codes in a unsupported datafile, analyze &amp;amp; run queries on it and return it through a callback towards the no-code platform once again. Most of the implementations are based on &lt;em&gt;Python&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

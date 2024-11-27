@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applications on Joost Plattel</title>
-    <link>http://localhost:1313/tags/applications/</link>
+    <link>https://jplattel.nl/tags/applications/</link>
     <description>Recent content in Applications on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 12 Feb 2021 21:55:30 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workspaces instead of applications</title>
-      <link>http://localhost:1313/post/2021-02-12-workspaces-instead-of-applications/</link>
+      <link>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</link>
       <pubDate>Fri, 12 Feb 2021 21:55:30 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-02-12-workspaces-instead-of-applications/</guid>
+      <guid>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</guid>
       <description>&lt;p&gt;As most of my work I do lives on my computer one of the main things I do is switch applications. When referencing something on the internet and applying it in a editor or copy-pasting an address from a contact to google maps search, most of it is done while switching applications.&lt;/p&gt;&#xA;&lt;p&gt;For some switches the friction is reduced, for example lookups through Alfred.app or pretty printing some JSON with &lt;code&gt;jq&lt;/code&gt;. But oftentimes I find myself lost when I tab wrong once or I end up in a random tab of Chrome that was last open. There are switching costs here and the last month I&amp;rsquo;ve been thinking on how this might evolve in the future.&lt;/p&gt;</description>
     </item>
   </channel>

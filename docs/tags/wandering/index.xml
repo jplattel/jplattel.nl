@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wandering on Joost Plattel</title>
-    <link>http://localhost:1313/tags/wandering/</link>
+    <link>https://jplattel.nl/tags/wandering/</link>
     <description>Recent content in Wandering on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 24 Jul 2022 12:04:43 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wandering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/wandering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Progress on wandering.computer</title>
-      <link>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
+      <link>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
       <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
-      <guid>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
+      <guid>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
       <description>&lt;p&gt;Slowly but surely I&amp;rsquo;m making progress on my personal project. Creating a wearable keyboard that can be used while walking has been a dream of mine for a couple of years. One of the decision I made upfront is that I makes no sense to rush this project.&lt;/p&gt;&#xA;&lt;p&gt;The main reason is that most of the stuff I create these days either have to be brought to market as soon as possible (by yesterday please!). The other reason is that cutting corners for such a unique problem I try to solve results into missing certain details or solutions that might not be obvious at first sight. Even though I&amp;rsquo;m not sure if this is going to be a product, I do try to learn on how to design for manufacturing. Thanks to the wonderful folks at &lt;a href=&#34;http://dato.mu/&#34;&gt;Dato&lt;/a&gt; as sparring partners. There&amp;rsquo;s just soo much to learn when developing something from scratch with no previous examples or solutions available&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

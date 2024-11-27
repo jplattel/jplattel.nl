@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App-Engine on Joost Plattel</title>
-    <link>http://localhost:1313/tags/app-engine/</link>
+    <link>https://jplattel.nl/tags/app-engine/</link>
     <description>Recent content in App-Engine on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 20 May 2020 00:19:14 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/app-engine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/app-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vogsy</title>
-      <link>http://localhost:1313/client/vogsy/</link>
+      <link>https://jplattel.nl/client/vogsy/</link>
       <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
-      <guid>http://localhost:1313/client/vogsy/</guid>
+      <guid>https://jplattel.nl/client/vogsy/</guid>
       <description>&lt;p&gt;For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.&lt;/p&gt;&#xA;&lt;p&gt;All API integrations where build with &lt;em&gt;Python&lt;/em&gt; on App Engine. For each integration a seperate integration layer is build with full test-coverage. The architecture is based on Domain Driven Design (DDD).&lt;/p&gt;</description>
     </item>
   </channel>

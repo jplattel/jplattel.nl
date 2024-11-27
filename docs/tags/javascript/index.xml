@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Joost Plattel</title>
-    <link>http://localhost:1313/tags/javascript/</link>
+    <link>https://jplattel.nl/tags/javascript/</link>
     <description>Recent content in Javascript on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 15 Feb 2024 20:36:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy configuration for Circuit Python devices</title>
-      <link>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
+      <link>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
       <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
-      <guid>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
+      <guid>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
       <description>&lt;p&gt;While developing the &lt;a href=&#34;https://jplattel.nl/project/ov-klok/&#34;&gt;OV Klok&lt;/a&gt; I&amp;rsquo;ve been exploring how small trinkets and other technological utilities can be configured. Most of the time, it&amp;rsquo;s either trough a &lt;a href=&#34;https://www.wikiwand.com/en/Captive_portal&#34;&gt;captive portal&lt;/a&gt;, a self-served webserver or editing a configuration file. Both options aren&amp;rsquo;t really user friendly to me&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The captive portal is fails at times and doesn&amp;rsquo;t really work if you have a custom network configuration.&lt;/li&gt;&#xA;&lt;li&gt;The self served webpage requires a user to type in an address or IP, that&amp;rsquo;s only accessible in a specific mode..&lt;/li&gt;&#xA;&lt;li&gt;The configuration file is prone to errors and requires a user to edit a text file with an editor that they might not be comfortable with.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;web-serial-to-the-rescue&#34;&gt;Web serial to the rescue&lt;/h2&gt;&#xA;&lt;p&gt;For a simple device like the OV Klok a user only needs to configure the device once and I wanted it to be as fool proof as possible while being user-friendly too! I solved this with the power of &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API&#34;&gt;Web Serial&lt;/a&gt;. This allows a user to connect with a serial port through a webbrowser.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obsidian Query Language plugin published</title>
-      <link>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</link>
+      <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>
       <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</guid>
+      <guid>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve just published my first plugin for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;! As a &lt;strong&gt;huge fan&lt;/strong&gt; of the software the possibility of writing your own plugins to work with the data you create is just awesome! I&amp;rsquo;ve been using Obsidian for over 8 months now and one of the first things I created was &lt;a href=&#34;https://jplattel.nl/project/obsidian-clipper/&#34;&gt;the clipper&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Since a few months Obsidian now allows users to write plugins in Typescript. While I&amp;rsquo;m not that versed in the &lt;em&gt;Typescript/Javascript&lt;/em&gt; verse I did manage to write my first plugin! (well, technically not the first, but the only one published!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>My daily journaling scripts for Obsidian</title>
-      <link>http://localhost:1313/post/2020-08-14-obsidian-scripts/</link>
+      <link>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</link>
       <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-08-14-obsidian-scripts/</guid>
+      <guid>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</guid>
       <description>&lt;p&gt;Since I&amp;rsquo;m quite a heavy user of &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of &lt;a href=&#34;https://www.keyboardmaestro.com/main/&#34;&gt;Keyboard Meastro&lt;/a&gt; as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.&lt;/p&gt;&#xA;&lt;p&gt;Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates. Whether that is the &lt;em&gt;daily note&lt;/em&gt; or some other template I often use. Keyboad Meastro just reads these files and paste the contents right at the cursor when I type a certain string.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wafl</title>
-      <link>http://localhost:1313/client/wafl/</link>
+      <link>https://jplattel.nl/client/wafl/</link>
       <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
-      <guid>http://localhost:1313/client/wafl/</guid>
+      <guid>https://jplattel.nl/client/wafl/</guid>
       <description>&lt;p&gt;For Maurice van Dinther and &lt;a href=&#34;https://wafl.nu&#34;&gt;Wafl.nu&lt;/a&gt; I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with &lt;a href=&#34;https://svelte.dev/&#34;&gt;&lt;em&gt;Svelte&lt;/em&gt;&lt;/a&gt;. If a backend was required it was build with &lt;a href=&#34;https://aws.github.io/chalice/index.html&#34;&gt;&lt;em&gt;Chalice&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
