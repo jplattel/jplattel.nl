@@ -1,72 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DIY on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/diy/</link>
-    <description>Recent content in DIY on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Diy on Joost Plattel</title>
+    <link>http://localhost:1313/tags/diy/</link>
+    <description>Recent content in Diy on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 15 Apr 2022 11:15:17 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 11:15:17 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating VT-40 custom keyboard</title>
-      <link>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</link>
+      <link>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</guid>
-      <description>I&amp;rsquo;m no stranger to making keyboards and while I&amp;rsquo;m tinkering with creating a wearable keyboard I&amp;rsquo;ve stumbled upon many other builds of people that do interesting stuff.
-I&amp;rsquo;ve been browsing the usual reddits (r/mk, r/ErgoMechKeyboards and the likes) I stumbled upon a nice looking project that would get me into ortholinear&amp;hellip; I wanted a keyboard different enough that it&amp;rsquo;s worth building. So I ended up with the VT-40.
-My brother ordered the pcbs and components, I ordered the keycaps &amp;amp; switches since.</description>
+      <guid>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m no stranger to &lt;a href=&#34;https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/&#34;&gt;making keyboards&lt;/a&gt; and while I&amp;rsquo;m tinkering with creating a &lt;a href=&#34;https://wandering.computer/&#34;&gt;wearable keyboard&lt;/a&gt; I&amp;rsquo;ve stumbled upon many other builds of people that do interesting stuff.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been browsing the usual reddits (&lt;a href=&#34;https://reddit.com/r/mechanicalKeyboards/&#34;&gt;r/mk&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/ErgoMechKeyboards/&#34;&gt;r/ErgoMechKeyboards&lt;/a&gt; and the likes) I stumbled upon a nice looking project that would get me into ortholinear&amp;hellip; I wanted a keyboard different enough that it&amp;rsquo;s worth building. So I ended up with the &lt;a href=&#34;https://github.com/vladantrhlik/VT-40/&#34;&gt;VT-40&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ikbenke.es/&#34;&gt;My brother&lt;/a&gt; ordered the pcbs and components, I ordered the keycaps &amp;amp; switches since. With a few weeks passing and a couple of hours soldering stuff together, here&amp;rsquo;s the end result:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Automating my brewery (Part 2)</title>
-      <link>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</link>
+      <link>http://localhost:1313/post/2019-11-18-automating-my-brewery-part-2/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</guid>
-      <description>In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:
-The enclosure contains the following things:
-Backside: 230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input Frontside: Traffic-light interface: lights to indicate what is on.</description>
+      <guid>http://localhost:1313/post/2019-11-18-automating-my-brewery-part-2/</guid>
+      <description>&lt;p&gt;In the &lt;a href=&#34;https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/&#34;&gt;first part&lt;/a&gt;, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.jplattel.nl/file/jplattel-dropshare/2019-11-03-13.15.05-1574201936.jpg&#34; alt=&#34;Enclosure of the brewery controller&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The enclosure contains the following things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;230V IN: Voltage in, the main power supply for all devices in the enclosure&lt;/li&gt;&#xA;&lt;li&gt;230V OUT: Switched by the solid state relay based on the PID algorithm&lt;/li&gt;&#xA;&lt;li&gt;RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frontside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Traffic-light interface: lights to indicate what is on.&lt;/li&gt;&#xA;&lt;li&gt;LCD Display (16x4): The main interface on which you can see what is happing and change settings.&lt;/li&gt;&#xA;&lt;li&gt;4 Arcade buttons: the main input device for controlling everything.&lt;/li&gt;&#xA;&lt;li&gt;Twist dial: controlling the speed of the pump.&lt;/li&gt;&#xA;&lt;li&gt;Pump input &amp;amp; output: Connections for the pump.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solid state relay: switching on the main heating element (230V OUT)&lt;/li&gt;&#xA;&lt;li&gt;Pump power adapter: the pump has it&amp;rsquo;s own power converter&lt;/li&gt;&#xA;&lt;li&gt;Wemo D1 Mini lite: the main brains of the device, running micropython&lt;/li&gt;&#xA;&lt;li&gt;5 volt adapter: Used by the Wemo D1 Mini lite.&lt;/li&gt;&#xA;&lt;li&gt;Magnetically coupled pump: The main circulation device.&lt;/li&gt;&#xA;&lt;li&gt;Custom PCB: More on this later!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Most electric wiring is done with couplers, and only the lower voltages for the button and controllers are based on pins or screwterminals, which are less secure, but hey! In the next version I might want to make the shield for the wemo plug into the one for the display, saving another 4 wires.. But that&amp;rsquo;s for another time.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Automating my brewery (Part 1)</title>
-      <link>https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/</link>
+      <link>http://localhost:1313/post/2019-11-17-automating-my-brewery-part-1/</link>
       <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/</guid>
-      <description>As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.
-My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified Weck-kettle.</description>
+      <guid>http://localhost:1313/post/2019-11-17-automating-my-brewery-part-1/</guid>
+      <description>&lt;p&gt;As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.&lt;/p&gt;&#xA;&lt;p&gt;My brewing system consists of a Brew in a Bag (&lt;a href=&#34;https://biabbrewing.com/&#34;&gt;BIAB&lt;/a&gt;) system, build on a modified &lt;a href=&#34;https://www.weckenonline.com/inmaakketels-en-toebehoren&#34;&gt;Weck&lt;/a&gt;-kettle. I&amp;rsquo;m able to brew a batch of around 20L depending on how well filtration and mashing goes. I&amp;rsquo;ve been driving the mashing schedule based on a temperature meter just in the middle of the kettle and eye-balling it on how well it keeps the temperature. (&lt;em&gt;insulation helps keeping it more stable of longer periods time!&lt;/em&gt;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Making and Fixing Things</title>
-      <link>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</link>
+      <link>http://localhost:1313/post/2018-08-27-making-and-fixing-things/</link>
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</guid>
-      <description>I bougth a 3D printer together with my brother. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!
-As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like Fusion360.</description>
+      <guid>http://localhost:1313/post/2018-08-27-making-and-fixing-things/</guid>
+      <description>&lt;p&gt;I bougth a &lt;!-- raw HTML omitted --&gt;3D printer&lt;!-- raw HTML omitted --&gt; together with &lt;!-- raw HTML omitted --&gt;my brother&lt;!-- raw HTML omitted --&gt;. It&amp;rsquo;s not new technology, but it&amp;rsquo;s at a place where it&amp;rsquo;s solid and developed enough that I chose to buy one. That way I can spend my time with one as efficiently as possible, while developing new skills!&lt;/p&gt;&#xA;&lt;p&gt;As for what you can do with it? Fixing stuff for example, a custom bracket that broke in one of my kitchen appliances is now easily fixable by measuring the broken part en replicating it in 3D software like &lt;!-- raw HTML omitted --&gt;Fusion360&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Restoring an old plane</title>
-      <link>https://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</link>
+      <link>http://localhost:1313/post/2018-04-29-restoring_an_old_plane/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</guid>
-      <description>At one of the stands of a flea market during Kingsday here in the Netherlands, I found an old plane. And for only 2 euro I couldn&amp;rsquo;t leave it behind. I took it on me to restore it to its former glory. First step, dismantle the broken off handle, removing any drops of paint and cleaning the chisel from all the rust. I also took measurements of the old handle and started designing that in Fusion 360.</description>
+      <guid>http://localhost:1313/post/2018-04-29-restoring_an_old_plane/</guid>
+      <description>&lt;p&gt;At one of the stands of a flea market during Kingsday here in the Netherlands, I found an old plane. And for only 2 euro I couldn&amp;rsquo;t leave it behind. I took it on me to restore it to its former glory. First step, dismantle the broken off handle, removing any drops of paint and cleaning the chisel from all the rust. I also took measurements of the old handle and started designing that in Fusion 360. I love it how I just started using that and more projects come my way that need some kind of modeling. I also had to remove a big bolt that was mounted up front:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sous-vide Rice Cooker</title>
-      <link>https://jplattel.nl/project/sous-vide-ricecooker/</link>
+      <link>http://localhost:1313/project/sous-vide-ricecooker/</link>
       <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/sous-vide-ricecooker/</guid>
+      <guid>http://localhost:1313/project/sous-vide-ricecooker/</guid>
       <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
     </item>
-    
   </channel>
 </rss>

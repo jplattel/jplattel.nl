@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>code on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/code/</link>
-    <description>Recent content in code on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Code on Joost Plattel</title>
+    <link>http://localhost:1313/tags/code/</link>
+    <description>Recent content in Code on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micropython LCD menu: upymenu</title>
-      <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
+      <link>http://localhost:1313/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
-      <description>I&amp;rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.
-When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!</description>
+      <guid>http://localhost:1313/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve published my first library to &lt;a href=&#34;https://pypi.org/project/upymenu/&#34;&gt;PyPi&lt;/a&gt;! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the &lt;a href=&#34;https://github.com/arduino-libraries/LiquidCrystal&#34;&gt;Liquid Crystal&lt;/a&gt; and &lt;a href=&#34;https://github.com/VaSe7u/LiquidMenu&#34;&gt;Liquid Menu&lt;/a&gt; while developing on an Arduino.&lt;/p&gt;&#xA;&lt;p&gt;When I made the switch towards micropython I saw no such thing existed. But having a &lt;a href=&#34;https://www.wikiwand.com/en/Finite-state_machine&#34;&gt;statemachine&lt;/a&gt; like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My setup for Python projects</title>
-      <link>https://jplattel.nl/post/2020-01-19-python-projects-setup/</link>
+      <link>http://localhost:1313/post/2020-01-19-python-projects-setup/</link>
       <pubDate>Sun, 19 Jan 2020 20:07:24 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
-      <description>Inspired by a few blogs that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on clients that I have, but for my own projects this is what I mostly use:
-iTerm, zsh &amp;amp; oh-my-zsh with my own coloured theme. VSCode, with the following plugins: Python for VSCode autopep8 Bracket pair colorizer 2 Indent rainbow Git Lens Virtualenv (with virtualenvwrapper) All environments are saved in the ~/.</description>
+      <guid>http://localhost:1313/post/2020-01-19-python-projects-setup/</guid>
+      <description>&lt;p&gt;Inspired by a &lt;a href=&#34;https://medium.com/@markdlavin/my-python-environment-setup-fcddd0e99e5b&#34;&gt;few&lt;/a&gt; &lt;a href=&#34;https://jacobian.org/2019/nov/11/python-environment-2020/&#34;&gt;blogs&lt;/a&gt; that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on &lt;a href=&#34;https://jplattel.nl/client/&#34;&gt;clients&lt;/a&gt; that I have, but for my own projects this is what I mostly use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;iTerm, &lt;code&gt;zsh&lt;/code&gt; &amp;amp; &lt;code&gt;oh-my-zsh&lt;/code&gt; with &lt;a href=&#34;https://gist.github.com/jplattel/34f14bb95854c84a547d7049142270b0&#34;&gt;my own coloured theme.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;VSCode, with the following plugins:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python for VSCode&lt;/li&gt;&#xA;&lt;li&gt;autopep8&lt;/li&gt;&#xA;&lt;li&gt;Bracket pair colorizer 2&lt;/li&gt;&#xA;&lt;li&gt;Indent rainbow&lt;/li&gt;&#xA;&lt;li&gt;Git Lens&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Virtualenv (with &lt;a href=&#34;https://virtualenvwrapper.readthedocs.io/en/latest/&#34;&gt;virtualenvwrapper&lt;/a&gt;)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;All environments are saved in the &lt;code&gt;~/.environments&lt;/code&gt; folder,&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;black&lt;/code&gt; &amp;amp; &lt;code&gt;isort&lt;/code&gt; for code-formatting and sorting imports&lt;/li&gt;&#xA;&lt;li&gt;Pytest for tests, with coverage (&lt;code&gt;pytest-cov&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sometimes my projects are inside a Docker container and don&amp;rsquo;t need the virtual environment, a specific dockerfile for that Python version is sufficient enough.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Processing on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/processing/</link>
+    <link>http://localhost:1313/tags/processing/</link>
     <description>Recent content in Processing on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 27 Feb 2011 22:12:40 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/processing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Feb 2011 22:12:40 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring mouse interaction</title>
-      <link>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</link>
+      <link>http://localhost:1313/post/2011-02-27-measuring-mouse-interaction/</link>
       <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</guid>
-      <description>I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&amp;rsquo;t draw any conclusions about it because I switched my operating system too!
-However more recently I started using MacLogger and together with Jelle I&amp;rsquo;ve made some custom python and processing scripts that should offer more insight into my mouse usage.</description>
+      <guid>http://localhost:1313/post/2011-02-27-measuring-mouse-interaction/</guid>
+      <description>&lt;p&gt;I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&amp;rsquo;t draw any conclusions about it because I switched my operating system too!&lt;/p&gt;&#xA;&lt;p&gt;However more recently I started using MacLogger and together with &lt;a href=&#34;http://gedachtes.van.jelleakkerman.nl/&#34;&gt;Jelle&lt;/a&gt; I&amp;rsquo;ve made some custom python and processing scripts that should offer more insight into my mouse usage. When I showed the screenshot below to Jelle he noticed I don&amp;rsquo;t use my dock, as there are almost no points of rest at the side or bottom.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

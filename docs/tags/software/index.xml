@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/software/</link>
-    <description>Recent content in software on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Software on Joost Plattel</title>
+    <link>http://localhost:1313/tags/software/</link>
+    <description>Recent content in Software on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing SwiftUI apps With Chat-GPT</title>
-      <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
+      <link>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
-      <description>ChatGPT is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. paperclips might be optimized..) ✌️
-To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while.</description>
+      <guid>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://chat.openai.com/&#34;&gt;ChatGPT&lt;/a&gt; is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. &lt;a href=&#34;https://www.decisionproblem.com/paperclips/index2.html&#34;&gt;paperclips might be optimized&lt;/a&gt;..) ✌️&lt;/p&gt;&#xA;&lt;p&gt;To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while. The shortcomings of Finder can be summed up with:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Software architecture for a wearable computer</title>
-      <link>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</link>
+      <link>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</link>
       <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</guid>
-      <description>As you can read in previous posts. I&amp;rsquo;ve spend the last year designing a wearable keyboard that would allow you to type while walking. When I finally soldered everything, checked the connections for no shorts I tried flashing micropython on the Wemo D32 Pro&amp;rsquo;s that I use one didn&amp;rsquo;t seem to work.. Luckily I had a replacement on hand (learned that the hard-way, I&amp;rsquo;ll always be ordering extra now!).
-Before I want to dive into the software architecture, I wanted to explain why I don&amp;rsquo;t went with QMK or at least, not directly (more on that later!</description>
+      <guid>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</guid>
+      <description>&lt;p&gt;As you can read &lt;a href=&#34;http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/&#34;&gt;in previous posts&lt;/a&gt;. I&amp;rsquo;ve spend the last year designing a wearable keyboard that would allow you to type while walking. When I finally soldered everything, checked the connections for no shorts I tried flashing &lt;a href=&#34;https://micropython.org/&#34;&gt;micropython&lt;/a&gt; on the &lt;code&gt;Wemo D32 Pro&lt;/code&gt;&amp;rsquo;s that I use one didn&amp;rsquo;t seem to work.. Luckily I had a replacement on hand &lt;em&gt;(learned that the hard-way, I&amp;rsquo;ll always be ordering extra now!)&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Before I want to dive into the software architecture, I wanted to explain why I don&amp;rsquo;t went with &lt;a href=&#34;https://github.com/qmk/qmk_firmware/&#34;&gt;QMK&lt;/a&gt; or at least, not directly (more on that later!). While QMK is an awesome piece of software I wanted a bit more flexibility for my project. Interfacing with a SD, running a webserver and such are not things that QMK is meant for. I also wanted to explore Micropython a bit more in depth, since I&amp;rsquo;ve only done small projects with it. So, that&amp;rsquo;s the way to go!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

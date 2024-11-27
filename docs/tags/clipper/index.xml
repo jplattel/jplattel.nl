@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clipper on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/clipper/</link>
-    <description>Recent content in clipper on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Clipper on Joost Plattel</title>
+    <link>http://localhost:1313/tags/clipper/</link>
+    <description>Recent content in Clipper on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 10:23:30 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/clipper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 10:23:30 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/clipper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian Clipper</title>
-      <link>https://jplattel.nl/project/obsidian-clipper/</link>
+      <link>http://localhost:1313/project/obsidian-clipper/</link>
       <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/obsidian-clipper/</guid>
-      <description>This is an unofficial clipper for Obsidian that allows you to easily clip a selection to a note in Obsidian. More information can be found on Github or in this blogpost.</description>
+      <guid>http://localhost:1313/project/obsidian-clipper/</guid>
+      <description>&lt;p&gt;This is an unofficial clipper for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt; that allows you to easily clip a selection to a note in Obsidian. More information can be found on &lt;a href=&#34;https://github.com/jplattel/obsidian-clipper&#34;&gt;Github&lt;/a&gt; or in &lt;a href=&#34;https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/&#34;&gt;this blogpost&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/RPV_UwWLtU_EZ14u8wtTdiSPtEDJV6xHLU1u2rkGOJmPEJGDLLni1yZQ1EV18NQgDvuLMZyQAmUeGQw6S3PVB5g9=w640-h400-e365-rj-sc0x00ffffff&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

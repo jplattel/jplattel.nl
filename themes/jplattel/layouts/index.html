@@ -29,6 +29,10 @@
           <a class="icon" rel="me" href="https://mastodon.nl/@jplattel">
             <i class="fab fa-mastodon"></i>
           </a>
+          {{ else if eq $elem.name "bluesky" }}
+          <a class="icon" rel="me" href="https://bsky.app/profile/jplattel.nl">
+            <i class="fab fa-bluesky"></i>
+          </a>
           {{ else }}
           <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}">
             <i class="fab fa-{{ lower $elem.name }}"></i>

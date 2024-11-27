@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>philosophy on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/philosophy/</link>
-    <description>Recent content in philosophy on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Philosophy on Joost Plattel</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 22:00:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Symbiose Studio</title>
-      <link>https://jplattel.nl/client/symbiose-studio/</link>
+      <link>http://localhost:1313/client/symbiose-studio/</link>
       <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/symbiose-studio/</guid>
-      <description>Working with Bertrand from Symbiose Studio I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. Learn more at Symbiose Studio.
-Photo by Ivar Pel
-Each object carries a microcontroller that is running micropython and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects.</description>
+      <guid>http://localhost:1313/client/symbiose-studio/</guid>
+      <description>&lt;p&gt;Working with &lt;a href=&#34;https://symbiose.studio/&#34;&gt;Bertrand from Symbiose Studio&lt;/a&gt; I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. &lt;a href=&#34;https://symbiose.studio/projects/intimate-implant/&#34;&gt;Learn more at Symbiose Studio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/intimate-implant.jpg&#34; alt=&#34;Intimate Implant at Betweter Festival&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Photo by &lt;a href=&#34;https://www.ivarpel.nl/&#34;&gt;Ivar Pel&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each object carries a microcontroller that is running &lt;code&gt;micropython&lt;/code&gt; and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

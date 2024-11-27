@@ -5,8 +5,6 @@ title = "Joost Plattel"
 theme = "jplattel"
 copyright = "Joost Plattel"
 
-# googleAnalytics = "G-C2L3ECH2MV"
-
 # summaryLength = 2
 
 # Main menu which appears below site header.
@@ -50,7 +48,7 @@ weight = 7
   # Basic
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
   description = "I’m Joost Plattel, I'd like to call myself an auxiliary technologist. I assist organisations and individuals with technology and help them future strategies."
 
   # Home page settings
@@ -65,16 +63,15 @@ weight = 7
   show_updated = false # default
 
   # the value of name should be an valid font awesome icon name (brands type)
-  # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/jplattel"
-  [[params.social]]
-    name = "mastodon"
-    link = "https://mastodon.nl/@jplattel"
+    name = "bluesky"
+    link = "https://bsky.app/profile/jplattel.nl"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/joostplattel"
+  [[params.social]]
+    name = "mastodon"
+    link = "https://mastodon.nl/@jplattel"
   [[params.social]]
     name = "instagram"
     link = "https://instagram.com/jplattel"
@@ -87,6 +84,9 @@ weight = 7
   [[params.social]]
     name = "goodreads"
     link = "https://www.goodreads.com/user/show/4883795-joost-plattel"
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/jplattel"
   [[params.social]]
     name = "email"
     link = "jsplattel@gmail.com"  # no need for "mailto:" in the head

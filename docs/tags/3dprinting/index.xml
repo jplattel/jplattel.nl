@@ -2,40 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3dprinting on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/3dprinting/</link>
+    <link>http://localhost:1313/tags/3dprinting/</link>
     <description>Recent content in 3dprinting on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 26 Dec 2022 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/3dprinting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 23:28:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/3dprinting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SOVN</title>
-      <link>https://jplattel.nl/client/sovn/</link>
+      <link>http://localhost:1313/client/sovn/</link>
       <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/sovn/</guid>
-      <description>Sovn (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.
-All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.</description>
+      <guid>http://localhost:1313/client/sovn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://getsovn.com/&#34;&gt;Sovn&lt;/a&gt; (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.&lt;/p&gt;&#xA;&lt;p&gt;All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Configuring Mainsail With Zerotier</title>
-      <link>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
+      <link>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
-      <description>This blogpost mostly functions as a reminder to myself on how to configure Mainsail to use Zerotier. If you&amp;rsquo;re unfamiliar with any of the two, the first one is a operating system made for running a 3D printer and the second one allows for a network layer for personal computing, connecting devices over SD-WAN &amp;amp; VPN.
-I was running Octoprint for a while, but after a tip by David from Dato I went on to explore Mainsail.</description>
+      <guid>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
+      <description>&lt;p&gt;This blogpost mostly functions as a reminder to myself on how to configure &lt;a href=&#34;https://docs.mainsail.xyz/&#34;&gt;Mainsail&lt;/a&gt; to use &lt;a href=&#34;https://www.zerotier.com/&#34;&gt;Zerotier&lt;/a&gt;. If you&amp;rsquo;re unfamiliar with any of the two, the first one is a operating system made for running a 3D printer and the second one allows for a network layer for personal computing, connecting devices over SD-WAN &amp;amp; VPN.&lt;/p&gt;&#xA;&lt;p&gt;I was running Octoprint for a while, but after a tip by David from &lt;a href=&#34;https://dato.mu/&#34;&gt;Dato&lt;/a&gt; I went on to explore Mainsail. Mainsail is a better way to run your printer, and it&amp;rsquo;s way faster then Octoprint. So far I&amp;rsquo;ve been running it for a week and I&amp;rsquo;m pretty happy about it! The only thing that was missing was the remote connection I had with Octoprint, made possible by Zerotier.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Front404</title>
-      <link>https://jplattel.nl/client/front404/</link>
+      <link>http://localhost:1313/client/front404/</link>
       <pubDate>Wed, 30 Jun 2021 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/front404/</guid>
-      <description>Bas van Oerle and Thomas voor &amp;rsquo;t Hekke asked me to develop a series of crystals and 3D print them for immersive theater. I&amp;rsquo;ve designed a set of 16 crystals that can be filled with LEDs for interactivity.</description>
+      <guid>http://localhost:1313/client/front404/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://front404.com/&#34;&gt;Bas van Oerle and Thomas voor &amp;rsquo;t Hekke&lt;/a&gt; asked me to develop a series of crystals and 3D print them for immersive theater. I&amp;rsquo;ve designed a set of 16 crystals that can be filled with LEDs for interactivity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/crystals-front404.jpg&#34; alt=&#34;A crystal being printed&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

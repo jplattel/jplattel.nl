@@ -1,83 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>quantified-self on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/quantified-self/</link>
-    <description>Recent content in quantified-self on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Quantified Self on Joost Plattel</title>
+    <link>http://localhost:1313/tags/quantified-self/</link>
+    <description>Recent content in Quantified Self on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 30 May 2018 23:27:24 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/quantified-self/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 May 2018 23:27:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/quantified-self/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colliers</title>
-      <link>https://jplattel.nl/client/colliers/</link>
+      <link>http://localhost:1313/client/colliers/</link>
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/colliers/</guid>
-      <description>Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.
-During the entire year of tracking Phoebe V. Moore as researcher investigated the impact of the platform.
-As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with Python and the main dashboard is based on Django.</description>
+      <guid>http://localhost:1313/client/colliers/</guid>
+      <description>&lt;p&gt;Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.&lt;/p&gt;&#xA;&lt;p&gt;During the entire year of tracking &lt;a href=&#34;https://www2.le.ac.uk/departments/business/people/academic/phoebe-moore&#34;&gt;Phoebe V. Moore&lt;/a&gt; as researcher investigated the impact of the platform.&lt;/p&gt;&#xA;&lt;p&gt;As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with &lt;em&gt;Python&lt;/em&gt; and the main dashboard is based on &lt;em&gt;Django&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quantified Self community</title>
-      <link>https://jplattel.nl/project/quantifiedself/</link>
+      <link>http://localhost:1313/project/quantifiedself/</link>
       <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/quantifiedself/</guid>
+      <guid>http://localhost:1313/project/quantifiedself/</guid>
       <description>I co-founded the QS Amsterdam group &amp;amp; started the QS Conference in Europe.</description>
     </item>
-    
     <item>
       <title>So what am I tracking?</title>
-      <link>https://jplattel.nl/post/2011-03-31-what-am-i-tracking/</link>
+      <link>http://localhost:1313/post/2011-03-31-what-am-i-tracking/</link>
       <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-03-31-what-am-i-tracking/</guid>
-      <description>I&amp;rsquo;ll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I&amp;rsquo;m tracking to function as an archive or feedback loop. If I have some more time, I&amp;rsquo;ll explain the things I use to make this all possible.
-Distance travelled (which cities did I visit?) Which people do I meet everyday?</description>
+      <guid>http://localhost:1313/post/2011-03-31-what-am-i-tracking/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll figured out to publish this, not only for my archives, but also to share some insight into the data that a person could generate. Have a look at the things I&amp;rsquo;m tracking to function as an archive or feedback loop. If I have some more time, I&amp;rsquo;ll explain the things I use to make this all possible.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Distance travelled (which cities did I visit?)&lt;/li&gt;&#xA;&lt;li&gt;Which people do I meet everyday?&lt;/li&gt;&#xA;&lt;li&gt;What projects did I work on? And how much time?&lt;/li&gt;&#xA;&lt;li&gt;How much work got done? (productivity, scale 1-10)&lt;/li&gt;&#xA;&lt;li&gt;How do I physically and mentally? (1-10 scale for both)&lt;/li&gt;&#xA;&lt;li&gt;Top 5 of nice and bad things that happend today&lt;/li&gt;&#xA;&lt;li&gt;General rate of the day (1-10 scale)&lt;/li&gt;&#xA;&lt;li&gt;How much coffee, tea, water etc did I drink (no other food tracking yet)&lt;/li&gt;&#xA;&lt;li&gt;Did I exercise? Is the activity logged by Runkeeper? (speed &amp;amp; GPS)&lt;/li&gt;&#xA;&lt;li&gt;Dreams (not quite everyday but interesting as I&amp;rsquo;m exploring lucid dreaming)&lt;/li&gt;&#xA;&lt;li&gt;How many hours did I sleep (and how well rested am I each morning?)&lt;/li&gt;&#xA;&lt;li&gt;Take a picture everyday at 8:36pm&lt;/li&gt;&#xA;&lt;li&gt;Daily photo of myself with the Everyday App&lt;/li&gt;&#xA;&lt;li&gt;Reading patterns (mashup through Read It Later list)&lt;/li&gt;&#xA;&lt;li&gt;Software usage with Rescue Time &amp;amp; Wakoopa&lt;/li&gt;&#xA;&lt;li&gt;Casually I track my mouse patterns with MacLogger&lt;/li&gt;&#xA;&lt;li&gt;Lifelapses (only on special events)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;In addition there are other data-stream which can be used for data collection:&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dabblings in Processing</title>
-      <link>https://jplattel.nl/post/2011-01-08-dabblings-in-processing/</link>
+      <link>http://localhost:1313/post/2011-01-08-dabblings-in-processing/</link>
       <pubDate>Sat, 08 Jan 2011 14:20:30 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-01-08-dabblings-in-processing/</guid>
-      <description>The collected data of 2010, mostly trough PersonalStats, but Foursquare and Twitter too, is a huge amount. Next to interpreting this data and using the information to create a feedback moment, the data can also turned into art. Nicholas Felton makes a perfect example: his highly interesting Annual Report fascinates me in both visual and informational ways.
-As Kees discovered Processing, it left me wondering what I could do with it.</description>
+      <guid>http://localhost:1313/post/2011-01-08-dabblings-in-processing/</guid>
+      <description>&lt;p&gt;The collected data of 2010, mostly trough &lt;a href=&#34;http://PersonalStats.nl&#34;&gt;PersonalStats&lt;/a&gt;, but Foursquare and Twitter too, is a huge amount. Next to interpreting this data and using the information to create a feedback moment, the data can also turned into art. &lt;a href=&#34;http://www.feltron.com&#34;&gt;Nicholas Felton&lt;/a&gt; makes a perfect example: his highly interesting Annual Report fascinates me in both visual and informational ways.&lt;/p&gt;&#xA;&lt;p&gt;As &lt;a href=&#34;http://ikbenke.es&#34;&gt;Kees&lt;/a&gt; discovered &lt;a href=&#34;http://www.processing.org&#34;&gt;Processing&lt;/a&gt;, it left me wondering what I could do with it. Just before 2011 I decided to make a Annual Report with Processing as my weapon of choice.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My view of technology</title>
-      <link>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</link>
+      <link>http://localhost:1313/post/2010-10-06-my-view-of-technology/</link>
       <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</guid>
-      <description>A random train of thoughts:
-When biology is technology and man tries to grasp the amount of data generated and collected, most people think of this as unnatural. Yet it&amp;rsquo;s true that mankind can not yet understand the potential of ambient measuring of information streams. Ubiquitous capture of data could bring insight in how technology and specifically our body (which is a perfect example of technology in it&amp;rsquo;s own right) works.</description>
+      <guid>http://localhost:1313/post/2010-10-06-my-view-of-technology/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;random&lt;/strong&gt; train of thoughts:&lt;/p&gt;&#xA;&lt;p&gt;When biology is technology and man tries to grasp the amount of data generated and collected, most people think of this as unnatural. Yet it&amp;rsquo;s true that mankind can not yet understand the potential of ambient measuring of information streams. Ubiquitous capture of data could bring insight in how technology and specifically our body (which is a perfect example of technology in it&amp;rsquo;s own right) works.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>QS Amsterdam Recap #1</title>
-      <link>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <link>http://localhost:1313/post/2010-09-27-qs-amsterdam-recap-1/</link>
       <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</guid>
-      <description>On 20 september the first Quantified Self Amsterdam Meetup took place in het volkskrantgebouw. More then 60 people attended and we had guests from Germany and France! A full recap can be found on the main QS blog and the video’s on vimeo. Sebastiaan ter Burg provided the video/photo capture and Kees Plattel made a wonderful intro!
-I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is!</description>
+      <guid>http://localhost:1313/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <description>&lt;p&gt;On 20 september the first &lt;a href=&#34;http://www.meetup.com/qsamsterdam/&#34;&gt;Quantified Self Amsterdam Meetup&lt;/a&gt; took place in &lt;em&gt;het volkskrantgebouw&lt;/em&gt;. More then 60 people attended and we had guests from Germany and France! A &lt;a href=&#34;http://quantifiedself.com/&#34;&gt;full recap&lt;/a&gt; can be found on the main QS blog and the video’s on &lt;a href=&#34;http://vimeo.com/qsams&#34;&gt;vimeo&lt;/a&gt;. &lt;a href=&#34;http://www.ter-burg.nl/&#34;&gt;Sebastiaan ter Burg&lt;/a&gt; provided the video/&lt;a href=&#34;http://www.flickr.com/photos/qsams&#34;&gt;photo&lt;/a&gt; capture and &lt;a href=&#34;http://www.ikbenke.es/&#34;&gt;Kees Plattel&lt;/a&gt; made a wonderful &lt;a href=&#34;http://vimeo.com/14967809&#34;&gt;intro&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is! Or do you have a personal story to share, feel free to &lt;a href=&#34;http://www.jplattel.nl/contact/&#34;&gt;contact&lt;/a&gt; me!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GeoTracking: streaming GPS locations</title>
-      <link>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</link>
+      <link>http://localhost:1313/post/2010-08-31-geotracking-streaming-gps-locations/</link>
       <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
-      <description>I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.
-Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.
-I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone.</description>
+      <guid>http://localhost:1313/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/8545134&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone. So I ventured into python and after reading &lt;a href=&#34;http://eric-blue.com/2010/08/28/geolocation-gps-and-self-tracking/&#34;&gt;Eric Blue’s blog&lt;/a&gt; I came up with a solution.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

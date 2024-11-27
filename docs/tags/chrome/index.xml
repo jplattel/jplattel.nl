@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chrome on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/chrome/</link>
-    <description>Recent content in chrome on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Chrome on Joost Plattel</title>
+    <link>http://localhost:1313/tags/chrome/</link>
+    <description>Recent content in Chrome on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 10:23:30 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 10:23:30 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian Clipper</title>
-      <link>https://jplattel.nl/project/obsidian-clipper/</link>
+      <link>http://localhost:1313/project/obsidian-clipper/</link>
       <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/obsidian-clipper/</guid>
-      <description>This is an unofficial clipper for Obsidian that allows you to easily clip a selection to a note in Obsidian. More information can be found on Github or in this blogpost.</description>
+      <guid>http://localhost:1313/project/obsidian-clipper/</guid>
+      <description>&lt;p&gt;This is an unofficial clipper for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt; that allows you to easily clip a selection to a note in Obsidian. More information can be found on &lt;a href=&#34;https://github.com/jplattel/obsidian-clipper&#34;&gt;Github&lt;/a&gt; or in &lt;a href=&#34;https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/&#34;&gt;this blogpost&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/RPV_UwWLtU_EZ14u8wtTdiSPtEDJV6xHLU1u2rkGOJmPEJGDLLni1yZQ1EV18NQgDvuLMZyQAmUeGQw6S3PVB5g9=w640-h400-e365-rj-sc0x00ffffff&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chrome plugins for RPA</title>
-      <link>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</link>
+      <link>http://localhost:1313/post/2020-08-16-chrome-plugin-rpa-automation/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</guid>
-      <description>As someone who creates shortcuts and automations all the time I often get asked questions about certain things to automate that aren&amp;rsquo;t really like the things I personally do.
-Most of the time this has to do with web applications and the barrier of create an entire app (if there even is an API available) is way to high based on price or time spend. More recently I discovered that an easy way of packaging and shipping things for individuals to larger groups could often be in the form of a Chrome extension.</description>
+      <guid>http://localhost:1313/post/2020-08-16-chrome-plugin-rpa-automation/</guid>
+      <description>&lt;p&gt;As someone who creates shortcuts and automations all the time I often get asked questions about certain things to automate that aren&amp;rsquo;t really like the things I personally do.&lt;/p&gt;&#xA;&lt;p&gt;Most of the time this has to do with web applications and the barrier of create an entire app (if there even is an API available) is way to high based on price or time spend. More recently I discovered that an easy way of packaging and shipping things for individuals to larger groups could often be in the form of a &lt;em&gt;Chrome extension&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

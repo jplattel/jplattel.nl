@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iphone on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/iphone/</link>
-    <description>Recent content in iphone on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Iphone on Joost Plattel</title>
+    <link>http://localhost:1313/tags/iphone/</link>
+    <description>Recent content in Iphone on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 16 Oct 2018 23:38:39 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Oct 2018 23:38:39 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iPhone XS NFC Shortcuts</title>
-      <link>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
+      <link>http://localhost:1313/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
-      <description>I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a NFC reader. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)
-Anyhow, one of the ideas I wanted to work out was the action of turning on an alarm automatically when touching a tag.</description>
+      <guid>http://localhost:1313/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a &lt;!-- raw HTML omitted --&gt;NFC reader&lt;!-- raw HTML omitted --&gt;. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

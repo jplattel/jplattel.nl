@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>curious on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/curious/</link>
-    <description>Recent content in curious on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Curious on Joost Plattel</title>
+    <link>http://localhost:1313/tags/curious/</link>
+    <description>Recent content in Curious on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 21 Apr 2018 20:38:30 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/curious/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Apr 2018 20:38:30 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/curious/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Curious Corner of the Internet</title>
-      <link>https://jplattel.nl/project/curious_corner/</link>
+      <link>http://localhost:1313/project/curious_corner/</link>
       <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/curious_corner/</guid>
+      <guid>http://localhost:1313/project/curious_corner/</guid>
       <description>A (almost) monthly newsletter stocked with the stuff I find on the corners of the internet!</description>
     </item>
-    
   </channel>
 </rss>

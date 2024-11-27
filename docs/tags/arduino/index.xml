@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>arduino on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/arduino/</link>
-    <description>Recent content in arduino on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Arduino on Joost Plattel</title>
+    <link>http://localhost:1313/tags/arduino/</link>
+    <description>Recent content in Arduino on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 26 Dec 2022 23:28:49 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 23:28:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SOVN</title>
-      <link>https://jplattel.nl/client/sovn/</link>
+      <link>http://localhost:1313/client/sovn/</link>
       <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/sovn/</guid>
-      <description>Sovn (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.
-All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.</description>
+      <guid>http://localhost:1313/client/sovn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://getsovn.com/&#34;&gt;Sovn&lt;/a&gt; (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.&lt;/p&gt;&#xA;&lt;p&gt;All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Making a bluetooth Sudoku keyboard</title>
-      <link>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
+      <link>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
-      <description>My girlfriend loves to solves sudoku&amp;rsquo;s and most of the time she&amp;rsquo;s doing so on her iPhone.. As a belated birthday gift I made her a custom sudoku-keyboard with just 9 keys. Who needs more if you just want to do a sudoku right?
-This was a perfect opportunity for me to dive some more into hardware and especially bluetooth things&amp;hellip; The entire body is 3D printed and has threaded inserts with M3 screws and basic keycaps.</description>
+      <guid>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
+      <description>&lt;p&gt;My girlfriend loves to solves &lt;em&gt;sudoku&lt;/em&gt;&amp;rsquo;s and most of the time she&amp;rsquo;s doing so on her iPhone.. As a belated birthday gift I made her a custom sudoku-keyboard with just &lt;strong&gt;9 keys&lt;/strong&gt;. Who needs more if you just want to do a sudoku right?&lt;/p&gt;&#xA;&lt;p&gt;This was a perfect opportunity for me to dive some more into hardware and especially bluetooth things&amp;hellip; The entire body is 3D printed and has threaded inserts with M3 screws and basic keycaps. After prototyping the electronics I soldered the keycaps together and tadaa:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

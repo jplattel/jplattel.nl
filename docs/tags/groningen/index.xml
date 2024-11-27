@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>groningen on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/groningen/</link>
-    <description>Recent content in groningen on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Groningen on Joost Plattel</title>
+    <link>http://localhost:1313/tags/groningen/</link>
+    <description>Recent content in Groningen on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 22 Apr 2018 00:13:25 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/groningen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Apr 2018 00:13:25 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/groningen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DIY Longboard</title>
-      <link>https://jplattel.nl/project/diy-longboard/</link>
+      <link>http://localhost:1313/project/diy-longboard/</link>
       <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/diy-longboard/</guid>
+      <guid>http://localhost:1313/project/diy-longboard/</guid>
       <description>I created my own longboard from scratch (with a Mondrian pattern on the back).</description>
     </item>
-    
   </channel>
 </rss>

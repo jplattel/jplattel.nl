@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>automating on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/automating/</link>
-    <description>Recent content in automating on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Automating on Joost Plattel</title>
+    <link>http://localhost:1313/tags/automating/</link>
+    <description>Recent content in Automating on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/automating/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/automating/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automating my brewery (Part 2)</title>
-      <link>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</link>
+      <link>http://localhost:1313/post/2019-11-18-automating-my-brewery-part-2/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</guid>
-      <description>In the first part, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:
-The enclosure contains the following things:
-Backside: 230V IN: Voltage in, the main power supply for all devices in the enclosure 230V OUT: Switched by the solid state relay based on the PID algorithm RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input Frontside: Traffic-light interface: lights to indicate what is on.</description>
+      <guid>http://localhost:1313/post/2019-11-18-automating-my-brewery-part-2/</guid>
+      <description>&lt;p&gt;In the &lt;a href=&#34;https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/&#34;&gt;first part&lt;/a&gt;, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.jplattel.nl/file/jplattel-dropshare/2019-11-03-13.15.05-1574201936.jpg&#34; alt=&#34;Enclosure of the brewery controller&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The enclosure contains the following things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;230V IN: Voltage in, the main power supply for all devices in the enclosure&lt;/li&gt;&#xA;&lt;li&gt;230V OUT: Switched by the solid state relay based on the PID algorithm&lt;/li&gt;&#xA;&lt;li&gt;RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frontside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Traffic-light interface: lights to indicate what is on.&lt;/li&gt;&#xA;&lt;li&gt;LCD Display (16x4): The main interface on which you can see what is happing and change settings.&lt;/li&gt;&#xA;&lt;li&gt;4 Arcade buttons: the main input device for controlling everything.&lt;/li&gt;&#xA;&lt;li&gt;Twist dial: controlling the speed of the pump.&lt;/li&gt;&#xA;&lt;li&gt;Pump input &amp;amp; output: Connections for the pump.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solid state relay: switching on the main heating element (230V OUT)&lt;/li&gt;&#xA;&lt;li&gt;Pump power adapter: the pump has it&amp;rsquo;s own power converter&lt;/li&gt;&#xA;&lt;li&gt;Wemo D1 Mini lite: the main brains of the device, running micropython&lt;/li&gt;&#xA;&lt;li&gt;5 volt adapter: Used by the Wemo D1 Mini lite.&lt;/li&gt;&#xA;&lt;li&gt;Magnetically coupled pump: The main circulation device.&lt;/li&gt;&#xA;&lt;li&gt;Custom PCB: More on this later!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Most electric wiring is done with couplers, and only the lower voltages for the button and controllers are based on pins or screwterminals, which are less secure, but hey! In the next version I might want to make the shield for the wemo plug into the one for the display, saving another 4 wires.. But that&amp;rsquo;s for another time.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Automating my brewery (Part 1)</title>
-      <link>https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/</link>
+      <link>http://localhost:1313/post/2019-11-17-automating-my-brewery-part-1/</link>
       <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/</guid>
-      <description>As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.
-My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified Weck-kettle.</description>
+      <guid>http://localhost:1313/post/2019-11-17-automating-my-brewery-part-1/</guid>
+      <description>&lt;p&gt;As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.&lt;/p&gt;&#xA;&lt;p&gt;My brewing system consists of a Brew in a Bag (&lt;a href=&#34;https://biabbrewing.com/&#34;&gt;BIAB&lt;/a&gt;) system, build on a modified &lt;a href=&#34;https://www.weckenonline.com/inmaakketels-en-toebehoren&#34;&gt;Weck&lt;/a&gt;-kettle. I&amp;rsquo;m able to brew a batch of around 20L depending on how well filtration and mashing goes. I&amp;rsquo;ve been driving the mashing schedule based on a temperature meter just in the middle of the kettle and eye-balling it on how well it keeps the temperature. (&lt;em&gt;insulation helps keeping it more stable of longer periods time!&lt;/em&gt;)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

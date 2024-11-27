@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ov on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/ov/</link>
-    <description>Recent content in ov on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Ov on Joost Plattel</title>
+    <link>http://localhost:1313/tags/ov/</link>
+    <description>Recent content in Ov on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 17:09:44 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/ov/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 17:09:44 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OV Klok</title>
-      <link>https://jplattel.nl/project/ov-klok/</link>
+      <link>http://localhost:1313/project/ov-klok/</link>
       <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/project/ov-klok/</guid>
+      <guid>http://localhost:1313/project/ov-klok/</guid>
       <description>A small hardware project that uses and ESP32 and pressure-forming plastic</description>
     </item>
-    
     <item>
       <title>EHBA.app</title>
-      <link>https://jplattel.nl/project/ehba/</link>
+      <link>http://localhost:1313/project/ehba/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/ehba/</guid>
+      <guid>http://localhost:1313/project/ehba/</guid>
       <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
     </item>
-    
   </channel>
 </rss>

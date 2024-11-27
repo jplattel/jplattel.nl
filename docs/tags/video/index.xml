@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>video on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/video/</link>
-    <description>Recent content in video on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Video on Joost Plattel</title>
+    <link>http://localhost:1313/tags/video/</link>
+    <description>Recent content in Video on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 04 Jan 2020 20:13:46 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2020 20:13:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Celebrating 10 years of 8:36pm</title>
-      <link>https://jplattel.nl/post/2020-01-04-celebrating-ten-years-836pm/</link>
+      <link>http://localhost:1313/post/2020-01-04-celebrating-ten-years-836pm/</link>
       <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2020-01-04-celebrating-ten-years-836pm/</guid>
-      <description>Today marks something special. Ten years ago, inspired by Buster Benson I started taking a picture at 8:36pm every day. A simple thing you might think, but in the end I kept doing it and to this day I still do.
-Keeping a habit for 10 years makes it a bit extraordinairy and I can say I will continue taking a picture! Below you will find this years movie of all the photos I took.</description>
+      <guid>http://localhost:1313/post/2020-01-04-celebrating-ten-years-836pm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Today marks something special&lt;/em&gt;. Ten years ago, inspired by &lt;a href=&#34;https://busterbenson.com/&#34;&gt;Buster Benson&lt;/a&gt; I started taking a picture at &lt;strong&gt;8:36pm every day&lt;/strong&gt;. A simple thing you might think, but in the end I kept doing it and to this day I still do.&lt;/p&gt;&#xA;&lt;p&gt;Keeping a habit for 10 years makes it a bit extraordinairy and I can say I will continue taking a picture! Below you will find this years movie of all the photos I took. And if you want to have a look at all the videos, checkout this &lt;a href=&#34;https://vimeo.com/showcase/6688367&#34;&gt;Vimeo collection&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

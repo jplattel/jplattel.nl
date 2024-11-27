@@ -58,6 +58,14 @@
     </div>
   </article>
 
+  <bsky-comments post="{{ .Permalink }}"></bsky-comments>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      initBlueskyComments('bluesky-comments', { author: 'jplattel.nl' });
+    });
+  </script>
+
   {{ partial "related.html" . }}
 
   {{ partial "footer.html" . }}

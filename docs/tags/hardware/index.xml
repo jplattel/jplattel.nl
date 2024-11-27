@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hardware on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/hardware/</link>
-    <description>Recent content in hardware on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Hardware on Joost Plattel</title>
+    <link>http://localhost:1313/tags/hardware/</link>
+    <description>Recent content in Hardware on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 19 Apr 2021 21:01:37 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 21:01:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finalizing the hardware for a wearable keyboard</title>
-      <link>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
+      <link>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
       <pubDate>Mon, 19 Apr 2021 21:01:37 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
-      <description>In a previous post I&amp;rsquo;ve shown physical prototypes of a wearable keyboard I&amp;rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.
-Most of the comments I get have to do with why I don&amp;rsquo;t use dictation. There are several reasons for that, namely I&amp;rsquo;m taking my notes bilingual (English &amp;amp; Dutch) and I don&amp;rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&amp;hellip;</description>
+      <guid>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;http://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;a previous post&lt;/a&gt; I&amp;rsquo;ve shown physical prototypes of a wearable keyboard I&amp;rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.&lt;/p&gt;&#xA;&lt;p&gt;Most of the comments I get have to do with &lt;em&gt;why I don&amp;rsquo;t use dictation.&lt;/em&gt; There are several reasons for that, namely I&amp;rsquo;m taking my notes bilingual (English &amp;amp; Dutch) and I don&amp;rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sous-vide Rice Cooker</title>
-      <link>https://jplattel.nl/project/sous-vide-ricecooker/</link>
+      <link>http://localhost:1313/project/sous-vide-ricecooker/</link>
       <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/sous-vide-ricecooker/</guid>
+      <guid>http://localhost:1313/project/sous-vide-ricecooker/</guid>
       <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
     </item>
-    
   </channel>
 </rss>

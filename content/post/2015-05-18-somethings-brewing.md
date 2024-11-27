@@ -3,7 +3,6 @@ layout: post
 title: Something's brewing!
 date: 2015-05-18 11:12:35.000000000 +02:00
 type: post
-published: true
 status: publish
 tags:
 - beer

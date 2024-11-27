@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dream on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/dream/</link>
-    <description>Recent content in dream on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Dream on Joost Plattel</title>
+    <link>http://localhost:1313/tags/dream/</link>
+    <description>Recent content in Dream on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 19 Apr 2011 20:26:21 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/dream/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2011 20:26:21 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dream/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My method for improving dream recall</title>
-      <link>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</link>
+      <link>http://localhost:1313/post/2011-04-19-my-method-for-improving-dream-recall/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</guid>
-      <description>On average, a human spends one third (8 hours) of it&amp;rsquo;s time sleeping. That&amp;rsquo;s a lot and one of the reasons I decided to dip my interest into dreaming and dream recall.
-With trial and error, I&amp;rsquo;ve made a modified version of the WILD method that works for me with a success-rate of about 80% for dream recall, no lucid state yet. So here is how it works:
-Determine the amount of sleep you want to get (preferring a multiple of 1.</description>
+      <guid>http://localhost:1313/post/2011-04-19-my-method-for-improving-dream-recall/</guid>
+      <description>&lt;p&gt;On average, a human spends one third (8 hours) of it&amp;rsquo;s time sleeping. That&amp;rsquo;s a lot and one of the reasons I decided to dip my interest into dreaming and dream recall.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/f04c71f48e4c3002feac28c5ed05f94d.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;With trial and error, I&amp;rsquo;ve made a modified version of the &lt;a href=&#34;http://www.world-of-lucid-dreaming.com/wake-induced-lucid-dreams.html&#34;&gt;WILD&lt;/a&gt; method that works for me with a success-rate of about 80% for dream recall, no lucid state yet. So here is how it works:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Determine the amount of sleep you want to get (preferring a multiple of &lt;a href=&#34;http://en.wikipedia.org/wiki/Sleep#cite_note-12&#34;&gt;1.5 hours&lt;/a&gt; such as 7.5)&lt;/li&gt;&#xA;&lt;li&gt;Set two alarm clocks, one half an hour in advance of the other. The last alarm should be the time you want to wake up.&lt;/li&gt;&#xA;&lt;li&gt;Put the first alarm in reach so you can turn it off immediately after it wakes you up (I use my iPhone for this one)&lt;/li&gt;&#xA;&lt;li&gt;I place the second one straight across the room which forces me to get out of bed (harsh but it works).&lt;/li&gt;&#xA;&lt;li&gt;Done, now go forth and sleep.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This setup improved my dream-recall and works about 80% of the time. I ordered a &lt;a href=&#34;http://www.fitbit.com/&#34;&gt;FitBit&lt;/a&gt; to track movements during sleep for additional statistics, but as Tim Ferriss notes in the &lt;a href=&#34;http://www.fourhourbody.com/&#34;&gt;4 Hour Body&lt;/a&gt;, movement does not equal certain sleep-states like REM or deep sleep. Nevertheless it should give me more insight in how my sleep progresses during the night.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

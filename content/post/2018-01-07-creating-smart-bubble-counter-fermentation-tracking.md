@@ -3,7 +3,6 @@ layout: post
 title: "Creating smart bubble counter fermentation process tracking"
 date: 2018-01-07
 type: post
-published: true
 status: publish
 author:
   login: Joost Plattel

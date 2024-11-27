@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jupyter on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/jupyter/</link>
-    <description>Recent content in jupyter on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Jupyter on Joost Plattel</title>
+    <link>http://localhost:1313/tags/jupyter/</link>
+    <description>Recent content in Jupyter on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 30 May 2018 23:25:32 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 May 2018 23:25:32 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
-      <link>https://jplattel.nl/client/bzk/</link>
+      <link>http://localhost:1313/client/bzk/</link>
       <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/bzk/</guid>
-      <description>Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.
-My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government. Most work is done in Python and Jupyter notebooks as the technology stack.</description>
+      <guid>http://localhost:1313/client/bzk/</guid>
+      <description>&lt;p&gt;Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.&lt;/p&gt;&#xA;&lt;p&gt;My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government. Most work is done in &lt;em&gt;Python&lt;/em&gt; and Jupyter notebooks as the technology stack.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

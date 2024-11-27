@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>apple on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/apple/</link>
-    <description>Recent content in apple on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Apple on Joost Plattel</title>
+    <link>http://localhost:1313/tags/apple/</link>
+    <description>Recent content in Apple on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sat, 11 Mar 2023 19:59:28 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 19:59:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retrofitting an old iPod Mini</title>
-      <link>https://jplattel.nl/post/2023-03-11-retrofitting-ipod-mini/</link>
+      <link>http://localhost:1313/post/2023-03-11-retrofitting-ipod-mini/</link>
       <pubDate>Sat, 11 Mar 2023 19:59:28 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2023-03-11-retrofitting-ipod-mini/</guid>
-      <description>After owning a couple of mp3 players in my youth, I&amp;rsquo;ve made the jump to an Apple device with an iPod Mini as my music player. Sadly, it&amp;rsquo;s in no working condition anymore I&amp;rsquo;m sure it&amp;rsquo;s possible to replace the entire inside, but it&amp;rsquo;s more fun to do something else with it. Thus and idea was born that didn&amp;rsquo;t come into fruition until a couple of days ago when I had some time available.</description>
+      <guid>http://localhost:1313/post/2023-03-11-retrofitting-ipod-mini/</guid>
+      <description>&lt;p&gt;After owning a couple of mp3 players in my youth, I&amp;rsquo;ve made the jump to an Apple device with an iPod Mini as my music player. Sadly, it&amp;rsquo;s in no working condition anymore I&amp;rsquo;m sure it&amp;rsquo;s possible to replace the entire inside, but it&amp;rsquo;s more fun to do something else with it. Thus and idea was born that didn&amp;rsquo;t come into fruition until a couple of days ago when I had some time available.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -22,9 +22,7 @@ toggleDarkLight.addEventListener("click", () => {
 
 // The default theme is light
 var dark = localStorage.getItem("dark-mode") || false;
-console.log(dark)
 if (dark) {
-  console.log(dark)
   darkTheme.disabled = false;
   toggleDarkLight.className = "fa fa-sun";
 }

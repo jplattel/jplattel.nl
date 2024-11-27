@@ -1,41 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mac on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/mac/</link>
-    <description>Recent content in mac on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Mac on Joost Plattel</title>
+    <link>http://localhost:1313/tags/mac/</link>
+    <description>Recent content in Mac on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing SwiftUI apps With Chat-GPT</title>
-      <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
+      <link>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
-      <description>ChatGPT is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. paperclips might be optimized..) ✌️
-To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while.</description>
+      <guid>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://chat.openai.com/&#34;&gt;ChatGPT&lt;/a&gt; is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. &lt;a href=&#34;https://www.decisionproblem.com/paperclips/index2.html&#34;&gt;paperclips might be optimized&lt;/a&gt;..) ✌️&lt;/p&gt;&#xA;&lt;p&gt;To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while. The shortcomings of Finder can be summed up with:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Finder Favorites</title>
-      <link>https://jplattel.nl/project/finder-favorites/</link>
+      <link>http://localhost:1313/project/finder-favorites/</link>
       <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/project/finder-favorites/</guid>
+      <guid>http://localhost:1313/project/finder-favorites/</guid>
       <description>A simple app that let&amp;rsquo;s you group column views of favorite folders</description>
     </item>
-    
     <item>
       <title>My daily journaling scripts for Obsidian</title>
-      <link>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</link>
+      <link>http://localhost:1313/post/2020-08-14-obsidian-scripts/</link>
       <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</guid>
-      <description>Since I&amp;rsquo;m quite a heavy user of Obsidian I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of Keyboard Meastro as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.
-Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates.</description>
+      <guid>http://localhost:1313/post/2020-08-14-obsidian-scripts/</guid>
+      <description>&lt;p&gt;Since I&amp;rsquo;m quite a heavy user of &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of &lt;a href=&#34;https://www.keyboardmaestro.com/main/&#34;&gt;Keyboard Meastro&lt;/a&gt; as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.&lt;/p&gt;&#xA;&lt;p&gt;Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates. Whether that is the &lt;em&gt;daily note&lt;/em&gt; or some other template I often use. Keyboad Meastro just reads these files and paste the contents right at the cursor when I type a certain string.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

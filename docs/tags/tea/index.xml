@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tea on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/tea/</link>
-    <description>Recent content in tea on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tea on Joost Plattel</title>
+    <link>http://localhost:1313/tags/tea/</link>
+    <description>Recent content in Tea on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 29 Jun 2023 22:00:45 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/tea/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 22:00:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dilmah Tea Europe</title>
-      <link>https://jplattel.nl/client/dilmah-tea/</link>
+      <link>http://localhost:1313/client/dilmah-tea/</link>
       <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/dilmah-tea/</guid>
-      <description>I&amp;rsquo;ve helped Dilmah Tea with the ordering and forecasting proces.
-More information soon!</description>
+      <guid>http://localhost:1313/client/dilmah-tea/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve helped &lt;a href=&#34;https://www.dilmahtea.nl/&#34;&gt;Dilmah Tea&lt;/a&gt; with the ordering and forecasting proces.&lt;/p&gt;&#xA;&lt;p&gt;More information soon!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://files.jplattel.nl/2023/12/Am1CPA.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

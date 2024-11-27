@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>talent on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/talent/</link>
-    <description>Recent content in talent on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Talent on Joost Plattel</title>
+    <link>http://localhost:1313/tags/talent/</link>
+    <description>Recent content in Talent on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 06 May 2021 11:55:34 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/talent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 11:55:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/talent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amsterdam University of Applied Science</title>
-      <link>https://jplattel.nl/client/hogeschool-van-amsterdam/</link>
+      <link>http://localhost:1313/client/hogeschool-van-amsterdam/</link>
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/client/hogeschool-van-amsterdam/</guid>
-      <description>For the Amsterdam University of Applied Science I&amp;rsquo;ve build an application that let&amp;rsquo;s people discover &amp;amp; connect with Talent initiatives within the Amsterdam Metropolitan Region. The goal of the application is to bridge the gap between organisations and talent initiatives.
-The entire stack of the web application is based on modern technology &amp;amp; build entirely with javascript. The backend is done with Strapi and the frontend run with Sapper &amp;amp; Svelte.</description>
+      <guid>http://localhost:1313/client/hogeschool-van-amsterdam/</guid>
+      <description>&lt;p&gt;For the &lt;a href=&#34;https://www.amsterdamuas.com/&#34;&gt;Amsterdam University of Applied Science&lt;/a&gt; I&amp;rsquo;ve build an application that let&amp;rsquo;s people discover &amp;amp; connect with Talent initiatives within the Amsterdam Metropolitan Region. The goal of the application is to bridge the gap between organisations and talent initiatives.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://files.jplattel.nl/2021/11/91e1ec44012eb8ca6a7d37eee26343c3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The entire stack of the web application is based on modern technology &amp;amp; build entirely with &lt;em&gt;javascript&lt;/em&gt;. The backend is done with &lt;a href=&#34;https://strapi.io/&#34;&gt;Strapi&lt;/a&gt; and the frontend run with &lt;a href=&#34;https://sapper.svelte.dev/&#34;&gt;Sapper&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

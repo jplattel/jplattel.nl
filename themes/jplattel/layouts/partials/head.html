@@ -6,7 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   
+  <!-- Bluesky comments -->
+  <!-- https://www.coryzue.com/writing/bluesky-comments/ -->
+  <script type="module" src="https://esm.sh/gh/loueed/bsky@v1.0.0/comments"></script>
+
   {{ template "_internal/opengraph.html" . }}
   <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url={{ .Permalink }}">
   <!-- <meta property="twitter:card" content="summary_large_image"> -->
@@ -16,7 +21,9 @@
   {{ if .Site.Params.Colortheme }}
     {{ .Scratch.Set "colortheme" .Site.Params.Colortheme }}
   {{ end }}
+  
   {{ $colortheme := .Scratch.Get "colortheme" }}
+  
   <link rel="stylesheet" href="{{ $colortheme | printf "css/style-%s.css" | absURL }}">
   <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
   <link disabled id="dark-mode-theme" rel="stylesheet" href="{{ "css/dark.css" | absURL }}">
@@ -31,9 +38,9 @@
   {{ partial "favicon.html" . }}
   
   {{ if .Site.Params.rss }}
-  {{ with .OutputFormats.Get "RSS" }}
-    {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
-  {{ end }}
+    {{ with .OutputFormats.Get "RSS" }}
+      {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+    {{ end }}
   {{ end }}
 
   <!-- RSS Output -->

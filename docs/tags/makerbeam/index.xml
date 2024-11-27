@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>makerbeam on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/makerbeam/</link>
-    <description>Recent content in makerbeam on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Makerbeam on Joost Plattel</title>
+    <link>http://localhost:1313/tags/makerbeam/</link>
+    <description>Recent content in Makerbeam on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 17 Nov 2019 19:49:34 +0100</lastBuildDate><atom:link href="https://jplattel.nl/tags/makerbeam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2019 19:49:34 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/makerbeam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automating my brewery (Part 1)</title>
-      <link>https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/</link>
+      <link>http://localhost:1313/post/2019-11-17-automating-my-brewery-part-1/</link>
       <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/</guid>
-      <description>As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.
-My brewing system consists of a Brew in a Bag (BIAB) system, build on a modified Weck-kettle.</description>
+      <guid>http://localhost:1313/post/2019-11-17-automating-my-brewery-part-1/</guid>
+      <description>&lt;p&gt;As an avid home-brewer I own a setup that I use for testing out recipes and recreating my favorite beers with my own twist. Over the last years, my gear has improved a bit and one of my main projects is automating my own brewery. I wanted to document this, so maybe other people could use this as well.&lt;/p&gt;&#xA;&lt;p&gt;My brewing system consists of a Brew in a Bag (&lt;a href=&#34;https://biabbrewing.com/&#34;&gt;BIAB&lt;/a&gt;) system, build on a modified &lt;a href=&#34;https://www.weckenonline.com/inmaakketels-en-toebehoren&#34;&gt;Weck&lt;/a&gt;-kettle. I&amp;rsquo;m able to brew a batch of around 20L depending on how well filtration and mashing goes. I&amp;rsquo;ve been driving the mashing schedule based on a temperature meter just in the middle of the kettle and eye-balling it on how well it keeps the temperature. (&lt;em&gt;insulation helps keeping it more stable of longer periods time!&lt;/em&gt;)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

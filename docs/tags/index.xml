@@ -2,1820 +2,1419 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 21:41:28 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 21:41:28 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ai</title>
-      <link>https://jplattel.nl/tags/ai/</link>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 21 Oct 2024 21:41:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>recruitment</title>
-      <link>https://jplattel.nl/tags/recruitment/</link>
+      <title>Recruitment</title>
+      <link>http://localhost:1313/tags/recruitment/</link>
       <pubDate>Mon, 21 Oct 2024 21:41:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/recruitment/</guid>
+      <guid>http://localhost:1313/tags/recruitment/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>startup</title>
-      <link>https://jplattel.nl/tags/startup/</link>
+      <title>Startup</title>
+      <link>http://localhost:1313/tags/startup/</link>
       <pubDate>Mon, 21 Oct 2024 21:41:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/startup/</guid>
+      <guid>http://localhost:1313/tags/startup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>electronics</title>
-      <link>https://jplattel.nl/tags/electronics/</link>
+      <title>Electronics</title>
+      <link>http://localhost:1313/tags/electronics/</link>
       <pubDate>Mon, 09 Sep 2024 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/electronics/</guid>
+      <guid>http://localhost:1313/tags/electronics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>linux</title>
-      <link>https://jplattel.nl/tags/linux/</link>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Mon, 09 Sep 2024 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>prototyping</title>
-      <link>https://jplattel.nl/tags/prototyping/</link>
+      <title>Prototyping</title>
+      <link>http://localhost:1313/tags/prototyping/</link>
       <pubDate>Mon, 09 Sep 2024 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/prototyping/</guid>
+      <guid>http://localhost:1313/tags/prototyping/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cloudflare</title>
-      <link>https://jplattel.nl/tags/cloudflare/</link>
+      <title>Cloudflare</title>
+      <link>http://localhost:1313/tags/cloudflare/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/cloudflare/</guid>
+      <guid>http://localhost:1313/tags/cloudflare/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>friend</title>
-      <link>https://jplattel.nl/tags/friend/</link>
+      <title>Friend</title>
+      <link>http://localhost:1313/tags/friend/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/friend/</guid>
+      <guid>http://localhost:1313/tags/friend/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>R2</title>
-      <link>https://jplattel.nl/tags/r2/</link>
+      <link>http://localhost:1313/tags/r2/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/r2/</guid>
+      <guid>http://localhost:1313/tags/r2/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>val.town</title>
-      <link>https://jplattel.nl/tags/val.town/</link>
+      <title>Val.town</title>
+      <link>http://localhost:1313/tags/val.town/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/val.town/</guid>
+      <guid>http://localhost:1313/tags/val.town/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>webhooks</title>
-      <link>https://jplattel.nl/tags/webhooks/</link>
+      <title>Webhooks</title>
+      <link>http://localhost:1313/tags/webhooks/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/webhooks/</guid>
+      <guid>http://localhost:1313/tags/webhooks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>circuitpython</title>
-      <link>https://jplattel.nl/tags/circuitpython/</link>
+      <title>Circuitpython</title>
+      <link>http://localhost:1313/tags/circuitpython/</link>
       <pubDate>Sat, 25 May 2024 21:55:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/circuitpython/</guid>
+      <guid>http://localhost:1313/tags/circuitpython/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>clock</title>
-      <link>https://jplattel.nl/tags/clock/</link>
+      <title>Clock</title>
+      <link>http://localhost:1313/tags/clock/</link>
       <pubDate>Sat, 25 May 2024 21:55:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/clock/</guid>
+      <guid>http://localhost:1313/tags/clock/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>esp32</title>
-      <link>https://jplattel.nl/tags/esp32/</link>
+      <title>Esp32</title>
+      <link>http://localhost:1313/tags/esp32/</link>
       <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/esp32/</guid>
+      <guid>http://localhost:1313/tags/esp32/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>javascript</title>
-      <link>https://jplattel.nl/tags/javascript/</link>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
       <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/javascript/</guid>
+      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web-serial</title>
-      <link>https://jplattel.nl/tags/web-serial/</link>
+      <title>Web-Serial</title>
+      <link>http://localhost:1313/tags/web-serial/</link>
       <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/web-serial/</guid>
+      <guid>http://localhost:1313/tags/web-serial/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ov</title>
-      <link>https://jplattel.nl/tags/ov/</link>
+      <title>Ov</title>
+      <link>http://localhost:1313/tags/ov/</link>
       <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ov/</guid>
+      <guid>http://localhost:1313/tags/ov/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public transport</title>
-      <link>https://jplattel.nl/tags/public-transport/</link>
+      <title>Public Transport</title>
+      <link>http://localhost:1313/tags/public-transport/</link>
       <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/public-transport/</guid>
+      <guid>http://localhost:1313/tags/public-transport/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>diffusion</title>
-      <link>https://jplattel.nl/tags/diffusion/</link>
+      <title>Diffusion</title>
+      <link>http://localhost:1313/tags/diffusion/</link>
       <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/diffusion/</guid>
+      <guid>http://localhost:1313/tags/diffusion/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>llm</title>
-      <link>https://jplattel.nl/tags/llm/</link>
+      <title>Llm</title>
+      <link>http://localhost:1313/tags/llm/</link>
       <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/llm/</guid>
+      <guid>http://localhost:1313/tags/llm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
-      <link>https://jplattel.nl/tags/python/</link>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>whisper</title>
-      <link>https://jplattel.nl/tags/whisper/</link>
+      <title>Whisper</title>
+      <link>http://localhost:1313/tags/whisper/</link>
       <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/whisper/</guid>
+      <guid>http://localhost:1313/tags/whisper/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>design</title>
-      <link>https://jplattel.nl/tags/design/</link>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
       <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/design/</guid>
+      <guid>http://localhost:1313/tags/design/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ethics</title>
-      <link>https://jplattel.nl/tags/ethics/</link>
+      <title>Ethics</title>
+      <link>http://localhost:1313/tags/ethics/</link>
       <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ethics/</guid>
+      <guid>http://localhost:1313/tags/ethics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>philosophy</title>
-      <link>https://jplattel.nl/tags/philosophy/</link>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tags/philosophy/</link>
       <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/philosophy/</guid>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>technology</title>
-      <link>https://jplattel.nl/tags/technology/</link>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
       <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/technology/</guid>
+      <guid>http://localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>forecasting</title>
-      <link>https://jplattel.nl/tags/forecasting/</link>
+      <title>Forecasting</title>
+      <link>http://localhost:1313/tags/forecasting/</link>
       <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/forecasting/</guid>
+      <guid>http://localhost:1313/tags/forecasting/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>inventory</title>
-      <link>https://jplattel.nl/tags/inventory/</link>
+      <title>Inventory</title>
+      <link>http://localhost:1313/tags/inventory/</link>
       <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/inventory/</guid>
+      <guid>http://localhost:1313/tags/inventory/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ordering</title>
-      <link>https://jplattel.nl/tags/ordering/</link>
+      <title>Ordering</title>
+      <link>http://localhost:1313/tags/ordering/</link>
       <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ordering/</guid>
+      <guid>http://localhost:1313/tags/ordering/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tea</title>
-      <link>https://jplattel.nl/tags/tea/</link>
+      <title>Tea</title>
+      <link>http://localhost:1313/tags/tea/</link>
       <pubDate>Thu, 29 Jun 2023 22:00:45 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/tea/</guid>
+      <guid>http://localhost:1313/tags/tea/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>chat-gpt</title>
-      <link>https://jplattel.nl/tags/chat-gpt/</link>
+      <title>Chat-Gpt</title>
+      <link>http://localhost:1313/tags/chat-gpt/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/chat-gpt/</guid>
+      <guid>http://localhost:1313/tags/chat-gpt/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>development</title>
-      <link>https://jplattel.nl/tags/development/</link>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/development/</guid>
+      <guid>http://localhost:1313/tags/development/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>finder</title>
-      <link>https://jplattel.nl/tags/finder/</link>
+      <title>Finder</title>
+      <link>http://localhost:1313/tags/finder/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/finder/</guid>
+      <guid>http://localhost:1313/tags/finder/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mac</title>
-      <link>https://jplattel.nl/tags/mac/</link>
+      <title>Mac</title>
+      <link>http://localhost:1313/tags/mac/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/mac/</guid>
+      <guid>http://localhost:1313/tags/mac/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>software</title>
-      <link>https://jplattel.nl/tags/software/</link>
+      <title>Software</title>
+      <link>http://localhost:1313/tags/software/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/software/</guid>
+      <guid>http://localhost:1313/tags/software/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>swiftui</title>
-      <link>https://jplattel.nl/tags/swiftui/</link>
+      <title>Swiftui</title>
+      <link>http://localhost:1313/tags/swiftui/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/swiftui/</guid>
+      <guid>http://localhost:1313/tags/swiftui/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>wearable</title>
-      <link>https://jplattel.nl/tags/wearable/</link>
+      <title>Wearable</title>
+      <link>http://localhost:1313/tags/wearable/</link>
       <pubDate>Wed, 12 Apr 2023 18:04:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/wearable/</guid>
+      <guid>http://localhost:1313/tags/wearable/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>osx</title>
-      <link>https://jplattel.nl/tags/osx/</link>
+      <title>Osx</title>
+      <link>http://localhost:1313/tags/osx/</link>
       <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/osx/</guid>
+      <guid>http://localhost:1313/tags/osx/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>swift</title>
-      <link>https://jplattel.nl/tags/swift/</link>
+      <title>Swift</title>
+      <link>http://localhost:1313/tags/swift/</link>
       <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/swift/</guid>
+      <guid>http://localhost:1313/tags/swift/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>journaling</title>
-      <link>https://jplattel.nl/tags/journaling/</link>
+      <title>Journaling</title>
+      <link>http://localhost:1313/tags/journaling/</link>
       <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/journaling/</guid>
+      <guid>http://localhost:1313/tags/journaling/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>obsidian</title>
-      <link>https://jplattel.nl/tags/obsidian/</link>
+      <title>Obsidian</title>
+      <link>http://localhost:1313/tags/obsidian/</link>
       <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/obsidian/</guid>
+      <guid>http://localhost:1313/tags/obsidian/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>writing</title>
-      <link>https://jplattel.nl/tags/writing/</link>
+      <title>Writing</title>
+      <link>http://localhost:1313/tags/writing/</link>
       <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/writing/</guid>
+      <guid>http://localhost:1313/tags/writing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>apple</title>
-      <link>https://jplattel.nl/tags/apple/</link>
+      <title>Apple</title>
+      <link>http://localhost:1313/tags/apple/</link>
       <pubDate>Sat, 11 Mar 2023 19:59:28 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/apple/</guid>
+      <guid>http://localhost:1313/tags/apple/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>esp</title>
-      <link>https://jplattel.nl/tags/esp/</link>
+      <title>Esp</title>
+      <link>http://localhost:1313/tags/esp/</link>
       <pubDate>Sat, 11 Mar 2023 19:59:28 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/esp/</guid>
+      <guid>http://localhost:1313/tags/esp/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>esp8266</title>
-      <link>https://jplattel.nl/tags/esp8266/</link>
+      <title>Esp8266</title>
+      <link>http://localhost:1313/tags/esp8266/</link>
       <pubDate>Sat, 11 Mar 2023 19:59:28 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/esp8266/</guid>
+      <guid>http://localhost:1313/tags/esp8266/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ipod</title>
-      <link>https://jplattel.nl/tags/ipod/</link>
+      <title>Ipod</title>
+      <link>http://localhost:1313/tags/ipod/</link>
       <pubDate>Sat, 11 Mar 2023 19:59:28 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ipod/</guid>
+      <guid>http://localhost:1313/tags/ipod/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mini</title>
-      <link>https://jplattel.nl/tags/mini/</link>
+      <title>Mini</title>
+      <link>http://localhost:1313/tags/mini/</link>
       <pubDate>Sat, 11 Mar 2023 19:59:28 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/mini/</guid>
+      <guid>http://localhost:1313/tags/mini/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>3dprinting</title>
-      <link>https://jplattel.nl/tags/3dprinting/</link>
+      <link>http://localhost:1313/tags/3dprinting/</link>
       <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/3dprinting/</guid>
+      <guid>http://localhost:1313/tags/3dprinting/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>arduino</title>
-      <link>https://jplattel.nl/tags/arduino/</link>
+      <title>Arduino</title>
+      <link>http://localhost:1313/tags/arduino/</link>
       <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/arduino/</guid>
+      <guid>http://localhost:1313/tags/arduino/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>computer</title>
-      <link>https://jplattel.nl/tags/computer/</link>
+      <title>Computer</title>
+      <link>http://localhost:1313/tags/computer/</link>
       <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/computer/</guid>
+      <guid>http://localhost:1313/tags/computer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>keyboard</title>
-      <link>https://jplattel.nl/tags/keyboard/</link>
+      <title>Keyboard</title>
+      <link>http://localhost:1313/tags/keyboard/</link>
       <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/keyboard/</guid>
+      <guid>http://localhost:1313/tags/keyboard/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>wandering</title>
-      <link>https://jplattel.nl/tags/wandering/</link>
+      <title>Wandering</title>
+      <link>http://localhost:1313/tags/wandering/</link>
       <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/wandering/</guid>
+      <guid>http://localhost:1313/tags/wandering/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>klipper</title>
-      <link>https://jplattel.nl/tags/klipper/</link>
+      <title>Klipper</title>
+      <link>http://localhost:1313/tags/klipper/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/klipper/</guid>
+      <guid>http://localhost:1313/tags/klipper/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mainsail</title>
-      <link>https://jplattel.nl/tags/mainsail/</link>
+      <title>Mainsail</title>
+      <link>http://localhost:1313/tags/mainsail/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/mainsail/</guid>
+      <guid>http://localhost:1313/tags/mainsail/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pi</title>
-      <link>https://jplattel.nl/tags/pi/</link>
+      <title>Pi</title>
+      <link>http://localhost:1313/tags/pi/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/pi/</guid>
+      <guid>http://localhost:1313/tags/pi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ssh</title>
-      <link>https://jplattel.nl/tags/ssh/</link>
+      <title>Ssh</title>
+      <link>http://localhost:1313/tags/ssh/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ssh/</guid>
+      <guid>http://localhost:1313/tags/ssh/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>zerotier</title>
-      <link>https://jplattel.nl/tags/zerotier/</link>
+      <title>Zerotier</title>
+      <link>http://localhost:1313/tags/zerotier/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/zerotier/</guid>
+      <guid>http://localhost:1313/tags/zerotier/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>836pm</title>
-      <link>https://jplattel.nl/tags/836pm/</link>
+      <link>http://localhost:1313/tags/836pm/</link>
       <pubDate>Wed, 20 Apr 2022 16:36:51 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/836pm/</guid>
+      <guid>http://localhost:1313/tags/836pm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>photos</title>
-      <link>https://jplattel.nl/tags/photos/</link>
+      <title>Photos</title>
+      <link>http://localhost:1313/tags/photos/</link>
       <pubDate>Wed, 20 Apr 2022 16:36:51 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/photos/</guid>
+      <guid>http://localhost:1313/tags/photos/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>DIY</title>
-      <link>https://jplattel.nl/tags/diy/</link>
+      <title>Diy</title>
+      <link>http://localhost:1313/tags/diy/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/diy/</guid>
+      <guid>http://localhost:1313/tags/diy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>making</title>
-      <link>https://jplattel.nl/tags/making/</link>
+      <title>Making</title>
+      <link>http://localhost:1313/tags/making/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/making/</guid>
+      <guid>http://localhost:1313/tags/making/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pico</title>
-      <link>https://jplattel.nl/tags/pico/</link>
+      <title>Pico</title>
+      <link>http://localhost:1313/tags/pico/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/pico/</guid>
+      <guid>http://localhost:1313/tags/pico/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>raspberry</title>
-      <link>https://jplattel.nl/tags/raspberry/</link>
+      <title>Raspberry</title>
+      <link>http://localhost:1313/tags/raspberry/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/raspberry/</guid>
+      <guid>http://localhost:1313/tags/raspberry/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>aws</title>
-      <link>https://jplattel.nl/tags/aws/</link>
+      <title>Aws</title>
+      <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/aws/</guid>
+      <guid>http://localhost:1313/tags/aws/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dynamodb</title>
-      <link>https://jplattel.nl/tags/dynamodb/</link>
+      <title>Dynamodb</title>
+      <link>http://localhost:1313/tags/dynamodb/</link>
       <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/dynamodb/</guid>
+      <guid>http://localhost:1313/tags/dynamodb/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>frontend</title>
-      <link>https://jplattel.nl/tags/frontend/</link>
+      <title>Frontend</title>
+      <link>http://localhost:1313/tags/frontend/</link>
       <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/frontend/</guid>
+      <guid>http://localhost:1313/tags/frontend/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>serverless</title>
-      <link>https://jplattel.nl/tags/serverless/</link>
+      <title>Serverless</title>
+      <link>http://localhost:1313/tags/serverless/</link>
       <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/serverless/</guid>
+      <guid>http://localhost:1313/tags/serverless/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>svelte</title>
-      <link>https://jplattel.nl/tags/svelte/</link>
+      <title>Svelte</title>
+      <link>http://localhost:1313/tags/svelte/</link>
       <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/svelte/</guid>
+      <guid>http://localhost:1313/tags/svelte/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>notes</title>
-      <link>https://jplattel.nl/tags/notes/</link>
+      <title>Notes</title>
+      <link>http://localhost:1313/tags/notes/</link>
       <pubDate>Mon, 15 Nov 2021 10:28:10 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/notes/</guid>
+      <guid>http://localhost:1313/tags/notes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>taxonomy</title>
-      <link>https://jplattel.nl/tags/taxonomy/</link>
+      <title>Taxonomy</title>
+      <link>http://localhost:1313/tags/taxonomy/</link>
       <pubDate>Mon, 15 Nov 2021 10:28:10 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/taxonomy/</guid>
+      <guid>http://localhost:1313/tags/taxonomy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>micropython</title>
-      <link>https://jplattel.nl/tags/micropython/</link>
+      <title>Micropython</title>
+      <link>http://localhost:1313/tags/micropython/</link>
       <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/micropython/</guid>
+      <guid>http://localhost:1313/tags/micropython/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>backend</title>
-      <link>https://jplattel.nl/tags/backend/</link>
+      <title>Backend</title>
+      <link>http://localhost:1313/tags/backend/</link>
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/backend/</guid>
+      <guid>http://localhost:1313/tags/backend/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>js</title>
-      <link>https://jplattel.nl/tags/js/</link>
+      <title>Js</title>
+      <link>http://localhost:1313/tags/js/</link>
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/js/</guid>
+      <guid>http://localhost:1313/tags/js/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>strapi</title>
-      <link>https://jplattel.nl/tags/strapi/</link>
+      <title>Strapi</title>
+      <link>http://localhost:1313/tags/strapi/</link>
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/strapi/</guid>
+      <guid>http://localhost:1313/tags/strapi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>talent</title>
-      <link>https://jplattel.nl/tags/talent/</link>
+      <title>Talent</title>
+      <link>http://localhost:1313/tags/talent/</link>
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/talent/</guid>
+      <guid>http://localhost:1313/tags/talent/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>deleuze</title>
-      <link>https://jplattel.nl/tags/deleuze/</link>
+      <title>Deleuze</title>
+      <link>http://localhost:1313/tags/deleuze/</link>
       <pubDate>Tue, 04 May 2021 08:15:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/deleuze/</guid>
+      <guid>http://localhost:1313/tags/deleuze/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guattari</title>
-      <link>https://jplattel.nl/tags/guattari/</link>
+      <title>Guattari</title>
+      <link>http://localhost:1313/tags/guattari/</link>
       <pubDate>Tue, 04 May 2021 08:15:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/guattari/</guid>
+      <guid>http://localhost:1313/tags/guattari/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>notetaking</title>
-      <link>https://jplattel.nl/tags/notetaking/</link>
+      <title>Notetaking</title>
+      <link>http://localhost:1313/tags/notetaking/</link>
       <pubDate>Tue, 04 May 2021 08:15:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/notetaking/</guid>
+      <guid>http://localhost:1313/tags/notetaking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rhizome</title>
-      <link>https://jplattel.nl/tags/rhizome/</link>
+      <title>Rhizome</title>
+      <link>http://localhost:1313/tags/rhizome/</link>
       <pubDate>Tue, 04 May 2021 08:15:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/rhizome/</guid>
+      <guid>http://localhost:1313/tags/rhizome/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hardware</title>
-      <link>https://jplattel.nl/tags/hardware/</link>
+      <title>Hardware</title>
+      <link>http://localhost:1313/tags/hardware/</link>
       <pubDate>Mon, 19 Apr 2021 21:01:37 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/hardware/</guid>
+      <guid>http://localhost:1313/tags/hardware/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>applications</title>
-      <link>https://jplattel.nl/tags/applications/</link>
+      <title>Applications</title>
+      <link>http://localhost:1313/tags/applications/</link>
       <pubDate>Fri, 12 Feb 2021 21:55:30 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/applications/</guid>
+      <guid>http://localhost:1313/tags/applications/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>work</title>
-      <link>https://jplattel.nl/tags/work/</link>
+      <title>Work</title>
+      <link>http://localhost:1313/tags/work/</link>
       <pubDate>Fri, 12 Feb 2021 21:55:30 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/work/</guid>
+      <guid>http://localhost:1313/tags/work/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>workspaces</title>
-      <link>https://jplattel.nl/tags/workspaces/</link>
+      <title>Workspaces</title>
+      <link>http://localhost:1313/tags/workspaces/</link>
       <pubDate>Fri, 12 Feb 2021 21:55:30 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/workspaces/</guid>
+      <guid>http://localhost:1313/tags/workspaces/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>curious corner</title>
-      <link>https://jplattel.nl/tags/curious-corner/</link>
+      <title>Curious Corner</title>
+      <link>http://localhost:1313/tags/curious-corner/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/curious-corner/</guid>
+      <guid>http://localhost:1313/tags/curious-corner/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ebook</title>
-      <link>https://jplattel.nl/tags/ebook/</link>
+      <title>Ebook</title>
+      <link>http://localhost:1313/tags/ebook/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ebook/</guid>
+      <guid>http://localhost:1313/tags/ebook/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pcb</title>
-      <link>https://jplattel.nl/tags/pcb/</link>
+      <title>Pcb</title>
+      <link>http://localhost:1313/tags/pcb/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/pcb/</guid>
+      <guid>http://localhost:1313/tags/pcb/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pid</title>
-      <link>https://jplattel.nl/tags/pid/</link>
+      <title>Pid</title>
+      <link>http://localhost:1313/tags/pid/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/pid/</guid>
+      <guid>http://localhost:1313/tags/pid/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>plugin</title>
-      <link>https://jplattel.nl/tags/plugin/</link>
+      <title>Plugin</title>
+      <link>http://localhost:1313/tags/plugin/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/plugin/</guid>
+      <guid>http://localhost:1313/tags/plugin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>typescript</title>
-      <link>https://jplattel.nl/tags/typescript/</link>
+      <title>Typescript</title>
+      <link>http://localhost:1313/tags/typescript/</link>
       <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/typescript/</guid>
+      <guid>http://localhost:1313/tags/typescript/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>3D printing</title>
-      <link>https://jplattel.nl/tags/3d-printing/</link>
+      <title>3d Printing</title>
+      <link>http://localhost:1313/tags/3d-printing/</link>
       <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/3d-printing/</guid>
+      <guid>http://localhost:1313/tags/3d-printing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>polymorph</title>
-      <link>https://jplattel.nl/tags/polymorph/</link>
+      <title>Polymorph</title>
+      <link>http://localhost:1313/tags/polymorph/</link>
       <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/polymorph/</guid>
+      <guid>http://localhost:1313/tags/polymorph/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>keyboards</title>
-      <link>https://jplattel.nl/tags/keyboards/</link>
+      <title>Keyboards</title>
+      <link>http://localhost:1313/tags/keyboards/</link>
       <pubDate>Thu, 14 Jan 2021 11:03:56 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/keyboards/</guid>
+      <guid>http://localhost:1313/tags/keyboards/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>phone</title>
-      <link>https://jplattel.nl/tags/phone/</link>
+      <title>Phone</title>
+      <link>http://localhost:1313/tags/phone/</link>
       <pubDate>Thu, 14 Jan 2021 11:03:56 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/phone/</guid>
+      <guid>http://localhost:1313/tags/phone/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>voice</title>
-      <link>https://jplattel.nl/tags/voice/</link>
+      <title>Voice</title>
+      <link>http://localhost:1313/tags/voice/</link>
       <pubDate>Thu, 14 Jan 2021 11:03:56 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/voice/</guid>
+      <guid>http://localhost:1313/tags/voice/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bluetooth</title>
-      <link>https://jplattel.nl/tags/bluetooth/</link>
+      <title>Bluetooth</title>
+      <link>http://localhost:1313/tags/bluetooth/</link>
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/bluetooth/</guid>
+      <guid>http://localhost:1313/tags/bluetooth/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>c</title>
-      <link>https://jplattel.nl/tags/c/</link>
+      <title>C</title>
+      <link>http://localhost:1313/tags/c/</link>
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/c/</guid>
+      <guid>http://localhost:1313/tags/c/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>wemo</title>
-      <link>https://jplattel.nl/tags/wemo/</link>
+      <title>Wemo</title>
+      <link>http://localhost:1313/tags/wemo/</link>
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/wemo/</guid>
+      <guid>http://localhost:1313/tags/wemo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>chrome</title>
-      <link>https://jplattel.nl/tags/chrome/</link>
+      <title>Chrome</title>
+      <link>http://localhost:1313/tags/chrome/</link>
       <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/chrome/</guid>
+      <guid>http://localhost:1313/tags/chrome/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>clipper</title>
-      <link>https://jplattel.nl/tags/clipper/</link>
+      <title>Clipper</title>
+      <link>http://localhost:1313/tags/clipper/</link>
       <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/clipper/</guid>
+      <guid>http://localhost:1313/tags/clipper/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>extension</title>
-      <link>https://jplattel.nl/tags/extension/</link>
+      <title>Extension</title>
+      <link>http://localhost:1313/tags/extension/</link>
       <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/extension/</guid>
+      <guid>http://localhost:1313/tags/extension/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>raspberry pi</title>
-      <link>https://jplattel.nl/tags/raspberry-pi/</link>
+      <title>Raspberry Pi</title>
+      <link>http://localhost:1313/tags/raspberry-pi/</link>
       <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/raspberry-pi/</guid>
+      <guid>http://localhost:1313/tags/raspberry-pi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>azure</title>
-      <link>https://jplattel.nl/tags/azure/</link>
+      <title>Azure</title>
+      <link>http://localhost:1313/tags/azure/</link>
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/azure/</guid>
+      <guid>http://localhost:1313/tags/azure/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jquery</title>
-      <link>https://jplattel.nl/tags/jquery/</link>
+      <title>Jquery</title>
+      <link>http://localhost:1313/tags/jquery/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/jquery/</guid>
+      <guid>http://localhost:1313/tags/jquery/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rpa</title>
-      <link>https://jplattel.nl/tags/rpa/</link>
+      <title>Rpa</title>
+      <link>http://localhost:1313/tags/rpa/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/rpa/</guid>
+      <guid>http://localhost:1313/tags/rpa/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>automation</title>
-      <link>https://jplattel.nl/tags/automation/</link>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
       <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/automation/</guid>
+      <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>scripts</title>
-      <link>https://jplattel.nl/tags/scripts/</link>
+      <title>Scripts</title>
+      <link>http://localhost:1313/tags/scripts/</link>
       <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/scripts/</guid>
+      <guid>http://localhost:1313/tags/scripts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>discovery</title>
-      <link>https://jplattel.nl/tags/discovery/</link>
+      <title>Discovery</title>
+      <link>http://localhost:1313/tags/discovery/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/discovery/</guid>
+      <guid>http://localhost:1313/tags/discovery/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>knowledge</title>
-      <link>https://jplattel.nl/tags/knowledge/</link>
+      <title>Knowledge</title>
+      <link>http://localhost:1313/tags/knowledge/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/knowledge/</guid>
+      <guid>http://localhost:1313/tags/knowledge/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>management</title>
-      <link>https://jplattel.nl/tags/management/</link>
+      <title>Management</title>
+      <link>http://localhost:1313/tags/management/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/management/</guid>
+      <guid>http://localhost:1313/tags/management/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pkm</title>
-      <link>https://jplattel.nl/tags/pkm/</link>
+      <title>Pkm</title>
+      <link>http://localhost:1313/tags/pkm/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/pkm/</guid>
+      <guid>http://localhost:1313/tags/pkm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>system</title>
-      <link>https://jplattel.nl/tags/system/</link>
+      <title>System</title>
+      <link>http://localhost:1313/tags/system/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/system/</guid>
+      <guid>http://localhost:1313/tags/system/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>django</title>
-      <link>https://jplattel.nl/tags/django/</link>
+      <title>Django</title>
+      <link>http://localhost:1313/tags/django/</link>
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/django/</guid>
+      <guid>http://localhost:1313/tags/django/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>postgres</title>
-      <link>https://jplattel.nl/tags/postgres/</link>
+      <title>Postgres</title>
+      <link>http://localhost:1313/tags/postgres/</link>
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/postgres/</guid>
+      <guid>http://localhost:1313/tags/postgres/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>api</title>
-      <link>https://jplattel.nl/tags/api/</link>
+      <title>Api</title>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/api/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>app-engine</title>
-      <link>https://jplattel.nl/tags/app-engine/</link>
+      <title>App-Engine</title>
+      <link>http://localhost:1313/tags/app-engine/</link>
       <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/app-engine/</guid>
+      <guid>http://localhost:1313/tags/app-engine/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>integration</title>
-      <link>https://jplattel.nl/tags/integration/</link>
+      <title>Integration</title>
+      <link>http://localhost:1313/tags/integration/</link>
       <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/integration/</guid>
+      <guid>http://localhost:1313/tags/integration/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>beer</title>
-      <link>https://jplattel.nl/tags/beer/</link>
+      <title>Beer</title>
+      <link>http://localhost:1313/tags/beer/</link>
       <pubDate>Tue, 21 Apr 2020 17:56:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/beer/</guid>
+      <guid>http://localhost:1313/tags/beer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>brewery</title>
-      <link>https://jplattel.nl/tags/brewery/</link>
+      <title>Brewery</title>
+      <link>http://localhost:1313/tags/brewery/</link>
       <pubDate>Tue, 21 Apr 2020 17:56:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brewery/</guid>
+      <guid>http://localhost:1313/tags/brewery/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>supply</title>
-      <link>https://jplattel.nl/tags/supply/</link>
+      <title>Supply</title>
+      <link>http://localhost:1313/tags/supply/</link>
       <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/supply/</guid>
+      <guid>http://localhost:1313/tags/supply/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>code</title>
-      <link>https://jplattel.nl/tags/code/</link>
+      <title>Code</title>
+      <link>http://localhost:1313/tags/code/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/code/</guid>
+      <guid>http://localhost:1313/tags/code/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>developer</title>
-      <link>https://jplattel.nl/tags/developer/</link>
+      <title>Developer</title>
+      <link>http://localhost:1313/tags/developer/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/developer/</guid>
+      <guid>http://localhost:1313/tags/developer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2019</title>
-      <link>https://jplattel.nl/tags/2019/</link>
+      <link>http://localhost:1313/tags/2019/</link>
       <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/2019/</guid>
+      <guid>http://localhost:1313/tags/2019/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>daily</title>
-      <link>https://jplattel.nl/tags/daily/</link>
+      <title>Daily</title>
+      <link>http://localhost:1313/tags/daily/</link>
       <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/daily/</guid>
+      <guid>http://localhost:1313/tags/daily/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>video</title>
-      <link>https://jplattel.nl/tags/video/</link>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
       <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/video/</guid>
+      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vimeo</title>
-      <link>https://jplattel.nl/tags/vimeo/</link>
+      <title>Vimeo</title>
+      <link>http://localhost:1313/tags/vimeo/</link>
       <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/vimeo/</guid>
+      <guid>http://localhost:1313/tags/vimeo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>automating</title>
-      <link>https://jplattel.nl/tags/automating/</link>
+      <title>Automating</title>
+      <link>http://localhost:1313/tags/automating/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/automating/</guid>
+      <guid>http://localhost:1313/tags/automating/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>brewer</title>
-      <link>https://jplattel.nl/tags/brewer/</link>
+      <title>Brewer</title>
+      <link>http://localhost:1313/tags/brewer/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brewer/</guid>
+      <guid>http://localhost:1313/tags/brewer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>brewing</title>
-      <link>https://jplattel.nl/tags/brewing/</link>
+      <title>Brewing</title>
+      <link>http://localhost:1313/tags/brewing/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brewing/</guid>
+      <guid>http://localhost:1313/tags/brewing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>projects</title>
-      <link>https://jplattel.nl/tags/projects/</link>
+      <title>Projects</title>
+      <link>http://localhost:1313/tags/projects/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/projects/</guid>
+      <guid>http://localhost:1313/tags/projects/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bits of Freedom</title>
-      <link>https://jplattel.nl/tags/bits-of-freedom/</link>
+      <link>http://localhost:1313/tags/bits-of-freedom/</link>
       <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/bits-of-freedom/</guid>
+      <guid>http://localhost:1313/tags/bits-of-freedom/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data</title>
-      <link>https://jplattel.nl/tags/data/</link>
+      <title>Data</title>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>privacy</title>
-      <link>https://jplattel.nl/tags/privacy/</link>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>makerbeam</title>
-      <link>https://jplattel.nl/tags/makerbeam/</link>
+      <title>Makerbeam</title>
+      <link>http://localhost:1313/tags/makerbeam/</link>
       <pubDate>Sun, 17 Nov 2019 19:49:34 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/makerbeam/</guid>
+      <guid>http://localhost:1313/tags/makerbeam/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>boredom</title>
-      <link>https://jplattel.nl/tags/boredom/</link>
+      <title>Boredom</title>
+      <link>http://localhost:1313/tags/boredom/</link>
       <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/boredom/</guid>
+      <guid>http://localhost:1313/tags/boredom/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>coffee</title>
-      <link>https://jplattel.nl/tags/coffee/</link>
+      <title>Coffee</title>
+      <link>http://localhost:1313/tags/coffee/</link>
       <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/coffee/</guid>
+      <guid>http://localhost:1313/tags/coffee/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ideas</title>
-      <link>https://jplattel.nl/tags/ideas/</link>
+      <title>Ideas</title>
+      <link>http://localhost:1313/tags/ideas/</link>
       <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ideas/</guid>
+      <guid>http://localhost:1313/tags/ideas/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>printer</title>
-      <link>https://jplattel.nl/tags/printer/</link>
+      <title>Printer</title>
+      <link>http://localhost:1313/tags/printer/</link>
       <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/printer/</guid>
+      <guid>http://localhost:1313/tags/printer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>abonnementen</title>
-      <link>https://jplattel.nl/tags/abonnementen/</link>
+      <title>Abonnementen</title>
+      <link>http://localhost:1313/tags/abonnementen/</link>
       <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/abonnementen/</guid>
+      <guid>http://localhost:1313/tags/abonnementen/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>app</title>
-      <link>https://jplattel.nl/tags/app/</link>
+      <title>App</title>
+      <link>http://localhost:1313/tags/app/</link>
       <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/app/</guid>
+      <guid>http://localhost:1313/tags/app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>EHBA</title>
-      <link>https://jplattel.nl/tags/ehba/</link>
+      <link>http://localhost:1313/tags/ehba/</link>
       <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ehba/</guid>
+      <guid>http://localhost:1313/tags/ehba/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ns</title>
-      <link>https://jplattel.nl/tags/ns/</link>
+      <title>Ns</title>
+      <link>http://localhost:1313/tags/ns/</link>
       <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ns/</guid>
+      <guid>http://localhost:1313/tags/ns/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>chalice</title>
-      <link>https://jplattel.nl/tags/chalice/</link>
+      <title>Chalice</title>
+      <link>http://localhost:1313/tags/chalice/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/chalice/</guid>
+      <guid>http://localhost:1313/tags/chalice/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nederland</title>
-      <link>https://jplattel.nl/tags/nederland/</link>
+      <title>Nederland</title>
+      <link>http://localhost:1313/tags/nederland/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/nederland/</guid>
+      <guid>http://localhost:1313/tags/nederland/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ov-chipkaart</title>
-      <link>https://jplattel.nl/tags/ov-chipkaart/</link>
+      <title>Ov-Chipkaart</title>
+      <link>http://localhost:1313/tags/ov-chipkaart/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ov-chipkaart/</guid>
+      <guid>http://localhost:1313/tags/ov-chipkaart/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public</title>
-      <link>https://jplattel.nl/tags/public/</link>
+      <title>Public</title>
+      <link>http://localhost:1313/tags/public/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/public/</guid>
+      <guid>http://localhost:1313/tags/public/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>transport</title>
-      <link>https://jplattel.nl/tags/transport/</link>
+      <title>Transport</title>
+      <link>http://localhost:1313/tags/transport/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/transport/</guid>
+      <guid>http://localhost:1313/tags/transport/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vue</title>
-      <link>https://jplattel.nl/tags/vue/</link>
+      <title>Vue</title>
+      <link>http://localhost:1313/tags/vue/</link>
       <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/vue/</guid>
+      <guid>http://localhost:1313/tags/vue/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>iphone</title>
-      <link>https://jplattel.nl/tags/iphone/</link>
+      <title>Iphone</title>
+      <link>http://localhost:1313/tags/iphone/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/iphone/</guid>
+      <guid>http://localhost:1313/tags/iphone/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lifehacking</title>
-      <link>https://jplattel.nl/tags/lifehacking/</link>
+      <title>Lifehacking</title>
+      <link>http://localhost:1313/tags/lifehacking/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/lifehacking/</guid>
+      <guid>http://localhost:1313/tags/lifehacking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nfc</title>
-      <link>https://jplattel.nl/tags/nfc/</link>
+      <title>Nfc</title>
+      <link>http://localhost:1313/tags/nfc/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/nfc/</guid>
+      <guid>http://localhost:1313/tags/nfc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>shortcuts</title>
-      <link>https://jplattel.nl/tags/shortcuts/</link>
+      <title>Shortcuts</title>
+      <link>http://localhost:1313/tags/shortcuts/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/shortcuts/</guid>
+      <guid>http://localhost:1313/tags/shortcuts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>xs</title>
-      <link>https://jplattel.nl/tags/xs/</link>
+      <title>Xs</title>
+      <link>http://localhost:1313/tags/xs/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/xs/</guid>
+      <guid>http://localhost:1313/tags/xs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Amsterdam</title>
-      <link>https://jplattel.nl/tags/amsterdam/</link>
+      <link>http://localhost:1313/tags/amsterdam/</link>
       <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/amsterdam/</guid>
+      <guid>http://localhost:1313/tags/amsterdam/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>science</title>
-      <link>https://jplattel.nl/tags/science/</link>
+      <title>Science</title>
+      <link>http://localhost:1313/tags/science/</link>
       <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/science/</guid>
+      <guid>http://localhost:1313/tags/science/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fixing</title>
-      <link>https://jplattel.nl/tags/fixing/</link>
+      <title>Fixing</title>
+      <link>http://localhost:1313/tags/fixing/</link>
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/fixing/</guid>
+      <guid>http://localhost:1313/tags/fixing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>maker</title>
-      <link>https://jplattel.nl/tags/maker/</link>
+      <title>Maker</title>
+      <link>http://localhost:1313/tags/maker/</link>
       <pubDate>Mon, 27 Aug 2018 21:25:18 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/maker/</guid>
+      <guid>http://localhost:1313/tags/maker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>docker</title>
-      <link>https://jplattel.nl/tags/docker/</link>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>docker-compose</title>
-      <link>https://jplattel.nl/tags/docker-compose/</link>
+      <title>Docker-Compose</title>
+      <link>http://localhost:1313/tags/docker-compose/</link>
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/docker-compose/</guid>
+      <guid>http://localhost:1313/tags/docker-compose/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>drf</title>
-      <link>https://jplattel.nl/tags/drf/</link>
+      <title>Drf</title>
+      <link>http://localhost:1313/tags/drf/</link>
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/drf/</guid>
+      <guid>http://localhost:1313/tags/drf/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>quantified-self</title>
-      <link>https://jplattel.nl/tags/quantified-self/</link>
+      <title>Quantified Self</title>
+      <link>http://localhost:1313/tags/quantified-self/</link>
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/quantified-self/</guid>
+      <guid>http://localhost:1313/tags/quantified-self/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jupyter</title>
-      <link>https://jplattel.nl/tags/jupyter/</link>
+      <title>Jupyter</title>
+      <link>http://localhost:1313/tags/jupyter/</link>
       <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/jupyter/</guid>
+      <guid>http://localhost:1313/tags/jupyter/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fusion 360</title>
-      <link>https://jplattel.nl/tags/fusion-360/</link>
+      <title>Fusion 360</title>
+      <link>http://localhost:1313/tags/fusion-360/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/fusion-360/</guid>
+      <guid>http://localhost:1313/tags/fusion-360/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>plane</title>
-      <link>https://jplattel.nl/tags/plane/</link>
+      <title>Plane</title>
+      <link>http://localhost:1313/tags/plane/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/plane/</guid>
+      <guid>http://localhost:1313/tags/plane/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>restoration</title>
-      <link>https://jplattel.nl/tags/restoration/</link>
+      <title>Restoration</title>
+      <link>http://localhost:1313/tags/restoration/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/restoration/</guid>
+      <guid>http://localhost:1313/tags/restoration/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tools</title>
-      <link>https://jplattel.nl/tags/tools/</link>
+      <title>Tools</title>
+      <link>http://localhost:1313/tags/tools/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/tools/</guid>
+      <guid>http://localhost:1313/tags/tools/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>woodworking</title>
-      <link>https://jplattel.nl/tags/woodworking/</link>
+      <title>Woodworking</title>
+      <link>http://localhost:1313/tags/woodworking/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/woodworking/</guid>
+      <guid>http://localhost:1313/tags/woodworking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>brouwerij</title>
-      <link>https://jplattel.nl/tags/brouwerij/</link>
+      <title>Brouwerij</title>
+      <link>http://localhost:1313/tags/brouwerij/</link>
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brouwerij/</guid>
+      <guid>http://localhost:1313/tags/brouwerij/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kratfunding</title>
-      <link>https://jplattel.nl/tags/kratfunding/</link>
+      <title>Kratfunding</title>
+      <link>http://localhost:1313/tags/kratfunding/</link>
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/kratfunding/</guid>
+      <guid>http://localhost:1313/tags/kratfunding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>food</title>
-      <link>https://jplattel.nl/tags/food/</link>
+      <title>Food</title>
+      <link>http://localhost:1313/tags/food/</link>
       <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/food/</guid>
+      <guid>http://localhost:1313/tags/food/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ricecooker</title>
-      <link>https://jplattel.nl/tags/ricecooker/</link>
+      <title>Ricecooker</title>
+      <link>http://localhost:1313/tags/ricecooker/</link>
       <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/ricecooker/</guid>
+      <guid>http://localhost:1313/tags/ricecooker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>groningen</title>
-      <link>https://jplattel.nl/tags/groningen/</link>
+      <title>Groningen</title>
+      <link>http://localhost:1313/tags/groningen/</link>
       <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/groningen/</guid>
+      <guid>http://localhost:1313/tags/groningen/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>longboard</title>
-      <link>https://jplattel.nl/tags/longboard/</link>
+      <title>Longboard</title>
+      <link>http://localhost:1313/tags/longboard/</link>
       <pubDate>Sun, 22 Apr 2018 00:13:25 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/longboard/</guid>
+      <guid>http://localhost:1313/tags/longboard/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>script</title>
-      <link>https://jplattel.nl/tags/script/</link>
+      <title>Script</title>
+      <link>http://localhost:1313/tags/script/</link>
       <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/script/</guid>
+      <guid>http://localhost:1313/tags/script/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>QS</title>
-      <link>https://jplattel.nl/tags/qs/</link>
+      <title>Qs</title>
+      <link>http://localhost:1313/tags/qs/</link>
       <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/qs/</guid>
+      <guid>http://localhost:1313/tags/qs/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>corner</title>
-      <link>https://jplattel.nl/tags/corner/</link>
+      <title>Corner</title>
+      <link>http://localhost:1313/tags/corner/</link>
       <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/corner/</guid>
+      <guid>http://localhost:1313/tags/corner/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>curious</title>
-      <link>https://jplattel.nl/tags/curious/</link>
+      <title>Curious</title>
+      <link>http://localhost:1313/tags/curious/</link>
       <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/curious/</guid>
+      <guid>http://localhost:1313/tags/curious/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>newsletter</title>
-      <link>https://jplattel.nl/tags/newsletter/</link>
+      <title>Newsletter</title>
+      <link>http://localhost:1313/tags/newsletter/</link>
       <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/newsletter/</guid>
+      <guid>http://localhost:1313/tags/newsletter/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web</title>
-      <link>https://jplattel.nl/tags/web/</link>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
       <pubDate>Sat, 21 Apr 2018 20:38:30 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/web/</guid>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lambda</title>
-      <link>https://jplattel.nl/tags/lambda/</link>
+      <title>Lambda</title>
+      <link>http://localhost:1313/tags/lambda/</link>
       <pubDate>Sun, 21 Apr 2013 22:55:11 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/lambda/</guid>
+      <guid>http://localhost:1313/tags/lambda/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dream</title>
-      <link>https://jplattel.nl/tags/dream/</link>
+      <title>Dream</title>
+      <link>http://localhost:1313/tags/dream/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/dream/</guid>
+      <guid>http://localhost:1313/tags/dream/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dreaming</title>
-      <link>https://jplattel.nl/tags/dreaming/</link>
+      <title>Dreaming</title>
+      <link>http://localhost:1313/tags/dreaming/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/dreaming/</guid>
+      <guid>http://localhost:1313/tags/dreaming/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lucid</title>
-      <link>https://jplattel.nl/tags/lucid/</link>
+      <title>Lucid</title>
+      <link>http://localhost:1313/tags/lucid/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/lucid/</guid>
+      <guid>http://localhost:1313/tags/lucid/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>recall</title>
-      <link>https://jplattel.nl/tags/recall/</link>
+      <title>Recall</title>
+      <link>http://localhost:1313/tags/recall/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/recall/</guid>
+      <guid>http://localhost:1313/tags/recall/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sleep</title>
-      <link>https://jplattel.nl/tags/sleep/</link>
+      <title>Sleep</title>
+      <link>http://localhost:1313/tags/sleep/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/sleep/</guid>
+      <guid>http://localhost:1313/tags/sleep/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WILD</title>
-      <link>https://jplattel.nl/tags/wild/</link>
+      <link>http://localhost:1313/tags/wild/</link>
       <pubDate>Tue, 19 Apr 2011 20:26:21 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/wild/</guid>
+      <guid>http://localhost:1313/tags/wild/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>export</title>
-      <link>https://jplattel.nl/tags/export/</link>
+      <title>Export</title>
+      <link>http://localhost:1313/tags/export/</link>
       <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/export/</guid>
+      <guid>http://localhost:1313/tags/export/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>moby</title>
-      <link>https://jplattel.nl/tags/moby/</link>
+      <title>Moby</title>
+      <link>http://localhost:1313/tags/moby/</link>
       <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/moby/</guid>
+      <guid>http://localhost:1313/tags/moby/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mobypicture</title>
-      <link>https://jplattel.nl/tags/mobypicture/</link>
+      <title>Mobypicture</title>
+      <link>http://localhost:1313/tags/mobypicture/</link>
       <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/mobypicture/</guid>
+      <guid>http://localhost:1313/tags/mobypicture/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>self-tracking</title>
-      <link>https://jplattel.nl/tags/self-tracking/</link>
+      <title>Self-Tracking</title>
+      <link>http://localhost:1313/tags/self-tracking/</link>
       <pubDate>Thu, 31 Mar 2011 12:26:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/self-tracking/</guid>
+      <guid>http://localhost:1313/tags/self-tracking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>brussels</title>
-      <link>https://jplattel.nl/tags/brussels/</link>
+      <title>Brussels</title>
+      <link>http://localhost:1313/tags/brussels/</link>
       <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/brussels/</guid>
+      <guid>http://localhost:1313/tags/brussels/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>qsbru</title>
-      <link>https://jplattel.nl/tags/qsbru/</link>
+      <title>Qsbru</title>
+      <link>http://localhost:1313/tags/qsbru/</link>
       <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/qsbru/</guid>
+      <guid>http://localhost:1313/tags/qsbru/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>quantifiedself</title>
-      <link>https://jplattel.nl/tags/quantifiedself/</link>
+      <title>Quantifiedself</title>
+      <link>http://localhost:1313/tags/quantifiedself/</link>
       <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/quantifiedself/</guid>
+      <guid>http://localhost:1313/tags/quantifiedself/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>scanadu</title>
-      <link>https://jplattel.nl/tags/scanadu/</link>
+      <title>Scanadu</title>
+      <link>http://localhost:1313/tags/scanadu/</link>
       <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/scanadu/</guid>
+      <guid>http://localhost:1313/tags/scanadu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MacLogger</title>
-      <link>https://jplattel.nl/tags/maclogger/</link>
+      <link>http://localhost:1313/tags/maclogger/</link>
       <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/maclogger/</guid>
+      <guid>http://localhost:1313/tags/maclogger/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Processing</title>
-      <link>https://jplattel.nl/tags/processing/</link>
+      <link>http://localhost:1313/tags/processing/</link>
       <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/processing/</guid>
+      <guid>http://localhost:1313/tags/processing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Quantifed Self</title>
-      <link>https://jplattel.nl/tags/quantifed-self/</link>
+      <link>http://localhost:1313/tags/quantifed-self/</link>
       <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/tags/quantifed-self/</guid>
+      <guid>http://localhost:1313/tags/quantifed-self/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thoughts</title>
-      <link>https://jplattel.nl/tags/thoughts/</link>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tags/thoughts/</link>
       <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/thoughts/</guid>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Personal Informatics</title>
-      <link>https://jplattel.nl/tags/personal-informatics/</link>
+      <link>http://localhost:1313/tags/personal-informatics/</link>
       <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/personal-informatics/</guid>
+      <guid>http://localhost:1313/tags/personal-informatics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>appengine</title>
-      <link>https://jplattel.nl/tags/appengine/</link>
+      <title>Appengine</title>
+      <link>http://localhost:1313/tags/appengine/</link>
       <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/appengine/</guid>
+      <guid>http://localhost:1313/tags/appengine/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GPS</title>
-      <link>https://jplattel.nl/tags/gps/</link>
+      <link>http://localhost:1313/tags/gps/</link>
       <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/gps/</guid>
+      <guid>http://localhost:1313/tags/gps/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>location</title>
-      <link>https://jplattel.nl/tags/location/</link>
+      <title>Location</title>
+      <link>http://localhost:1313/tags/location/</link>
       <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/tags/location/</guid>
+      <guid>http://localhost:1313/tags/location/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

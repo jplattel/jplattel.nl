@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on Joost Plattel</title>
-    <link>https://jplattel.nl/categories/python/</link>
-    <description>Recent content in python on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Python on Joost Plattel</title>
+    <link>http://localhost:1313/categories/python/</link>
+    <description>Recent content in Python on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate><atom:link href="https://jplattel.nl/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jan 2020 21:28:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micropython LCD menu: upymenu</title>
-      <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
+      <link>http://localhost:1313/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
-      <description>I&amp;rsquo;ve published my first library to PyPi! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the Liquid Crystal and Liquid Menu while developing on an Arduino.
-When I made the switch towards micropython I saw no such thing existed. But having a statemachine like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!</description>
+      <guid>http://localhost:1313/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve published my first library to &lt;a href=&#34;https://pypi.org/project/upymenu/&#34;&gt;PyPi&lt;/a&gt;! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the &lt;a href=&#34;https://github.com/arduino-libraries/LiquidCrystal&#34;&gt;Liquid Crystal&lt;/a&gt; and &lt;a href=&#34;https://github.com/VaSe7u/LiquidMenu&#34;&gt;Liquid Menu&lt;/a&gt; while developing on an Arduino.&lt;/p&gt;&#xA;&lt;p&gt;When I made the switch towards micropython I saw no such thing existed. But having a &lt;a href=&#34;https://www.wikiwand.com/en/Finite-state_machine&#34;&gt;statemachine&lt;/a&gt; like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

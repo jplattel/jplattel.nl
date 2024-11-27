@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>brouwerij on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/brouwerij/</link>
-    <description>Recent content in brouwerij on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Brouwerij on Joost Plattel</title>
+    <link>http://localhost:1313/tags/brouwerij/</link>
+    <description>Recent content in Brouwerij on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Thu, 26 Apr 2018 13:51:31 +0200</lastBuildDate><atom:link href="https://jplattel.nl/tags/brouwerij/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Apr 2018 13:51:31 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/brouwerij/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brewing a new batch of beer</title>
-      <link>https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
+      <link>http://localhost:1313/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
-      <description>Past week we spend a day at a brewery! We made a new batch for our brewery Nooitgedacht. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough Kratfunding, we only ship to the Netherlands currently!
-Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.</description>
+      <guid>http://localhost:1313/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
+      <description>&lt;p&gt;Past week we spend a day at a brewery! We made a new batch for our brewery &lt;!-- raw HTML omitted --&gt;Nooitgedacht&lt;!-- raw HTML omitted --&gt;. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough &lt;!-- raw HTML omitted --&gt;Kratfunding&lt;!-- raw HTML omitted --&gt;, we only ship to the Netherlands currently!&lt;/p&gt;&#xA;&lt;p&gt;Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
