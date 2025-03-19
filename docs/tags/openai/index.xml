@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openai on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/openai/</link>
+    <description>Recent content in Openai on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 21:59:13 +0100</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making todos more magical with n8n</title>
+      <link>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</link>
+      <pubDate>Wed, 19 Mar 2025 21:59:13 +0100</pubDate>
+      <guid>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</guid>
+      <description>&lt;p&gt;I lack a lot of spare time (because of reasons) lately, but sometimes I have a couple of hours to tinker around with any of my projects and one of the things on my list to explore was &lt;a href=&#34;https://n8n.io/&#34;&gt;n8n&lt;/a&gt;. I set it up locally on my NAS and authenticated some services too see what I could connect together..&lt;/p&gt;&#xA;&lt;p&gt;Quite fast a simple idea was formed: could I transform my todolist (in &lt;a href=&#34;https://www.todoist.com/&#34;&gt;Todoist&lt;/a&gt;) into something magical that I wanted to instead of the slog you would normally feel when doing it. So this would be my first automation I would try and build. Lo and behold:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

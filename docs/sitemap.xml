@@ -2,10 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jplattel.nl/tags/ai/</loc>
-    <lastmod>2024-10-21T21:41:28+02:00</lastmod>
+    <loc>https://jplattel.nl/categories/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/n0n/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/openai/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/post/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/categories/technology/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/todos/</loc>
+    <lastmod>2025-03-19T21:59:13+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/</loc>
+    <lastmod>2025-02-04T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/azure/</loc>
+    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/django/</loc>
+    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/ksu/</loc>
+    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/python/</loc>
+    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/sso/</loc>
+    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/ksu/</loc>
+    <lastmod>2025-01-22T09:08:23+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/vbk/</loc>
+    <lastmod>2025-01-22T09:08:18+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/ai/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/project/</loc>
@@ -17,20 +65,11 @@
     <loc>https://jplattel.nl/tags/startup/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
-    <lastmod>2024-10-21T21:41:28+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/project/talent-acquisition-audit-institute/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/post/</loc>
-    <lastmod>2024-09-19T14:31:02+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/post/2024-09-19-small-annoyances-to-learn-new-things/</loc>
     <lastmod>2024-09-19T14:31:02+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/client/</loc>
-    <lastmod>2024-09-09T22:06:34+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/electronics/</loc>
     <lastmod>2024-09-09T22:06:34+01:00</lastmod>
@@ -43,9 +82,6 @@
   </url><url>
     <loc>https://jplattel.nl/tags/prototyping/</loc>
     <lastmod>2024-09-09T22:06:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/categories/</loc>
-    <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/cloudflare/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
@@ -83,9 +119,6 @@
     <loc>https://jplattel.nl/categories/hardware/</loc>
     <lastmod>2024-05-25T21:55:14+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/categories/technology/</loc>
-    <lastmod>2024-05-25T21:55:14+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</loc>
     <lastmod>2024-02-15T20:36:24+01:00</lastmod>
   </url><url>
@@ -114,9 +147,6 @@
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/llm/</loc>
-    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/python/</loc>
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/tellart/</loc>
@@ -494,9 +524,6 @@
     <loc>https://jplattel.nl/tags/raspberry-pi/</loc>
     <lastmod>2020-09-08T15:41:29+02:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/tags/azure/</loc>
-    <lastmod>2020-08-18T10:15:04+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/client/esperantoxl/</loc>
     <lastmod>2020-08-18T10:15:04+02:00</lastmod>
   </url><url>
@@ -538,9 +565,6 @@
   </url><url>
     <loc>https://jplattel.nl/tags/system/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/django/</loc>
-    <lastmod>2020-05-30T23:27:24+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/dropper/</loc>
     <lastmod>2020-05-30T23:27:24+02:00</lastmod>

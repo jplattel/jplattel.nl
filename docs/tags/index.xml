@@ -7,8 +7,57 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 21:41:28 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 21:59:13 +0100</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>N0n</title>
+      <link>https://jplattel.nl/tags/n0n/</link>
+      <pubDate>Wed, 19 Mar 2025 21:59:13 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/n0n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Openai</title>
+      <link>https://jplattel.nl/tags/openai/</link>
+      <pubDate>Wed, 19 Mar 2025 21:59:13 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Todos</title>
+      <link>https://jplattel.nl/tags/todos/</link>
+      <pubDate>Wed, 19 Mar 2025 21:59:13 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/todos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>https://jplattel.nl/tags/azure/</link>
+      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Django</title>
+      <link>https://jplattel.nl/tags/django/</link>
+      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/django/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://jplattel.nl/tags/python/</link>
+      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sso</title>
+      <link>https://jplattel.nl/tags/sso/</link>
+      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/sso/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ai</title>
       <link>https://jplattel.nl/tags/ai/</link>
@@ -147,13 +196,6 @@
       <link>https://jplattel.nl/tags/llm/</link>
       <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
       <guid>https://jplattel.nl/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://jplattel.nl/tags/python/</link>
-      <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
-      <guid>https://jplattel.nl/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -717,13 +759,6 @@
       <description></description>
     </item>
     <item>
-      <title>Azure</title>
-      <link>https://jplattel.nl/tags/azure/</link>
-      <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/azure/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Jquery</title>
       <link>https://jplattel.nl/tags/jquery/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
@@ -784,13 +819,6 @@
       <link>https://jplattel.nl/tags/system/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
       <guid>https://jplattel.nl/tags/system/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Django</title>
-      <link>https://jplattel.nl/tags/django/</link>
-      <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/django/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Making todos more magical with n8n </title>
+  <meta name="description" content="I’m Joost Plattel, I&#39;d like to call myself an auxiliary technologist. I assist organisations and individuals with technology and help them future strategies.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  <meta property="og:url" content="https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/">
+  <meta property="og:site_name" content="Joost Plattel">
+  <meta property="og:title" content="Making todos more magical with n8n">
+  <meta property="og:description" content="I lack a lot of spare time (because of reasons) lately, but sometimes I have a couple of hours to tinker around with any of my projects and one of the things on my list to explore was n8n. I set it up locally on my NAS and authenticated some services too see what I could connect together..
+Quite fast a simple idea was formed: could I transform my todolist (in Todoist) into something magical that I wanted to instead of the slog you would normally feel when doing it. So this would be my first automation I would try and build. Lo and behold:">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2025-03-19T21:59:13+01:00">
+    <meta property="article:modified_time" content="2025-03-19T21:59:13+01:00">
+    <meta property="article:tag" content="N0n">
+    <meta property="article:tag" content="Openai">
+    <meta property="article:tag" content="Todos">
+
+  <meta property="og:image" content="https://www.mugshotbot.com/m?mode=light&color=blue&pattern=texture&url=https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/">
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://jplattel.nl/css/style-white.css">
+  <link rel="stylesheet" href="https://jplattel.nl/css/custom.css">
+  <link disabled id="dark-mode-theme" rel="stylesheet" href="https://jplattel.nl/css/dark.css">
+
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" href="https://jplattel.nl/icon/favicon.ico" sizes="any" />
+<link rel="icon" type="image/png" href="https://jplattel.nl/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://jplattel.nl/icon/apple-touch-icon.png">
+<link rel="manifest" href="https://jplattel.nl/icon/site.webmanifest">
+
+  
+  
+    
+  
+
+  
+  </head>
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+    
+    <header id="header">
+    
+  <div style="float: left; margin-right: 10px; margin-left: -50px; position: fixed;">
+    <a href="https://jplattel.nl/">
+      <svg id="logo" width="35px" height="35px" viewBox="0 0 2363 2363" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" >
+        <g style="fill: #006ad4;" transform="matrix(2.43383,0,0,2.26169,-2377.43,-4549.39)">
+            <path d="M1563,2690.39C1563,2690.93 1563,2691.46 1563,2692C1563,2821.7 1457.7,2927 1328,2927C1198.3,2927 1093,2821.7 1093,2692C1093,2562.3 1198.3,2457 1328,2457L1328,2612.06C1284.77,2612.06 1249.67,2647.16 1249.67,2690.39C1249.67,2733.62 1284.77,2768.72 1328,2768.72C1371.23,2768.72 1406.33,2733.62 1406.33,2690.39L1406.33,2377.06C1406.33,2247.36 1511.63,2142.06 1641.33,2142.06C1771.03,2142.06 1876.33,2247.36 1876.33,2377.06C1876.33,2506.76 1771.03,2612.06 1641.33,2612.06L1641.33,2455.39C1684.57,2455.39 1719.67,2420.29 1719.67,2377.06C1719.67,2333.83 1684.57,2298.72 1641.33,2298.72C1598.1,2298.72 1563,2333.83 1563,2377.06L1563,2690.39L1563,2690.39Z"/>
+        </g>
+        <g style="fill: #006ad4;" transform="matrix(1.21691,0,0,1.13084,287.212,-1243.05)">
+            <circle class="logo-circle" cx="1328" cy="2692" r="235"/>
+        </g>
+        <g style="fill: #006ad4;" transform="matrix(1.21691,0,0,1.13084,-1047.34,-2483.2)">
+            <circle class="logo-circle" cx="1328" cy="2692" r="235"/>
+        </g>
+      </svg>
+      <style>
+        #logo .logo-circle {
+          transition: fill .6s ease;
+        }
+        #logo:hover .logo-circle{
+          fill: transparent;
+        }
+        #logo .logo-circle{
+          fill: #006ad4;
+        }
+
+      </style>
+    </a>
+  </div>
+
+  <div id="title" style="float: left;">
+    <h1 style="font-size: 1.7rem; padding-top: 2px; padding-left: 2px;">
+      <a href="https://jplattel.nl/">Joost Plattel</a>
+    </h1>
+  </div>
+  
+  <div id="nav" style="clear:both">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+       
+        <li><a href="/">Home</a></li>
+       
+        <li><a href="/post">Posts</a></li>
+       
+        <li><a href="/project">Projects</a></li>
+       
+        <li><a href="/wishlist">Wishlist</a></li>
+       
+        <li><a href="/about">About</a></li>
+       
+        <li><a href="/contact">Contact</a></li>
+      
+      <li>
+        <i id="toggle-theme" class="fa fa-moon"></i>
+      </li>
+    </ul>
+  </div>
+
+</header>
+    
+    
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 itemprop="name headline">
+        Making todos more magical with n8n
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2025-03-19 21:59:13 &#43;0100 CET" itemprop="datePublished">2025-03-19</time>
+          
+        </div>
+        
+        <div class="article-category">
+            <i class="fas fa-archive"></i>
+            
+            
+            <a class="category-link" href="/categories/technology">technology</a>
+            
+        </div>
+        
+        
+        <div class="article-tag">
+            <i class="fas fa-tag"></i>
+            
+            
+            <a class="tag-link" href="/tags/n0n" rel="tag">n0n</a>
+            
+            
+            <a class="tag-link" href="/tags/openai" rel="tag">openai</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/todos" rel="tag">todos</a>
+            
+        </div> 
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>I lack a lot of spare time (because of reasons) lately, but sometimes I have a couple of hours to tinker around with any of my projects and one of the things on my list to explore was <a href="https://n8n.io/">n8n</a>. I set it up locally on my NAS and authenticated some services too see what I could connect together..</p>
+<p>Quite fast a simple idea was formed: could I transform my todolist (in <a href="https://www.todoist.com/">Todoist</a>) into something magical that I wanted to instead of the slog you would normally feel when doing it. So this would be my first automation I would try and build. Lo and behold:</p>
+<p><img src="https://files.jplattel.nl/2025/03/qdO7cY.png" alt="n8n flow for magical todos"></p>
+<p>A simple screenshot doesn&rsquo;t really tell a story, so here it goes:</p>
+<ol>
+<li>Every day at 9 am</li>
+<li>Get the time as a variable</li>
+<li>Get the todo&rsquo;s that need to be done that day (using the variable to query)</li>
+<li>Merge the list of objects into a single list of todos.</li>
+<li>Ask OpenAI for three options on how to solve the todo (simple prompt below!)</li>
+<li>Convert the markdown from OpenAI into HTML</li>
+<li>Send out an email to myself with the suggestions of each todo.</li>
+</ol>
+<p>Here&rsquo;s the prompt I&rsquo;ve been using that&rsquo;s been giving the most interesting magical solutions:</p>
+<blockquote>
+<p>You are a magical little helper that helps people get things done. You will take a list of todos and for each todo you will create 3 interesting ways to complete the task. Provide a single line description for each way, listed below each task in markdown format.</p>
+</blockquote>
+<p>As an example, I forgot to check of the todo of this task so it made three suggestions the next morning: (including one that is nice cool: adding a inspirational quote to the email)</p>
+<p><img src="https://files.jplattel.nl/2025/03/sorGbX.png" alt="example of a list with 3 options"></p>
+<p>Todoist also offers plugins, but the customizability of this including the prompt is pretty cool. If you have any inspiration for pretty automations in n8n, let me know! Looking forward to explore it some more! (and maybe write about it..)</p>
+
+    </div>
+  </article>
+
+  
+
+  
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2025  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+  <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <script src="/lib/jquery/jquery.min.js"></script>
+  
+  
+  
+
+    
+    <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2025  Joost Plattel 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/post">Posts</a></li>
+         
+        <li><a href="/project">Projects</a></li>
+         
+        <li><a href="/wishlist">Wishlist</a></li>
+         
+        <li><a href="/about">About</a></li>
+         
+        <li><a href="/contact">Contact</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+    
+  </div>
+</body>
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script src="/js/main.js"></script>
+</html>

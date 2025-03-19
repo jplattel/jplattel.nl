@@ -7,7 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 21:41:28 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2025 21:59:13 +0100</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making todos more magical with n8n</title>
+      <link>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</link>
+      <pubDate>Wed, 19 Mar 2025 21:59:13 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</guid>
+      <description>&lt;p&gt;I lack a lot of spare time (because of reasons) lately, but sometimes I have a couple of hours to tinker around with any of my projects and one of the things on my list to explore was &lt;a href=&#34;https://n8n.io/&#34;&gt;n8n&lt;/a&gt;. I set it up locally on my NAS and authenticated some services too see what I could connect together..&lt;/p&gt;
+&lt;p&gt;Quite fast a simple idea was formed: could I transform my todolist (in &lt;a href=&#34;https://www.todoist.com/&#34;&gt;Todoist&lt;/a&gt;) into something magical that I wanted to instead of the slog you would normally feel when doing it. So this would be my first automation I would try and build. Lo and behold:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KSU</title>
+      <link>https://jplattel.nl/client/ksu/</link>
+      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/ksu/</guid>
+      <description>&lt;p&gt;For the KSU I build a custom questionnaire tool that runs on Django leverages SSO for ease of use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ksu</title>
+      <link>https://jplattel.nl/ksu/</link>
+      <pubDate>Wed, 22 Jan 2025 09:08:23 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/ksu/</guid>
+      <description>&lt;p&gt;With Maurice van Dinther from &lt;a href=&#34;https://wafl.nu&#34;&gt;wafl.nu&lt;/a&gt; I&amp;rsquo;ve created a monitoring/questionnaire tool for the KSU. This allows them to gain insights into how their teams are functioning. The application is build with Django and uses &lt;a href=&#34;&#34;&gt;SSO&lt;/a&gt; to seamlessly allow users to gather data. The data is shown in dashboards with &lt;a href=&#34;&#34;&gt;Chart.js&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Van Benthem en Keulen</title>
+      <link>https://jplattel.nl/vbk/</link>
+      <pubDate>Wed, 22 Jan 2025 09:08:18 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/vbk/</guid>
+      <description>&lt;p&gt;For Van Benthem en Keulen I worked together with Arianove to implement a large language model chat interface that runs on Azure Static Web Applications, using their own Azure endpoint allows VBK to keep their data safely theirs. The custom front-end is made with &lt;a href=&#34;&#34;&gt;Svelte 5&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;Tailwind&lt;/a&gt;, hosted as a Static Web App (SWA) on Azure.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Talent Acquisition Audit Institute</title>
       <link>https://jplattel.nl/project/talent-acquisition-audit-institute/</link>
@@ -123,7 +160,7 @@ There is a lot of attention to diversity and inclusion in the Recruitment and HR
       <description>&lt;p&gt;Working with &lt;a href=&#34;https://symbiose.studio/&#34;&gt;Bertrand from Symbiose Studio&lt;/a&gt; I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. &lt;a href=&#34;https://symbiose.studio/projects/intimate-implant/&#34;&gt;Learn more at Symbiose Studio&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/intimate-implant.jpg&#34; alt=&#34;Intimate Implant at Betweter Festival&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Photo by &lt;a href=&#34;https://www.ivarpel.nl/&#34;&gt;Ivar Pel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Each object carries a microcontroller that is running &lt;code&gt;micropython&lt;/code&gt; and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects.&lt;/p&gt;</description>
+&lt;p&gt;Each object carries a microcontroller that is running &lt;code&gt;circuitpython&lt;/code&gt; and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects. Closing the gap between the abdstract idea of an implant and having it inside your body.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1050,20 +1087,18 @@ It looks like a coffee grinder, but it is an idea machine, meant for only one pu
       
       <guid>https://jplattel.nl/wishlist/</guid>
       <description>&lt;p&gt;Below is my wishlist, if there&amp;rsquo;s something I&amp;rsquo;ve done for you and you would like to give me something in return, this could serve as a list of inspiration. ✌️&lt;/p&gt;
-&lt;h2 id=&#34;physical-stuff-andor-activities&#34;&gt;Physical stuff and/or activities&lt;/h2&gt;
+&lt;h2 id=&#34;physical-stuff-trinkets-andor-activities&#34;&gt;Physical stuff, trinkets and/or activities&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A &lt;a href=&#34;https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756&#34;&gt;light mill&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;A &lt;a href=&#34;https://www.wikiwand.com/en/Spinthariscope&#34;&gt;spinthariscope&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;A &lt;a href=&#34;https://pcpoodle.com/collections/home/products/volty-bit-for-leatherman-multi-tool&#34;&gt;Volty bit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://pcpoodle.com/collections/home/products/volty-bit-for-leatherman-multi-tool&#34;&gt;Volty bit&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;One big &lt;a href=&#34;https://shop.houseofmarbles.com/product/space-explorer-marble/&#34;&gt;marble&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.wikiwand.com/en/articles/Euler&#39;s_Disk&#34;&gt;Euler&amp;rsquo;s Disk&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;A &lt;a href=&#34;https://kleinbottle.com/&#34;&gt;Klein Bottle&lt;/a&gt;. Who doesn&amp;rsquo;t need a zero-volume bottle or infinite space?&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://offgrid.co/products/off-grid-bag?variant=30205371383890&#34;&gt;OffGrid Bag&lt;/a&gt; with faraday function.&lt;/li&gt;
 &lt;li&gt;A Garmin &lt;a href=&#34;https://buy.garmin.com/nl-NL/NL/p/592606&#34;&gt;InReach Mini&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Comics drawn by &lt;a href=&#34;http://nl.wikipedia.org/wiki/Jean_Giraud&#34;&gt;Moebius&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;A &lt;a href=&#34;https://www.eleshop.nl/rigol-ds-oscilloscope.html&#34;&gt;Rigol DS1074Z+(S+)&lt;/a&gt; oscilloscope.&lt;/li&gt;
-&lt;li&gt;A set of &lt;a href=&#34;https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW&#34;&gt;123 Blocks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;A &lt;a href=&#34;https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe&#34;&gt;Go set&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Play with a modular set up for a day.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;people-already-gave-me&#34;&gt;People already gave me&lt;/h2&gt;
 &lt;ul&gt;
@@ -1095,7 +1130,7 @@ It looks like a coffee grinder, but it is an idea machine, meant for only one pu
 &lt;li&gt;Soldering station thanks Wouter Groenewold!&lt;/li&gt;
 &lt;li&gt;Soft Brew Coffee pot, thank you Ilse!&lt;/li&gt;
 &lt;li&gt;Makey Makey, thanks Loes!&lt;/li&gt;
-&lt;li&gt;Neurosky Mindband (A Zeo with a raw data library is better ;-))&lt;/li&gt;
+&lt;li&gt;Neurosky Mindband (A Zeo with a raw data library is better 🤓)&lt;/li&gt;
 &lt;li&gt;Evernote Pro-account&lt;/li&gt;
 &lt;li&gt;Vibram Five Fingers Bikila (maatje 43) (Thanks @FiveFingersNL!)&lt;/li&gt;
 &lt;li&gt;Zeo Sleep Coach (Thanks Zeo!)&lt;/li&gt;

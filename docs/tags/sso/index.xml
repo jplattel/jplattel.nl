@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sso on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/sso/</link>
+    <description>Recent content in Sso on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Mon, 03 Feb 2025 22:00:45 +0200</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/sso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KSU</title>
+      <link>https://jplattel.nl/client/ksu/</link>
+      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <guid>https://jplattel.nl/client/ksu/</guid>
+      <description>&lt;p&gt;For the KSU I build a custom questionnaire tool that runs on Django leverages SSO for ease of use.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

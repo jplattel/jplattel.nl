@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 09 Sep 2024 22:06:34 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 22:00:45 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KSU</title>
+      <link>https://jplattel.nl/client/ksu/</link>
+      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <guid>https://jplattel.nl/client/ksu/</guid>
+      <description>&lt;p&gt;For the KSU I build a custom questionnaire tool that runs on Django leverages SSO for ease of use.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Opal</title>
       <link>https://jplattel.nl/client/opal/</link>
@@ -28,7 +35,7 @@
       <link>https://jplattel.nl/client/symbiose-studio/</link>
       <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
       <guid>https://jplattel.nl/client/symbiose-studio/</guid>
-      <description>&lt;p&gt;Working with &lt;a href=&#34;https://symbiose.studio/&#34;&gt;Bertrand from Symbiose Studio&lt;/a&gt; I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. &lt;a href=&#34;https://symbiose.studio/projects/intimate-implant/&#34;&gt;Learn more at Symbiose Studio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/intimate-implant.jpg&#34; alt=&#34;Intimate Implant at Betweter Festival&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Photo by &lt;a href=&#34;https://www.ivarpel.nl/&#34;&gt;Ivar Pel&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each object carries a microcontroller that is running &lt;code&gt;micropython&lt;/code&gt; and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Working with &lt;a href=&#34;https://symbiose.studio/&#34;&gt;Bertrand from Symbiose Studio&lt;/a&gt; I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. &lt;a href=&#34;https://symbiose.studio/projects/intimate-implant/&#34;&gt;Learn more at Symbiose Studio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/intimate-implant.jpg&#34; alt=&#34;Intimate Implant at Betweter Festival&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Photo by &lt;a href=&#34;https://www.ivarpel.nl/&#34;&gt;Ivar Pel&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each object carries a microcontroller that is running &lt;code&gt;circuitpython&lt;/code&gt; and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects. Closing the gap between the abdstract idea of an implant and having it inside your body.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dilmah Tea Europe</title>

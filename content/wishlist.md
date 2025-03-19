@@ -5,20 +5,18 @@ date: 2018-04-21T21:17:28+02:00
 
 Below is my wishlist, if there's something I've done for you and you would like to give me something in return, this could serve as a list of inspiration. ✌️
 
-## Physical stuff and/or activities
+## Physical stuff, trinkets and/or activities
 
 *   A [light mill](https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756).
 *   A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
-*   A [Volty bit](https://pcpoodle.com/collections/home/products/volty-bit-for-leatherman-multi-tool)
+*   A [Volty bit](https://pcpoodle.com/collections/home/products/volty-bit-for-leatherman-multi-tool).
+*   One big [marble](https://shop.houseofmarbles.com/product/space-explorer-marble/).
 *   [Euler's Disk](https://www.wikiwand.com/en/articles/Euler's_Disk)
 *   A [Klein Bottle](https://kleinbottle.com/). Who doesn't need a zero-volume bottle or infinite space?
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
-*   A [Rigol DS1074Z+(S+)](https://www.eleshop.nl/rigol-ds-oscilloscope.html) oscilloscope.
-*   A set of [123 Blocks](https://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B07X4BBBZW)
 *   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
-*   Play with a modular set up for a day.
 
 ## People already gave me
 
@@ -50,7 +48,7 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   Soldering station thanks Wouter Groenewold!
 *   Soft Brew Coffee pot, thank you Ilse!
 *   Makey Makey, thanks Loes!
-*   Neurosky Mindband (A Zeo with a raw data library is better ;-))
+*   Neurosky Mindband (A Zeo with a raw data library is better 🤓)
 *   Evernote Pro-account
 *   Vibram Five Fingers Bikila (maatje 43) (Thanks @FiveFingersNL!)
 *   Zeo Sleep Coach (Thanks Zeo!)
