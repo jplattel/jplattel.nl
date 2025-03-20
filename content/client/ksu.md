@@ -8,4 +8,4 @@ tags: ["django", "azure", "python", "sso"]
 external_link: "https://ksu.nl/" # Optional external URL for project (replaces project detail page).
 ---
 
-For the KSU I build a custom questionnaire tool that runs on Django leverages SSO for ease of use. 
+With Maurice van Dinther from wafl.nu I’ve created a monitoring/questionnaire tool for the [Katholieke Scholenstichting Utrecht](https://www.ksu-utrecht.nl/) (KSU). This allows them to gain insights into how their teams are functioning. The application is build with Django and uses SSO to seamlessly allow users to gather data. The data is shown in dashboards with Chart.js.

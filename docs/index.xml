@@ -24,25 +24,7 @@
       <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/ksu/</guid>
-      <description>&lt;p&gt;For the KSU I build a custom questionnaire tool that runs on Django leverages SSO for ease of use.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ksu</title>
-      <link>https://jplattel.nl/ksu/</link>
-      <pubDate>Wed, 22 Jan 2025 09:08:23 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/ksu/</guid>
-      <description>&lt;p&gt;With Maurice van Dinther from &lt;a href=&#34;https://wafl.nu&#34;&gt;wafl.nu&lt;/a&gt; I&amp;rsquo;ve created a monitoring/questionnaire tool for the KSU. This allows them to gain insights into how their teams are functioning. The application is build with Django and uses &lt;a href=&#34;&#34;&gt;SSO&lt;/a&gt; to seamlessly allow users to gather data. The data is shown in dashboards with &lt;a href=&#34;&#34;&gt;Chart.js&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Van Benthem en Keulen</title>
-      <link>https://jplattel.nl/vbk/</link>
-      <pubDate>Wed, 22 Jan 2025 09:08:18 +0100</pubDate>
-      
-      <guid>https://jplattel.nl/vbk/</guid>
-      <description>&lt;p&gt;For Van Benthem en Keulen I worked together with Arianove to implement a large language model chat interface that runs on Azure Static Web Applications, using their own Azure endpoint allows VBK to keep their data safely theirs. The custom front-end is made with &lt;a href=&#34;&#34;&gt;Svelte 5&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;Tailwind&lt;/a&gt;, hosted as a Static Web App (SWA) on Azure.&lt;/p&gt;</description>
+      <description>&lt;p&gt;With Maurice van Dinther from wafl.nu I’ve created a monitoring/questionnaire tool for the &lt;a href=&#34;https://www.ksu-utrecht.nl/&#34;&gt;Katholieke Scholenstichting Utrecht&lt;/a&gt; (KSU). This allows them to gain insights into how their teams are functioning. The application is build with Django and uses SSO to seamlessly allow users to gather data. The data is shown in dashboards with Chart.js.&lt;/p&gt;</description>
     </item>
     
     <item>
