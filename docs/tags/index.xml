@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 19 Mar 2025 21:59:13 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 21:42:50 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac</title>
+      <link>https://jplattel.nl/tags/mac/</link>
+      <pubDate>Wed, 16 Apr 2025 21:42:50 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://jplattel.nl/tags/python/</link>
+      <pubDate>Wed, 16 Apr 2025 21:42:50 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sqlite</title>
+      <link>https://jplattel.nl/tags/sqlite/</link>
+      <pubDate>Wed, 16 Apr 2025 21:42:50 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/sqlite/</guid>
+      <description></description>
+    </item>
     <item>
       <title>N0n</title>
       <link>https://jplattel.nl/tags/n0n/</link>
@@ -42,13 +63,6 @@
       <link>https://jplattel.nl/tags/django/</link>
       <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
       <guid>https://jplattel.nl/tags/django/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://jplattel.nl/tags/python/</link>
-      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -280,13 +294,6 @@
       <link>https://jplattel.nl/tags/finder/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
       <guid>https://jplattel.nl/tags/finder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mac</title>
-      <link>https://jplattel.nl/tags/mac/</link>
-      <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/mac/</guid>
       <description></description>
     </item>
     <item>

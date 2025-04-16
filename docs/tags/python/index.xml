@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 22:00:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 21:42:50 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syncing Netnewswire starred items to Anybox</title>
+      <link>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</link>
+      <pubDate>Wed, 16 Apr 2025 21:42:50 +0200</pubDate>
+      <guid>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been migrating my online feedreading to &lt;a href=&#34;https://netnewswire.com/&#34;&gt;Netnewswire&lt;/a&gt; on my mac. Being in control of how stuff works becomes more and more a trend (and a must in some occasions). A thighly knit web isn&amp;rsquo;t really transfered that easily so I had a small thing that I wanted to solve and that is starring items for reading them later. In my case, my read it later list is stored in &lt;a href=&#34;https://anybox.app/&#34;&gt;Anybox&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I know of other extensible rss readers like &lt;a href=&#34;https://github.com/miniflux/&#34;&gt;miniflux&lt;/a&gt;, but didn&amp;rsquo;t want the maintanence, thus I settled on Netnewswire. Netnewswire stores it database in a SQLite database and Anybox has a applescript interface. With the help of &lt;a href=&#34;https://www.cursor.com/&#34;&gt;Cursor&lt;/a&gt; it took me a bit over 30 minutes to get everything together. The script uses the python &lt;code&gt;dbm&lt;/code&gt; module as a small db to keep track of what is synced so it doesn&amp;rsquo;t add any that&amp;rsquo;s already been added.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>KSU</title>
       <link>https://jplattel.nl/client/ksu/</link>
