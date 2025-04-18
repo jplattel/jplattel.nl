@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/c/</link>
+    <link>http://localhost:1313/tags/c/</link>
     <description>Recent content in C on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 11 Nov 2020 21:17:39 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making a bluetooth Sudoku keyboard</title>
-      <link>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
+      <link>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
+      <guid>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
       <description>&lt;p&gt;My girlfriend loves to solves &lt;em&gt;sudoku&lt;/em&gt;&amp;rsquo;s and most of the time she&amp;rsquo;s doing so on her iPhone.. As a belated birthday gift I made her a custom sudoku-keyboard with just &lt;strong&gt;9 keys&lt;/strong&gt;. Who needs more if you just want to do a sudoku right?&lt;/p&gt;&#xA;&lt;p&gt;This was a perfect opportunity for me to dive some more into hardware and especially bluetooth things&amp;hellip; The entire body is 3D printed and has threaded inserts with M3 screws and basic keycaps. After prototyping the electronics I soldered the keycaps together and tadaa:&lt;/p&gt;</description>
     </item>
   </channel>

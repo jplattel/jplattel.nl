@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EHBA on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/ehba/</link>
+    <link>http://localhost:1313/tags/ehba/</link>
     <description>Recent content in EHBA on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sat, 17 Aug 2019 20:01:21 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/ehba/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ehba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eerst Hulp Bij Abonnementen (EHBA)</title>
-      <link>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</link>
+      <link>http://localhost:1313/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</link>
       <pubDate>Sat, 17 Aug 2019 20:01:21 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</guid>
+      <guid>http://localhost:1313/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</guid>
       <description>&lt;p&gt;One of my first projects for learning programming and navigating around the digitale sphere was building a visualization based on transport data. As I use public transport for all travel I naturally wanted to know how I spend my money on it.&lt;/p&gt;&#xA;&lt;p&gt;This question has been popping in and out of my mind ever since and more recently I had some time to tinker again. This time I was wonder if I could recommend subscriptions based on historical data from a person. And lo and behold: &lt;a href=&#34;https://ehba.app&#34;&gt;EHBA&lt;/a&gt; (eerste hulp bij abonnementen) was born!&lt;/p&gt;</description>
     </item>
   </channel>

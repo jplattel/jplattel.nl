@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronics on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/electronics/</link>
+    <link>http://localhost:1313/tags/electronics/</link>
     <description>Recent content in Electronics on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 09 Sep 2024 22:06:34 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opal</title>
-      <link>https://jplattel.nl/client/opal/</link>
+      <link>http://localhost:1313/client/opal/</link>
       <pubDate>Mon, 09 Sep 2024 22:06:34 +0100</pubDate>
-      <guid>https://jplattel.nl/client/opal/</guid>
+      <guid>http://localhost:1313/client/opal/</guid>
       <description>&lt;p&gt;For &lt;a href=&#34;https://opalcamera.com/&#34;&gt;Opal&lt;/a&gt; I&amp;rsquo;ve worked on hardware prototypes under NDA. I&amp;rsquo;ve been exploring different protocols and low level unix interfaces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SOVN</title>
-      <link>https://jplattel.nl/client/sovn/</link>
+      <link>http://localhost:1313/client/sovn/</link>
       <pubDate>Mon, 26 Dec 2022 23:28:49 +0200</pubDate>
-      <guid>https://jplattel.nl/client/sovn/</guid>
+      <guid>http://localhost:1313/client/sovn/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://getsovn.com/&#34;&gt;Sovn&lt;/a&gt; (previously known as Jawsaver) creates smart earbuds to stop teeth grinding &amp;amp; clenching. Bruxism is a problem and to solve that I was asked to create several prototypes of mechanics to see what&amp;rsquo;s the most interesting strategy to develop into a product.&lt;/p&gt;&#xA;&lt;p&gt;All prototypes where supported with a dynamic earbud platform that let&amp;rsquo;s a user test different mechanics. Arduino&amp;rsquo;s, micropython, 3D printing and rapid prototyping are things that we&amp;rsquo;re used in this development proces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating VT-40 custom keyboard</title>
-      <link>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</link>
+      <link>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</guid>
+      <guid>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m no stranger to &lt;a href=&#34;https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/&#34;&gt;making keyboards&lt;/a&gt; and while I&amp;rsquo;m tinkering with creating a &lt;a href=&#34;https://wandering.computer/&#34;&gt;wearable keyboard&lt;/a&gt; I&amp;rsquo;ve stumbled upon many other builds of people that do interesting stuff.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been browsing the usual reddits (&lt;a href=&#34;https://reddit.com/r/mechanicalKeyboards/&#34;&gt;r/mk&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/ErgoMechKeyboards/&#34;&gt;r/ErgoMechKeyboards&lt;/a&gt; and the likes) I stumbled upon a nice looking project that would get me into ortholinear&amp;hellip; I wanted a keyboard different enough that it&amp;rsquo;s worth building. So I ended up with the &lt;a href=&#34;https://github.com/vladantrhlik/VT-40/&#34;&gt;VT-40&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ikbenke.es/&#34;&gt;My brother&lt;/a&gt; ordered the pcbs and components, I ordered the keycaps &amp;amp; switches since. With a few weeks passing and a couple of hours soldering stuff together, here&amp;rsquo;s the end result:&lt;/p&gt;</description>
     </item>
     <item>
       <title>January: Project Month</title>
-      <link>https://jplattel.nl/post/2021-01-31-closing-january/</link>
+      <link>http://localhost:1313/post/2021-01-31-closing-january/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-01-31-closing-january/</guid>
+      <guid>http://localhost:1313/post/2021-01-31-closing-january/</guid>
       <description>&lt;p&gt;Before the start of this month, I made a commitment to myself to focus all of my attention to personal projects. Just in between clients I could focus purely on my own things! And when January got started, an idea started in my mind that I wanted to take 3 projects to make some progres on.&lt;/p&gt;&#xA;&lt;p&gt;As it turned out, I worked on way more than 3 projects, still did some work for clients, but looking back at this month, I surely achieved making significant progres on at least 3 of my projects. And I&amp;rsquo;ve even been &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;blogging&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;more&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;about&lt;/a&gt; them for sure! I want to highlight the 5 biggest things I&amp;rsquo;ve worked on this month:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Making a bluetooth Sudoku keyboard</title>
-      <link>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
+      <link>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</link>
       <pubDate>Wed, 11 Nov 2020 21:17:39 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
+      <guid>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</guid>
       <description>&lt;p&gt;My girlfriend loves to solves &lt;em&gt;sudoku&lt;/em&gt;&amp;rsquo;s and most of the time she&amp;rsquo;s doing so on her iPhone.. As a belated birthday gift I made her a custom sudoku-keyboard with just &lt;strong&gt;9 keys&lt;/strong&gt;. Who needs more if you just want to do a sudoku right?&lt;/p&gt;&#xA;&lt;p&gt;This was a perfect opportunity for me to dive some more into hardware and especially bluetooth things&amp;hellip; The entire body is 3D printed and has threaded inserts with M3 screws and basic keycaps. After prototyping the electronics I soldered the keycaps together and tadaa:&lt;/p&gt;</description>
     </item>
   </channel>

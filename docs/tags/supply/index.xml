@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supply on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/supply/</link>
+    <link>http://localhost:1313/tags/supply/</link>
     <description>Recent content in Supply on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 19 Mar 2020 16:33:53 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/supply/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/supply/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organization.supply</title>
-      <link>https://jplattel.nl/project/organization-supply/</link>
+      <link>http://localhost:1313/project/organization-supply/</link>
       <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
-      <guid>https://jplattel.nl/project/organization-supply/</guid>
+      <guid>http://localhost:1313/project/organization-supply/</guid>
       <description>An inventory management tool build with Python &amp;amp; Django</description>
     </item>
   </channel>

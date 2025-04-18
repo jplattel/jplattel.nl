@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polymorph on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/polymorph/</link>
+    <link>http://localhost:1313/tags/polymorph/</link>
     <description>Recent content in Polymorph on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 20 Jan 2021 16:29:27 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/polymorph/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/polymorph/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wearable keyboard prototypes</title>
-      <link>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</link>
+      <link>http://localhost:1313/post/2021-01-20-wearable-keyboard-prototypes/</link>
       <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</guid>
-      <description>&lt;p&gt;As I&amp;rsquo;ve highlighted in &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;posts&lt;/a&gt;, &lt;em&gt;a wearable keyboard&lt;/em&gt; is one of my main projects this month. In this post I want to show you some pictures of the first prototypes and tell you a bit more about the proces of designing a keyboard. Remember I&amp;rsquo;ve got really no experience on ergonomics or knowledge about user-interface, I mostly go by feel here as it&amp;rsquo;s a highly personalized product (for now!).&lt;/p&gt;&#xA;&lt;p&gt;Look at other devices like the Keyer or the &lt;code&gt;asetniop&lt;/code&gt; keyboard, I&amp;rsquo;ve made it my focus to develop a wearable keyboard with real keys. As the feedback of pressing a button is quite nice to have, especially when dealing with chording or any form of stenography. The first thing I did was to create a form of my palm &amp;amp; wrist with polymorph, a plastic that allows for easy formation when warm and hardening when cooling down. This form would be the basis for the first prototypes. While testing the ergonomics turned out be be hard, as curled fingers all the time is quite stressfull for the muscles.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/2021-01-20-wearable-keyboard-prototypes/</guid>
+      <description>&lt;p&gt;As I&amp;rsquo;ve highlighted in &lt;a href=&#34;http://localhost:1313/post/2021-01-11-wearable-input-devices/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;posts&lt;/a&gt;, &lt;em&gt;a wearable keyboard&lt;/em&gt; is one of my main projects this month. In this post I want to show you some pictures of the first prototypes and tell you a bit more about the proces of designing a keyboard. Remember I&amp;rsquo;ve got really no experience on ergonomics or knowledge about user-interface, I mostly go by feel here as it&amp;rsquo;s a highly personalized product (for now!).&lt;/p&gt;&#xA;&lt;p&gt;Look at other devices like the Keyer or the &lt;code&gt;asetniop&lt;/code&gt; keyboard, I&amp;rsquo;ve made it my focus to develop a wearable keyboard with real keys. As the feedback of pressing a button is quite nice to have, especially when dealing with chording or any form of stenography. The first thing I did was to create a form of my palm &amp;amp; wrist with polymorph, a plastic that allows for easy formation when warm and hardening when cooling down. This form would be the basis for the first prototypes. While testing the ergonomics turned out be be hard, as curled fingers all the time is quite stressfull for the muscles.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

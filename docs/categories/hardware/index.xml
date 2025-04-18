@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardware on Joost Plattel</title>
-    <link>https://jplattel.nl/categories/hardware/</link>
+    <link>http://localhost:1313/categories/hardware/</link>
     <description>Recent content in Hardware on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sat, 25 May 2024 21:55:14 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a small Pingo clock</title>
-      <link>https://jplattel.nl/post/2024-05-25-small-pingo-clock-with-circuitpython/</link>
+      <link>http://localhost:1313/post/2024-05-25-small-pingo-clock-with-circuitpython/</link>
       <pubDate>Sat, 25 May 2024 21:55:14 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2024-05-25-small-pingo-clock-with-circuitpython/</guid>
+      <guid>http://localhost:1313/post/2024-05-25-small-pingo-clock-with-circuitpython/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been planning to build a &lt;a href=&#34;https://www.instructables.com/Pingo-Color-Clock-by-Illusionmanager/&#34;&gt;Pingo clock&lt;/a&gt; for quite some time. Finally having some time available between projects I had most components on hand. With the exception for the bigger LED rings. And I also wanted to have the clock run on Circuitpython instead of Arduino. So I designed a smaller one, with only 7 led rings instead of 9. This also allowed me to print more parts, for example the diffusion screen is printed as well as a custom USB-c charging backplate. I&amp;rsquo;ve also switched to a Raspberry Pi Pico W so I can use Circuitpython to automatically grab the time with NTP (just like the original!).&lt;/p&gt;</description>
     </item>
   </channel>

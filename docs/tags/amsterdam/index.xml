@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amsterdam on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/amsterdam/</link>
+    <link>http://localhost:1313/tags/amsterdam/</link>
     <description>Recent content in Amsterdam on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 18 Sep 2018 17:17:26 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/amsterdam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/amsterdam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ambassador for the Digital Society School Amsterdam</title>
-      <link>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
+      <link>http://localhost:1313/project/ambassador-digital-society-school-amsterdam/</link>
       <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
-      <guid>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
+      <guid>http://localhost:1313/project/ambassador-digital-society-school-amsterdam/</guid>
       <description>In 2018 - 2020 I am one of the ambassadors for the Digital Society School located in Amsterdam</description>
     </item>
     <item>
       <title>QS Amsterdam Recap #1</title>
-      <link>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <link>http://localhost:1313/post/2010-09-27-qs-amsterdam-recap-1/</link>
       <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <guid>http://localhost:1313/post/2010-09-27-qs-amsterdam-recap-1/</guid>
       <description>&lt;p&gt;On 20 september the first &lt;a href=&#34;http://www.meetup.com/qsamsterdam/&#34;&gt;Quantified Self Amsterdam Meetup&lt;/a&gt; took place in &lt;em&gt;het volkskrantgebouw&lt;/em&gt;. More then 60 people attended and we had guests from Germany and France! A &lt;a href=&#34;http://quantifiedself.com/&#34;&gt;full recap&lt;/a&gt; can be found on the main QS blog and the video’s on &lt;a href=&#34;http://vimeo.com/qsams&#34;&gt;vimeo&lt;/a&gt;. &lt;a href=&#34;http://www.ter-burg.nl/&#34;&gt;Sebastiaan ter Burg&lt;/a&gt; provided the video/&lt;a href=&#34;http://www.flickr.com/photos/qsams&#34;&gt;photo&lt;/a&gt; capture and &lt;a href=&#34;http://www.ikbenke.es/&#34;&gt;Kees Plattel&lt;/a&gt; made a wonderful &lt;a href=&#34;http://vimeo.com/14967809&#34;&gt;intro&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is! Or do you have a personal story to share, feel free to &lt;a href=&#34;http://www.jplattel.nl/contact/&#34;&gt;contact&lt;/a&gt; me!&lt;/p&gt;</description>
     </item>
   </channel>

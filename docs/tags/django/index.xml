@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Django on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/django/</link>
+    <link>http://localhost:1313/tags/django/</link>
     <description>Recent content in Django on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 03 Feb 2025 22:00:45 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/django/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KSU</title>
-      <link>https://jplattel.nl/client/ksu/</link>
+      <link>http://localhost:1313/client/ksu/</link>
       <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
-      <guid>https://jplattel.nl/client/ksu/</guid>
+      <guid>http://localhost:1313/client/ksu/</guid>
       <description>&lt;p&gt;With Maurice van Dinther from wafl.nu I’ve created a monitoring/questionnaire tool for the &lt;a href=&#34;https://www.ksu-utrecht.nl/&#34;&gt;Katholieke Scholenstichting Utrecht&lt;/a&gt; (KSU). This allows them to gain insights into how their teams are functioning. The application is build with Django and uses SSO to seamlessly allow users to gather data. The data is shown in dashboards with Chart.js.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dropper</title>
-      <link>https://jplattel.nl/client/dropper/</link>
+      <link>http://localhost:1313/client/dropper/</link>
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
-      <guid>https://jplattel.nl/client/dropper/</guid>
+      <guid>http://localhost:1313/client/dropper/</guid>
       <description>&lt;p&gt;For Dropper I&amp;rsquo;ve implemented improvements for their &lt;em&gt;Django&lt;/em&gt; application. Dropper was a startup that was into last-mile delivery. Optimization where mostly on the performance side of things.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organization.supply</title>
-      <link>https://jplattel.nl/project/organization-supply/</link>
+      <link>http://localhost:1313/project/organization-supply/</link>
       <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
-      <guid>https://jplattel.nl/project/organization-supply/</guid>
+      <guid>http://localhost:1313/project/organization-supply/</guid>
       <description>An inventory management tool build with Python &amp;amp; Django</description>
     </item>
     <item>
       <title>Nolostcapital</title>
-      <link>https://jplattel.nl/client/nolostcapital/</link>
+      <link>http://localhost:1313/client/nolostcapital/</link>
       <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
-      <guid>https://jplattel.nl/client/nolostcapital/</guid>
+      <guid>http://localhost:1313/client/nolostcapital/</guid>
       <description>&lt;p&gt;For &lt;a href=&#34;https://www2.le.ac.uk/departments/business/people/academic/phoebe-moore&#34;&gt;Nolostcapital&lt;/a&gt; I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act.&lt;/p&gt;&#xA;&lt;p&gt;The backend service was done in &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; and the front-end in &lt;em&gt;Vue&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fundsup</title>
-      <link>https://jplattel.nl/client/fundsup/</link>
+      <link>http://localhost:1313/client/fundsup/</link>
       <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
-      <guid>https://jplattel.nl/client/fundsup/</guid>
+      <guid>http://localhost:1313/client/fundsup/</guid>
       <description>&lt;p&gt;To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform. The main technology of this stack was &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; for the backend and the API and &lt;em&gt;Vue&lt;/em&gt; for the front-end. The database was PostGres with JSON fields allowing for querying non-schema based fields.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Watermelon</title>
-      <link>https://jplattel.nl/client/watermelon/</link>
+      <link>http://localhost:1313/client/watermelon/</link>
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
-      <guid>https://jplattel.nl/client/watermelon/</guid>
+      <guid>http://localhost:1313/client/watermelon/</guid>
       <description>&lt;p&gt;In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.&lt;/p&gt;&#xA;&lt;p&gt;Once I got started I also converted their current stack to support Docker &amp;amp; implemented an auth gateway that would take in older auth flows and support better authentication for the API. The API was build in &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; with Django Rest Framework (DRF)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Colliers</title>
-      <link>https://jplattel.nl/client/colliers/</link>
+      <link>http://localhost:1313/client/colliers/</link>
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
-      <guid>https://jplattel.nl/client/colliers/</guid>
+      <guid>http://localhost:1313/client/colliers/</guid>
       <description>&lt;p&gt;Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.&lt;/p&gt;&#xA;&lt;p&gt;During the entire year of tracking &lt;a href=&#34;https://www2.le.ac.uk/departments/business/people/academic/phoebe-moore&#34;&gt;Phoebe V. Moore&lt;/a&gt; as researcher investigated the impact of the platform.&lt;/p&gt;&#xA;&lt;p&gt;As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with &lt;em&gt;Python&lt;/em&gt; and the main dashboard is based on &lt;em&gt;Django&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

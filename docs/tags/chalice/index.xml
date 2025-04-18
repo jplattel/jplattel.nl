@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chalice on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/chalice/</link>
+    <link>http://localhost:1313/tags/chalice/</link>
     <description>Recent content in Chalice on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 05 Aug 2019 00:05:13 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/chalice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chalice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EHBA.app</title>
-      <link>https://jplattel.nl/project/ehba/</link>
+      <link>http://localhost:1313/project/ehba/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      <guid>https://jplattel.nl/project/ehba/</guid>
+      <guid>http://localhost:1313/project/ehba/</guid>
       <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
     </item>
   </channel>

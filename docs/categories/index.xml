@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Joost Plattel</title>
-    <link>https://jplattel.nl/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 18 Apr 2025 10:13:58 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pkm</title>
-      <link>https://jplattel.nl/categories/pkm/</link>
+      <link>http://localhost:1313/categories/pkm/</link>
       <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/pkm/</guid>
+      <guid>http://localhost:1313/categories/pkm/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://jplattel.nl/categories/technology/</link>
+      <link>http://localhost:1313/categories/technology/</link>
       <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/technology/</guid>
+      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>https://jplattel.nl/categories/internet/</link>
+      <link>http://localhost:1313/categories/internet/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/internet/</guid>
+      <guid>http://localhost:1313/categories/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>https://jplattel.nl/categories/web/</link>
+      <link>http://localhost:1313/categories/web/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/web/</guid>
+      <guid>http://localhost:1313/categories/web/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>https://jplattel.nl/categories/hardware/</link>
+      <link>http://localhost:1313/categories/hardware/</link>
       <pubDate>Sat, 25 May 2024 21:55:14 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/hardware/</guid>
+      <guid>http://localhost:1313/categories/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://jplattel.nl/categories/software/</link>
+      <link>http://localhost:1313/categories/software/</link>
       <pubDate>Mon, 15 Nov 2021 10:28:10 +0100</pubDate>
-      <guid>https://jplattel.nl/categories/software/</guid>
+      <guid>http://localhost:1313/categories/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>https://jplattel.nl/categories/personal/</link>
+      <link>http://localhost:1313/categories/personal/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>https://jplattel.nl/categories/personal/</guid>
+      <guid>http://localhost:1313/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>https://jplattel.nl/categories/work/</link>
+      <link>http://localhost:1313/categories/work/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>https://jplattel.nl/categories/work/</guid>
+      <guid>http://localhost:1313/categories/work/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://jplattel.nl/categories/python/</link>
+      <link>http://localhost:1313/categories/python/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
-      <guid>https://jplattel.nl/categories/python/</guid>
+      <guid>http://localhost:1313/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifehacking</title>
-      <link>https://jplattel.nl/categories/lifehacking/</link>
+      <link>http://localhost:1313/categories/lifehacking/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/lifehacking/</guid>
+      <guid>http://localhost:1313/categories/lifehacking/</guid>
       <description></description>
     </item>
     <item>
       <title>DIY</title>
-      <link>https://jplattel.nl/categories/diy/</link>
+      <link>http://localhost:1313/categories/diy/</link>
       <pubDate>Sun, 29 Apr 2018 20:12:17 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/diy/</guid>
+      <guid>http://localhost:1313/categories/diy/</guid>
       <description></description>
     </item>
     <item>
       <title>Brouwerij Nooitgedacht</title>
-      <link>https://jplattel.nl/categories/brouwerij-nooitgedacht/</link>
+      <link>http://localhost:1313/categories/brouwerij-nooitgedacht/</link>
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      <guid>https://jplattel.nl/categories/brouwerij-nooitgedacht/</guid>
+      <guid>http://localhost:1313/categories/brouwerij-nooitgedacht/</guid>
       <description></description>
     </item>
   </channel>

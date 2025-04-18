@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zerotier on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/zerotier/</link>
+    <link>http://localhost:1313/tags/zerotier/</link>
     <description>Recent content in Zerotier on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 16 May 2022 21:18:41 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/zerotier/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/zerotier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuring Mainsail With Zerotier</title>
-      <link>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
+      <link>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
+      <guid>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
       <description>&lt;p&gt;This blogpost mostly functions as a reminder to myself on how to configure &lt;a href=&#34;https://docs.mainsail.xyz/&#34;&gt;Mainsail&lt;/a&gt; to use &lt;a href=&#34;https://www.zerotier.com/&#34;&gt;Zerotier&lt;/a&gt;. If you&amp;rsquo;re unfamiliar with any of the two, the first one is a operating system made for running a 3D printer and the second one allows for a network layer for personal computing, connecting devices over SD-WAN &amp;amp; VPN.&lt;/p&gt;&#xA;&lt;p&gt;I was running Octoprint for a while, but after a tip by David from &lt;a href=&#34;https://dato.mu/&#34;&gt;Dato&lt;/a&gt; I went on to explore Mainsail. Mainsail is a better way to run your printer, and it&amp;rsquo;s way faster then Octoprint. So far I&amp;rsquo;ve been running it for a week and I&amp;rsquo;m pretty happy about it! The only thing that was missing was the remote connection I had with Octoprint, made possible by Zerotier.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pi on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/pi/</link>
+    <link>http://localhost:1313/tags/pi/</link>
     <description>Recent content in Pi on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 16 May 2022 21:18:41 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/pi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuring Mainsail With Zerotier</title>
-      <link>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
+      <link>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
+      <guid>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
       <description>&lt;p&gt;This blogpost mostly functions as a reminder to myself on how to configure &lt;a href=&#34;https://docs.mainsail.xyz/&#34;&gt;Mainsail&lt;/a&gt; to use &lt;a href=&#34;https://www.zerotier.com/&#34;&gt;Zerotier&lt;/a&gt;. If you&amp;rsquo;re unfamiliar with any of the two, the first one is a operating system made for running a 3D printer and the second one allows for a network layer for personal computing, connecting devices over SD-WAN &amp;amp; VPN.&lt;/p&gt;&#xA;&lt;p&gt;I was running Octoprint for a while, but after a tip by David from &lt;a href=&#34;https://dato.mu/&#34;&gt;Dato&lt;/a&gt; I went on to explore Mainsail. Mainsail is a better way to run your printer, and it&amp;rsquo;s way faster then Octoprint. So far I&amp;rsquo;ve been running it for a week and I&amp;rsquo;m pretty happy about it! The only thing that was missing was the remote connection I had with Octoprint, made possible by Zerotier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Idea Machine</title>
-      <link>https://jplattel.nl/post/2019-10-21-the-idea-machine/</link>
+      <link>http://localhost:1313/post/2019-10-21-the-idea-machine/</link>
       <pubDate>Mon, 21 Oct 2019 12:36:42 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2019-10-21-the-idea-machine/</guid>
+      <guid>http://localhost:1313/post/2019-10-21-the-idea-machine/</guid>
       <description>&lt;p&gt;Boredom is something we all experience in different ways. And the solution isn’t always that easy. You might dwell for a certain amount of time on the couch.. Or restless as you are think about thinks you might want to do, but they never seem to come up.&lt;/p&gt;&#xA;&lt;p&gt;I think a certain part boredom is necessary to facilitate ideas and other serendipitous discoveries. However there might be times, in which you would like for the pure boredom to disappear. After talking to my girlfriend about this we wanted too see what kind of a solution we could think of. And here is the result:&#xA;&lt;img src=&#34;https://images.jplattel.nl/file/jplattel-dropshare/B02CEF3D-4D51-4AC9-A94F-3487D6E89813-1571747019/B02CEF3D-4D51-4AC9-A94F-3487D6E89813.JPG&#34; alt=&#34;The Idea Machine&#34;&gt;&#xA;It looks like a coffee grinder, but it is an idea machine, meant for only one purpose and only allowing one simple interaction. Instead of grinding coffee,  you pull open the drawer to reveal a print-out of and idea.&lt;/p&gt;</description>
     </item>
   </channel>

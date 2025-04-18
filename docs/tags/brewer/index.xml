@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brewer on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/brewer/</link>
+    <link>http://localhost:1313/tags/brewer/</link>
     <description>Recent content in Brewer on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 21 Nov 2019 21:55:31 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/brewer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/brewer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automating my brewery (Part 2)</title>
-      <link>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</link>
+      <link>http://localhost:1313/post/2019-11-18-automating-my-brewery-part-2/</link>
       <pubDate>Thu, 21 Nov 2019 21:55:31 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</guid>
+      <guid>http://localhost:1313/post/2019-11-18-automating-my-brewery-part-2/</guid>
       <description>&lt;p&gt;In the &lt;a href=&#34;https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/&#34;&gt;first part&lt;/a&gt;, I looked at the frame/enclosure for everything that we need to automate my own brewery. In this part I wanted to show which parts are on the inside based functionality. but first a picture of the enclosure while it&amp;rsquo;s being build:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.jplattel.nl/file/jplattel-dropshare/2019-11-03-13.15.05-1574201936.jpg&#34; alt=&#34;Enclosure of the brewery controller&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The enclosure contains the following things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;230V IN: Voltage in, the main power supply for all devices in the enclosure&lt;/li&gt;&#xA;&lt;li&gt;230V OUT: Switched by the solid state relay based on the PID algorithm&lt;/li&gt;&#xA;&lt;li&gt;RJ12 Female connecter: Input for the temperature sensor that is used by the PID algorithm as input&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frontside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Traffic-light interface: lights to indicate what is on.&lt;/li&gt;&#xA;&lt;li&gt;LCD Display (16x4): The main interface on which you can see what is happing and change settings.&lt;/li&gt;&#xA;&lt;li&gt;4 Arcade buttons: the main input device for controlling everything.&lt;/li&gt;&#xA;&lt;li&gt;Twist dial: controlling the speed of the pump.&lt;/li&gt;&#xA;&lt;li&gt;Pump input &amp;amp; output: Connections for the pump.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inside:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solid state relay: switching on the main heating element (230V OUT)&lt;/li&gt;&#xA;&lt;li&gt;Pump power adapter: the pump has it&amp;rsquo;s own power converter&lt;/li&gt;&#xA;&lt;li&gt;Wemo D1 Mini lite: the main brains of the device, running micropython&lt;/li&gt;&#xA;&lt;li&gt;5 volt adapter: Used by the Wemo D1 Mini lite.&lt;/li&gt;&#xA;&lt;li&gt;Magnetically coupled pump: The main circulation device.&lt;/li&gt;&#xA;&lt;li&gt;Custom PCB: More on this later!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Most electric wiring is done with couplers, and only the lower voltages for the button and controllers are based on pins or screwterminals, which are less secure, but hey! In the next version I might want to make the shield for the wemo plug into the one for the display, saving another 4 wires.. But that&amp;rsquo;s for another time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brewing a new batch of beer</title>
-      <link>https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
+      <link>http://localhost:1313/post/2018-04-26-new_batch_nooitop_kratfunding/</link>
       <pubDate>Thu, 26 Apr 2018 13:51:31 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
+      <guid>http://localhost:1313/post/2018-04-26-new_batch_nooitop_kratfunding/</guid>
       <description>&lt;p&gt;Past week we spend a day at a brewery! We made a new batch for our brewery &lt;!-- raw HTML omitted --&gt;Nooitgedacht&lt;!-- raw HTML omitted --&gt;. We improved our recipe of our tripel and you can now fund our brewery buy pre-ordering a crate of beer trough &lt;!-- raw HTML omitted --&gt;Kratfunding&lt;!-- raw HTML omitted --&gt;, we only ship to the Netherlands currently!&lt;/p&gt;&#xA;&lt;p&gt;Our plan is to use Kratfunding in a way to organise enough money to be self-sufficient as a brewery. And as an organization we want to enable more homebrewers to scale up more easily.&lt;/p&gt;</description>
     </item>
   </channel>

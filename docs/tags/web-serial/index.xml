@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web-Serial on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/web-serial/</link>
+    <link>http://localhost:1313/tags/web-serial/</link>
     <description>Recent content in Web-Serial on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 15 Feb 2024 20:36:24 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/web-serial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/web-serial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy configuration for Circuit Python devices</title>
-      <link>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
+      <link>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
       <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
+      <guid>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
       <description>&lt;p&gt;While developing the &lt;a href=&#34;https://jplattel.nl/project/ov-klok/&#34;&gt;OV Klok&lt;/a&gt; I&amp;rsquo;ve been exploring how small trinkets and other technological utilities can be configured. Most of the time, it&amp;rsquo;s either trough a &lt;a href=&#34;https://www.wikiwand.com/en/Captive_portal&#34;&gt;captive portal&lt;/a&gt;, a self-served webserver or editing a configuration file. Both options aren&amp;rsquo;t really user friendly to me&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The captive portal is fails at times and doesn&amp;rsquo;t really work if you have a custom network configuration.&lt;/li&gt;&#xA;&lt;li&gt;The self served webpage requires a user to type in an address or IP, that&amp;rsquo;s only accessible in a specific mode..&lt;/li&gt;&#xA;&lt;li&gt;The configuration file is prone to errors and requires a user to edit a text file with an editor that they might not be comfortable with.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;web-serial-to-the-rescue&#34;&gt;Web serial to the rescue&lt;/h2&gt;&#xA;&lt;p&gt;For a simple device like the OV Klok a user only needs to configure the device once and I wanted it to be as fool proof as possible while being user-friendly too! I solved this with the power of &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API&#34;&gt;Web Serial&lt;/a&gt;. This allows a user to connect with a serial port through a webbrowser.&lt;/p&gt;</description>
     </item>
   </channel>

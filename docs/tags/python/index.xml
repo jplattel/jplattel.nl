@@ -2,151 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 18 Apr 2025 10:13:58 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recreating a Photostream With Immich and Python</title>
-      <link>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
+      <link>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
       <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
+      <guid>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
       <description>&lt;p&gt;Two posts within a week? That&amp;rsquo;s pretty much magical&amp;hellip; I&amp;rsquo;ll need to have a look on why this happened 👀. Talking about looking at things, one of the functions that Apple used to offer was a Photostream, which worked through iCloud and allowed you to view your photos from your mobile phone on your Mac. This felt seamless to me and allowed me to take a picture and handle it on my Mac. Apple discontinued it and now I&amp;rsquo;m stuck with images that are synced to my NAS (thanks &lt;a href=&#34;https://www.synology.com/nl-nl/dsm/feature/photos&#34;&gt;Synology Photos&lt;/a&gt;!).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Syncing Netnewswire starred items to Anybox</title>
-      <link>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</link>
+      <link>http://localhost:1313/post/2025-04-16-netnewswire-starred-items-to-anybox/</link>
       <pubDate>Wed, 16 Apr 2025 21:42:50 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</guid>
+      <guid>http://localhost:1313/post/2025-04-16-netnewswire-starred-items-to-anybox/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been migrating my online feedreading to &lt;a href=&#34;https://netnewswire.com/&#34;&gt;Netnewswire&lt;/a&gt; on my mac. Being in control of how stuff works becomes more and more a trend (and a must in some occasions). A thighly knit web isn&amp;rsquo;t really transfered that easily so I had a small thing that I wanted to solve and that is starring items for reading them later. In my case, my read it later list is stored in &lt;a href=&#34;https://anybox.app/&#34;&gt;Anybox&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I know of other extensible rss readers like &lt;a href=&#34;https://github.com/miniflux/&#34;&gt;miniflux&lt;/a&gt;, but didn&amp;rsquo;t want the maintanence, thus I settled on Netnewswire. Netnewswire stores it database in a SQLite database and Anybox has a applescript interface. With the help of &lt;a href=&#34;https://www.cursor.com/&#34;&gt;Cursor&lt;/a&gt; it took me a bit over 30 minutes to get everything together. The script uses the python &lt;code&gt;dbm&lt;/code&gt; module as a small db to keep track of what is synced so it doesn&amp;rsquo;t add any that&amp;rsquo;s already been added.&lt;/p&gt;</description>
     </item>
     <item>
       <title>KSU</title>
-      <link>https://jplattel.nl/client/ksu/</link>
+      <link>http://localhost:1313/client/ksu/</link>
       <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
-      <guid>https://jplattel.nl/client/ksu/</guid>
+      <guid>http://localhost:1313/client/ksu/</guid>
       <description>&lt;p&gt;With Maurice van Dinther from wafl.nu I’ve created a monitoring/questionnaire tool for the &lt;a href=&#34;https://www.ksu-utrecht.nl/&#34;&gt;Katholieke Scholenstichting Utrecht&lt;/a&gt; (KSU). This allows them to gain insights into how their teams are functioning. The application is build with Django and uses SSO to seamlessly allow users to gather data. The data is shown in dashboards with Chart.js.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tellart</title>
-      <link>https://jplattel.nl/client/tellart/</link>
+      <link>http://localhost:1313/client/tellart/</link>
       <pubDate>Fri, 01 Dec 2023 22:06:34 +0100</pubDate>
-      <guid>https://jplattel.nl/client/tellart/</guid>
+      <guid>http://localhost:1313/client/tellart/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve worked with &lt;a href=&#34;https://www.tellart.com/&#34;&gt;Tellart&lt;/a&gt; on the &lt;a href=&#34;https://www.tellart.com/projects/dinner-in-2050&#34;&gt;Dinner in 2050&lt;/a&gt; installation for the UAE Pavilion. For COP28 the goal of this installation is to make people think about climate change in a very personal way.&lt;/p&gt;&#xA;&lt;p&gt;Visitors would be asked to tell about their favorite dish which would then be transformed into a dish in 2050 with an ingredient swapped out that would have the most impact on climate change. Over 18.000 meals were generated by the visitors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EsperantoXL</title>
-      <link>https://jplattel.nl/client/esperantoxl/</link>
+      <link>http://localhost:1313/client/esperantoxl/</link>
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      <guid>https://jplattel.nl/client/esperantoxl/</guid>
+      <guid>http://localhost:1313/client/esperantoxl/</guid>
       <description>&lt;p&gt;For &lt;a href=&#34;https://esperantoxl.nl/&#34;&gt;EsperantoXL&lt;/a&gt; I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.&lt;/p&gt;&#xA;&lt;p&gt;This solution allows for processing million lines of codes in a unsupported datafile, analyze &amp;amp; run queries on it and return it through a callback towards the no-code platform once again. Most of the implementations are based on &lt;em&gt;Python&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dropper</title>
-      <link>https://jplattel.nl/client/dropper/</link>
+      <link>http://localhost:1313/client/dropper/</link>
       <pubDate>Sat, 30 May 2020 23:27:24 +0200</pubDate>
-      <guid>https://jplattel.nl/client/dropper/</guid>
+      <guid>http://localhost:1313/client/dropper/</guid>
       <description>&lt;p&gt;For Dropper I&amp;rsquo;ve implemented improvements for their &lt;em&gt;Django&lt;/em&gt; application. Dropper was a startup that was into last-mile delivery. Optimization where mostly on the performance side of things.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vogsy</title>
-      <link>https://jplattel.nl/client/vogsy/</link>
+      <link>http://localhost:1313/client/vogsy/</link>
       <pubDate>Wed, 20 May 2020 00:19:14 +0200</pubDate>
-      <guid>https://jplattel.nl/client/vogsy/</guid>
+      <guid>http://localhost:1313/client/vogsy/</guid>
       <description>&lt;p&gt;For Vogsy I developed several intergrations in CRMs (Hubspot, Salesforce &amp;amp; Copper) and financial applications (Quickbooks, Exact &amp;amp; Xero). I also provided a base for a Zapier application that lets users automate things together with Vogsy.&lt;/p&gt;&#xA;&lt;p&gt;All API integrations where build with &lt;em&gt;Python&lt;/em&gt; on App Engine. For each integration a seperate integration layer is build with full test-coverage. The architecture is based on Domain Driven Design (DDD).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organization.supply</title>
-      <link>https://jplattel.nl/project/organization-supply/</link>
+      <link>http://localhost:1313/project/organization-supply/</link>
       <pubDate>Thu, 19 Mar 2020 16:33:53 +0100</pubDate>
-      <guid>https://jplattel.nl/project/organization-supply/</guid>
+      <guid>http://localhost:1313/project/organization-supply/</guid>
       <description>An inventory management tool build with Python &amp;amp; Django</description>
     </item>
     <item>
       <title>Micropython LCD menu: upymenu</title>
-      <link>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
+      <link>http://localhost:1313/post/2020-01-29-upymenu-lcd-micropython-menu/</link>
       <pubDate>Tue, 28 Jan 2020 21:28:46 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
+      <guid>http://localhost:1313/post/2020-01-29-upymenu-lcd-micropython-menu/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve published my first library to &lt;a href=&#34;https://pypi.org/project/upymenu/&#34;&gt;PyPi&lt;/a&gt;! It is a simple utility function you can use in micropython to build menus for LCD displays. I was used to the &lt;a href=&#34;https://github.com/arduino-libraries/LiquidCrystal&#34;&gt;Liquid Crystal&lt;/a&gt; and &lt;a href=&#34;https://github.com/VaSe7u/LiquidMenu&#34;&gt;Liquid Menu&lt;/a&gt; while developing on an Arduino.&lt;/p&gt;&#xA;&lt;p&gt;When I made the switch towards micropython I saw no such thing existed. But having a &lt;a href=&#34;https://www.wikiwand.com/en/Finite-state_machine&#34;&gt;statemachine&lt;/a&gt; like menu is quite easy in Python and I wanted to abstract it a bit into a library, this way it is easier to use for other people!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My setup for Python projects</title>
-      <link>https://jplattel.nl/post/2020-01-19-python-projects-setup/</link>
+      <link>http://localhost:1313/post/2020-01-19-python-projects-setup/</link>
       <pubDate>Sun, 19 Jan 2020 20:07:24 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2020-01-19-python-projects-setup/</guid>
+      <guid>http://localhost:1313/post/2020-01-19-python-projects-setup/</guid>
       <description>&lt;p&gt;Inspired by a &lt;a href=&#34;https://medium.com/@markdlavin/my-python-environment-setup-fcddd0e99e5b&#34;&gt;few&lt;/a&gt; &lt;a href=&#34;https://jacobian.org/2019/nov/11/python-environment-2020/&#34;&gt;blogs&lt;/a&gt; that I follow I wanted to share my current setup for Python projects that I use personally. This setup might vary based on &lt;a href=&#34;https://jplattel.nl/client/&#34;&gt;clients&lt;/a&gt; that I have, but for my own projects this is what I mostly use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;iTerm, &lt;code&gt;zsh&lt;/code&gt; &amp;amp; &lt;code&gt;oh-my-zsh&lt;/code&gt; with &lt;a href=&#34;https://gist.github.com/jplattel/34f14bb95854c84a547d7049142270b0&#34;&gt;my own coloured theme.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;VSCode, with the following plugins:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python for VSCode&lt;/li&gt;&#xA;&lt;li&gt;autopep8&lt;/li&gt;&#xA;&lt;li&gt;Bracket pair colorizer 2&lt;/li&gt;&#xA;&lt;li&gt;Indent rainbow&lt;/li&gt;&#xA;&lt;li&gt;Git Lens&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Virtualenv (with &lt;a href=&#34;https://virtualenvwrapper.readthedocs.io/en/latest/&#34;&gt;virtualenvwrapper&lt;/a&gt;)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;All environments are saved in the &lt;code&gt;~/.environments&lt;/code&gt; folder,&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;black&lt;/code&gt; &amp;amp; &lt;code&gt;isort&lt;/code&gt; for code-formatting and sorting imports&lt;/li&gt;&#xA;&lt;li&gt;Pytest for tests, with coverage (&lt;code&gt;pytest-cov&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sometimes my projects are inside a Docker container and don&amp;rsquo;t need the virtual environment, a specific dockerfile for that Python version is sufficient enough.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EHBA.app</title>
-      <link>https://jplattel.nl/project/ehba/</link>
+      <link>http://localhost:1313/project/ehba/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      <guid>https://jplattel.nl/project/ehba/</guid>
+      <guid>http://localhost:1313/project/ehba/</guid>
       <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
     </item>
     <item>
       <title>Nolostcapital</title>
-      <link>https://jplattel.nl/client/nolostcapital/</link>
+      <link>http://localhost:1313/client/nolostcapital/</link>
       <pubDate>Tue, 27 Nov 2018 21:49:56 +0100</pubDate>
-      <guid>https://jplattel.nl/client/nolostcapital/</guid>
+      <guid>http://localhost:1313/client/nolostcapital/</guid>
       <description>&lt;p&gt;For &lt;a href=&#34;https://www2.le.ac.uk/departments/business/people/academic/phoebe-moore&#34;&gt;Nolostcapital&lt;/a&gt; I build a tool that lets them put out questionnaires for specific goals towards well-being and HR. The tool offers direct insights from all the results from those questionnaires, enabling organizations to quickly act.&lt;/p&gt;&#xA;&lt;p&gt;The backend service was done in &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; and the front-end in &lt;em&gt;Vue&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fundsup</title>
-      <link>https://jplattel.nl/client/fundsup/</link>
+      <link>http://localhost:1313/client/fundsup/</link>
       <pubDate>Thu, 31 May 2018 00:15:32 +0200</pubDate>
-      <guid>https://jplattel.nl/client/fundsup/</guid>
+      <guid>http://localhost:1313/client/fundsup/</guid>
       <description>&lt;p&gt;To enable target marketing towards startups and investors alike, I helped Fundsup create a single database for campaigns and meta-data for their platform. The main technology of this stack was &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; for the backend and the API and &lt;em&gt;Vue&lt;/em&gt; for the front-end. The database was PostGres with JSON fields allowing for querying non-schema based fields.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Watermelon</title>
-      <link>https://jplattel.nl/client/watermelon/</link>
+      <link>http://localhost:1313/client/watermelon/</link>
       <pubDate>Wed, 30 May 2018 23:28:49 +0200</pubDate>
-      <guid>https://jplattel.nl/client/watermelon/</guid>
+      <guid>http://localhost:1313/client/watermelon/</guid>
       <description>&lt;p&gt;In two weeks I created the first REST API for a chatbot service that Watermelon is offering to their clients.&lt;/p&gt;&#xA;&lt;p&gt;Once I got started I also converted their current stack to support Docker &amp;amp; implemented an auth gateway that would take in older auth flows and support better authentication for the API. The API was build in &lt;em&gt;python&lt;/em&gt; &amp;amp; &lt;em&gt;Django&lt;/em&gt; with Django Rest Framework (DRF)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Colliers</title>
-      <link>https://jplattel.nl/client/colliers/</link>
+      <link>http://localhost:1313/client/colliers/</link>
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
-      <guid>https://jplattel.nl/client/colliers/</guid>
+      <guid>http://localhost:1313/client/colliers/</guid>
       <description>&lt;p&gt;Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.&lt;/p&gt;&#xA;&lt;p&gt;During the entire year of tracking &lt;a href=&#34;https://www2.le.ac.uk/departments/business/people/academic/phoebe-moore&#34;&gt;Phoebe V. Moore&lt;/a&gt; as researcher investigated the impact of the platform.&lt;/p&gt;&#xA;&lt;p&gt;As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with &lt;em&gt;Python&lt;/em&gt; and the main dashboard is based on &lt;em&gt;Django&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
-      <link>https://jplattel.nl/client/bzk/</link>
+      <link>http://localhost:1313/client/bzk/</link>
       <pubDate>Wed, 30 May 2018 23:25:32 +0200</pubDate>
-      <guid>https://jplattel.nl/client/bzk/</guid>
+      <guid>http://localhost:1313/client/bzk/</guid>
       <description>&lt;p&gt;Based on LinkedIn data, I created insights for The Ministry of the Interior. Each year over 200 trainees are joining the government and their skills can be employed more wisely and based on interest next to experience from the traineeship itself.&lt;/p&gt;&#xA;&lt;p&gt;My work consisted out of gathering the data, visualisation and future strategy on how to match talent within the government. Most work is done in &lt;em&gt;Python&lt;/em&gt; and Jupyter notebooks as the technology stack.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Berichtenbox Forwarder</title>
-      <link>https://jplattel.nl/project/berichtenbox-forwarder/</link>
+      <link>http://localhost:1313/project/berichtenbox-forwarder/</link>
       <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
-      <guid>https://jplattel.nl/project/berichtenbox-forwarder/</guid>
+      <guid>http://localhost:1313/project/berichtenbox-forwarder/</guid>
       <description>A small utility that enables automagic fetching of messages of our government.</description>
     </item>
     <item>
       <title>Part-up</title>
-      <link>https://jplattel.nl/client/partup/</link>
+      <link>http://localhost:1313/client/partup/</link>
       <pubDate>Sun, 21 Apr 2013 22:55:11 +0200</pubDate>
-      <guid>https://jplattel.nl/client/partup/</guid>
+      <guid>http://localhost:1313/client/partup/</guid>
       <description>Data strategy &amp;amp; API</description>
     </item>
     <item>
       <title>Measuring mouse interaction</title>
-      <link>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</link>
+      <link>http://localhost:1313/post/2011-02-27-measuring-mouse-interaction/</link>
       <pubDate>Sun, 27 Feb 2011 22:12:40 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</guid>
+      <guid>http://localhost:1313/post/2011-02-27-measuring-mouse-interaction/</guid>
       <description>&lt;p&gt;I am an avid user of shortcuts and like to improve my workflow and I would like to discover hidden patterns. This is what happens next. When I bought my Mac 2 months ago I dumped my mouse in favor of the trackpad. Did this influence my mouse/trackpad interaction? Sadly I can&amp;rsquo;t draw any conclusions about it because I switched my operating system too!&lt;/p&gt;&#xA;&lt;p&gt;However more recently I started using MacLogger and together with &lt;a href=&#34;http://gedachtes.van.jelleakkerman.nl/&#34;&gt;Jelle&lt;/a&gt; I&amp;rsquo;ve made some custom python and processing scripts that should offer more insight into my mouse usage. When I showed the screenshot below to Jelle he noticed I don&amp;rsquo;t use my dock, as there are almost no points of rest at the side or bottom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GeoTracking: streaming GPS locations</title>
-      <link>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</link>
+      <link>http://localhost:1313/post/2010-08-31-geotracking-streaming-gps-locations/</link>
       <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
+      <guid>http://localhost:1313/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
       <description>&lt;p&gt;&lt;em&gt;I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/8545134&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone. So I ventured into python and after reading &lt;a href=&#34;http://eric-blue.com/2010/08/28/geolocation-gps-and-self-tracking/&#34;&gt;Eric Blue’s blog&lt;/a&gt; I came up with a solution.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Immich on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/immich/</link>
+    <link>http://localhost:1313/tags/immich/</link>
     <description>Recent content in Immich on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 18 Apr 2025 10:13:58 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/immich/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/immich/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recreating a Photostream With Immich and Python</title>
-      <link>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
+      <link>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
       <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
+      <guid>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
       <description>&lt;p&gt;Two posts within a week? That&amp;rsquo;s pretty much magical&amp;hellip; I&amp;rsquo;ll need to have a look on why this happened 👀. Talking about looking at things, one of the functions that Apple used to offer was a Photostream, which worked through iCloud and allowed you to view your photos from your mobile phone on your Mac. This felt seamless to me and allowed me to take a picture and handle it on my Mac. Apple discontinued it and now I&amp;rsquo;m stuck with images that are synced to my NAS (thanks &lt;a href=&#34;https://www.synology.com/nl-nl/dsm/feature/photos&#34;&gt;Synology Photos&lt;/a&gt;!).&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/photos/</link>
+    <link>http://localhost:1313/tags/photos/</link>
     <description>Recent content in Photos on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 18 Apr 2025 10:13:58 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recreating a Photostream With Immich and Python</title>
-      <link>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
+      <link>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
       <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
+      <guid>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
       <description>&lt;p&gt;Two posts within a week? That&amp;rsquo;s pretty much magical&amp;hellip; I&amp;rsquo;ll need to have a look on why this happened 👀. Talking about looking at things, one of the functions that Apple used to offer was a Photostream, which worked through iCloud and allowed you to view your photos from your mobile phone on your Mac. This felt seamless to me and allowed me to take a picture and handle it on my Mac. Apple discontinued it and now I&amp;rsquo;m stuck with images that are synced to my NAS (thanks &lt;a href=&#34;https://www.synology.com/nl-nl/dsm/feature/photos&#34;&gt;Synology Photos&lt;/a&gt;!).&lt;/p&gt;</description>
     </item>
     <item>
       <title>8:36pm - 2021</title>
-      <link>https://jplattel.nl/post/2022-04-20-836pm-2021/</link>
+      <link>http://localhost:1313/post/2022-04-20-836pm-2021/</link>
       <pubDate>Wed, 20 Apr 2022 16:36:51 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2022-04-20-836pm-2021/</guid>
+      <guid>http://localhost:1313/post/2022-04-20-836pm-2021/</guid>
       <description>&lt;p&gt;Long overdue, and it&amp;rsquo;s missing more photos then I&amp;rsquo;d like, here&amp;rsquo;s the 8:36pm video of 2021! Thanks to &lt;a href=&#34;http://www.quintenswagerman.nl/&#34;&gt;Quinten Swagerman&lt;/a&gt; with helping out making it into a video! (Switching to a new mac broke the old After Effects I was still using&amp;hellip;)&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/701275241&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Onto another year!&lt;/p&gt;</description>
     </item>
     <item>
       <title>8:36pm - 2020 &amp; Planning January</title>
-      <link>https://jplattel.nl/post/2021-01-06-2020-836pm/</link>
+      <link>http://localhost:1313/post/2021-01-06-2020-836pm/</link>
       <pubDate>Wed, 06 Jan 2021 15:18:14 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-01-06-2020-836pm/</guid>
+      <guid>http://localhost:1313/post/2021-01-06-2020-836pm/</guid>
       <description>&lt;p&gt;As 2020 is over and 2021 is just beginning I once return to the yearly habits that I&amp;rsquo;ve grown into doing. One of them is completing the &lt;a href=&#34;https://yearcompass.com/&#34;&gt;Year Compass&lt;/a&gt; together with my girlfriend. To other was stuck for a while to the fact that OS X Catalina only supports 64 bit applications, which sucks if you run an outdated version of After Effects.&lt;/p&gt;&#xA;&lt;p&gt;I had to ask my &lt;a href=&#34;https://ikbenke.es&#34;&gt;brother&lt;/a&gt; to render the yearly movie of all my 8:36pm photos and thankfully he did, so without further ado, here it is:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Celebrating 10 years of 8:36pm</title>
-      <link>https://jplattel.nl/post/2020-01-04-celebrating-ten-years-836pm/</link>
+      <link>http://localhost:1313/post/2020-01-04-celebrating-ten-years-836pm/</link>
       <pubDate>Sat, 04 Jan 2020 20:13:46 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2020-01-04-celebrating-ten-years-836pm/</guid>
+      <guid>http://localhost:1313/post/2020-01-04-celebrating-ten-years-836pm/</guid>
       <description>&lt;p&gt;&lt;em&gt;Today marks something special&lt;/em&gt;. Ten years ago, inspired by &lt;a href=&#34;https://busterbenson.com/&#34;&gt;Buster Benson&lt;/a&gt; I started taking a picture at &lt;strong&gt;8:36pm every day&lt;/strong&gt;. A simple thing you might think, but in the end I kept doing it and to this day I still do.&lt;/p&gt;&#xA;&lt;p&gt;Keeping a habit for 10 years makes it a bit extraordinairy and I can say I will continue taking a picture! Below you will find this years movie of all the photos I took. And if you want to have a look at all the videos, checkout this &lt;a href=&#34;https://vimeo.com/showcase/6688367&#34;&gt;Vimeo collection&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>QS Amsterdam Recap #1</title>
-      <link>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</link>
+      <link>http://localhost:1313/post/2010-09-27-qs-amsterdam-recap-1/</link>
       <pubDate>Mon, 27 Sep 2010 11:41:42 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</guid>
+      <guid>http://localhost:1313/post/2010-09-27-qs-amsterdam-recap-1/</guid>
       <description>&lt;p&gt;On 20 september the first &lt;a href=&#34;http://www.meetup.com/qsamsterdam/&#34;&gt;Quantified Self Amsterdam Meetup&lt;/a&gt; took place in &lt;em&gt;het volkskrantgebouw&lt;/em&gt;. More then 60 people attended and we had guests from Germany and France! A &lt;a href=&#34;http://quantifiedself.com/&#34;&gt;full recap&lt;/a&gt; can be found on the main QS blog and the video’s on &lt;a href=&#34;http://vimeo.com/qsams&#34;&gt;vimeo&lt;/a&gt;. &lt;a href=&#34;http://www.ter-burg.nl/&#34;&gt;Sebastiaan ter Burg&lt;/a&gt; provided the video/&lt;a href=&#34;http://www.flickr.com/photos/qsams&#34;&gt;photo&lt;/a&gt; capture and &lt;a href=&#34;http://www.ikbenke.es/&#34;&gt;Kees Plattel&lt;/a&gt; made a wonderful &lt;a href=&#34;http://vimeo.com/14967809&#34;&gt;intro&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;I really enjoyed this amazing meetup with interesting talks! If you are interested sign up for our meetup group and we will let you know when the next event is! Or do you have a personal story to share, feel free to &lt;a href=&#34;http://www.jplattel.nl/contact/&#34;&gt;contact&lt;/a&gt; me!&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Script on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/script/</link>
+    <link>http://localhost:1313/tags/script/</link>
     <description>Recent content in Script on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sat, 21 Apr 2018 22:18:35 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/script/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berichtenbox Forwarder</title>
-      <link>https://jplattel.nl/project/berichtenbox-forwarder/</link>
+      <link>http://localhost:1313/project/berichtenbox-forwarder/</link>
       <pubDate>Sat, 21 Apr 2018 22:18:35 +0200</pubDate>
-      <guid>https://jplattel.nl/project/berichtenbox-forwarder/</guid>
+      <guid>http://localhost:1313/project/berichtenbox-forwarder/</guid>
       <description>A small utility that enables automagic fetching of messages of our government.</description>
     </item>
   </channel>

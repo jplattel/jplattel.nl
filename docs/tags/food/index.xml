@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/food/</link>
+    <link>http://localhost:1313/tags/food/</link>
     <description>Recent content in Food on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 22 Apr 2018 00:14:12 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sous-vide Rice Cooker</title>
-      <link>https://jplattel.nl/project/sous-vide-ricecooker/</link>
+      <link>http://localhost:1313/project/sous-vide-ricecooker/</link>
       <pubDate>Sun, 22 Apr 2018 00:14:12 +0200</pubDate>
-      <guid>https://jplattel.nl/project/sous-vide-ricecooker/</guid>
+      <guid>http://localhost:1313/project/sous-vide-ricecooker/</guid>
       <description>I modified my rice-cooker so I can use it as a sous-vide apparatus.</description>
     </item>
   </channel>

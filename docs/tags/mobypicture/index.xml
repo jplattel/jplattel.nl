@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobypicture on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/mobypicture/</link>
+    <link>http://localhost:1313/tags/mobypicture/</link>
     <description>Recent content in Mobypicture on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 10 Apr 2011 19:42:06 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/mobypicture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mobypicture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobypicture Export</title>
-      <link>https://jplattel.nl/post/2011-04-10-mobypicture-export/</link>
+      <link>http://localhost:1313/post/2011-04-10-mobypicture-export/</link>
       <pubDate>Sun, 10 Apr 2011 19:42:06 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2011-04-10-mobypicture-export/</guid>
+      <guid>http://localhost:1313/post/2011-04-10-mobypicture-export/</guid>
       <description>&lt;p&gt;I love &lt;a href=&#34;http://www.mobypicture.com/&#34;&gt;Mobypicture&lt;/a&gt;. It&amp;rsquo;s the service I use to post my pictures onto Twitter, Flickr and Facebook. It makes uploading photos from my mobile phone as simple as it could possibly be. Even better, the service is free to use, unlike Flickr which only allows access to last 200 images if you go with their freemium model. But sadly using Mobypicture isn&amp;rsquo;t without downsides. There is no export functionality as of yet.&lt;/p&gt;</description>
     </item>
   </channel>

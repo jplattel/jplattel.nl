@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsidian on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/obsidian/</link>
+    <link>http://localhost:1313/tags/obsidian/</link>
     <description>Recent content in Obsidian on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 27 Mar 2023 13:46:47 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflecting on 1000 Daily Notes in Obsidian</title>
-      <link>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</link>
+      <link>http://localhost:1313/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</link>
       <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</guid>
+      <guid>http://localhost:1313/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been journaling for a thousand days using &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt;. A habit I&amp;rsquo;ve been meaning to do for a long time. Until I found Obsidian I just couldn&amp;rsquo;t make it work, but it does now! In this post I wanted to reflect on my daily notes and some ideas that I&amp;rsquo;ve been thinking about the last few days.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re curious about my current daily note template, I&amp;rsquo;ve created a &lt;a href=&#34;https://gist.github.com/jplattel/2728178ea89224acff91349c97d1b29b&#34;&gt;gist on Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Personal Taxonomy (Part 2)</title>
-      <link>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</link>
+      <link>http://localhost:1313/post/2021-11-12-personal-taxonomy-part-2/</link>
       <pubDate>Mon, 15 Nov 2021 10:28:10 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</guid>
+      <guid>http://localhost:1313/post/2021-11-12-personal-taxonomy-part-2/</guid>
       <description>&lt;p&gt;In the previous part I highlighted &lt;a href=&#34;https://jplattel.nl/post/2021-11-10-personal-taxonomy/&#34;&gt;how I managed my notes&lt;/a&gt; in folders. In this part I would like to explain a bit more on how make the decision between tags &amp;amp; a linked note.&lt;/p&gt;&#xA;&lt;p&gt;For people unfamiliar with the difference, this is a &lt;code&gt;#tag&lt;/code&gt; and a bi-directional linked notes works like so: &lt;code&gt;[[Note Title]]&lt;/code&gt;. At least, that&amp;rsquo;s how it&amp;rsquo;s implemented in &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;. It might be different in other tools, but the ideas can stay the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Personal Taxonomy (Part 1)</title>
-      <link>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</link>
+      <link>http://localhost:1313/post/2021-11-10-personal-taxonomy/</link>
       <pubDate>Wed, 10 Nov 2021 10:07:55 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</guid>
+      <guid>http://localhost:1313/post/2021-11-10-personal-taxonomy/</guid>
       <description>&lt;p&gt;While explaining and introducing &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; to people I&amp;rsquo;ve noticed that the free form way of setup allows for so much flexibility. This results in an big amount of questions on how you would structure the links, tags and your vault. And while there are some solutions like PARA or LYT, I think the best system is the one you create yourself.&lt;/p&gt;&#xA;&lt;p&gt;One of the main reasons is that you&amp;rsquo;ll learn a lot about how you think about the data relevant to you. This in turn forces you to think about how you structure the notes around it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rhizomatic notetaking</title>
-      <link>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</link>
+      <link>http://localhost:1313/post/2021-05-04-rhizomatic-notetaking/</link>
       <pubDate>Tue, 04 May 2021 08:15:07 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</guid>
+      <guid>http://localhost:1313/post/2021-05-04-rhizomatic-notetaking/</guid>
       <description>&lt;p&gt;The past few weeks I&amp;rsquo;ve been exploring the philosophy of Deleuze &amp;amp; Guattari in which I focus mostly on the &lt;a href=&#34;https://www.wikiwand.com/en/Rhizome_(philosophy)&#34;&gt;rhizome&lt;/a&gt;. As the rhizome doesn&amp;rsquo;t have a start or end, grows from within itself and into multiple directions I saw similarities on how I started to take more notes recently.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been using my own &lt;a href=&#34;https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/&#34;&gt;Obsidian Clipper&lt;/a&gt; chrome extension to clip short amounts of text and those are automatically tagged with &lt;code&gt;🌱&lt;/code&gt;. Next I have a &lt;a href=&#34;https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/&#34;&gt;Obsidian Query Language&lt;/a&gt; block that&amp;rsquo;s set up to track the last few seedling notes that I&amp;rsquo;ve created:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workspaces instead of applications</title>
-      <link>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</link>
+      <link>http://localhost:1313/post/2021-02-12-workspaces-instead-of-applications/</link>
       <pubDate>Fri, 12 Feb 2021 21:55:30 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</guid>
+      <guid>http://localhost:1313/post/2021-02-12-workspaces-instead-of-applications/</guid>
       <description>&lt;p&gt;As most of my work I do lives on my computer one of the main things I do is switch applications. When referencing something on the internet and applying it in a editor or copy-pasting an address from a contact to google maps search, most of it is done while switching applications.&lt;/p&gt;&#xA;&lt;p&gt;For some switches the friction is reduced, for example lookups through Alfred.app or pretty printing some JSON with &lt;code&gt;jq&lt;/code&gt;. But oftentimes I find myself lost when I tab wrong once or I end up in a random tab of Chrome that was last open. There are switching costs here and the last month I&amp;rsquo;ve been thinking on how this might evolve in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>January: Project Month</title>
-      <link>https://jplattel.nl/post/2021-01-31-closing-january/</link>
+      <link>http://localhost:1313/post/2021-01-31-closing-january/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-01-31-closing-january/</guid>
+      <guid>http://localhost:1313/post/2021-01-31-closing-january/</guid>
       <description>&lt;p&gt;Before the start of this month, I made a commitment to myself to focus all of my attention to personal projects. Just in between clients I could focus purely on my own things! And when January got started, an idea started in my mind that I wanted to take 3 projects to make some progres on.&lt;/p&gt;&#xA;&lt;p&gt;As it turned out, I worked on way more than 3 projects, still did some work for clients, but looking back at this month, I surely achieved making significant progres on at least 3 of my projects. And I&amp;rsquo;ve even been &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;blogging&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;more&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;about&lt;/a&gt; them for sure! I want to highlight the 5 biggest things I&amp;rsquo;ve worked on this month:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obsidian Query Language plugin published</title>
-      <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>
+      <link>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</link>
       <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</guid>
+      <guid>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve just published my first plugin for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;! As a &lt;strong&gt;huge fan&lt;/strong&gt; of the software the possibility of writing your own plugins to work with the data you create is just awesome! I&amp;rsquo;ve been using Obsidian for over 8 months now and one of the first things I created was &lt;a href=&#34;https://jplattel.nl/project/obsidian-clipper/&#34;&gt;the clipper&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Since a few months Obsidian now allows users to write plugins in Typescript. While I&amp;rsquo;m not that versed in the &lt;em&gt;Typescript/Javascript&lt;/em&gt; verse I did manage to write my first plugin! (well, technically not the first, but the only one published!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obsidian Clipper</title>
-      <link>https://jplattel.nl/project/obsidian-clipper/</link>
+      <link>http://localhost:1313/project/obsidian-clipper/</link>
       <pubDate>Fri, 09 Oct 2020 10:23:30 +0200</pubDate>
-      <guid>https://jplattel.nl/project/obsidian-clipper/</guid>
+      <guid>http://localhost:1313/project/obsidian-clipper/</guid>
       <description>&lt;p&gt;This is an unofficial clipper for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt; that allows you to easily clip a selection to a note in Obsidian. More information can be found on &lt;a href=&#34;https://github.com/jplattel/obsidian-clipper&#34;&gt;Github&lt;/a&gt; or in &lt;a href=&#34;https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/&#34;&gt;this blogpost&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/RPV_UwWLtU_EZ14u8wtTdiSPtEDJV6xHLU1u2rkGOJmPEJGDLLni1yZQ1EV18NQgDvuLMZyQAmUeGQw6S3PVB5g9=w640-h400-e365-rj-sc0x00ffffff&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My daily journaling scripts for Obsidian</title>
-      <link>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</link>
+      <link>http://localhost:1313/post/2020-08-14-obsidian-scripts/</link>
       <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</guid>
+      <guid>http://localhost:1313/post/2020-08-14-obsidian-scripts/</guid>
       <description>&lt;p&gt;Since I&amp;rsquo;m quite a heavy user of &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of &lt;a href=&#34;https://www.keyboardmaestro.com/main/&#34;&gt;Keyboard Meastro&lt;/a&gt; as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.&lt;/p&gt;&#xA;&lt;p&gt;Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates. Whether that is the &lt;em&gt;daily note&lt;/em&gt; or some other template I often use. Keyboad Meastro just reads these files and paste the contents right at the cursor when I type a certain string.&lt;/p&gt;</description>
     </item>
     <item>
       <title>In search for a knowledge system</title>
-      <link>https://jplattel.nl/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</link>
+      <link>http://localhost:1313/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</guid>
+      <guid>http://localhost:1313/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</guid>
       <description>&lt;p&gt;For years I&amp;rsquo;ve been looking for a system which would augment my own thinking with the help of the computer. One of the main promises of a digital life is things could more efficient. Or easily shareable and more resilient (Once you have backups..). For a meriad of reasons the switch should be obvious but for the most of us, that&amp;rsquo;s not what we experience. Why is that?&lt;/p&gt;&#xA;&lt;p&gt;I started of with just Word documents in folders. This failed within weeks due to the fact that sometimes information would belong to two or more different files. How could I keep those in order when updating the content? Thus I started looking for alternatives.&lt;/p&gt;</description>
     </item>
   </channel>

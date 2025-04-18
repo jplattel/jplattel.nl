@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/mac/</link>
+    <link>http://localhost:1313/tags/mac/</link>
     <description>Recent content in Mac on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 16 Apr 2025 21:42:50 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syncing Netnewswire starred items to Anybox</title>
-      <link>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</link>
+      <link>http://localhost:1313/post/2025-04-16-netnewswire-starred-items-to-anybox/</link>
       <pubDate>Wed, 16 Apr 2025 21:42:50 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</guid>
+      <guid>http://localhost:1313/post/2025-04-16-netnewswire-starred-items-to-anybox/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been migrating my online feedreading to &lt;a href=&#34;https://netnewswire.com/&#34;&gt;Netnewswire&lt;/a&gt; on my mac. Being in control of how stuff works becomes more and more a trend (and a must in some occasions). A thighly knit web isn&amp;rsquo;t really transfered that easily so I had a small thing that I wanted to solve and that is starring items for reading them later. In my case, my read it later list is stored in &lt;a href=&#34;https://anybox.app/&#34;&gt;Anybox&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I know of other extensible rss readers like &lt;a href=&#34;https://github.com/miniflux/&#34;&gt;miniflux&lt;/a&gt;, but didn&amp;rsquo;t want the maintanence, thus I settled on Netnewswire. Netnewswire stores it database in a SQLite database and Anybox has a applescript interface. With the help of &lt;a href=&#34;https://www.cursor.com/&#34;&gt;Cursor&lt;/a&gt; it took me a bit over 30 minutes to get everything together. The script uses the python &lt;code&gt;dbm&lt;/code&gt; module as a small db to keep track of what is synced so it doesn&amp;rsquo;t add any that&amp;rsquo;s already been added.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing SwiftUI apps With Chat-GPT</title>
-      <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
+      <link>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
+      <guid>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://chat.openai.com/&#34;&gt;ChatGPT&lt;/a&gt; is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. &lt;a href=&#34;https://www.decisionproblem.com/paperclips/index2.html&#34;&gt;paperclips might be optimized&lt;/a&gt;..) ✌️&lt;/p&gt;&#xA;&lt;p&gt;To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while. The shortcomings of Finder can be summed up with:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finder Favorites</title>
-      <link>https://jplattel.nl/project/finder-favorites/</link>
+      <link>http://localhost:1313/project/finder-favorites/</link>
       <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
-      <guid>https://jplattel.nl/project/finder-favorites/</guid>
+      <guid>http://localhost:1313/project/finder-favorites/</guid>
       <description>A simple app that let&amp;rsquo;s you group column views of favorite folders</description>
     </item>
     <item>
       <title>My daily journaling scripts for Obsidian</title>
-      <link>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</link>
+      <link>http://localhost:1313/post/2020-08-14-obsidian-scripts/</link>
       <pubDate>Sat, 15 Aug 2020 09:37:33 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</guid>
+      <guid>http://localhost:1313/post/2020-08-14-obsidian-scripts/</guid>
       <description>&lt;p&gt;Since I&amp;rsquo;m quite a heavy user of &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; I&amp;rsquo;d like to share some of my scripts I&amp;rsquo;ve written for it. Please note that all of the scripts make use of &lt;a href=&#34;https://www.keyboardmaestro.com/main/&#34;&gt;Keyboard Meastro&lt;/a&gt; as a way to activate them and some of them use javascript automation within Mac OS X. So it&amp;rsquo;s Apple only for now.&lt;/p&gt;&#xA;&lt;p&gt;Within Obsidian I&amp;rsquo;m keeping a folder in which there are files that are used as a templates. Whether that is the &lt;em&gt;daily note&lt;/em&gt; or some other template I often use. Keyboad Meastro just reads these files and paste the contents right at the cursor when I type a certain string.&lt;/p&gt;</description>
     </item>
   </channel>

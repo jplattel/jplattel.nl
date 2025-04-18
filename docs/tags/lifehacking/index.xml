@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifehacking on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/lifehacking/</link>
+    <link>http://localhost:1313/tags/lifehacking/</link>
     <description>Recent content in Lifehacking on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 16 Oct 2018 23:38:39 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/lifehacking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lifehacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iPhone XS NFC Shortcuts</title>
-      <link>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
+      <link>http://localhost:1313/post/2018-10-16-iphone-xs-nfc-shortcuts/</link>
       <pubDate>Tue, 16 Oct 2018 23:38:39 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
+      <guid>http://localhost:1313/post/2018-10-16-iphone-xs-nfc-shortcuts/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently gotten a new iPhone and with it some more stuff to tinker with. And one of those things is the ability to read NFC tags natively. Following the rabbit hole I ended up ordering a &lt;!-- raw HTML omitted --&gt;NFC reader&lt;!-- raw HTML omitted --&gt;. Albeit a simple one, it turns out it is flexible enought to read most cards and write some as well (and more if you have some time to spend..)&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhizome on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/rhizome/</link>
+    <link>http://localhost:1313/tags/rhizome/</link>
     <description>Recent content in Rhizome on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 04 May 2021 08:15:07 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/rhizome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rhizome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rhizomatic notetaking</title>
-      <link>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</link>
+      <link>http://localhost:1313/post/2021-05-04-rhizomatic-notetaking/</link>
       <pubDate>Tue, 04 May 2021 08:15:07 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</guid>
+      <guid>http://localhost:1313/post/2021-05-04-rhizomatic-notetaking/</guid>
       <description>&lt;p&gt;The past few weeks I&amp;rsquo;ve been exploring the philosophy of Deleuze &amp;amp; Guattari in which I focus mostly on the &lt;a href=&#34;https://www.wikiwand.com/en/Rhizome_(philosophy)&#34;&gt;rhizome&lt;/a&gt;. As the rhizome doesn&amp;rsquo;t have a start or end, grows from within itself and into multiple directions I saw similarities on how I started to take more notes recently.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been using my own &lt;a href=&#34;https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/&#34;&gt;Obsidian Clipper&lt;/a&gt; chrome extension to clip short amounts of text and those are automatically tagged with &lt;code&gt;🌱&lt;/code&gt;. Next I have a &lt;a href=&#34;https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/&#34;&gt;Obsidian Query Language&lt;/a&gt; block that&amp;rsquo;s set up to track the last few seedling notes that I&amp;rsquo;ve created:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/technology/</link>
+    <link>http://localhost:1313/tags/technology/</link>
     <description>Recent content in Technology on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 01 Oct 2023 22:00:45 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Symbiose Studio</title>
-      <link>https://jplattel.nl/client/symbiose-studio/</link>
+      <link>http://localhost:1313/client/symbiose-studio/</link>
       <pubDate>Sun, 01 Oct 2023 22:00:45 +0200</pubDate>
-      <guid>https://jplattel.nl/client/symbiose-studio/</guid>
-      <description>&lt;p&gt;Working with &lt;a href=&#34;https://symbiose.studio/&#34;&gt;Bertrand from Symbiose Studio&lt;/a&gt; I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. &lt;a href=&#34;https://symbiose.studio/projects/intimate-implant/&#34;&gt;Learn more at Symbiose Studio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://jplattel.nl/img/intimate-implant.jpg&#34; alt=&#34;Intimate Implant at Betweter Festival&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Photo by &lt;a href=&#34;https://www.ivarpel.nl/&#34;&gt;Ivar Pel&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each object carries a microcontroller that is running &lt;code&gt;circuitpython&lt;/code&gt; and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects. Closing the gap between the abdstract idea of an implant and having it inside your body.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/client/symbiose-studio/</guid>
+      <description>&lt;p&gt;Working with &lt;a href=&#34;https://symbiose.studio/&#34;&gt;Bertrand from Symbiose Studio&lt;/a&gt; I&amp;rsquo;ve build the technical side of Intimate Implant. Three objects, each representing an regenerative implant. Three stories that investigate ethics, sacrifice and our relation to technology that disappears. &lt;a href=&#34;https://symbiose.studio/projects/intimate-implant/&#34;&gt;Learn more at Symbiose Studio&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/intimate-implant.jpg&#34; alt=&#34;Intimate Implant at Betweter Festival&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Photo by &lt;a href=&#34;https://www.ivarpel.nl/&#34;&gt;Ivar Pel&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each object carries a microcontroller that is running &lt;code&gt;circuitpython&lt;/code&gt; and a speaker that allows telling stories (or by headphones). The LEDs in combination with a accelerometer creates an object that invites persons to interact with the objects. Closing the gap between the abdstract idea of an implant and having it inside your body.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wandering.computer</title>
-      <link>https://jplattel.nl/project/wandering-computer/</link>
+      <link>http://localhost:1313/project/wandering-computer/</link>
       <pubDate>Wed, 12 Apr 2023 18:04:47 +0200</pubDate>
-      <guid>https://jplattel.nl/project/wandering-computer/</guid>
+      <guid>http://localhost:1313/project/wandering-computer/</guid>
       <description>A wearable keyboard made for typing on the go!</description>
     </item>
     <item>
       <title>Finalizing the hardware for a wearable keyboard</title>
-      <link>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
+      <link>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
       <pubDate>Mon, 19 Apr 2021 21:01:37 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
+      <guid>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;http://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;a previous post&lt;/a&gt; I&amp;rsquo;ve shown physical prototypes of a wearable keyboard I&amp;rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.&lt;/p&gt;&#xA;&lt;p&gt;Most of the comments I get have to do with &lt;em&gt;why I don&amp;rsquo;t use dictation.&lt;/em&gt; There are several reasons for that, namely I&amp;rsquo;m taking my notes bilingual (English &amp;amp; Dutch) and I don&amp;rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building an ARM Terminal</title>
-      <link>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</link>
+      <link>http://localhost:1313/post/2020-09-08-building-an-arm-terminal-back-7/</link>
       <pubDate>Tue, 08 Sep 2020 15:41:29 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</guid>
+      <guid>http://localhost:1313/post/2020-09-08-building-an-arm-terminal-back-7/</guid>
       <description>&lt;p&gt;For long I&amp;rsquo;ve been inspired by future interfaces commonly seen in science fiction movies and other things like comics or concept art. I&amp;rsquo;ve been following the &lt;a href=&#34;https://www.reddit.com/r/cyberDeck/&#34;&gt;Cyberdeck reddit&lt;/a&gt; for some time and when I came accross the &lt;a href=&#34;https://back7.co/home/arm-terminal&#34;&gt;ARM Terminal by Back7&lt;/a&gt; I knew I had to build one..&lt;/p&gt;&#xA;&lt;p&gt;Fast forward a few months and one 3D printer later, I&amp;rsquo;ve managed to print most of the parts &lt;em&gt;(For smaller printers like the Prusa Mini I have it&amp;rsquo;s better to split the bigger parts and glue them together later with superglue)&lt;/em&gt;. After the shipment of parts &amp;amp; screen came in, I started the assembly and it currently looks like this:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ambassador for the Digital Society School Amsterdam</title>
-      <link>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</link>
+      <link>http://localhost:1313/project/ambassador-digital-society-school-amsterdam/</link>
       <pubDate>Tue, 18 Sep 2018 17:17:26 +0200</pubDate>
-      <guid>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</guid>
+      <guid>http://localhost:1313/project/ambassador-digital-society-school-amsterdam/</guid>
       <description>In 2018 - 2020 I am one of the ambassadors for the Digital Society School located in Amsterdam</description>
     </item>
     <item>
       <title>Colliers</title>
-      <link>https://jplattel.nl/client/colliers/</link>
+      <link>http://localhost:1313/client/colliers/</link>
       <pubDate>Wed, 30 May 2018 23:27:24 +0200</pubDate>
-      <guid>https://jplattel.nl/client/colliers/</guid>
+      <guid>http://localhost:1313/client/colliers/</guid>
       <description>&lt;p&gt;Together with Colliers we created the Quantified Workplace, an experiment in which we tracked physical activity, heart-rate, computer usage, productivity and personal scores troughout the day. This data was collected in a dashboard that would enable employees to discover insights about their health and well-being during the workday.&lt;/p&gt;&#xA;&lt;p&gt;During the entire year of tracking &lt;a href=&#34;https://www2.le.ac.uk/departments/business/people/academic/phoebe-moore&#34;&gt;Phoebe V. Moore&lt;/a&gt; as researcher investigated the impact of the platform.&lt;/p&gt;&#xA;&lt;p&gt;As for the technology stack, custom API&amp;rsquo;s for interfacing with different trackers were all built with &lt;em&gt;Python&lt;/em&gt; and the main dashboard is based on &lt;em&gt;Django&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quantified Self community</title>
-      <link>https://jplattel.nl/project/quantifiedself/</link>
+      <link>http://localhost:1313/project/quantifiedself/</link>
       <pubDate>Sat, 21 Apr 2018 21:10:30 +0200</pubDate>
-      <guid>https://jplattel.nl/project/quantifiedself/</guid>
+      <guid>http://localhost:1313/project/quantifiedself/</guid>
       <description>I co-founded the QS Amsterdam group &amp;amp; started the QS Conference in Europe.</description>
     </item>
     <item>
       <title>My view of technology</title>
-      <link>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</link>
+      <link>http://localhost:1313/post/2010-10-06-my-view-of-technology/</link>
       <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
-      <guid>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</guid>
+      <guid>http://localhost:1313/post/2010-10-06-my-view-of-technology/</guid>
       <description>&lt;p&gt;A &lt;strong&gt;random&lt;/strong&gt; train of thoughts:&lt;/p&gt;&#xA;&lt;p&gt;When biology is technology and man tries to grasp the amount of data generated and collected, most people think of this as unnatural. Yet it&amp;rsquo;s true that mankind can not yet understand the potential of ambient measuring of information streams. Ubiquitous capture of data could bring insight in how technology and specifically our body (which is a perfect example of technology in it&amp;rsquo;s own right) works.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/privacy/</link>
+    <link>http://localhost:1313/tags/privacy/</link>
     <description>Recent content in Privacy on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 21 Nov 2019 13:59:47 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A small mention in an article about data monitoring in De Telegraaf</title>
-      <link>https://jplattel.nl/media/big-brother-werkvloer-you-telegraaf/</link>
+      <link>http://localhost:1313/media/big-brother-werkvloer-you-telegraaf/</link>
       <pubDate>Thu, 21 Nov 2019 13:59:47 +0100</pubDate>
-      <guid>https://jplattel.nl/media/big-brother-werkvloer-you-telegraaf/</guid>
+      <guid>http://localhost:1313/media/big-brother-werkvloer-you-telegraaf/</guid>
       <description></description>
     </item>
     <item>
       <title>Panel member @ Big Brother Awards</title>
-      <link>https://jplattel.nl/media/big-brother-awards/</link>
+      <link>http://localhost:1313/media/big-brother-awards/</link>
       <pubDate>Thu, 24 Jan 2019 13:59:47 +0100</pubDate>
-      <guid>https://jplattel.nl/media/big-brother-awards/</guid>
+      <guid>http://localhost:1313/media/big-brother-awards/</guid>
       <description></description>
     </item>
   </channel>

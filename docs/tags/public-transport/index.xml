@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Transport on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/public-transport/</link>
+    <link>http://localhost:1313/tags/public-transport/</link>
     <description>Recent content in Public Transport on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 14 Feb 2024 17:09:44 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/public-transport/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/public-transport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OV Klok</title>
-      <link>https://jplattel.nl/project/ov-klok/</link>
+      <link>http://localhost:1313/project/ov-klok/</link>
       <pubDate>Wed, 14 Feb 2024 17:09:44 +0100</pubDate>
-      <guid>https://jplattel.nl/project/ov-klok/</guid>
+      <guid>http://localhost:1313/project/ov-klok/</guid>
       <description>A small hardware project that uses and ESP32 and pressure-forming plastic</description>
     </item>
   </channel>

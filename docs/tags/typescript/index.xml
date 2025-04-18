@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typescript on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/typescript/</link>
+    <link>http://localhost:1313/tags/typescript/</link>
     <description>Recent content in Typescript on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 28 Jan 2021 12:45:18 +0100</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian Query Language plugin published</title>
-      <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>
+      <link>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</link>
       <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
-      <guid>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</guid>
+      <guid>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve just published my first plugin for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;! As a &lt;strong&gt;huge fan&lt;/strong&gt; of the software the possibility of writing your own plugins to work with the data you create is just awesome! I&amp;rsquo;ve been using Obsidian for over 8 months now and one of the first things I created was &lt;a href=&#34;https://jplattel.nl/project/obsidian-clipper/&#34;&gt;the clipper&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Since a few months Obsidian now allows users to write plugins in Typescript. While I&amp;rsquo;m not that versed in the &lt;em&gt;Typescript/Javascript&lt;/em&gt; verse I did manage to write my first plugin! (well, technically not the first, but the only one published!)&lt;/p&gt;</description>
     </item>
   </channel>

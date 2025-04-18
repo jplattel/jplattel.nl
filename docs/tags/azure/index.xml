@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/azure/</link>
+    <link>http://localhost:1313/tags/azure/</link>
     <description>Recent content in Azure on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 03 Feb 2025 22:00:45 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KSU</title>
-      <link>https://jplattel.nl/client/ksu/</link>
+      <link>http://localhost:1313/client/ksu/</link>
       <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
-      <guid>https://jplattel.nl/client/ksu/</guid>
+      <guid>http://localhost:1313/client/ksu/</guid>
       <description>&lt;p&gt;With Maurice van Dinther from wafl.nu I’ve created a monitoring/questionnaire tool for the &lt;a href=&#34;https://www.ksu-utrecht.nl/&#34;&gt;Katholieke Scholenstichting Utrecht&lt;/a&gt; (KSU). This allows them to gain insights into how their teams are functioning. The application is build with Django and uses SSO to seamlessly allow users to gather data. The data is shown in dashboards with Chart.js.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EsperantoXL</title>
-      <link>https://jplattel.nl/client/esperantoxl/</link>
+      <link>http://localhost:1313/client/esperantoxl/</link>
       <pubDate>Tue, 18 Aug 2020 10:15:04 +0200</pubDate>
-      <guid>https://jplattel.nl/client/esperantoxl/</guid>
+      <guid>http://localhost:1313/client/esperantoxl/</guid>
       <description>&lt;p&gt;For &lt;a href=&#34;https://esperantoxl.nl/&#34;&gt;EsperantoXL&lt;/a&gt; I make custom solutions to extend the possibilities of no-code applications with the help of Serverless &amp;amp; computing providers like AWS &amp;amp; Azure.&lt;/p&gt;&#xA;&lt;p&gt;This solution allows for processing million lines of codes in a unsupported datafile, analyze &amp;amp; run queries on it and return it through a callback towards the no-code platform once again. Most of the implementations are based on &lt;em&gt;Python&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
