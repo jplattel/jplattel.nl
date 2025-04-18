@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Joost Plattel</title>
-    <link>http://localhost:1313/tags/thoughts/</link>
+    <link>https://jplattel.nl/tags/thoughts/</link>
     <description>Recent content in Thoughts on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 06 Oct 2010 18:42:10 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My view of technology</title>
-      <link>http://localhost:1313/post/2010-10-06-my-view-of-technology/</link>
+      <link>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</link>
       <pubDate>Wed, 06 Oct 2010 18:42:10 +0200</pubDate>
-      <guid>http://localhost:1313/post/2010-10-06-my-view-of-technology/</guid>
+      <guid>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</guid>
       <description>&lt;p&gt;A &lt;strong&gt;random&lt;/strong&gt; train of thoughts:&lt;/p&gt;&#xA;&lt;p&gt;When biology is technology and man tries to grasp the amount of data generated and collected, most people think of this as unnatural. Yet it&amp;rsquo;s true that mankind can not yet understand the potential of ambient measuring of information streams. Ubiquitous capture of data could bring insight in how technology and specifically our body (which is a perfect example of technology in it&amp;rsquo;s own right) works.&lt;/p&gt;</description>
     </item>
   </channel>

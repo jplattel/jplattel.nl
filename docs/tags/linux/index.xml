@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Joost Plattel</title>
-    <link>http://localhost:1313/tags/linux/</link>
+    <link>https://jplattel.nl/tags/linux/</link>
     <description>Recent content in Linux on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 09 Sep 2024 22:06:34 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opal</title>
-      <link>http://localhost:1313/client/opal/</link>
+      <link>https://jplattel.nl/client/opal/</link>
       <pubDate>Mon, 09 Sep 2024 22:06:34 +0100</pubDate>
-      <guid>http://localhost:1313/client/opal/</guid>
+      <guid>https://jplattel.nl/client/opal/</guid>
       <description>&lt;p&gt;For &lt;a href=&#34;https://opalcamera.com/&#34;&gt;Opal&lt;/a&gt; I&amp;rsquo;ve worked on hardware prototypes under NDA. I&amp;rsquo;ve been exploring different protocols and low level unix interfaces.&lt;/p&gt;</description>
     </item>
   </channel>

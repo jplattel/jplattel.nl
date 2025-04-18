@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Svelte on Joost Plattel</title>
-    <link>http://localhost:1313/tags/svelte/</link>
+    <link>https://jplattel.nl/tags/svelte/</link>
     <description>Recent content in Svelte on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 04 Jan 2022 23:28:49 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/svelte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/svelte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitale Fitheid</title>
-      <link>http://localhost:1313/client/digitale-fitheid/</link>
+      <link>https://jplattel.nl/client/digitale-fitheid/</link>
       <pubDate>Tue, 04 Jan 2022 23:28:49 +0200</pubDate>
-      <guid>http://localhost:1313/client/digitale-fitheid/</guid>
+      <guid>https://jplattel.nl/client/digitale-fitheid/</guid>
       <description>&lt;p&gt;For digital fitness (Digitale Fitheid in dutch) I&amp;rsquo;ve created a questionnaire where people can discover how well versed they are with technology and digital tools. The small test is developed in &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt; &amp;amp; run on AWS with &lt;a href=&#34;https://aws.amazon.com/dynamodb/&#34;&gt;DynamoDB&lt;/a&gt; / &lt;a href=&#34;https://aws.github.io/chalice/index.html&#34;&gt;Chalice&lt;/a&gt; as a backend.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://files.jplattel.nl/2022/08/SCR-20220809-nuy.png&#34; alt=&#34;Digitale Fitheid zelftest&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Curious about the test? It&amp;rsquo;s dutch only for now, but you can &lt;a href=&#34;https://zelftest.digitalefitheid.nl/&#34;&gt;find it here&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amsterdam University of Applied Science</title>
-      <link>http://localhost:1313/client/hogeschool-van-amsterdam/</link>
+      <link>https://jplattel.nl/client/hogeschool-van-amsterdam/</link>
       <pubDate>Thu, 06 May 2021 11:55:34 +0200</pubDate>
-      <guid>http://localhost:1313/client/hogeschool-van-amsterdam/</guid>
+      <guid>https://jplattel.nl/client/hogeschool-van-amsterdam/</guid>
       <description>&lt;p&gt;For the &lt;a href=&#34;https://www.amsterdamuas.com/&#34;&gt;Amsterdam University of Applied Science&lt;/a&gt; I&amp;rsquo;ve build an application that let&amp;rsquo;s people discover &amp;amp; connect with Talent initiatives within the Amsterdam Metropolitan Region. The goal of the application is to bridge the gap between organisations and talent initiatives.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://files.jplattel.nl/2021/11/91e1ec44012eb8ca6a7d37eee26343c3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The entire stack of the web application is based on modern technology &amp;amp; build entirely with &lt;em&gt;javascript&lt;/em&gt;. The backend is done with &lt;a href=&#34;https://strapi.io/&#34;&gt;Strapi&lt;/a&gt; and the frontend run with &lt;a href=&#34;https://sapper.svelte.dev/&#34;&gt;Sapper&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wafl</title>
-      <link>http://localhost:1313/client/wafl/</link>
+      <link>https://jplattel.nl/client/wafl/</link>
       <pubDate>Thu, 07 Nov 2019 15:13:39 +0100</pubDate>
-      <guid>http://localhost:1313/client/wafl/</guid>
+      <guid>https://jplattel.nl/client/wafl/</guid>
       <description>&lt;p&gt;For Maurice van Dinther and &lt;a href=&#34;https://wafl.nu&#34;&gt;Wafl.nu&lt;/a&gt; I developed several questionnaire tools, this allowed him to get more clients or create something that his clients could use. All of those tools were build with &lt;a href=&#34;https://svelte.dev/&#34;&gt;&lt;em&gt;Svelte&lt;/em&gt;&lt;/a&gt;. If a backend was required it was build with &lt;a href=&#34;https://aws.github.io/chalice/index.html&#34;&gt;&lt;em&gt;Chalice&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EHBA.app</title>
-      <link>http://localhost:1313/project/ehba/</link>
+      <link>https://jplattel.nl/project/ehba/</link>
       <pubDate>Mon, 05 Aug 2019 00:05:13 +0200</pubDate>
-      <guid>http://localhost:1313/project/ehba/</guid>
+      <guid>https://jplattel.nl/project/ehba/</guid>
       <description>Eerste hulp bij abonnementen offers a data-based recommendations train travel subscriptions.</description>
     </item>
   </channel>

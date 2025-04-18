@@ -2,158 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Joost Plattel</title>
-    <link>http://localhost:1313/categories/technology/</link>
+    <link>https://jplattel.nl/categories/technology/</link>
     <description>Recent content in Technology on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 18 Apr 2025 10:13:58 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recreating a Photostream With Immich and Python</title>
-      <link>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
+      <link>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
       <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
+      <guid>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</guid>
       <description>&lt;p&gt;Two posts within a week? That&amp;rsquo;s pretty much magical&amp;hellip; I&amp;rsquo;ll need to have a look on why this happened 👀. Talking about looking at things, one of the functions that Apple used to offer was a Photostream, which worked through iCloud and allowed you to view your photos from your mobile phone on your Mac. This felt seamless to me and allowed me to take a picture and handle it on my Mac. Apple discontinued it and now I&amp;rsquo;m stuck with images that are synced to my NAS (thanks &lt;a href=&#34;https://www.synology.com/nl-nl/dsm/feature/photos&#34;&gt;Synology Photos&lt;/a&gt;!).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Syncing Netnewswire starred items to Anybox</title>
-      <link>http://localhost:1313/post/2025-04-16-netnewswire-starred-items-to-anybox/</link>
+      <link>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</link>
       <pubDate>Wed, 16 Apr 2025 21:42:50 +0200</pubDate>
-      <guid>http://localhost:1313/post/2025-04-16-netnewswire-starred-items-to-anybox/</guid>
+      <guid>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been migrating my online feedreading to &lt;a href=&#34;https://netnewswire.com/&#34;&gt;Netnewswire&lt;/a&gt; on my mac. Being in control of how stuff works becomes more and more a trend (and a must in some occasions). A thighly knit web isn&amp;rsquo;t really transfered that easily so I had a small thing that I wanted to solve and that is starring items for reading them later. In my case, my read it later list is stored in &lt;a href=&#34;https://anybox.app/&#34;&gt;Anybox&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I know of other extensible rss readers like &lt;a href=&#34;https://github.com/miniflux/&#34;&gt;miniflux&lt;/a&gt;, but didn&amp;rsquo;t want the maintanence, thus I settled on Netnewswire. Netnewswire stores it database in a SQLite database and Anybox has a applescript interface. With the help of &lt;a href=&#34;https://www.cursor.com/&#34;&gt;Cursor&lt;/a&gt; it took me a bit over 30 minutes to get everything together. The script uses the python &lt;code&gt;dbm&lt;/code&gt; module as a small db to keep track of what is synced so it doesn&amp;rsquo;t add any that&amp;rsquo;s already been added.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Making todos more magical with n8n</title>
-      <link>http://localhost:1313/post/2025-03-19-n8n-automation-ideas-inspiration/</link>
+      <link>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</link>
       <pubDate>Wed, 19 Mar 2025 21:59:13 +0100</pubDate>
-      <guid>http://localhost:1313/post/2025-03-19-n8n-automation-ideas-inspiration/</guid>
+      <guid>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</guid>
       <description>&lt;p&gt;I lack a lot of spare time (because of reasons) lately, but sometimes I have a couple of hours to tinker around with any of my projects and one of the things on my list to explore was &lt;a href=&#34;https://n8n.io/&#34;&gt;n8n&lt;/a&gt;. I set it up locally on my NAS and authenticated some services too see what I could connect together..&lt;/p&gt;&#xA;&lt;p&gt;Quite fast a simple idea was formed: could I transform my todolist (in &lt;a href=&#34;https://www.todoist.com/&#34;&gt;Todoist&lt;/a&gt;) into something magical that I wanted to instead of the slog you would normally feel when doing it. So this would be my first automation I would try and build. Lo and behold:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating a small Pingo clock</title>
-      <link>http://localhost:1313/post/2024-05-25-small-pingo-clock-with-circuitpython/</link>
+      <link>https://jplattel.nl/post/2024-05-25-small-pingo-clock-with-circuitpython/</link>
       <pubDate>Sat, 25 May 2024 21:55:14 +0200</pubDate>
-      <guid>http://localhost:1313/post/2024-05-25-small-pingo-clock-with-circuitpython/</guid>
+      <guid>https://jplattel.nl/post/2024-05-25-small-pingo-clock-with-circuitpython/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been planning to build a &lt;a href=&#34;https://www.instructables.com/Pingo-Color-Clock-by-Illusionmanager/&#34;&gt;Pingo clock&lt;/a&gt; for quite some time. Finally having some time available between projects I had most components on hand. With the exception for the bigger LED rings. And I also wanted to have the clock run on Circuitpython instead of Arduino. So I designed a smaller one, with only 7 led rings instead of 9. This also allowed me to print more parts, for example the diffusion screen is printed as well as a custom USB-c charging backplate. I&amp;rsquo;ve also switched to a Raspberry Pi Pico W so I can use Circuitpython to automatically grab the time with NTP (just like the original!).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Easy configuration for Circuit Python devices</title>
-      <link>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
+      <link>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</link>
       <pubDate>Thu, 15 Feb 2024 20:36:24 +0100</pubDate>
-      <guid>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
+      <guid>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</guid>
       <description>&lt;p&gt;While developing the &lt;a href=&#34;https://jplattel.nl/project/ov-klok/&#34;&gt;OV Klok&lt;/a&gt; I&amp;rsquo;ve been exploring how small trinkets and other technological utilities can be configured. Most of the time, it&amp;rsquo;s either trough a &lt;a href=&#34;https://www.wikiwand.com/en/Captive_portal&#34;&gt;captive portal&lt;/a&gt;, a self-served webserver or editing a configuration file. Both options aren&amp;rsquo;t really user friendly to me&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The captive portal is fails at times and doesn&amp;rsquo;t really work if you have a custom network configuration.&lt;/li&gt;&#xA;&lt;li&gt;The self served webpage requires a user to type in an address or IP, that&amp;rsquo;s only accessible in a specific mode..&lt;/li&gt;&#xA;&lt;li&gt;The configuration file is prone to errors and requires a user to edit a text file with an editor that they might not be comfortable with.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;web-serial-to-the-rescue&#34;&gt;Web serial to the rescue&lt;/h2&gt;&#xA;&lt;p&gt;For a simple device like the OV Klok a user only needs to configure the device once and I wanted it to be as fool proof as possible while being user-friendly too! I solved this with the power of &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API&#34;&gt;Web Serial&lt;/a&gt;. This allows a user to connect with a serial port through a webbrowser.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing SwiftUI apps With Chat-GPT</title>
-      <link>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
+      <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      <guid>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
+      <guid>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://chat.openai.com/&#34;&gt;ChatGPT&lt;/a&gt; is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. &lt;a href=&#34;https://www.decisionproblem.com/paperclips/index2.html&#34;&gt;paperclips might be optimized&lt;/a&gt;..) ✌️&lt;/p&gt;&#xA;&lt;p&gt;To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while. The shortcomings of Finder can be summed up with:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reflecting on 1000 Daily Notes in Obsidian</title>
-      <link>http://localhost:1313/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</link>
+      <link>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</link>
       <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
-      <guid>http://localhost:1313/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</guid>
+      <guid>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been journaling for a thousand days using &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt;. A habit I&amp;rsquo;ve been meaning to do for a long time. Until I found Obsidian I just couldn&amp;rsquo;t make it work, but it does now! In this post I wanted to reflect on my daily notes and some ideas that I&amp;rsquo;ve been thinking about the last few days.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re curious about my current daily note template, I&amp;rsquo;ve created a &lt;a href=&#34;https://gist.github.com/jplattel/2728178ea89224acff91349c97d1b29b&#34;&gt;gist on Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Retrofitting an old iPod Mini</title>
-      <link>http://localhost:1313/post/2023-03-11-retrofitting-ipod-mini/</link>
+      <link>https://jplattel.nl/post/2023-03-11-retrofitting-ipod-mini/</link>
       <pubDate>Sat, 11 Mar 2023 19:59:28 +0100</pubDate>
-      <guid>http://localhost:1313/post/2023-03-11-retrofitting-ipod-mini/</guid>
+      <guid>https://jplattel.nl/post/2023-03-11-retrofitting-ipod-mini/</guid>
       <description>&lt;p&gt;After owning a couple of mp3 players in my youth, I&amp;rsquo;ve made the jump to an Apple device with an iPod Mini as my music player. Sadly, it&amp;rsquo;s in no working condition anymore I&amp;rsquo;m sure it&amp;rsquo;s possible to replace the entire inside, but it&amp;rsquo;s more fun to do something else with it. Thus and idea was born that didn&amp;rsquo;t come into fruition until a couple of days ago when I had some time available.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Progress on wandering.computer</title>
-      <link>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
+      <link>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
       <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
-      <guid>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
+      <guid>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
       <description>&lt;p&gt;Slowly but surely I&amp;rsquo;m making progress on my personal project. Creating a wearable keyboard that can be used while walking has been a dream of mine for a couple of years. One of the decision I made upfront is that I makes no sense to rush this project.&lt;/p&gt;&#xA;&lt;p&gt;The main reason is that most of the stuff I create these days either have to be brought to market as soon as possible (by yesterday please!). The other reason is that cutting corners for such a unique problem I try to solve results into missing certain details or solutions that might not be obvious at first sight. Even though I&amp;rsquo;m not sure if this is going to be a product, I do try to learn on how to design for manufacturing. Thanks to the wonderful folks at &lt;a href=&#34;http://dato.mu/&#34;&gt;Dato&lt;/a&gt; as sparring partners. There&amp;rsquo;s just soo much to learn when developing something from scratch with no previous examples or solutions available&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuring Mainsail With Zerotier</title>
-      <link>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
+      <link>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</link>
       <pubDate>Mon, 16 May 2022 21:18:41 +0200</pubDate>
-      <guid>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
+      <guid>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</guid>
       <description>&lt;p&gt;This blogpost mostly functions as a reminder to myself on how to configure &lt;a href=&#34;https://docs.mainsail.xyz/&#34;&gt;Mainsail&lt;/a&gt; to use &lt;a href=&#34;https://www.zerotier.com/&#34;&gt;Zerotier&lt;/a&gt;. If you&amp;rsquo;re unfamiliar with any of the two, the first one is a operating system made for running a 3D printer and the second one allows for a network layer for personal computing, connecting devices over SD-WAN &amp;amp; VPN.&lt;/p&gt;&#xA;&lt;p&gt;I was running Octoprint for a while, but after a tip by David from &lt;a href=&#34;https://dato.mu/&#34;&gt;Dato&lt;/a&gt; I went on to explore Mainsail. Mainsail is a better way to run your printer, and it&amp;rsquo;s way faster then Octoprint. So far I&amp;rsquo;ve been running it for a week and I&amp;rsquo;m pretty happy about it! The only thing that was missing was the remote connection I had with Octoprint, made possible by Zerotier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating VT-40 custom keyboard</title>
-      <link>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</link>
+      <link>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</link>
       <pubDate>Fri, 15 Apr 2022 11:15:17 +0200</pubDate>
-      <guid>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</guid>
+      <guid>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m no stranger to &lt;a href=&#34;https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/&#34;&gt;making keyboards&lt;/a&gt; and while I&amp;rsquo;m tinkering with creating a &lt;a href=&#34;https://wandering.computer/&#34;&gt;wearable keyboard&lt;/a&gt; I&amp;rsquo;ve stumbled upon many other builds of people that do interesting stuff.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been browsing the usual reddits (&lt;a href=&#34;https://reddit.com/r/mechanicalKeyboards/&#34;&gt;r/mk&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/ErgoMechKeyboards/&#34;&gt;r/ErgoMechKeyboards&lt;/a&gt; and the likes) I stumbled upon a nice looking project that would get me into ortholinear&amp;hellip; I wanted a keyboard different enough that it&amp;rsquo;s worth building. So I ended up with the &lt;a href=&#34;https://github.com/vladantrhlik/VT-40/&#34;&gt;VT-40&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ikbenke.es/&#34;&gt;My brother&lt;/a&gt; ordered the pcbs and components, I ordered the keycaps &amp;amp; switches since. With a few weeks passing and a couple of hours soldering stuff together, here&amp;rsquo;s the end result:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Personal Taxonomy (Part 2)</title>
-      <link>http://localhost:1313/post/2021-11-12-personal-taxonomy-part-2/</link>
+      <link>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</link>
       <pubDate>Mon, 15 Nov 2021 10:28:10 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-11-12-personal-taxonomy-part-2/</guid>
+      <guid>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</guid>
       <description>&lt;p&gt;In the previous part I highlighted &lt;a href=&#34;https://jplattel.nl/post/2021-11-10-personal-taxonomy/&#34;&gt;how I managed my notes&lt;/a&gt; in folders. In this part I would like to explain a bit more on how make the decision between tags &amp;amp; a linked note.&lt;/p&gt;&#xA;&lt;p&gt;For people unfamiliar with the difference, this is a &lt;code&gt;#tag&lt;/code&gt; and a bi-directional linked notes works like so: &lt;code&gt;[[Note Title]]&lt;/code&gt;. At least, that&amp;rsquo;s how it&amp;rsquo;s implemented in &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;. It might be different in other tools, but the ideas can stay the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Personal Taxonomy (Part 1)</title>
-      <link>http://localhost:1313/post/2021-11-10-personal-taxonomy/</link>
+      <link>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</link>
       <pubDate>Wed, 10 Nov 2021 10:07:55 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-11-10-personal-taxonomy/</guid>
+      <guid>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</guid>
       <description>&lt;p&gt;While explaining and introducing &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; to people I&amp;rsquo;ve noticed that the free form way of setup allows for so much flexibility. This results in an big amount of questions on how you would structure the links, tags and your vault. And while there are some solutions like PARA or LYT, I think the best system is the one you create yourself.&lt;/p&gt;&#xA;&lt;p&gt;One of the main reasons is that you&amp;rsquo;ll learn a lot about how you think about the data relevant to you. This in turn forces you to think about how you structure the notes around it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software architecture for a wearable computer</title>
-      <link>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</link>
+      <link>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</link>
       <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</guid>
+      <guid>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</guid>
       <description>&lt;p&gt;As you can read &lt;a href=&#34;http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/&#34;&gt;in previous posts&lt;/a&gt;. I&amp;rsquo;ve spend the last year designing a wearable keyboard that would allow you to type while walking. When I finally soldered everything, checked the connections for no shorts I tried flashing &lt;a href=&#34;https://micropython.org/&#34;&gt;micropython&lt;/a&gt; on the &lt;code&gt;Wemo D32 Pro&lt;/code&gt;&amp;rsquo;s that I use one didn&amp;rsquo;t seem to work.. Luckily I had a replacement on hand &lt;em&gt;(learned that the hard-way, I&amp;rsquo;ll always be ordering extra now!)&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Before I want to dive into the software architecture, I wanted to explain why I don&amp;rsquo;t went with &lt;a href=&#34;https://github.com/qmk/qmk_firmware/&#34;&gt;QMK&lt;/a&gt; or at least, not directly (more on that later!). While QMK is an awesome piece of software I wanted a bit more flexibility for my project. Interfacing with a SD, running a webserver and such are not things that QMK is meant for. I also wanted to explore Micropython a bit more in depth, since I&amp;rsquo;ve only done small projects with it. So, that&amp;rsquo;s the way to go!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rhizomatic notetaking</title>
-      <link>http://localhost:1313/post/2021-05-04-rhizomatic-notetaking/</link>
+      <link>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</link>
       <pubDate>Tue, 04 May 2021 08:15:07 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-05-04-rhizomatic-notetaking/</guid>
+      <guid>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</guid>
       <description>&lt;p&gt;The past few weeks I&amp;rsquo;ve been exploring the philosophy of Deleuze &amp;amp; Guattari in which I focus mostly on the &lt;a href=&#34;https://www.wikiwand.com/en/Rhizome_(philosophy)&#34;&gt;rhizome&lt;/a&gt;. As the rhizome doesn&amp;rsquo;t have a start or end, grows from within itself and into multiple directions I saw similarities on how I started to take more notes recently.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been using my own &lt;a href=&#34;https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/&#34;&gt;Obsidian Clipper&lt;/a&gt; chrome extension to clip short amounts of text and those are automatically tagged with &lt;code&gt;🌱&lt;/code&gt;. Next I have a &lt;a href=&#34;https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/&#34;&gt;Obsidian Query Language&lt;/a&gt; block that&amp;rsquo;s set up to track the last few seedling notes that I&amp;rsquo;ve created:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finalizing the hardware for a wearable keyboard</title>
-      <link>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
+      <link>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
       <pubDate>Mon, 19 Apr 2021 21:01:37 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
+      <guid>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;http://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;a previous post&lt;/a&gt; I&amp;rsquo;ve shown physical prototypes of a wearable keyboard I&amp;rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.&lt;/p&gt;&#xA;&lt;p&gt;Most of the comments I get have to do with &lt;em&gt;why I don&amp;rsquo;t use dictation.&lt;/em&gt; There are several reasons for that, namely I&amp;rsquo;m taking my notes bilingual (English &amp;amp; Dutch) and I don&amp;rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>January: Project Month</title>
-      <link>http://localhost:1313/post/2021-01-31-closing-january/</link>
+      <link>https://jplattel.nl/post/2021-01-31-closing-january/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-31-closing-january/</guid>
+      <guid>https://jplattel.nl/post/2021-01-31-closing-january/</guid>
       <description>&lt;p&gt;Before the start of this month, I made a commitment to myself to focus all of my attention to personal projects. Just in between clients I could focus purely on my own things! And when January got started, an idea started in my mind that I wanted to take 3 projects to make some progres on.&lt;/p&gt;&#xA;&lt;p&gt;As it turned out, I worked on way more than 3 projects, still did some work for clients, but looking back at this month, I surely achieved making significant progres on at least 3 of my projects. And I&amp;rsquo;ve even been &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;blogging&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;more&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;about&lt;/a&gt; them for sure! I want to highlight the 5 biggest things I&amp;rsquo;ve worked on this month:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obsidian Query Language plugin published</title>
-      <link>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</link>
+      <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>
       <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</guid>
+      <guid>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve just published my first plugin for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;! As a &lt;strong&gt;huge fan&lt;/strong&gt; of the software the possibility of writing your own plugins to work with the data you create is just awesome! I&amp;rsquo;ve been using Obsidian for over 8 months now and one of the first things I created was &lt;a href=&#34;https://jplattel.nl/project/obsidian-clipper/&#34;&gt;the clipper&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Since a few months Obsidian now allows users to write plugins in Typescript. While I&amp;rsquo;m not that versed in the &lt;em&gt;Typescript/Javascript&lt;/em&gt; verse I did manage to write my first plugin! (well, technically not the first, but the only one published!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wearable keyboard prototypes</title>
-      <link>http://localhost:1313/post/2021-01-20-wearable-keyboard-prototypes/</link>
+      <link>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</link>
       <pubDate>Wed, 20 Jan 2021 16:29:27 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-20-wearable-keyboard-prototypes/</guid>
-      <description>&lt;p&gt;As I&amp;rsquo;ve highlighted in &lt;a href=&#34;http://localhost:1313/post/2021-01-11-wearable-input-devices/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;posts&lt;/a&gt;, &lt;em&gt;a wearable keyboard&lt;/em&gt; is one of my main projects this month. In this post I want to show you some pictures of the first prototypes and tell you a bit more about the proces of designing a keyboard. Remember I&amp;rsquo;ve got really no experience on ergonomics or knowledge about user-interface, I mostly go by feel here as it&amp;rsquo;s a highly personalized product (for now!).&lt;/p&gt;&#xA;&lt;p&gt;Look at other devices like the Keyer or the &lt;code&gt;asetniop&lt;/code&gt; keyboard, I&amp;rsquo;ve made it my focus to develop a wearable keyboard with real keys. As the feedback of pressing a button is quite nice to have, especially when dealing with chording or any form of stenography. The first thing I did was to create a form of my palm &amp;amp; wrist with polymorph, a plastic that allows for easy formation when warm and hardening when cooling down. This form would be the basis for the first prototypes. While testing the ergonomics turned out be be hard, as curled fingers all the time is quite stressfull for the muscles.&lt;/p&gt;</description>
+      <guid>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</guid>
+      <description>&lt;p&gt;As I&amp;rsquo;ve highlighted in &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;posts&lt;/a&gt;, &lt;em&gt;a wearable keyboard&lt;/em&gt; is one of my main projects this month. In this post I want to show you some pictures of the first prototypes and tell you a bit more about the proces of designing a keyboard. Remember I&amp;rsquo;ve got really no experience on ergonomics or knowledge about user-interface, I mostly go by feel here as it&amp;rsquo;s a highly personalized product (for now!).&lt;/p&gt;&#xA;&lt;p&gt;Look at other devices like the Keyer or the &lt;code&gt;asetniop&lt;/code&gt; keyboard, I&amp;rsquo;ve made it my focus to develop a wearable keyboard with real keys. As the feedback of pressing a button is quite nice to have, especially when dealing with chording or any form of stenography. The first thing I did was to create a form of my palm &amp;amp; wrist with polymorph, a plastic that allows for easy formation when warm and hardening when cooling down. This form would be the basis for the first prototypes. While testing the ergonomics turned out be be hard, as curled fingers all the time is quite stressfull for the muscles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bandwith problems with Human Computer Interfaces</title>
-      <link>http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/</link>
+      <link>https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/</link>
       <pubDate>Thu, 14 Jan 2021 11:03:56 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/</guid>
+      <guid>https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/</guid>
       <description>&lt;p&gt;I have been thinking about the bandwidth problem we face with computer interaces. When typing with a keyboard or dictating trough speech, the computer cannot keep up with a stream of thoughts. Our bandwidth is limited by our output.&lt;/p&gt;&#xA;&lt;p&gt;One of the more future forwards solutions is &lt;a href=&#34;https://neuralink.com/&#34;&gt;Neuralink&lt;/a&gt;, but to me it seems like quite an invasive solution, not without any risks..&lt;/p&gt;&#xA;&lt;p&gt;Often times we may find solutions for this in a different space, in this case, a pointer can be found in the legal system. During a lawsuit a minute taker (sometimes even multiple) is the person who tries to log all the speech done by any of the parties present. The typing speed required for this is immense and one of the solutions is combining shorthand or stenography with a chorded keyboard. This results in a higher output speed allowing the minute taker to keep up with the tempo of speech.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring wearable input devices</title>
-      <link>http://localhost:1313/post/2021-01-11-wearable-input-devices/</link>
+      <link>https://jplattel.nl/post/2021-01-11-wearable-input-devices/</link>
       <pubDate>Mon, 11 Jan 2021 08:41:16 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-11-wearable-input-devices/</guid>
+      <guid>https://jplattel.nl/post/2021-01-11-wearable-input-devices/</guid>
       <description>&lt;p&gt;For years I&amp;rsquo;ve been exploring the internet for input devices. From keyboards to voice or gestured controlled ways &lt;em&gt;to get thoughts out of my head as fast/good as it can be possible&lt;/em&gt;. I wanted to dive deeper into why this is important to me and why I&amp;rsquo;m interested in this space.&lt;/p&gt;&#xA;&lt;p&gt;Traditionally pen &amp;amp; paper was the solution that was flexible enough. But it lacked the searchability and ways of exploring it on different tangents. Right now we&amp;rsquo;re mostly digital and rely on our keyboards to create mainly text.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantifiedself on Joost Plattel</title>
-    <link>http://localhost:1313/tags/quantifiedself/</link>
+    <link>https://jplattel.nl/tags/quantifiedself/</link>
     <description>Recent content in Quantifiedself on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 13 Mar 2011 21:55:20 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/quantifiedself/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/quantifiedself/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trip to Brussels</title>
-      <link>http://localhost:1313/post/2011-03-13-trip-to-brussels/</link>
+      <link>https://jplattel.nl/post/2011-03-13-trip-to-brussels/</link>
       <pubDate>Sun, 13 Mar 2011 21:55:20 +0100</pubDate>
-      <guid>http://localhost:1313/post/2011-03-13-trip-to-brussels/</guid>
+      <guid>https://jplattel.nl/post/2011-03-13-trip-to-brussels/</guid>
       <description>&lt;p&gt;This week I travelled to Brussels so I could give a talk at the &lt;a href=&#34;http://www.meetup.com/Quantified-Self-Show-Tell-Brussels/&#34;&gt;Quantified Self Meetup&lt;/a&gt; group there. And I&amp;rsquo;ve been involved in the startup &lt;a href=&#34;http://twitter.com/scanadude&#34;&gt;Scanadu&lt;/a&gt; which is about broadcasting your health. Together with people like &lt;a href=&#34;http://twitter.com/#!/walterdebrouwer&#34;&gt;Walter de Brouwer&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/#!/mishachellam&#34;&gt;Misha Chellam&lt;/a&gt; we are going to take a different approach to health. During my stay in Brussels I&amp;rsquo;ve learned a lot (including my level of French, it&amp;rsquo;s really bad!). Really liked the city though!&lt;/p&gt;</description>
     </item>
   </channel>

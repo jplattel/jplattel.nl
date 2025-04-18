@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swiftui on Joost Plattel</title>
-    <link>http://localhost:1313/tags/swiftui/</link>
+    <link>https://jplattel.nl/tags/swiftui/</link>
     <description>Recent content in Swiftui on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Thu, 11 May 2023 21:52:29 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing SwiftUI apps With Chat-GPT</title>
-      <link>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
+      <link>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</link>
       <pubDate>Thu, 11 May 2023 21:52:29 +0200</pubDate>
-      <guid>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
+      <guid>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://chat.openai.com/&#34;&gt;ChatGPT&lt;/a&gt; is all the rage nowadays. Personally I&amp;rsquo;ve used it quite a few times and professionally as a software developer it&amp;rsquo;s interesting to use. I don&amp;rsquo;t fear for my job/knowledge (yet!) as it&amp;rsquo;s mostly integrations and not of the shelf code&amp;hellip; (I haven&amp;rsquo;t tried the hardware space in Chat GPT yet&amp;hellip;.. &lt;a href=&#34;https://www.decisionproblem.com/paperclips/index2.html&#34;&gt;paperclips might be optimized&lt;/a&gt;..) ✌️&lt;/p&gt;&#xA;&lt;p&gt;To figure out how useful it might be for me, I embarked on a journey together with ChatGPT to build a piece of software that would solve issues that I&amp;rsquo;d had with the Mac OS X Finder for a while. The shortcomings of Finder can be summed up with:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finder Favorites</title>
-      <link>http://localhost:1313/project/finder-favorites/</link>
+      <link>https://jplattel.nl/project/finder-favorites/</link>
       <pubDate>Mon, 10 Apr 2023 18:04:54 +0200</pubDate>
-      <guid>http://localhost:1313/project/finder-favorites/</guid>
+      <guid>https://jplattel.nl/project/finder-favorites/</guid>
       <description>A simple app that let&amp;rsquo;s you group column views of favorite folders</description>
     </item>
   </channel>

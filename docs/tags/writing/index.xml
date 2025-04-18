@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on Joost Plattel</title>
-    <link>http://localhost:1313/tags/writing/</link>
+    <link>https://jplattel.nl/tags/writing/</link>
     <description>Recent content in Writing on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 27 Mar 2023 13:46:47 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflecting on 1000 Daily Notes in Obsidian</title>
-      <link>http://localhost:1313/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</link>
+      <link>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</link>
       <pubDate>Mon, 27 Mar 2023 13:46:47 +0200</pubDate>
-      <guid>http://localhost:1313/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</guid>
+      <guid>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been journaling for a thousand days using &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt;. A habit I&amp;rsquo;ve been meaning to do for a long time. Until I found Obsidian I just couldn&amp;rsquo;t make it work, but it does now! In this post I wanted to reflect on my daily notes and some ideas that I&amp;rsquo;ve been thinking about the last few days.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re curious about my current daily note template, I&amp;rsquo;ve created a &lt;a href=&#34;https://gist.github.com/jplattel/2728178ea89224acff91349c97d1b29b&#34;&gt;gist on Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

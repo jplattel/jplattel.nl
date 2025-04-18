@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Joost Plattel</title>
-    <link>http://localhost:1313/categories/work/</link>
+    <link>https://jplattel.nl/categories/work/</link>
     <description>Recent content in Work on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 31 Jan 2021 10:40:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/categories/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>January: Project Month</title>
-      <link>http://localhost:1313/post/2021-01-31-closing-january/</link>
+      <link>https://jplattel.nl/post/2021-01-31-closing-january/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-31-closing-january/</guid>
+      <guid>https://jplattel.nl/post/2021-01-31-closing-january/</guid>
       <description>&lt;p&gt;Before the start of this month, I made a commitment to myself to focus all of my attention to personal projects. Just in between clients I could focus purely on my own things! And when January got started, an idea started in my mind that I wanted to take 3 projects to make some progres on.&lt;/p&gt;&#xA;&lt;p&gt;As it turned out, I worked on way more than 3 projects, still did some work for clients, but looking back at this month, I surely achieved making significant progres on at least 3 of my projects. And I&amp;rsquo;ve even been &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;blogging&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;more&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;about&lt;/a&gt; them for sure! I want to highlight the 5 biggest things I&amp;rsquo;ve worked on this month:&lt;/p&gt;</description>
     </item>
   </channel>

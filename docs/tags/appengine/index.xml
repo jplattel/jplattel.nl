@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Appengine on Joost Plattel</title>
-    <link>http://localhost:1313/tags/appengine/</link>
+    <link>https://jplattel.nl/tags/appengine/</link>
     <description>Recent content in Appengine on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Tue, 31 Aug 2010 21:30:52 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/appengine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/appengine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GeoTracking: streaming GPS locations</title>
-      <link>http://localhost:1313/post/2010-08-31-geotracking-streaming-gps-locations/</link>
+      <link>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</link>
       <pubDate>Tue, 31 Aug 2010 21:30:52 +0200</pubDate>
-      <guid>http://localhost:1313/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
+      <guid>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</guid>
       <description>&lt;p&gt;&lt;em&gt;I am trying to publish my blogposts in English to reach a wider public. However since English is my second language please forgive me my spelling errors.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Since reading about self-tracking I was fascinated by GPS location and geospatial analysis. As it turns out …. experiments had been done before and I wanted to experience what you could do with the data.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/8545134&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;I wondered if it were possible for me recreate this, using my less then basic programming skills and no more utilities then my iPhone. So I ventured into python and after reading &lt;a href=&#34;http://eric-blue.com/2010/08/28/geolocation-gps-and-self-tracking/&#34;&gt;Eric Blue’s blog&lt;/a&gt; I came up with a solution.&lt;/p&gt;</description>
     </item>
   </channel>

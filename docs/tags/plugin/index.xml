@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plugin on Joost Plattel</title>
-    <link>http://localhost:1313/tags/plugin/</link>
+    <link>https://jplattel.nl/tags/plugin/</link>
     <description>Recent content in Plugin on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 31 Jan 2021 10:40:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>January: Project Month</title>
-      <link>http://localhost:1313/post/2021-01-31-closing-january/</link>
+      <link>https://jplattel.nl/post/2021-01-31-closing-january/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-31-closing-january/</guid>
+      <guid>https://jplattel.nl/post/2021-01-31-closing-january/</guid>
       <description>&lt;p&gt;Before the start of this month, I made a commitment to myself to focus all of my attention to personal projects. Just in between clients I could focus purely on my own things! And when January got started, an idea started in my mind that I wanted to take 3 projects to make some progres on.&lt;/p&gt;&#xA;&lt;p&gt;As it turned out, I worked on way more than 3 projects, still did some work for clients, but looking back at this month, I surely achieved making significant progres on at least 3 of my projects. And I&amp;rsquo;ve even been &lt;a href=&#34;https://jplattel.nl/post/2021-01-11-wearable-input-devices/&#34;&gt;blogging&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/&#34;&gt;more&lt;/a&gt; &lt;a href=&#34;https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;about&lt;/a&gt; them for sure! I want to highlight the 5 biggest things I&amp;rsquo;ve worked on this month:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obsidian Query Language plugin published</title>
-      <link>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</link>
+      <link>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</link>
       <pubDate>Thu, 28 Jan 2021 12:45:18 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</guid>
+      <guid>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve just published my first plugin for &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;! As a &lt;strong&gt;huge fan&lt;/strong&gt; of the software the possibility of writing your own plugins to work with the data you create is just awesome! I&amp;rsquo;ve been using Obsidian for over 8 months now and one of the first things I created was &lt;a href=&#34;https://jplattel.nl/project/obsidian-clipper/&#34;&gt;the clipper&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Since a few months Obsidian now allows users to write plugins in Typescript. While I&amp;rsquo;m not that versed in the &lt;em&gt;Typescript/Javascript&lt;/em&gt; verse I did manage to write my first plugin! (well, technically not the first, but the only one published!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chrome plugins for RPA</title>
-      <link>http://localhost:1313/post/2020-08-16-chrome-plugin-rpa-automation/</link>
+      <link>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-08-16-chrome-plugin-rpa-automation/</guid>
+      <guid>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</guid>
       <description>&lt;p&gt;As someone who creates shortcuts and automations all the time I often get asked questions about certain things to automate that aren&amp;rsquo;t really like the things I personally do.&lt;/p&gt;&#xA;&lt;p&gt;Most of the time this has to do with web applications and the barrier of create an entire app (if there even is an API available) is way to high based on price or time spend. More recently I discovered that an easy way of packaging and shipping things for individuals to larger groups could often be in the form of a &lt;em&gt;Chrome extension&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

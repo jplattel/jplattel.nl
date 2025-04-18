@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rpa on Joost Plattel</title>
-    <link>http://localhost:1313/tags/rpa/</link>
+    <link>https://jplattel.nl/tags/rpa/</link>
     <description>Recent content in Rpa on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Sun, 16 Aug 2020 20:58:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rpa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/rpa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chrome plugins for RPA</title>
-      <link>http://localhost:1313/post/2020-08-16-chrome-plugin-rpa-automation/</link>
+      <link>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</link>
       <pubDate>Sun, 16 Aug 2020 20:58:41 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-08-16-chrome-plugin-rpa-automation/</guid>
+      <guid>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</guid>
       <description>&lt;p&gt;As someone who creates shortcuts and automations all the time I often get asked questions about certain things to automate that aren&amp;rsquo;t really like the things I personally do.&lt;/p&gt;&#xA;&lt;p&gt;Most of the time this has to do with web applications and the barrier of create an entire app (if there even is an API available) is way to high based on price or time spend. More recently I discovered that an easy way of packaging and shipping things for individuals to larger groups could often be in the form of a &lt;em&gt;Chrome extension&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

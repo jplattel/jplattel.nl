@@ -2,1330 +2,1330 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jplattel.nl/categories/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/immich/</loc>
+    <loc>https://jplattel.nl/tags/immich/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jplattel.nl/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/photos/</loc>
+    <loc>https://jplattel.nl/tags/photos/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/photostream/</loc>
+    <loc>https://jplattel.nl/tags/photostream/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/pkm/</loc>
+    <loc>https://jplattel.nl/categories/pkm/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://jplattel.nl/post/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://jplattel.nl/tags/python/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</loc>
+    <loc>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/synology/</loc>
+    <loc>https://jplattel.nl/tags/synology/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
+    <loc>https://jplattel.nl/categories/technology/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mac/</loc>
+    <loc>https://jplattel.nl/tags/mac/</loc>
     <lastmod>2025-04-16T21:42:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sqlite/</loc>
+    <loc>https://jplattel.nl/tags/sqlite/</loc>
     <lastmod>2025-04-16T21:42:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-04-16-netnewswire-starred-items-to-anybox/</loc>
+    <loc>https://jplattel.nl/post/2025-04-16-netnewswire-starred-items-to-anybox/</loc>
     <lastmod>2025-04-16T21:42:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-03-19-n8n-automation-ideas-inspiration/</loc>
+    <loc>https://jplattel.nl/post/2025-03-19-n8n-automation-ideas-inspiration/</loc>
     <lastmod>2025-03-19T21:59:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/n0n/</loc>
+    <loc>https://jplattel.nl/tags/n0n/</loc>
     <lastmod>2025-03-19T21:59:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/openai/</loc>
+    <loc>https://jplattel.nl/tags/openai/</loc>
     <lastmod>2025-03-19T21:59:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/todos/</loc>
+    <loc>https://jplattel.nl/tags/todos/</loc>
     <lastmod>2025-03-19T21:59:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/</loc>
+    <loc>https://jplattel.nl/client/</loc>
     <lastmod>2025-02-04T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/azure/</loc>
+    <loc>https://jplattel.nl/tags/azure/</loc>
     <lastmod>2025-02-03T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/django/</loc>
+    <loc>https://jplattel.nl/tags/django/</loc>
     <lastmod>2025-02-03T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/ksu/</loc>
+    <loc>https://jplattel.nl/client/ksu/</loc>
     <lastmod>2025-02-03T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sso/</loc>
+    <loc>https://jplattel.nl/tags/sso/</loc>
     <lastmod>2025-02-03T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://jplattel.nl/tags/ai/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://jplattel.nl/project/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/recruitment/</loc>
+    <loc>https://jplattel.nl/tags/recruitment/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/startup/</loc>
+    <loc>https://jplattel.nl/tags/startup/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/talent-acquisition-audit-institute/</loc>
+    <loc>https://jplattel.nl/project/talent-acquisition-audit-institute/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-09-19-small-annoyances-to-learn-new-things/</loc>
+    <loc>https://jplattel.nl/post/2024-09-19-small-annoyances-to-learn-new-things/</loc>
     <lastmod>2024-09-19T14:31:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/electronics/</loc>
+    <loc>https://jplattel.nl/tags/electronics/</loc>
     <lastmod>2024-09-09T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://jplattel.nl/tags/linux/</loc>
     <lastmod>2024-09-09T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/opal/</loc>
+    <loc>https://jplattel.nl/client/opal/</loc>
     <lastmod>2024-09-09T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/prototyping/</loc>
+    <loc>https://jplattel.nl/tags/prototyping/</loc>
     <lastmod>2024-09-09T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloudflare/</loc>
+    <loc>https://jplattel.nl/tags/cloudflare/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/friend/</loc>
+    <loc>https://jplattel.nl/tags/friend/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/internet/</loc>
+    <loc>https://jplattel.nl/categories/internet/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/r2/</loc>
+    <loc>https://jplattel.nl/tags/r2/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-08-12-friend-transcriptions-obsidian/</loc>
+    <loc>https://jplattel.nl/post/2024-08-12-friend-transcriptions-obsidian/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/val.town/</loc>
+    <loc>https://jplattel.nl/tags/val.town/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/web/</loc>
+    <loc>https://jplattel.nl/categories/web/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/webhooks/</loc>
+    <loc>https://jplattel.nl/tags/webhooks/</loc>
     <lastmod>2024-08-12T20:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/circuitpython/</loc>
+    <loc>https://jplattel.nl/tags/circuitpython/</loc>
     <lastmod>2024-05-25T21:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/clock/</loc>
+    <loc>https://jplattel.nl/tags/clock/</loc>
     <lastmod>2024-05-25T21:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-05-25-small-pingo-clock-with-circuitpython/</loc>
+    <loc>https://jplattel.nl/post/2024-05-25-small-pingo-clock-with-circuitpython/</loc>
     <lastmod>2024-05-25T21:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hardware/</loc>
+    <loc>https://jplattel.nl/categories/hardware/</loc>
     <lastmod>2024-05-25T21:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-02-15-easy-configuration-for-circuit-python-devices/</loc>
+    <loc>https://jplattel.nl/post/2024-02-15-easy-configuration-for-circuit-python-devices/</loc>
     <lastmod>2024-02-15T20:36:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/esp32/</loc>
+    <loc>https://jplattel.nl/tags/esp32/</loc>
     <lastmod>2024-02-15T20:36:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>https://jplattel.nl/tags/javascript/</loc>
     <lastmod>2024-02-15T20:36:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-serial/</loc>
+    <loc>https://jplattel.nl/tags/web-serial/</loc>
     <lastmod>2024-02-15T20:36:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ov/</loc>
+    <loc>https://jplattel.nl/tags/ov/</loc>
     <lastmod>2024-02-14T17:09:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/ov-klok/</loc>
+    <loc>https://jplattel.nl/project/ov-klok/</loc>
     <lastmod>2024-02-14T17:09:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/public-transport/</loc>
+    <loc>https://jplattel.nl/tags/public-transport/</loc>
     <lastmod>2024-02-14T17:09:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-12-05-simple-public-transport-display/</loc>
+    <loc>https://jplattel.nl/post/2023-12-05-simple-public-transport-display/</loc>
     <lastmod>2023-12-05T18:16:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/diffusion/</loc>
+    <loc>https://jplattel.nl/tags/diffusion/</loc>
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>https://jplattel.nl/tags/llm/</loc>
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/tellart/</loc>
+    <loc>https://jplattel.nl/client/tellart/</loc>
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/whisper/</loc>
+    <loc>https://jplattel.nl/tags/whisper/</loc>
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-10-25-commandments-personal-knowledge-systems/</loc>
+    <loc>https://jplattel.nl/post/2023-10-25-commandments-personal-knowledge-systems/</loc>
     <lastmod>2023-10-25T13:07:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/design/</loc>
+    <loc>https://jplattel.nl/tags/design/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ethics/</loc>
+    <loc>https://jplattel.nl/tags/ethics/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <loc>https://jplattel.nl/tags/philosophy/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/symbiose-studio/</loc>
+    <loc>https://jplattel.nl/client/symbiose-studio/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
+    <loc>https://jplattel.nl/tags/technology/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/dilmah-tea/</loc>
+    <loc>https://jplattel.nl/client/dilmah-tea/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forecasting/</loc>
+    <loc>https://jplattel.nl/tags/forecasting/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/inventory/</loc>
+    <loc>https://jplattel.nl/tags/inventory/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ordering/</loc>
+    <loc>https://jplattel.nl/tags/ordering/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tea/</loc>
+    <loc>https://jplattel.nl/tags/tea/</loc>
     <lastmod>2023-06-29T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chat-gpt/</loc>
+    <loc>https://jplattel.nl/tags/chat-gpt/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
+    <loc>https://jplattel.nl/tags/development/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/finder/</loc>
+    <loc>https://jplattel.nl/tags/finder/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software/</loc>
+    <loc>https://jplattel.nl/tags/software/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/swiftui/</loc>
+    <loc>https://jplattel.nl/tags/swiftui/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</loc>
+    <loc>https://jplattel.nl/post/2023-05-11-writing-swift-ui-mac-os-x-apps-with-chat-gpt/</loc>
     <lastmod>2023-05-11T21:52:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/wandering-computer/</loc>
+    <loc>https://jplattel.nl/project/wandering-computer/</loc>
     <lastmod>2023-04-12T18:04:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wearable/</loc>
+    <loc>https://jplattel.nl/tags/wearable/</loc>
     <lastmod>2023-04-12T18:04:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/finder-favorites/</loc>
+    <loc>https://jplattel.nl/project/finder-favorites/</loc>
     <lastmod>2023-04-10T18:04:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/osx/</loc>
+    <loc>https://jplattel.nl/tags/osx/</loc>
     <lastmod>2023-04-10T18:04:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/swift/</loc>
+    <loc>https://jplattel.nl/tags/swift/</loc>
     <lastmod>2023-04-10T18:04:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/journaling/</loc>
+    <loc>https://jplattel.nl/tags/journaling/</loc>
     <lastmod>2023-03-27T13:46:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/obsidian/</loc>
+    <loc>https://jplattel.nl/tags/obsidian/</loc>
     <lastmod>2023-03-27T13:46:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</loc>
+    <loc>https://jplattel.nl/post/2023-03-27-reflecting-1000-daily-notes-obsidian/</loc>
     <lastmod>2023-03-27T13:46:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
+    <loc>https://jplattel.nl/tags/writing/</loc>
     <lastmod>2023-03-27T13:46:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/apple/</loc>
+    <loc>https://jplattel.nl/tags/apple/</loc>
     <lastmod>2023-03-11T19:59:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/esp/</loc>
+    <loc>https://jplattel.nl/tags/esp/</loc>
     <lastmod>2023-03-11T19:59:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/esp8266/</loc>
+    <loc>https://jplattel.nl/tags/esp8266/</loc>
     <lastmod>2023-03-11T19:59:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ipod/</loc>
+    <loc>https://jplattel.nl/tags/ipod/</loc>
     <lastmod>2023-03-11T19:59:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mini/</loc>
+    <loc>https://jplattel.nl/tags/mini/</loc>
     <lastmod>2023-03-11T19:59:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-03-11-retrofitting-ipod-mini/</loc>
+    <loc>https://jplattel.nl/post/2023-03-11-retrofitting-ipod-mini/</loc>
     <lastmod>2023-03-11T19:59:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/3dprinting/</loc>
+    <loc>https://jplattel.nl/tags/3dprinting/</loc>
     <lastmod>2022-12-26T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/arduino/</loc>
+    <loc>https://jplattel.nl/tags/arduino/</loc>
     <lastmod>2022-12-26T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/sovn/</loc>
+    <loc>https://jplattel.nl/client/sovn/</loc>
     <lastmod>2022-12-26T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-12-18-reading-workflows-calibre/</loc>
+    <loc>https://jplattel.nl/post/2022-12-18-reading-workflows-calibre/</loc>
     <lastmod>2022-12-18T18:45:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-08-02-a-brief-history-of-wearable-keyboards/</loc>
+    <loc>https://jplattel.nl/post/2022-08-02-a-brief-history-of-wearable-keyboards/</loc>
     <lastmod>2022-08-02T15:41:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/computer/</loc>
+    <loc>https://jplattel.nl/tags/computer/</loc>
     <lastmod>2022-07-24T12:04:43+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/keyboard/</loc>
+    <loc>https://jplattel.nl/tags/keyboard/</loc>
     <lastmod>2022-07-24T12:04:43+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</loc>
+    <loc>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</loc>
     <lastmod>2022-07-24T12:04:43+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wandering/</loc>
+    <loc>https://jplattel.nl/tags/wandering/</loc>
     <lastmod>2022-07-24T12:04:43+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-05-16-configuring-mainsail-with-zerotier/</loc>
+    <loc>https://jplattel.nl/post/2022-05-16-configuring-mainsail-with-zerotier/</loc>
     <lastmod>2022-05-16T21:18:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/klipper/</loc>
+    <loc>https://jplattel.nl/tags/klipper/</loc>
     <lastmod>2022-05-16T21:18:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mainsail/</loc>
+    <loc>https://jplattel.nl/tags/mainsail/</loc>
     <lastmod>2022-05-16T21:18:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pi/</loc>
+    <loc>https://jplattel.nl/tags/pi/</loc>
     <lastmod>2022-05-16T21:18:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ssh/</loc>
+    <loc>https://jplattel.nl/tags/ssh/</loc>
     <lastmod>2022-05-16T21:18:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/zerotier/</loc>
+    <loc>https://jplattel.nl/tags/zerotier/</loc>
     <lastmod>2022-05-16T21:18:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-04-20-836pm-2021/</loc>
+    <loc>https://jplattel.nl/post/2022-04-20-836pm-2021/</loc>
     <lastmod>2022-04-20T16:36:51+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/836pm/</loc>
+    <loc>https://jplattel.nl/tags/836pm/</loc>
     <lastmod>2022-04-20T16:36:51+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-04-15-vt-40-custom-keyboard/</loc>
+    <loc>https://jplattel.nl/post/2022-04-15-vt-40-custom-keyboard/</loc>
     <lastmod>2022-04-15T11:15:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/diy/</loc>
+    <loc>https://jplattel.nl/tags/diy/</loc>
     <lastmod>2022-04-15T11:15:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/making/</loc>
+    <loc>https://jplattel.nl/tags/making/</loc>
     <lastmod>2022-04-15T11:15:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pico/</loc>
+    <loc>https://jplattel.nl/tags/pico/</loc>
     <lastmod>2022-04-15T11:15:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/raspberry/</loc>
+    <loc>https://jplattel.nl/tags/raspberry/</loc>
     <lastmod>2022-04-15T11:15:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-03-16-storage-systems/</loc>
+    <loc>https://jplattel.nl/post/2022-03-16-storage-systems/</loc>
     <lastmod>2022-03-16T20:42:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>https://jplattel.nl/tags/aws/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/digitale-fitheid/</loc>
+    <loc>https://jplattel.nl/client/digitale-fitheid/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dynamodb/</loc>
+    <loc>https://jplattel.nl/tags/dynamodb/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/frontend/</loc>
+    <loc>https://jplattel.nl/tags/frontend/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/serverless/</loc>
+    <loc>https://jplattel.nl/tags/serverless/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/svelte/</loc>
+    <loc>https://jplattel.nl/tags/svelte/</loc>
     <lastmod>2022-01-04T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-12-30-keeping-an-unread-list/</loc>
+    <loc>https://jplattel.nl/post/2021-12-30-keeping-an-unread-list/</loc>
     <lastmod>2021-12-30T11:31:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/notes/</loc>
+    <loc>https://jplattel.nl/tags/notes/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-11-12-personal-taxonomy-part-2/</loc>
+    <loc>https://jplattel.nl/post/2021-11-12-personal-taxonomy-part-2/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/software/</loc>
+    <loc>https://jplattel.nl/categories/software/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/taxonomy/</loc>
+    <loc>https://jplattel.nl/tags/taxonomy/</loc>
     <lastmod>2021-11-15T10:28:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-11-10-personal-taxonomy/</loc>
+    <loc>https://jplattel.nl/post/2021-11-10-personal-taxonomy/</loc>
     <lastmod>2021-11-10T10:07:55+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-09-23-single-purpose-tools/</loc>
+    <loc>https://jplattel.nl/post/2021-09-23-single-purpose-tools/</loc>
     <lastmod>2021-09-23T14:58:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/ical2roam/</loc>
+    <loc>https://jplattel.nl/project/ical2roam/</loc>
     <lastmod>2021-09-20T18:42:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-08-31-muscle-memory-spatial-orientation-component/</loc>
+    <loc>https://jplattel.nl/post/2021-08-31-muscle-memory-spatial-orientation-component/</loc>
     <lastmod>2021-08-31T09:06:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-07-03-learning-to-write-new-keyboard-layout/</loc>
+    <loc>https://jplattel.nl/post/2021-07-03-learning-to-write-new-keyboard-layout/</loc>
     <lastmod>2021-07-03T22:53:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/front404/</loc>
+    <loc>https://jplattel.nl/client/front404/</loc>
     <lastmod>2021-06-30T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/micropython/</loc>
+    <loc>https://jplattel.nl/tags/micropython/</loc>
     <lastmod>2021-06-10T15:11:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</loc>
+    <loc>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</loc>
     <lastmod>2021-06-10T15:11:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/hogeschool-van-amsterdam/</loc>
+    <loc>https://jplattel.nl/client/hogeschool-van-amsterdam/</loc>
     <lastmod>2021-05-06T11:55:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/backend/</loc>
+    <loc>https://jplattel.nl/tags/backend/</loc>
     <lastmod>2021-05-06T11:55:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/js/</loc>
+    <loc>https://jplattel.nl/tags/js/</loc>
     <lastmod>2021-05-06T11:55:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/strapi/</loc>
+    <loc>https://jplattel.nl/tags/strapi/</loc>
     <lastmod>2021-05-06T11:55:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/talent/</loc>
+    <loc>https://jplattel.nl/tags/talent/</loc>
     <lastmod>2021-05-06T11:55:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/deleuze/</loc>
+    <loc>https://jplattel.nl/tags/deleuze/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/guattari/</loc>
+    <loc>https://jplattel.nl/tags/guattari/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/notetaking/</loc>
+    <loc>https://jplattel.nl/tags/notetaking/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-05-04-rhizomatic-notetaking/</loc>
+    <loc>https://jplattel.nl/post/2021-05-04-rhizomatic-notetaking/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rhizome/</loc>
+    <loc>https://jplattel.nl/tags/rhizome/</loc>
     <lastmod>2021-05-04T08:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</loc>
+    <loc>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</loc>
     <lastmod>2021-04-19T21:01:37+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hardware/</loc>
+    <loc>https://jplattel.nl/tags/hardware/</loc>
     <lastmod>2021-04-19T21:01:37+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-03-07-improving-the-ant-head/</loc>
+    <loc>https://jplattel.nl/post/2021-03-07-improving-the-ant-head/</loc>
     <lastmod>2021-03-07T20:12:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/applications/</loc>
+    <loc>https://jplattel.nl/tags/applications/</loc>
     <lastmod>2021-02-12T21:55:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/work/</loc>
+    <loc>https://jplattel.nl/tags/work/</loc>
     <lastmod>2021-02-12T21:55:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/workspaces/</loc>
+    <loc>https://jplattel.nl/tags/workspaces/</loc>
     <lastmod>2021-02-12T21:55:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-02-12-workspaces-instead-of-applications/</loc>
+    <loc>https://jplattel.nl/post/2021-02-12-workspaces-instead-of-applications/</loc>
     <lastmod>2021-02-12T21:55:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/curious-corner/</loc>
+    <loc>https://jplattel.nl/tags/curious-corner/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ebook/</loc>
+    <loc>https://jplattel.nl/tags/ebook/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-01-31-closing-january/</loc>
+    <loc>https://jplattel.nl/post/2021-01-31-closing-january/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pcb/</loc>
+    <loc>https://jplattel.nl/tags/pcb/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
+    <loc>https://jplattel.nl/categories/personal/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pid/</loc>
+    <loc>https://jplattel.nl/tags/pid/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/plugin/</loc>
+    <loc>https://jplattel.nl/tags/plugin/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/work/</loc>
+    <loc>https://jplattel.nl/categories/work/</loc>
     <lastmod>2021-01-31T10:40:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-01-28-obsidian-query-plugin-published/</loc>
+    <loc>https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/</loc>
     <lastmod>2021-01-28T12:45:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/typescript/</loc>
+    <loc>https://jplattel.nl/tags/typescript/</loc>
     <lastmod>2021-01-28T12:45:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/3d-printing/</loc>
+    <loc>https://jplattel.nl/tags/3d-printing/</loc>
     <lastmod>2021-01-20T16:29:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/polymorph/</loc>
+    <loc>https://jplattel.nl/tags/polymorph/</loc>
     <lastmod>2021-01-20T16:29:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-01-20-wearable-keyboard-prototypes/</loc>
+    <loc>https://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/</loc>
     <lastmod>2021-01-20T16:29:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/</loc>
+    <loc>https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/</loc>
     <lastmod>2021-01-14T11:03:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/keyboards/</loc>
+    <loc>https://jplattel.nl/tags/keyboards/</loc>
     <lastmod>2021-01-14T11:03:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/phone/</loc>
+    <loc>https://jplattel.nl/tags/phone/</loc>
     <lastmod>2021-01-14T11:03:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/voice/</loc>
+    <loc>https://jplattel.nl/tags/voice/</loc>
     <lastmod>2021-01-14T11:03:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-01-11-wearable-input-devices/</loc>
+    <loc>https://jplattel.nl/post/2021-01-11-wearable-input-devices/</loc>
     <lastmod>2021-01-11T08:41:16+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-01-06-2020-836pm/</loc>
+    <loc>https://jplattel.nl/post/2021-01-06-2020-836pm/</loc>
     <lastmod>2021-01-06T15:18:14+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bluetooth/</loc>
+    <loc>https://jplattel.nl/tags/bluetooth/</loc>
     <lastmod>2020-11-11T21:17:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/c/</loc>
+    <loc>https://jplattel.nl/tags/c/</loc>
     <lastmod>2020-11-11T21:17:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-11-11-bluetooth-sudoku-keyboard/</loc>
+    <loc>https://jplattel.nl/post/2020-11-11-bluetooth-sudoku-keyboard/</loc>
     <lastmod>2020-11-11T21:17:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wemo/</loc>
+    <loc>https://jplattel.nl/tags/wemo/</loc>
     <lastmod>2020-11-11T21:17:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chrome/</loc>
+    <loc>https://jplattel.nl/tags/chrome/</loc>
     <lastmod>2020-10-09T10:23:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/clipper/</loc>
+    <loc>https://jplattel.nl/tags/clipper/</loc>
     <lastmod>2020-10-09T10:23:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/extension/</loc>
+    <loc>https://jplattel.nl/tags/extension/</loc>
     <lastmod>2020-10-09T10:23:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/obsidian-clipper/</loc>
+    <loc>https://jplattel.nl/project/obsidian-clipper/</loc>
     <lastmod>2020-10-09T10:23:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-10-09-obsidian-clipper-chrome-extension/</loc>
+    <loc>https://jplattel.nl/post/2020-10-09-obsidian-clipper-chrome-extension/</loc>
     <lastmod>2020-10-09T10:08:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-09-08-building-an-arm-terminal-back-7/</loc>
+    <loc>https://jplattel.nl/post/2020-09-08-building-an-arm-terminal-back-7/</loc>
     <lastmod>2020-09-08T15:41:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
+    <loc>https://jplattel.nl/tags/raspberry-pi/</loc>
     <lastmod>2020-09-08T15:41:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/esperantoxl/</loc>
+    <loc>https://jplattel.nl/client/esperantoxl/</loc>
     <lastmod>2020-08-18T10:15:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-08-16-chrome-plugin-rpa-automation/</loc>
+    <loc>https://jplattel.nl/post/2020-08-16-chrome-plugin-rpa-automation/</loc>
     <lastmod>2020-08-16T20:58:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jquery/</loc>
+    <loc>https://jplattel.nl/tags/jquery/</loc>
     <lastmod>2020-08-16T20:58:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rpa/</loc>
+    <loc>https://jplattel.nl/tags/rpa/</loc>
     <lastmod>2020-08-16T20:58:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
+    <loc>https://jplattel.nl/tags/automation/</loc>
     <lastmod>2020-08-15T09:37:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-08-14-obsidian-scripts/</loc>
+    <loc>https://jplattel.nl/post/2020-08-14-obsidian-scripts/</loc>
     <lastmod>2020-08-15T09:37:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scripts/</loc>
+    <loc>https://jplattel.nl/tags/scripts/</loc>
     <lastmod>2020-08-15T09:37:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-08-06-interacting-knowledge-systems-obsidian/</loc>
+    <loc>https://jplattel.nl/post/2020-08-06-interacting-knowledge-systems-obsidian/</loc>
     <lastmod>2020-08-11T09:37:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/discovery/</loc>
+    <loc>https://jplattel.nl/tags/discovery/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</loc>
+    <loc>https://jplattel.nl/post/2020-08-06-knowledge-systems-obsidian-markdown-roam-research-workflowy/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/knowledge/</loc>
+    <loc>https://jplattel.nl/tags/knowledge/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/management/</loc>
+    <loc>https://jplattel.nl/tags/management/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pkm/</loc>
+    <loc>https://jplattel.nl/tags/pkm/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/system/</loc>
+    <loc>https://jplattel.nl/tags/system/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/dropper/</loc>
+    <loc>https://jplattel.nl/client/dropper/</loc>
     <lastmod>2020-05-30T23:27:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/postgres/</loc>
+    <loc>https://jplattel.nl/tags/postgres/</loc>
     <lastmod>2020-05-30T23:27:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/api/</loc>
+    <loc>https://jplattel.nl/tags/api/</loc>
     <lastmod>2020-05-20T00:19:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/app-engine/</loc>
+    <loc>https://jplattel.nl/tags/app-engine/</loc>
     <lastmod>2020-05-20T00:19:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/integration/</loc>
+    <loc>https://jplattel.nl/tags/integration/</loc>
     <lastmod>2020-05-20T00:19:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/vogsy/</loc>
+    <loc>https://jplattel.nl/client/vogsy/</loc>
     <lastmod>2020-05-20T00:19:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-05-02-ant-pcb-maker/</loc>
+    <loc>https://jplattel.nl/post/2020-05-02-ant-pcb-maker/</loc>
     <lastmod>2020-05-02T14:37:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/beer/</loc>
+    <loc>https://jplattel.nl/tags/beer/</loc>
     <lastmod>2020-04-21T17:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brewery/</loc>
+    <loc>https://jplattel.nl/tags/brewery/</loc>
     <lastmod>2020-04-21T17:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/brouwerij_nooitgedacht/</loc>
+    <loc>https://jplattel.nl/project/brouwerij_nooitgedacht/</loc>
     <lastmod>2020-04-21T17:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/organization-supply/</loc>
+    <loc>https://jplattel.nl/project/organization-supply/</loc>
     <lastmod>2020-03-19T16:33:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/supply/</loc>
+    <loc>https://jplattel.nl/tags/supply/</loc>
     <lastmod>2020-03-19T16:33:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-03-05-custom-camera-mount-prusa-mini/</loc>
+    <loc>https://jplattel.nl/post/2020-03-05-custom-camera-mount-prusa-mini/</loc>
     <lastmod>2020-03-05T15:33:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
+    <loc>https://jplattel.nl/tags/code/</loc>
     <lastmod>2020-01-28T21:28:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/developer/</loc>
+    <loc>https://jplattel.nl/tags/developer/</loc>
     <lastmod>2020-01-28T21:28:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-01-29-upymenu-lcd-micropython-menu/</loc>
+    <loc>https://jplattel.nl/post/2020-01-29-upymenu-lcd-micropython-menu/</loc>
     <lastmod>2020-01-28T21:28:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/python/</loc>
+    <loc>https://jplattel.nl/categories/python/</loc>
     <lastmod>2020-01-28T21:28:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-01-19-python-projects-setup/</loc>
+    <loc>https://jplattel.nl/post/2020-01-19-python-projects-setup/</loc>
     <lastmod>2020-01-19T20:07:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/2019/</loc>
+    <loc>https://jplattel.nl/tags/2019/</loc>
     <lastmod>2020-01-04T20:13:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-01-04-celebrating-ten-years-836pm/</loc>
+    <loc>https://jplattel.nl/post/2020-01-04-celebrating-ten-years-836pm/</loc>
     <lastmod>2020-01-04T20:13:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/daily/</loc>
+    <loc>https://jplattel.nl/tags/daily/</loc>
     <lastmod>2020-01-04T20:13:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/video/</loc>
+    <loc>https://jplattel.nl/tags/video/</loc>
     <lastmod>2020-01-04T20:13:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vimeo/</loc>
+    <loc>https://jplattel.nl/tags/vimeo/</loc>
     <lastmod>2020-01-04T20:13:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/side-project-show-abn-amro-podcast/</loc>
+    <loc>https://jplattel.nl/media/side-project-show-abn-amro-podcast/</loc>
     <lastmod>2019-12-26T17:14:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/</loc>
+    <loc>https://jplattel.nl/media/</loc>
     <lastmod>2019-12-26T17:14:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-12-19-automating-my-brewery-part-3/</loc>
+    <loc>https://jplattel.nl/post/2019-12-19-automating-my-brewery-part-3/</loc>
     <lastmod>2019-12-19T23:23:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/automating/</loc>
+    <loc>https://jplattel.nl/tags/automating/</loc>
     <lastmod>2019-11-21T21:55:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-11-18-automating-my-brewery-part-2/</loc>
+    <loc>https://jplattel.nl/post/2019-11-18-automating-my-brewery-part-2/</loc>
     <lastmod>2019-11-21T21:55:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brewer/</loc>
+    <loc>https://jplattel.nl/tags/brewer/</loc>
     <lastmod>2019-11-21T21:55:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brewing/</loc>
+    <loc>https://jplattel.nl/tags/brewing/</loc>
     <lastmod>2019-11-21T21:55:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
+    <loc>https://jplattel.nl/tags/projects/</loc>
     <lastmod>2019-11-21T21:55:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/big-brother-werkvloer-you-telegraaf/</loc>
+    <loc>https://jplattel.nl/media/big-brother-werkvloer-you-telegraaf/</loc>
     <lastmod>2019-11-21T13:59:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bits-of-freedom/</loc>
+    <loc>https://jplattel.nl/tags/bits-of-freedom/</loc>
     <lastmod>2019-11-21T13:59:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data/</loc>
+    <loc>https://jplattel.nl/tags/data/</loc>
     <lastmod>2019-11-21T13:59:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
+    <loc>https://jplattel.nl/tags/privacy/</loc>
     <lastmod>2019-11-21T13:59:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/fontys-interview/</loc>
+    <loc>https://jplattel.nl/media/fontys-interview/</loc>
     <lastmod>2019-11-21T12:34:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-11-17-automating-my-brewery-part-1/</loc>
+    <loc>https://jplattel.nl/post/2019-11-17-automating-my-brewery-part-1/</loc>
     <lastmod>2019-11-17T19:49:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/makerbeam/</loc>
+    <loc>https://jplattel.nl/tags/makerbeam/</loc>
     <lastmod>2019-11-17T19:49:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/wafl/</loc>
+    <loc>https://jplattel.nl/client/wafl/</loc>
     <lastmod>2019-11-07T15:13:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/boredom/</loc>
+    <loc>https://jplattel.nl/tags/boredom/</loc>
     <lastmod>2019-10-21T12:36:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/coffee/</loc>
+    <loc>https://jplattel.nl/tags/coffee/</loc>
     <lastmod>2019-10-21T12:36:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ideas/</loc>
+    <loc>https://jplattel.nl/tags/ideas/</loc>
     <lastmod>2019-10-21T12:36:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/printer/</loc>
+    <loc>https://jplattel.nl/tags/printer/</loc>
     <lastmod>2019-10-21T12:36:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-10-21-the-idea-machine/</loc>
+    <loc>https://jplattel.nl/post/2019-10-21-the-idea-machine/</loc>
     <lastmod>2019-10-21T12:36:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/abonnementen/</loc>
+    <loc>https://jplattel.nl/tags/abonnementen/</loc>
     <lastmod>2019-08-17T20:01:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/app/</loc>
+    <loc>https://jplattel.nl/tags/app/</loc>
     <lastmod>2019-08-17T20:01:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</loc>
+    <loc>https://jplattel.nl/post/2019-08-17-eerste-hulp-bij-abonnementen-ns-ehba/</loc>
     <lastmod>2019-08-17T20:01:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ehba/</loc>
+    <loc>https://jplattel.nl/tags/ehba/</loc>
     <lastmod>2019-08-17T20:01:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ns/</loc>
+    <loc>https://jplattel.nl/tags/ns/</loc>
     <lastmod>2019-08-17T20:01:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chalice/</loc>
+    <loc>https://jplattel.nl/tags/chalice/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/ehba/</loc>
+    <loc>https://jplattel.nl/project/ehba/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nederland/</loc>
+    <loc>https://jplattel.nl/tags/nederland/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ov-chipkaart/</loc>
+    <loc>https://jplattel.nl/tags/ov-chipkaart/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/public/</loc>
+    <loc>https://jplattel.nl/tags/public/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/transport/</loc>
+    <loc>https://jplattel.nl/tags/transport/</loc>
     <lastmod>2019-08-05T00:05:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/big-brother-awards/</loc>
+    <loc>https://jplattel.nl/media/big-brother-awards/</loc>
     <lastmod>2019-01-24T13:59:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-01-06-836pm-2018/</loc>
+    <loc>https://jplattel.nl/post/2019-01-06-836pm-2018/</loc>
     <lastmod>2019-01-06T20:48:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/nolostcapital/</loc>
+    <loc>https://jplattel.nl/client/nolostcapital/</loc>
     <lastmod>2018-11-27T21:49:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vue/</loc>
+    <loc>https://jplattel.nl/tags/vue/</loc>
     <lastmod>2018-11-27T21:49:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iphone/</loc>
+    <loc>https://jplattel.nl/tags/iphone/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-10-16-iphone-xs-nfc-shortcuts/</loc>
+    <loc>https://jplattel.nl/post/2018-10-16-iphone-xs-nfc-shortcuts/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lifehacking/</loc>
+    <loc>https://jplattel.nl/tags/lifehacking/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/lifehacking/</loc>
+    <loc>https://jplattel.nl/categories/lifehacking/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nfc/</loc>
+    <loc>https://jplattel.nl/tags/nfc/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcuts/</loc>
+    <loc>https://jplattel.nl/tags/shortcuts/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/xs/</loc>
+    <loc>https://jplattel.nl/tags/xs/</loc>
     <lastmod>2018-10-16T23:38:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/ambassador-digital-society-school-amsterdam/</loc>
+    <loc>https://jplattel.nl/project/ambassador-digital-society-school-amsterdam/</loc>
     <lastmod>2018-09-18T17:17:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/amsterdam/</loc>
+    <loc>https://jplattel.nl/tags/amsterdam/</loc>
     <lastmod>2018-09-18T17:17:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/science/</loc>
+    <loc>https://jplattel.nl/tags/science/</loc>
     <lastmod>2018-09-18T17:17:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fixing/</loc>
+    <loc>https://jplattel.nl/tags/fixing/</loc>
     <lastmod>2018-08-27T21:25:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/maker/</loc>
+    <loc>https://jplattel.nl/tags/maker/</loc>
     <lastmod>2018-08-27T21:25:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-08-27-making-and-fixing-things/</loc>
+    <loc>https://jplattel.nl/post/2018-08-27-making-and-fixing-things/</loc>
     <lastmod>2018-08-27T21:25:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/intermediar/</loc>
+    <loc>https://jplattel.nl/media/intermediar/</loc>
     <lastmod>2018-06-22T14:51:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/fundsup/</loc>
+    <loc>https://jplattel.nl/client/fundsup/</loc>
     <lastmod>2018-05-31T00:15:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://jplattel.nl/tags/docker/</loc>
     <lastmod>2018-05-30T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker-compose/</loc>
+    <loc>https://jplattel.nl/tags/docker-compose/</loc>
     <lastmod>2018-05-30T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/drf/</loc>
+    <loc>https://jplattel.nl/tags/drf/</loc>
     <lastmod>2018-05-30T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/watermelon/</loc>
+    <loc>https://jplattel.nl/client/watermelon/</loc>
     <lastmod>2018-05-30T23:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/colliers/</loc>
+    <loc>https://jplattel.nl/client/colliers/</loc>
     <lastmod>2018-05-30T23:27:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/quantified-self/</loc>
+    <loc>https://jplattel.nl/tags/quantified-self/</loc>
     <lastmod>2018-05-30T23:27:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jupyter/</loc>
+    <loc>https://jplattel.nl/tags/jupyter/</loc>
     <lastmod>2018-05-30T23:25:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/bzk/</loc>
+    <loc>https://jplattel.nl/client/bzk/</loc>
     <lastmod>2018-05-30T23:25:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/diy/</loc>
+    <loc>https://jplattel.nl/categories/diy/</loc>
     <lastmod>2018-04-29T20:12:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fusion-360/</loc>
+    <loc>https://jplattel.nl/tags/fusion-360/</loc>
     <lastmod>2018-04-29T20:12:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/plane/</loc>
+    <loc>https://jplattel.nl/tags/plane/</loc>
     <lastmod>2018-04-29T20:12:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/restoration/</loc>
+    <loc>https://jplattel.nl/tags/restoration/</loc>
     <lastmod>2018-04-29T20:12:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-04-29-restoring_an_old_plane/</loc>
+    <loc>https://jplattel.nl/post/2018-04-29-restoring_an_old_plane/</loc>
     <lastmod>2018-04-29T20:12:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tools/</loc>
+    <loc>https://jplattel.nl/tags/tools/</loc>
     <lastmod>2018-04-29T20:12:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/woodworking/</loc>
+    <loc>https://jplattel.nl/tags/woodworking/</loc>
     <lastmod>2018-04-29T20:12:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-04-26-new_batch_nooitop_kratfunding/</loc>
+    <loc>https://jplattel.nl/post/2018-04-26-new_batch_nooitop_kratfunding/</loc>
     <lastmod>2018-04-26T13:51:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brouwerij/</loc>
+    <loc>https://jplattel.nl/tags/brouwerij/</loc>
     <lastmod>2018-04-26T13:51:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/brouwerij-nooitgedacht/</loc>
+    <loc>https://jplattel.nl/categories/brouwerij-nooitgedacht/</loc>
     <lastmod>2018-04-26T13:51:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kratfunding/</loc>
+    <loc>https://jplattel.nl/tags/kratfunding/</loc>
     <lastmod>2018-04-26T13:51:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/zorgvisie-ict/</loc>
+    <loc>https://jplattel.nl/media/zorgvisie-ict/</loc>
     <lastmod>2018-04-22T00:19:43+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/arte-tv/</loc>
+    <loc>https://jplattel.nl/media/arte-tv/</loc>
     <lastmod>2018-04-22T00:16:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/volmaakte-mens/</loc>
+    <loc>https://jplattel.nl/media/volmaakte-mens/</loc>
     <lastmod>2018-04-22T00:15:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/food/</loc>
+    <loc>https://jplattel.nl/tags/food/</loc>
     <lastmod>2018-04-22T00:14:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ricecooker/</loc>
+    <loc>https://jplattel.nl/tags/ricecooker/</loc>
     <lastmod>2018-04-22T00:14:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/sous-vide-ricecooker/</loc>
+    <loc>https://jplattel.nl/project/sous-vide-ricecooker/</loc>
     <lastmod>2018-04-22T00:14:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/diy-longboard/</loc>
+    <loc>https://jplattel.nl/project/diy-longboard/</loc>
     <lastmod>2018-04-22T00:13:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/groningen/</loc>
+    <loc>https://jplattel.nl/tags/groningen/</loc>
     <lastmod>2018-04-22T00:13:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/longboard/</loc>
+    <loc>https://jplattel.nl/tags/longboard/</loc>
     <lastmod>2018-04-22T00:13:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/de-padvinders/</loc>
+    <loc>https://jplattel.nl/project/de-padvinders/</loc>
     <lastmod>2018-04-21T23:07:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/een-leuk-boek/</loc>
+    <loc>https://jplattel.nl/media/een-leuk-boek/</loc>
     <lastmod>2018-04-21T23:01:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/mondriaantje/</loc>
+    <loc>https://jplattel.nl/project/mondriaantje/</loc>
     <lastmod>2018-04-21T22:55:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/berichtenbox-forwarder/</loc>
+    <loc>https://jplattel.nl/project/berichtenbox-forwarder/</loc>
     <lastmod>2018-04-21T22:18:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/script/</loc>
+    <loc>https://jplattel.nl/tags/script/</loc>
     <lastmod>2018-04-21T22:18:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/po-actueel-qwp/</loc>
+    <loc>https://jplattel.nl/media/po-actueel-qwp/</loc>
     <lastmod>2018-04-21T22:17:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/tedxyouth-groningen/</loc>
+    <loc>https://jplattel.nl/media/tedxyouth-groningen/</loc>
     <lastmod>2018-04-21T21:23:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/wishlist/</loc>
+    <loc>https://jplattel.nl/wishlist/</loc>
     <lastmod>2018-04-21T21:17:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/qs/</loc>
+    <loc>https://jplattel.nl/tags/qs/</loc>
     <lastmod>2018-04-21T21:10:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/quantifiedself/</loc>
+    <loc>https://jplattel.nl/project/quantifiedself/</loc>
     <lastmod>2018-04-21T21:10:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/groene_amsterdammer/</loc>
+    <loc>https://jplattel.nl/media/groene_amsterdammer/</loc>
     <lastmod>2018-04-21T21:05:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/corner/</loc>
+    <loc>https://jplattel.nl/tags/corner/</loc>
     <lastmod>2018-04-21T20:38:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/curious/</loc>
+    <loc>https://jplattel.nl/tags/curious/</loc>
     <lastmod>2018-04-21T20:38:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/newsletter/</loc>
+    <loc>https://jplattel.nl/tags/newsletter/</loc>
     <lastmod>2018-04-21T20:38:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/curious_corner/</loc>
+    <loc>https://jplattel.nl/project/curious_corner/</loc>
     <lastmod>2018-04-21T20:38:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web/</loc>
+    <loc>https://jplattel.nl/tags/web/</loc>
     <lastmod>2018-04-21T20:38:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-01-26-talking-about-my-phone-usage/</loc>
+    <loc>https://jplattel.nl/post/2018-01-26-talking-about-my-phone-usage/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</loc>
+    <loc>https://jplattel.nl/post/2018-01-07-creating-smart-bubble-counter-fermentation-tracking/</loc>
     <lastmod>2018-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-01-03-836pm-2017/</loc>
+    <loc>https://jplattel.nl/post/2018-01-03-836pm-2017/</loc>
     <lastmod>2018-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/sustrans/</loc>
+    <loc>https://jplattel.nl/client/sustrans/</loc>
     <lastmod>2017-08-04T19:01:15+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-06-03-getting-started-with-a-lorawan-gateway/</loc>
+    <loc>https://jplattel.nl/post/2017-06-03-getting-started-with-a-lorawan-gateway/</loc>
     <lastmod>2017-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-03-16-predicting-energy-usage-with-prophet/</loc>
+    <loc>https://jplattel.nl/post/2017-03-16-predicting-energy-usage-with-prophet/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-01-02-836pm-2016/</loc>
+    <loc>https://jplattel.nl/post/2017-01-02-836pm-2016/</loc>
     <lastmod>2017-01-02T20:42:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-11-15-brewing-beer-in-a-modified-kettle/</loc>
+    <loc>https://jplattel.nl/post/2016-11-15-brewing-beer-in-a-modified-kettle/</loc>
     <lastmod>2016-11-15T15:42:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-08-25-holiday-italy-cinque-terre/</loc>
+    <loc>https://jplattel.nl/post/2016-08-25-holiday-italy-cinque-terre/</loc>
     <lastmod>2016-08-25T15:42:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/setup/</loc>
+    <loc>https://jplattel.nl/client/setup/</loc>
     <lastmod>2016-08-04T19:01:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-07-25-double-bike-london/</loc>
+    <loc>https://jplattel.nl/post/2016-07-25-double-bike-london/</loc>
     <lastmod>2016-07-25T13:09:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/qountus/</loc>
+    <loc>https://jplattel.nl/project/qountus/</loc>
     <lastmod>2016-06-05T16:29:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-06-02-many-things-little-experiment/</loc>
+    <loc>https://jplattel.nl/post/2016-06-02-many-things-little-experiment/</loc>
     <lastmod>2016-06-02T10:04:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</loc>
+    <loc>https://jplattel.nl/post/2016-05-02-fixing-interfaces-with-chrome-plugins/</loc>
     <lastmod>2016-05-02T22:19:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-03-08-making-waves/</loc>
+    <loc>https://jplattel.nl/post/2016-03-08-making-waves/</loc>
     <lastmod>2016-03-08T14:32:49+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-02-23-privacy-gracefully-revealing-depth/</loc>
+    <loc>https://jplattel.nl/post/2016-02-23-privacy-gracefully-revealing-depth/</loc>
     <lastmod>2016-02-23T14:11:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-02-16-musings-on-transparency/</loc>
+    <loc>https://jplattel.nl/post/2016-02-16-musings-on-transparency/</loc>
     <lastmod>2016-02-16T15:10:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-01-29-on-solving-annoying-things/</loc>
+    <loc>https://jplattel.nl/post/2016-01-29-on-solving-annoying-things/</loc>
     <lastmod>2016-01-29T10:33:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-01-20-sous-vide-rice-cooker/</loc>
+    <loc>https://jplattel.nl/post/2016-01-20-sous-vide-rice-cooker/</loc>
     <lastmod>2016-01-20T15:56:41+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-01-02-data-reflections-2015/</loc>
+    <loc>https://jplattel.nl/post/2016-01-02-data-reflections-2015/</loc>
     <lastmod>2016-01-02T17:34:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-12-02-a-lecture-in-ghent/</loc>
+    <loc>https://jplattel.nl/post/2015-12-02-a-lecture-in-ghent/</loc>
     <lastmod>2015-12-02T11:25:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-10-12-quantified-phone-usage-ipython/</loc>
+    <loc>https://jplattel.nl/post/2015-10-12-quantified-phone-usage-ipython/</loc>
     <lastmod>2015-10-12T11:35:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-09-22-sri-lanka-for-holiday/</loc>
+    <loc>https://jplattel.nl/post/2015-09-22-sri-lanka-for-holiday/</loc>
     <lastmod>2015-09-22T14:30:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-07-28-holiday-to-denmark-berlin-and-the-south-of-france/</loc>
+    <loc>https://jplattel.nl/post/2015-07-28-holiday-to-denmark-berlin-and-the-south-of-france/</loc>
     <lastmod>2015-07-28T10:11:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-06-08-perfect-human-vpro-tv-publications/</loc>
+    <loc>https://jplattel.nl/post/2015-06-08-perfect-human-vpro-tv-publications/</loc>
     <lastmod>2015-06-08T07:55:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-05-18-somethings-brewing/</loc>
+    <loc>https://jplattel.nl/post/2015-05-18-somethings-brewing/</loc>
     <lastmod>2015-05-18T11:12:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-05-14-lago-di-garda/</loc>
+    <loc>https://jplattel.nl/post/2015-05-14-lago-di-garda/</loc>
     <lastmod>2015-05-14T17:43:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-02-26-gradual-privacy-personal-data/</loc>
+    <loc>https://jplattel.nl/post/2015-02-26-gradual-privacy-personal-data/</loc>
     <lastmod>2015-02-26T11:03:57+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-02-02-creating-intelligence-room/</loc>
+    <loc>https://jplattel.nl/post/2015-02-02-creating-intelligence-room/</loc>
     <lastmod>2015-02-02T12:45:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2015-01-06-836pm-2014-video/</loc>
+    <loc>https://jplattel.nl/post/2015-01-06-836pm-2014-video/</loc>
     <lastmod>2015-01-06T01:16:54+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</loc>
+    <loc>https://jplattel.nl/post/2014-12-14-3d-printing-objects-and-lampshades-based-on-data/</loc>
     <lastmod>2014-12-14T23:23:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-11-21-learning-about-power-usage-data-home/</loc>
+    <loc>https://jplattel.nl/post/2014-11-21-learning-about-power-usage-data-home/</loc>
     <lastmod>2014-11-21T10:32:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-11-10-my-server-got-hacked/</loc>
+    <loc>https://jplattel.nl/post/2014-11-10-my-server-got-hacked/</loc>
     <lastmod>2014-11-10T09:18:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-10-04-3-years-computing/</loc>
+    <loc>https://jplattel.nl/post/2014-10-04-3-years-computing/</loc>
     <lastmod>2014-10-04T22:42:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-09-16-lessons-learned-building-django-projects-2/</loc>
+    <loc>https://jplattel.nl/post/2014-09-16-lessons-learned-building-django-projects-2/</loc>
     <lastmod>2014-09-16T11:42:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-08-07-east-west-netherlands/</loc>
+    <loc>https://jplattel.nl/post/2014-08-07-east-west-netherlands/</loc>
     <lastmod>2014-08-07T15:53:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-07-02-meetup-api-tinkering/</loc>
+    <loc>https://jplattel.nl/post/2014-07-02-meetup-api-tinkering/</loc>
     <lastmod>2014-07-02T13:46:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-06-07-metabiography-written-cloud/</loc>
+    <loc>https://jplattel.nl/post/2014-06-07-metabiography-written-cloud/</loc>
     <lastmod>2014-06-07T22:04:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</loc>
+    <loc>https://jplattel.nl/post/2014-06-02-thought-kinetics-coded-matters-extended-senses/</loc>
     <lastmod>2014-06-02T18:33:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-05-14-quantified-self-europe-conference-3/</loc>
+    <loc>https://jplattel.nl/post/2014-05-14-quantified-self-europe-conference-3/</loc>
     <lastmod>2014-05-14T10:35:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-04-19-curious-corner-video/</loc>
+    <loc>https://jplattel.nl/post/2014-04-19-curious-corner-video/</loc>
     <lastmod>2014-04-19T20:21:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-03-27-made-into-another-book-and-white-paper/</loc>
+    <loc>https://jplattel.nl/post/2014-03-27-made-into-another-book-and-white-paper/</loc>
     <lastmod>2014-03-27T22:52:32+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-03-09-lessons-learned-building-django-projects/</loc>
+    <loc>https://jplattel.nl/post/2014-03-09-lessons-learned-building-django-projects/</loc>
     <lastmod>2014-03-09T23:39:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-02-07-experimenting-company-activity-dashboards/</loc>
+    <loc>https://jplattel.nl/post/2014-02-07-experimenting-company-activity-dashboards/</loc>
     <lastmod>2014-02-07T14:44:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-01-20-836pm-photos-2013/</loc>
+    <loc>https://jplattel.nl/post/2014-01-20-836pm-photos-2013/</loc>
     <lastmod>2014-01-20T00:06:54+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2014-01-13-taping-interviews/</loc>
+    <loc>https://jplattel.nl/post/2014-01-13-taping-interviews/</loc>
     <lastmod>2014-01-13T13:23:32+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
+    <loc>https://jplattel.nl/post/2013-12-27-cooking-up-and-stepping-back-into-chemistry-a-bit/</loc>
     <lastmod>2013-12-27T15:54:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-12-18-using-moves-data/</loc>
+    <loc>https://jplattel.nl/post/2013-12-18-using-moves-data/</loc>
     <lastmod>2013-12-18T18:29:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-11-27-curious-corner-of-the-internet/</loc>
+    <loc>https://jplattel.nl/post/2013-11-27-curious-corner-of-the-internet/</loc>
     <lastmod>2013-11-27T20:47:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-11-15-jawbone-api-python-library/</loc>
+    <loc>https://jplattel.nl/post/2013-11-15-jawbone-api-python-library/</loc>
     <lastmod>2013-11-15T20:15:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-10-29-twins-in-new-york/</loc>
+    <loc>https://jplattel.nl/post/2013-10-29-twins-in-new-york/</loc>
     <lastmod>2013-10-29T21:31:49+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-10-21-making-sense-of-your-phone-invoices/</loc>
+    <loc>https://jplattel.nl/post/2013-10-21-making-sense-of-your-phone-invoices/</loc>
     <lastmod>2013-10-21T10:02:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-10-14-san-francisco-and-qs13/</loc>
+    <loc>https://jplattel.nl/post/2013-10-14-san-francisco-and-qs13/</loc>
     <lastmod>2013-10-14T03:56:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-09-30-recent-media/</loc>
+    <loc>https://jplattel.nl/post/2013-09-30-recent-media/</loc>
     <lastmod>2013-09-30T09:22:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-08-15-fitbit-organisation-dashboard/</loc>
+    <loc>https://jplattel.nl/post/2013-08-15-fitbit-organisation-dashboard/</loc>
     <lastmod>2013-08-15T18:54:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</loc>
+    <loc>https://jplattel.nl/post/2013-08-05-on-a-tandem-bicycle-to-bregenz/</loc>
     <lastmod>2013-08-05T17:40:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-07-09-python-library-moves-app-api/</loc>
+    <loc>https://jplattel.nl/post/2013-07-09-python-library-moves-app-api/</loc>
     <lastmod>2013-07-09T19:52:23+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-07-04-late-night-tektok-talking-qs-and-education/</loc>
+    <loc>https://jplattel.nl/post/2013-07-04-late-night-tektok-talking-qs-and-education/</loc>
     <lastmod>2013-07-04T22:22:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-06-12-moving-into-hardware/</loc>
+    <loc>https://jplattel.nl/post/2013-06-12-moving-into-hardware/</loc>
     <lastmod>2013-06-12T20:34:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-05-15-qs-europe-conference/</loc>
+    <loc>https://jplattel.nl/post/2013-05-15-qs-europe-conference/</loc>
     <lastmod>2013-05-15T11:42:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-05-07-small-news/</loc>
+    <loc>https://jplattel.nl/post/2013-05-07-small-news/</loc>
     <lastmod>2013-05-07T20:12:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lambda/</loc>
+    <loc>https://jplattel.nl/tags/lambda/</loc>
     <lastmod>2013-04-21T22:55:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client/partup/</loc>
+    <loc>https://jplattel.nl/client/partup/</loc>
     <lastmod>2013-04-21T22:55:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/</loc>
+    <loc>https://jplattel.nl/post/2013-04-15-building-personal-health-dashboard-panics-statusboard/</loc>
     <lastmod>2013-04-15T22:43:23+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</loc>
+    <loc>https://jplattel.nl/post/2013-04-11-data-visualisation-hogeschool-van-amsterdam/</loc>
     <lastmod>2013-04-11T21:49:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-03-05-generating-mondrian-art-d3-javascript/</loc>
+    <loc>https://jplattel.nl/post/2013-03-05-generating-mondrian-art-d3-javascript/</loc>
     <lastmod>2013-03-05T15:38:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-02-26-vpro-labyrint/</loc>
+    <loc>https://jplattel.nl/post/2013-02-26-vpro-labyrint/</loc>
     <lastmod>2013-02-26T09:47:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/</loc>
+    <loc>https://jplattel.nl/post/2013-02-12-pecha-kucha-quantified-self-permanent-beta/</loc>
     <lastmod>2013-02-12T14:55:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2013-01-29-836pm-2012/</loc>
+    <loc>https://jplattel.nl/post/2013-01-29-836pm-2012/</loc>
     <lastmod>2013-01-29T23:26:09+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-12-16-metabolite-testing-with-talking20/</loc>
+    <loc>https://jplattel.nl/post/2012-12-16-metabolite-testing-with-talking20/</loc>
     <lastmod>2012-12-16T20:13:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-11-20-startup-weekend-utrecht/</loc>
+    <loc>https://jplattel.nl/post/2012-11-20-startup-weekend-utrecht/</loc>
     <lastmod>2012-11-20T11:31:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-10-28-the-quantified-self-new-aesthetic/</loc>
+    <loc>https://jplattel.nl/post/2012-10-28-the-quantified-self-new-aesthetic/</loc>
     <lastmod>2012-10-28T01:45:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-10-18-karlskrona-sweden/</loc>
+    <loc>https://jplattel.nl/post/2012-10-18-karlskrona-sweden/</loc>
     <lastmod>2012-10-18T00:07:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-09-24-plugin-heuristics/</loc>
+    <loc>https://jplattel.nl/post/2012-09-24-plugin-heuristics/</loc>
     <lastmod>2012-09-24T09:21:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-08-25-hiking-500-kilometers/</loc>
+    <loc>https://jplattel.nl/post/2012-08-25-hiking-500-kilometers/</loc>
     <lastmod>2012-08-25T18:50:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-07-15-showertrack/</loc>
+    <loc>https://jplattel.nl/post/2012-07-15-showertrack/</loc>
     <lastmod>2012-07-15T22:06:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-05-31-storify-as-slides-for-talks/</loc>
+    <loc>https://jplattel.nl/post/2012-05-31-storify-as-slides-for-talks/</loc>
     <lastmod>2012-05-31T15:34:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-03-27-using-zeo-raw-data-for-performances/</loc>
+    <loc>https://jplattel.nl/post/2012-03-27-using-zeo-raw-data-for-performances/</loc>
     <lastmod>2012-03-27T22:11:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/</loc>
+    <loc>https://jplattel.nl/post/2012-02-15-videos-of-a-few-talks-i-gave-last-few-months/</loc>
     <lastmod>2012-02-15T13:03:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-01-16-datavisualisatie-voor-het-cbs/</loc>
+    <loc>https://jplattel.nl/post/2012-01-16-datavisualisatie-voor-het-cbs/</loc>
     <lastmod>2012-01-16T11:43:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2012-01-01-2011-a-summary/</loc>
+    <loc>https://jplattel.nl/post/2012-01-01-2011-a-summary/</loc>
     <lastmod>2012-01-01T16:35:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-12-19-qs-europe-2011/</loc>
+    <loc>https://jplattel.nl/post/2011-12-19-qs-europe-2011/</loc>
     <lastmod>2011-12-19T13:02:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-11-21-going-interactive/</loc>
+    <loc>https://jplattel.nl/post/2011-11-21-going-interactive/</loc>
     <lastmod>2011-11-21T11:24:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/</loc>
+    <loc>https://jplattel.nl/post/2011-10-10-stand-up-inspiration-mijn-reis-naar-qs2011/</loc>
     <lastmod>2011-10-10T17:41:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-10-06-moon-phases-and-sleep-patterns/</loc>
+    <loc>https://jplattel.nl/post/2011-10-06-moon-phases-and-sleep-patterns/</loc>
     <lastmod>2011-10-06T10:54:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-09-27-publishing-personal-caloric-values/</loc>
+    <loc>https://jplattel.nl/post/2011-09-27-publishing-personal-caloric-values/</loc>
     <lastmod>2011-09-27T09:24:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-09-01-preview-of-my-san-francisco-report/</loc>
+    <loc>https://jplattel.nl/post/2011-09-01-preview-of-my-san-francisco-report/</loc>
     <lastmod>2011-09-01T10:39:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-08-17-how-i-would-like-to-write/</loc>
+    <loc>https://jplattel.nl/post/2011-08-17-how-i-would-like-to-write/</loc>
     <lastmod>2011-08-17T09:50:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-07-18-python-library-fitbit-api/</loc>
+    <loc>https://jplattel.nl/post/2011-07-18-python-library-fitbit-api/</loc>
     <lastmod>2011-07-18T20:50:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-07-08-kindle-notes-evernote-sync/</loc>
+    <loc>https://jplattel.nl/post/2011-07-08-kindle-notes-evernote-sync/</loc>
     <lastmod>2011-07-08T12:11:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-06-22-zeo-sleep-monitor/</loc>
+    <loc>https://jplattel.nl/post/2011-06-22-zeo-sleep-monitor/</loc>
     <lastmod>2011-06-22T21:53:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-06-07-san-francisco-2011-qs2011/</loc>
+    <loc>https://jplattel.nl/post/2011-06-07-san-francisco-2011-qs2011/</loc>
     <lastmod>2011-06-07T15:49:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-05-08-my-effort-for-a-better-readinglist/</loc>
+    <loc>https://jplattel.nl/post/2011-05-08-my-effort-for-a-better-readinglist/</loc>
     <lastmod>2011-05-08T10:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dream/</loc>
+    <loc>https://jplattel.nl/tags/dream/</loc>
     <lastmod>2011-04-19T20:26:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dreaming/</loc>
+    <loc>https://jplattel.nl/tags/dreaming/</loc>
     <lastmod>2011-04-19T20:26:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lucid/</loc>
+    <loc>https://jplattel.nl/tags/lucid/</loc>
     <lastmod>2011-04-19T20:26:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-04-19-my-method-for-improving-dream-recall/</loc>
+    <loc>https://jplattel.nl/post/2011-04-19-my-method-for-improving-dream-recall/</loc>
     <lastmod>2011-04-19T20:26:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/recall/</loc>
+    <loc>https://jplattel.nl/tags/recall/</loc>
     <lastmod>2011-04-19T20:26:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sleep/</loc>
+    <loc>https://jplattel.nl/tags/sleep/</loc>
     <lastmod>2011-04-19T20:26:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wild/</loc>
+    <loc>https://jplattel.nl/tags/wild/</loc>
     <lastmod>2011-04-19T20:26:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-04-15-extendability/</loc>
+    <loc>https://jplattel.nl/post/2011-04-15-extendability/</loc>
     <lastmod>2011-04-15T08:52:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/export/</loc>
+    <loc>https://jplattel.nl/tags/export/</loc>
     <lastmod>2011-04-10T19:42:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/moby/</loc>
+    <loc>https://jplattel.nl/tags/moby/</loc>
     <lastmod>2011-04-10T19:42:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mobypicture/</loc>
+    <loc>https://jplattel.nl/tags/mobypicture/</loc>
     <lastmod>2011-04-10T19:42:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-04-10-mobypicture-export/</loc>
+    <loc>https://jplattel.nl/post/2011-04-10-mobypicture-export/</loc>
     <lastmod>2011-04-10T19:42:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/self-tracking/</loc>
+    <loc>https://jplattel.nl/tags/self-tracking/</loc>
     <lastmod>2011-03-31T12:26:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-03-31-what-am-i-tracking/</loc>
+    <loc>https://jplattel.nl/post/2011-03-31-what-am-i-tracking/</loc>
     <lastmod>2011-03-31T12:26:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brussels/</loc>
+    <loc>https://jplattel.nl/tags/brussels/</loc>
     <lastmod>2011-03-13T21:55:20+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/qsbru/</loc>
+    <loc>https://jplattel.nl/tags/qsbru/</loc>
     <lastmod>2011-03-13T21:55:20+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/quantifiedself/</loc>
+    <loc>https://jplattel.nl/tags/quantifiedself/</loc>
     <lastmod>2011-03-13T21:55:20+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scanadu/</loc>
+    <loc>https://jplattel.nl/tags/scanadu/</loc>
     <lastmod>2011-03-13T21:55:20+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-03-13-trip-to-brussels/</loc>
+    <loc>https://jplattel.nl/post/2011-03-13-trip-to-brussels/</loc>
     <lastmod>2011-03-13T21:55:20+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/maclogger/</loc>
+    <loc>https://jplattel.nl/tags/maclogger/</loc>
     <lastmod>2011-02-27T22:12:40+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-02-27-measuring-mouse-interaction/</loc>
+    <loc>https://jplattel.nl/post/2011-02-27-measuring-mouse-interaction/</loc>
     <lastmod>2011-02-27T22:12:40+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/processing/</loc>
+    <loc>https://jplattel.nl/tags/processing/</loc>
     <lastmod>2011-02-27T22:12:40+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/quantifed-self/</loc>
+    <loc>https://jplattel.nl/tags/quantifed-self/</loc>
     <lastmod>2011-02-27T22:12:40+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2011-01-08-dabblings-in-processing/</loc>
+    <loc>https://jplattel.nl/post/2011-01-08-dabblings-in-processing/</loc>
     <lastmod>2011-01-08T14:20:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2010-12-31-2010-a-summary/</loc>
+    <loc>https://jplattel.nl/post/2010-12-31-2010-a-summary/</loc>
     <lastmod>2010-12-31T12:16:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2010-12-04-geolocation-based-grocery-reminders/</loc>
+    <loc>https://jplattel.nl/post/2010-12-04-geolocation-based-grocery-reminders/</loc>
     <lastmod>2010-12-04T14:26:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2010-11-25-thoughts-on-data-portability/</loc>
+    <loc>https://jplattel.nl/post/2010-11-25-thoughts-on-data-portability/</loc>
     <lastmod>2010-11-25T14:24:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2010-11-09-why-shoot-a-photo-at-836pm/</loc>
+    <loc>https://jplattel.nl/post/2010-11-09-why-shoot-a-photo-at-836pm/</loc>
     <lastmod>2010-11-09T11:24:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2010-10-06-my-view-of-technology/</loc>
+    <loc>https://jplattel.nl/post/2010-10-06-my-view-of-technology/</loc>
     <lastmod>2010-10-06T18:42:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/thoughts/</loc>
+    <loc>https://jplattel.nl/tags/thoughts/</loc>
     <lastmod>2010-10-06T18:42:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal-informatics/</loc>
+    <loc>https://jplattel.nl/tags/personal-informatics/</loc>
     <lastmod>2010-09-27T11:41:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2010-09-27-qs-amsterdam-recap-1/</loc>
+    <loc>https://jplattel.nl/post/2010-09-27-qs-amsterdam-recap-1/</loc>
     <lastmod>2010-09-27T11:41:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/appengine/</loc>
+    <loc>https://jplattel.nl/tags/appengine/</loc>
     <lastmod>2010-08-31T21:30:52+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2010-08-31-geotracking-streaming-gps-locations/</loc>
+    <loc>https://jplattel.nl/post/2010-08-31-geotracking-streaming-gps-locations/</loc>
     <lastmod>2010-08-31T21:30:52+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gps/</loc>
+    <loc>https://jplattel.nl/tags/gps/</loc>
     <lastmod>2010-08-31T21:30:52+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/location/</loc>
+    <loc>https://jplattel.nl/tags/location/</loc>
     <lastmod>2010-08-31T21:30:52+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://jplattel.nl/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jplattel.nl/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://jplattel.nl/contact/</loc>
   </url>
 </urlset>

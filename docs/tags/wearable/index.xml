@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wearable on Joost Plattel</title>
-    <link>http://localhost:1313/tags/wearable/</link>
+    <link>https://jplattel.nl/tags/wearable/</link>
     <description>Recent content in Wearable on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Wed, 12 Apr 2023 18:04:47 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wearable/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/wearable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wandering.computer</title>
-      <link>http://localhost:1313/project/wandering-computer/</link>
+      <link>https://jplattel.nl/project/wandering-computer/</link>
       <pubDate>Wed, 12 Apr 2023 18:04:47 +0200</pubDate>
-      <guid>http://localhost:1313/project/wandering-computer/</guid>
+      <guid>https://jplattel.nl/project/wandering-computer/</guid>
       <description>A wearable keyboard made for typing on the go!</description>
     </item>
     <item>
       <title>Progress on wandering.computer</title>
-      <link>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
+      <link>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</link>
       <pubDate>Sun, 24 Jul 2022 12:04:43 +0200</pubDate>
-      <guid>http://localhost:1313/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
+      <guid>https://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/</guid>
       <description>&lt;p&gt;Slowly but surely I&amp;rsquo;m making progress on my personal project. Creating a wearable keyboard that can be used while walking has been a dream of mine for a couple of years. One of the decision I made upfront is that I makes no sense to rush this project.&lt;/p&gt;&#xA;&lt;p&gt;The main reason is that most of the stuff I create these days either have to be brought to market as soon as possible (by yesterday please!). The other reason is that cutting corners for such a unique problem I try to solve results into missing certain details or solutions that might not be obvious at first sight. Even though I&amp;rsquo;m not sure if this is going to be a product, I do try to learn on how to design for manufacturing. Thanks to the wonderful folks at &lt;a href=&#34;http://dato.mu/&#34;&gt;Dato&lt;/a&gt; as sparring partners. There&amp;rsquo;s just soo much to learn when developing something from scratch with no previous examples or solutions available&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software architecture for a wearable computer</title>
-      <link>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</link>
+      <link>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</link>
       <pubDate>Thu, 10 Jun 2021 15:11:47 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-06-10-software-for-a-wearable-computer/</guid>
+      <guid>https://jplattel.nl/post/2021-06-10-software-for-a-wearable-computer/</guid>
       <description>&lt;p&gt;As you can read &lt;a href=&#34;http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/&#34;&gt;in previous posts&lt;/a&gt;. I&amp;rsquo;ve spend the last year designing a wearable keyboard that would allow you to type while walking. When I finally soldered everything, checked the connections for no shorts I tried flashing &lt;a href=&#34;https://micropython.org/&#34;&gt;micropython&lt;/a&gt; on the &lt;code&gt;Wemo D32 Pro&lt;/code&gt;&amp;rsquo;s that I use one didn&amp;rsquo;t seem to work.. Luckily I had a replacement on hand &lt;em&gt;(learned that the hard-way, I&amp;rsquo;ll always be ordering extra now!)&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Before I want to dive into the software architecture, I wanted to explain why I don&amp;rsquo;t went with &lt;a href=&#34;https://github.com/qmk/qmk_firmware/&#34;&gt;QMK&lt;/a&gt; or at least, not directly (more on that later!). While QMK is an awesome piece of software I wanted a bit more flexibility for my project. Interfacing with a SD, running a webserver and such are not things that QMK is meant for. I also wanted to explore Micropython a bit more in depth, since I&amp;rsquo;ve only done small projects with it. So, that&amp;rsquo;s the way to go!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finalizing the hardware for a wearable keyboard</title>
-      <link>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
+      <link>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</link>
       <pubDate>Mon, 19 Apr 2021 21:01:37 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
+      <guid>https://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;http://jplattel.nl/post/2021-01-20-wearable-keyboard-prototypes/&#34;&gt;a previous post&lt;/a&gt; I&amp;rsquo;ve shown physical prototypes of a wearable keyboard I&amp;rsquo;m developing. The goal of this keyboard is to provide me with a way to type while walking or just standing/sitting somewhere. I want to blind-type notes while keeping my attention at other things.&lt;/p&gt;&#xA;&lt;p&gt;Most of the comments I get have to do with &lt;em&gt;why I don&amp;rsquo;t use dictation.&lt;/em&gt; There are several reasons for that, namely I&amp;rsquo;m taking my notes bilingual (English &amp;amp; Dutch) and I don&amp;rsquo;t want to shout around my ideas while being nearby other people, as this might be annoying or even rude&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bandwith problems with Human Computer Interfaces</title>
-      <link>http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/</link>
+      <link>https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/</link>
       <pubDate>Thu, 14 Jan 2021 11:03:56 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-14-bandwith-problems-human-computer-interfaces/</guid>
+      <guid>https://jplattel.nl/post/2021-01-14-bandwith-problems-human-computer-interfaces/</guid>
       <description>&lt;p&gt;I have been thinking about the bandwidth problem we face with computer interaces. When typing with a keyboard or dictating trough speech, the computer cannot keep up with a stream of thoughts. Our bandwidth is limited by our output.&lt;/p&gt;&#xA;&lt;p&gt;One of the more future forwards solutions is &lt;a href=&#34;https://neuralink.com/&#34;&gt;Neuralink&lt;/a&gt;, but to me it seems like quite an invasive solution, not without any risks..&lt;/p&gt;&#xA;&lt;p&gt;Often times we may find solutions for this in a different space, in this case, a pointer can be found in the legal system. During a lawsuit a minute taker (sometimes even multiple) is the person who tries to log all the speech done by any of the parties present. The typing speed required for this is immense and one of the solutions is combining shorthand or stenography with a chorded keyboard. This results in a higher output speed allowing the minute taker to keep up with the tempo of speech.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring wearable input devices</title>
-      <link>http://localhost:1313/post/2021-01-11-wearable-input-devices/</link>
+      <link>https://jplattel.nl/post/2021-01-11-wearable-input-devices/</link>
       <pubDate>Mon, 11 Jan 2021 08:41:16 +0100</pubDate>
-      <guid>http://localhost:1313/post/2021-01-11-wearable-input-devices/</guid>
+      <guid>https://jplattel.nl/post/2021-01-11-wearable-input-devices/</guid>
       <description>&lt;p&gt;For years I&amp;rsquo;ve been exploring the internet for input devices. From keyboards to voice or gestured controlled ways &lt;em&gt;to get thoughts out of my head as fast/good as it can be possible&lt;/em&gt;. I wanted to dive deeper into why this is important to me and why I&amp;rsquo;m interested in this space.&lt;/p&gt;&#xA;&lt;p&gt;Traditionally pen &amp;amp; paper was the solution that was flexible enough. But it lacked the searchability and ways of exploring it on different tangents. Right now we&amp;rsquo;re mostly digital and rely on our keyboards to create mainly text.&lt;/p&gt;</description>
     </item>
   </channel>
