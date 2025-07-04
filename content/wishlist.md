@@ -16,10 +16,10 @@ Below is my wishlist, if there's something I've done for you and you would like 
 *   [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 *   A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 *   Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
-*   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe).
 
 ## People already gave me
 
+*   A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe). (Thank you Ann!)
 *   A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick) (Thanks Simon!)
 *   [Rollstoel](https://www.buitenontbijtjes.nl/winkel/buitenstoel/) (Thanks [Kees](https://ikbenke.es)!).
 *   Play a [Hang](http://en.wikipedia.org/wiki/Hang_(instrument)) (Thanks to the [toevallige ontmoeting](https://www.detoevalligeontmoeting.be/)!)

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/conference/</link>
-    <description>Recent content in Conference on Joost Plattel</description>
+    <title>Personal Knowledge Management on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/personal-knowledge-management/</link>
+    <description>Recent content in Personal Knowledge Management on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Fri, 04 Jul 2025 23:05:20 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/personal-knowledge-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PKM Summit</title>
       <link>https://jplattel.nl/project/pkm-summit/</link>

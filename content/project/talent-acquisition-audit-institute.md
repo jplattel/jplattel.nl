@@ -9,7 +9,7 @@ image_preview: "ta-audit-logo.png" # Used as thumbnail
 external_link: "https://ta-audit.com/" # Unused at the moment...
 ---
 
-With [Bas van de Haterd](https://vandehaterd.nl/en/) and [Champal Gijzen](https://nl.linkedin.com/in/champalgijzen) we started the [Talent Acquisition Audit Institute](https://ta-audit.com) (TA Audit for short). Our goal is to create bias-free recruitment processes by auditing companies and their talent acquisition. 
+With [Bas van de Haterd](https://vandehaterd.nl/en/) and [Rikkert Walbeek](https://nl.linkedin.com/in/rikkertwalbeek) we started the [Talent Acquisition Audit Institute](https://ta-audit.com) (TA Audit for short). Our goal is to create bias-free recruitment processes by auditing companies and their talent acquisition. 
 
 [![TA Audit Institute logo](/img/ta-audit-logo.png)](https://ta-audit.com)
 

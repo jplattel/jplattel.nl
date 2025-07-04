@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jplattel.nl/tags/conference/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/europe/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/personal-knowledge-management/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/pkm/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/pkm-summit/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/summit/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/categories/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/immich/</loc>
-    <lastmod>2025-04-18T10:13:58+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/photos/</loc>
@@ -30,9 +54,6 @@
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/synology/</loc>
-    <lastmod>2025-04-18T10:13:58+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2025-04-18T10:13:58+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/categories/technology/</loc>
@@ -75,9 +96,6 @@
     <lastmod>2025-02-03T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/ai/</loc>
-    <lastmod>2024-10-21T21:41:28+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/project/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/recruitment/</loc>
@@ -573,9 +591,6 @@
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/management/</loc>
-    <lastmod>2020-08-06T13:24:28+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/pkm/</loc>
     <lastmod>2020-08-06T13:24:28+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/system/</loc>

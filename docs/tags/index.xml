@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 18 Apr 2025 10:13:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 23:05:20 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conference</title>
+      <link>https://jplattel.nl/tags/conference/</link>
+      <pubDate>Fri, 04 Jul 2025 23:05:20 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Europe</title>
+      <link>https://jplattel.nl/tags/europe/</link>
+      <pubDate>Fri, 04 Jul 2025 23:05:20 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/europe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Knowledge Management</title>
+      <link>https://jplattel.nl/tags/personal-knowledge-management/</link>
+      <pubDate>Fri, 04 Jul 2025 23:05:20 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/personal-knowledge-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pkm</title>
+      <link>https://jplattel.nl/tags/pkm/</link>
+      <pubDate>Fri, 04 Jul 2025 23:05:20 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/pkm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Summit</title>
+      <link>https://jplattel.nl/tags/summit/</link>
+      <pubDate>Fri, 04 Jul 2025 23:05:20 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/summit/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Immich</title>
       <link>https://jplattel.nl/tags/immich/</link>
@@ -833,13 +868,6 @@
       <link>https://jplattel.nl/tags/management/</link>
       <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
       <guid>https://jplattel.nl/tags/management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pkm</title>
-      <link>https://jplattel.nl/tags/pkm/</link>
-      <pubDate>Thu, 06 Aug 2020 13:24:28 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/pkm/</guid>
       <description></description>
     </item>
     <item>

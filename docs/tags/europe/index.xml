@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>europe on Joost Plattel</title>
+    <title>Europe on Joost Plattel</title>
     <link>https://jplattel.nl/tags/europe/</link>
-    <description>Recent content in europe on Joost Plattel</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Europe on Joost Plattel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 15 May 2013 11:42:07 +0200</lastBuildDate>
-    
-	<atom:link href="https://jplattel.nl/tags/europe/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Fri, 04 Jul 2025 23:05:20 +0200</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/europe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>QS Europe Conference</title>
-      <link>https://jplattel.nl/post/2013-05-15-qs-europe-conference/</link>
-      <pubDate>Wed, 15 May 2013 11:42:07 +0200</pubDate>
-      
-      <guid>https://jplattel.nl/post/2013-05-15-qs-europe-conference/</guid>
-      <description>I&#39;ve spend past weekend enjoying what I do most, submerge in a community driven event, to come out two days later sleep deprived but full with ideas and enthusiasm. As one of the organisers of the conference you might think that it&#39;s a though thing to do, coordinating it all, but with a wonderful group of people from america and the QS Amsterdam team it was a blast!
-The atmosphere of the group was really great and we had almost 300 people at the venue.</description>
+      <title>PKM Summit</title>
+      <link>https://jplattel.nl/project/pkm-summit/</link>
+      <pubDate>Fri, 04 Jul 2025 23:05:20 +0200</pubDate>
+      <guid>https://jplattel.nl/project/pkm-summit/</guid>
+      <description>&lt;p&gt;I help organizing the &lt;a href=&#34;https://pkmsummit.com/&#34;&gt;PKM Summit&lt;/a&gt;, just like the Quantified Self a wonderfull community of people aiming to learn and tinker with personal knowledge manangement.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

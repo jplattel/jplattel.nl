@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 18 Apr 2025 10:13:58 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 23:05:20 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PKM Summit</title>
+      <link>https://jplattel.nl/project/pkm-summit/</link>
+      <pubDate>Fri, 04 Jul 2025 23:05:20 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/project/pkm-summit/</guid>
+      <description>&lt;p&gt;I help organizing the &lt;a href=&#34;https://pkmsummit.com/&#34;&gt;PKM Summit&lt;/a&gt;, just like the Quantified Self a wonderfull community of people aiming to learn and tinker with personal knowledge manangement.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Recreating a Photostream With Immich and Python</title>
       <link>https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/</link>
@@ -52,7 +61,7 @@
       <pubDate>Mon, 21 Oct 2024 21:41:28 +0200</pubDate>
       
       <guid>https://jplattel.nl/project/talent-acquisition-audit-institute/</guid>
-      <description>&lt;p&gt;With &lt;a href=&#34;https://vandehaterd.nl/en/&#34;&gt;Bas van de Haterd&lt;/a&gt; and &lt;a href=&#34;https://nl.linkedin.com/in/champalgijzen&#34;&gt;Champal Gijzen&lt;/a&gt; we started the &lt;a href=&#34;https://ta-audit.com&#34;&gt;Talent Acquisition Audit Institute&lt;/a&gt; (TA Audit for short). Our goal is to create bias-free recruitment processes by auditing companies and their talent acquisition.&lt;/p&gt;
+      <description>&lt;p&gt;With &lt;a href=&#34;https://vandehaterd.nl/en/&#34;&gt;Bas van de Haterd&lt;/a&gt; and &lt;a href=&#34;https://nl.linkedin.com/in/rikkertwalbeek&#34;&gt;Rikkert Walbeek&lt;/a&gt; we started the &lt;a href=&#34;https://ta-audit.com&#34;&gt;Talent Acquisition Audit Institute&lt;/a&gt; (TA Audit for short). Our goal is to create bias-free recruitment processes by auditing companies and their talent acquisition.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ta-audit.com&#34;&gt;&lt;img src=&#34;https://jplattel.nl/img/ta-audit-logo.png&#34; alt=&#34;TA Audit Institute logo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;An equal opportunity for everyone to find a job regardless of age, originethnicity or gender, that is our mission. We do this by conducting independent audits and awarding the Bias Free Hiring quality mark.
@@ -1099,10 +1108,10 @@ It looks like a coffee grinder, but it is an idea machine, meant for only one pu
 &lt;li&gt;&lt;a href=&#34;https://offgrid.co/products/off-grid-bag?variant=30205371383890&#34;&gt;OffGrid Bag&lt;/a&gt; with faraday function.&lt;/li&gt;
 &lt;li&gt;A Garmin &lt;a href=&#34;https://buy.garmin.com/nl-NL/NL/p/592606&#34;&gt;InReach Mini&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Comics drawn by &lt;a href=&#34;http://nl.wikipedia.org/wiki/Jean_Giraud&#34;&gt;Moebius&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;A &lt;a href=&#34;https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe&#34;&gt;Go set&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;people-already-gave-me&#34;&gt;People already gave me&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;A &lt;a href=&#34;https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe&#34;&gt;Go set&lt;/a&gt;. (Thank you Ann!)&lt;/li&gt;
 &lt;li&gt;A Diresta &lt;a href=&#34;https://imakeny.com/collections/tools/products/diresta-ice-pick&#34;&gt;Ice Pick&lt;/a&gt; (Thanks Simon!)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.buitenontbijtjes.nl/winkel/buitenstoel/&#34;&gt;Rollstoel&lt;/a&gt; (Thanks &lt;a href=&#34;https://ikbenke.es&#34;&gt;Kees&lt;/a&gt;!).&lt;/li&gt;
 &lt;li&gt;Play a &lt;a href=&#34;http://en.wikipedia.org/wiki/Hang_(instrument)&#34;&gt;Hang&lt;/a&gt; (Thanks to the &lt;a href=&#34;https://www.detoevalligeontmoeting.be/&#34;&gt;toevallige ontmoeting&lt;/a&gt;!)&lt;/li&gt;
