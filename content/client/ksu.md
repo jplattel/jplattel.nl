@@ -1,6 +1,6 @@
 ---
 title: "KSU"
-date: 2025-02-03T22:00:45+02:00
+date: 2025-01-03T22:00:45+02:00
 draft: false
 image_preview: "ksu-logo.png"
 year: 2025

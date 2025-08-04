@@ -83,20 +83,38 @@
     <loc>https://jplattel.nl/client/</loc>
     <lastmod>2025-02-04T22:00:45+02:00</lastmod>
   </url><url>
+    <loc>https://jplattel.nl/tags/ai/</loc>
+    <lastmod>2025-02-01T21:41:57+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/llm/</loc>
+    <lastmod>2025-02-01T21:41:57+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/manava/</loc>
+    <lastmod>2025-02-01T21:41:57+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/technology/</loc>
+    <lastmod>2025-02-01T21:41:57+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/auth0/</loc>
+    <lastmod>2025-02-01T09:08:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/fastapi/</loc>
+    <lastmod>2025-02-01T09:08:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/huub/</loc>
+    <lastmod>2025-02-01T09:08:34+01:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/tags/azure/</loc>
-    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+    <lastmod>2025-01-03T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/django/</loc>
-    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+    <lastmod>2025-01-03T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/ksu/</loc>
-    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
+    <lastmod>2025-01-03T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/sso/</loc>
-    <lastmod>2025-02-03T22:00:45+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/ai/</loc>
-    <lastmod>2024-10-21T21:41:28+02:00</lastmod>
+    <lastmod>2025-01-03T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/recruitment/</loc>
     <lastmod>2024-10-21T21:41:28+02:00</lastmod>
@@ -185,9 +203,6 @@
     <loc>https://jplattel.nl/tags/diffusion/</loc>
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/tags/llm/</loc>
-    <lastmod>2023-12-01T22:06:34+01:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/client/tellart/</loc>
     <lastmod>2023-12-01T22:06:34+01:00</lastmod>
   </url><url>
@@ -207,9 +222,6 @@
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/symbiose-studio/</loc>
-    <lastmod>2023-10-01T22:00:45+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/technology/</loc>
     <lastmod>2023-10-01T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/dilmah-tea/</loc>

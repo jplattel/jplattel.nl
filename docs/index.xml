@@ -47,9 +47,31 @@
     </item>
     
     <item>
+      <title>Manava</title>
+      <link>https://jplattel.nl/client/manava/</link>
+      <pubDate>Sat, 01 Feb 2025 21:41:57 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/manava/</guid>
+      <description>&lt;p&gt;Together with Arjan and Oskar from &lt;a href=&#34;https://www.manava.nl&#34;&gt;Manava&lt;/a&gt; I advise and help organisation with technology. Arjan best describes my activities as following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Joost builds systems that think and do.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A pretty rad (and short!) description of the things I do, from hardware to sofware! If you need a bigger team to tackle things, working with Manava is recommended!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Huub</title>
+      <link>https://jplattel.nl/client/huub/</link>
+      <pubDate>Sat, 01 Feb 2025 09:08:34 +0100</pubDate>
+      
+      <guid>https://jplattel.nl/client/huub/</guid>
+      <description>&lt;p&gt;Working with the team from Huub I&amp;rsquo;ve setup the authentication &amp;amp; authorization stack with Auth0. I&amp;rsquo;ve also worked on improving endpoints and websocket handling. As well es setting up architecture for multi-tenancy within Auth0 and the FastAPI stack.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>KSU</title>
       <link>https://jplattel.nl/client/ksu/</link>
-      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <pubDate>Fri, 03 Jan 2025 22:00:45 +0200</pubDate>
       
       <guid>https://jplattel.nl/client/ksu/</guid>
       <description>&lt;p&gt;With Maurice van Dinther from wafl.nu I’ve created a monitoring/questionnaire tool for the &lt;a href=&#34;https://www.ksu-utrecht.nl/&#34;&gt;Katholieke Scholenstichting Utrecht&lt;/a&gt; (KSU). This allows them to gain insights into how their teams are functioning. The application is build with Django and uses SSO to seamlessly allow users to gather data. The data is shown in dashboards with Chart.js.&lt;/p&gt;</description>

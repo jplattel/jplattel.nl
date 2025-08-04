@@ -7,12 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 22:00:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 22:00:45 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/sso/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KSU</title>
       <link>https://jplattel.nl/client/ksu/</link>
-      <pubDate>Mon, 03 Feb 2025 22:00:45 +0200</pubDate>
+      <pubDate>Fri, 03 Jan 2025 22:00:45 +0200</pubDate>
       <guid>https://jplattel.nl/client/ksu/</guid>
       <description>&lt;p&gt;With Maurice van Dinther from wafl.nu I’ve created a monitoring/questionnaire tool for the &lt;a href=&#34;https://www.ksu-utrecht.nl/&#34;&gt;Katholieke Scholenstichting Utrecht&lt;/a&gt; (KSU). This allows them to gain insights into how their teams are functioning. The application is build with Django and uses SSO to seamlessly allow users to gather data. The data is shown in dashboards with Chart.js.&lt;/p&gt;</description>
     </item>
