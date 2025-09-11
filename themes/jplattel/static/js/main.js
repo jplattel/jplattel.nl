@@ -26,3 +26,5 @@ if (dark) {
   darkTheme.disabled = false;
   toggleDarkLight.className = "fa fa-sun";
 }
+
+// Simple masonry layout - no JavaScript needed, CSS columns handle it

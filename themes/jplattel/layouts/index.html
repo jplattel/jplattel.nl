@@ -98,7 +98,7 @@
     </p>
     <div class="project-list">
       <a href="https://webring.stavros.io">
-        <div class="project-item" style="width: 49%; margin-left: -2%">
+        <div class="project-item" style="margin-bottom: 20px; display: inline-block;">
           <h3>Member of the Tech makers webring</h3>
           <img class="project-image" src="img/webring.png" alt="">
           <div class="webring-links">
@@ -109,8 +109,8 @@
         </div>
       </a>
 
-      {{ $pages := (where .Site.RegularPages "Section" "in" (slice "project")) }}
-      {{ range $idx, $item := first 9 (sort $pages ".Params.year"  "desc") }}
+      {{ $pages := (where (where .Site.RegularPages "Section" "in" (slice "project")) ".Params.archived" "ne" true) }}
+      {{ range $idx, $item := first 15 (sort $pages ".Params.year" "desc" ) }}
 
         <a href="{{ .Permalink }}" class="project-link">
           <div class="project-item">
@@ -122,9 +122,24 @@
           </div>
         </a>
         
-        
       {{ end }}
-      
+
+      <hr>
+<!--       
+      {{ $pages := (where (where .Site.RegularPages "Section" "in" (slice "project")) ".Params.archived" "ne" false) }}
+      {{ range $idx, $item := first 15 (sort $pages ".Params.year" "desc" ) }}
+
+        <a href="{{ .Permalink }}" class="project-link">
+          <div class="project-item">
+            <h3>
+              {{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}
+              {{ if .Params.archived }}<i style="float: right; font-size: 10px">(archived)</i>{{ else }}{{ end }}
+            </h3>
+            <img class="project-image {{ if .Params.archived }}archived{{end}}" src="img/{{.Params.image_preview}}" alt="">
+          </div>
+        </a>
+        
+      {{ end }} -->
     </div>
     
   </section>

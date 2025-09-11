@@ -3,6 +3,7 @@ title: "Finder Favorites"
 date: 2023-04-10T18:04:54+02:00
 year: 2023
 draft: false
+archived: true
 tags: ["mac", "osx", "swift", "swiftui"] # Example: `tags: ["machine-learning", "deep-learning"]`
 summary: "A simple app that let's you group column views of favorite folders" # Used on the project card
 image_preview: "finder-favorites-app-mac-osx.png" # Used as thumbnail

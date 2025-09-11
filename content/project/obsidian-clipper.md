@@ -3,7 +3,7 @@ title: "Obsidian Clipper"
 date: 2020-10-09T10:23:30+02:00
 draft: false
 year: 2022
-archived: false 
+archived: true 
 tags: ["obsidian", "chrome", "extension", "clipper"] # Example: `tags: ["machine-learning", "deep-learning"]`
 summary: "" # Used on the project card
 image_preview: "2020-10-09-obsidian-clipper-card.png" # Used as thumbnail
