@@ -8,7 +8,9 @@ image_preview: "logo-stef-veldhuis.png" # Optional image to display on homepage.
 external_link: "https://stefveldhuis.com/" # Optional external URL for project (replaces project detail page).
 ---
 
-I assisted [Stef Veldhuis](https://stefveldhuis.com) on technological components and realization of his artworks. 
+I assisted [Stef Veldhuis](https://stefveldhuis.com) on technological components and realization of his artworks. Here's wat Stef had to say about me:
+
+> It was a pleasure to collaborate with Joost on two projects that were both technically challenging in their own respect. Joost is an enthusiastic collaborator that understands my aesthetics of transparency and readability in art and technology. His education in the field of chemistry turned out to be indispensable in the MicroCodex project where he managed to implement a safe and sustainable life-support mechanism for a genetically modified organism.
 
 ## [Microcodex](https://stefveldhuis.com/MC_LR)
 
@@ -21,6 +23,3 @@ Possibly the first artwork in The Netherlands with a GMO (Genetically Modified O
 Bees are archivists, storing information about their environment within the hive. What would happen if you let a hive of bees control a archival space? A beehive full of sensors is used as input to control an archive. Parameters include temperature, light & humidity. All controlled with a Raspberry Pi.
 
 _Currently not exhibited._
-
-
-
