@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 23:05:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 23:48:58 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art</title>
+      <link>https://jplattel.nl/tags/art/</link>
+      <pubDate>Wed, 10 Sep 2025 23:48:58 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biotech</title>
+      <link>https://jplattel.nl/tags/biotech/</link>
+      <pubDate>Wed, 10 Sep 2025 23:48:58 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/biotech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gmo</title>
+      <link>https://jplattel.nl/tags/gmo/</link>
+      <pubDate>Wed, 10 Sep 2025 23:48:58 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/gmo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://jplattel.nl/tags/technology/</link>
+      <pubDate>Wed, 10 Sep 2025 23:48:58 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/technology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Conference</title>
       <link>https://jplattel.nl/tags/conference/</link>
@@ -126,13 +154,6 @@
       <link>https://jplattel.nl/tags/llm/</link>
       <pubDate>Sat, 01 Feb 2025 21:41:57 +0200</pubDate>
       <guid>https://jplattel.nl/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>https://jplattel.nl/tags/technology/</link>
-      <pubDate>Sat, 01 Feb 2025 21:41:57 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/technology/</guid>
       <description></description>
     </item>
     <item>

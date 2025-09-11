@@ -35,7 +35,7 @@
       <link>https://jplattel.nl/client/huub/</link>
       <pubDate>Sat, 01 Feb 2025 09:08:34 +0100</pubDate>
       <guid>https://jplattel.nl/client/huub/</guid>
-      <description>&lt;p&gt;Working with the team from Huub I&amp;rsquo;ve setup the authentication &amp;amp; authorization stack with Auth0. I&amp;rsquo;ve also worked on improving endpoints and websocket handling. As well es setting up architecture for multi-tenancy within Auth0 and the FastAPI stack.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Working with the team from &lt;a href=&#34;https://huub.nl&#34;&gt;Huub&lt;/a&gt; I&amp;rsquo;ve setup the authentication &amp;amp; authorization stack with Auth0. I&amp;rsquo;ve also worked on improving endpoints and websocket handling. As well as setting up architecture for multi-tenancy within Auth0 and the FastAPI stack.&lt;/p&gt;</description>
     </item>
     <item>
       <title>KSU</title>

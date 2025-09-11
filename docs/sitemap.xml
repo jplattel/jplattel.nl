@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jplattel.nl/tags/art/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/biotech/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/gmo/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/client/stef-veldhuis/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/technology/</loc>
+    <lastmod>2025-09-10T23:48:58+02:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/tags/conference/</loc>
     <lastmod>2025-07-04T23:05:20+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/europe/</loc>
-    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/</loc>
     <lastmod>2025-07-04T23:05:20+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/personal-knowledge-management/</loc>
@@ -24,9 +45,6 @@
     <lastmod>2025-07-04T23:05:20+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/summit/</loc>
-    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2025-07-04T23:05:20+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/categories/</loc>
@@ -80,9 +98,6 @@
     <loc>https://jplattel.nl/tags/todos/</loc>
     <lastmod>2025-03-19T21:59:13+01:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/client/</loc>
-    <lastmod>2025-02-04T22:00:45+02:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/tags/ai/</loc>
     <lastmod>2025-02-01T21:41:57+02:00</lastmod>
   </url><url>
@@ -90,9 +105,6 @@
     <lastmod>2025-02-01T21:41:57+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/client/manava/</loc>
-    <lastmod>2025-02-01T21:41:57+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/technology/</loc>
     <lastmod>2025-02-01T21:41:57+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/auth0/</loc>

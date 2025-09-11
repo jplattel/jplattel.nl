@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 23:05:20 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Sep 2025 23:48:58 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stef Veldhuis</title>
+      <link>https://jplattel.nl/client/stef-veldhuis/</link>
+      <pubDate>Wed, 10 Sep 2025 23:48:58 +0200</pubDate>
+      
+      <guid>https://jplattel.nl/client/stef-veldhuis/</guid>
+      <description>&lt;p&gt;I assisted &lt;a href=&#34;https://stefveldhuis.com&#34;&gt;Stef Veldhuis&lt;/a&gt; on technological components and realization of his artworks.&lt;/p&gt;
+&lt;h2 id=&#34;microcodexhttpsstefveldhuiscommc_lr&#34;&gt;&lt;a href=&#34;https://stefveldhuis.com/MC_LR&#34;&gt;Microcodex&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Possibly the first artwork in The Netherlands with a GMO (Genetically Modified Organism). An e-coli bacteria carrying a verse in it&amp;rsquo;s DNA is carefully kept within the artwork itself. I was responsible for the technology keeping the environment within the bioreactor optimal for the organism to grow. A Raspberry Pi Pico is used as a microcontroller that reads sensor input and drives output.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>PKM Summit</title>
       <link>https://jplattel.nl/project/pkm-summit/</link>
@@ -65,7 +76,7 @@
       <pubDate>Sat, 01 Feb 2025 09:08:34 +0100</pubDate>
       
       <guid>https://jplattel.nl/client/huub/</guid>
-      <description>&lt;p&gt;Working with the team from Huub I&amp;rsquo;ve setup the authentication &amp;amp; authorization stack with Auth0. I&amp;rsquo;ve also worked on improving endpoints and websocket handling. As well es setting up architecture for multi-tenancy within Auth0 and the FastAPI stack.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Working with the team from &lt;a href=&#34;https://huub.nl&#34;&gt;Huub&lt;/a&gt; I&amp;rsquo;ve setup the authentication &amp;amp; authorization stack with Auth0. I&amp;rsquo;ve also worked on improving endpoints and websocket handling. As well as setting up architecture for multi-tenancy within Auth0 and the FastAPI stack.&lt;/p&gt;</description>
     </item>
     
     <item>
