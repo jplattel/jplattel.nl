@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'JoostPlattel';
+    src: local("JoostPlattel"), url("../lib/JoostPlattel/ttf/Joostplattel-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     font-size: 16px
 }
@@ -6,6 +13,36 @@ article .highlight {
 }
 article .highlight pre{
     padding: 10px
+}
+
+body h1{
+    font-family: 'JoostPlattel', sans-serif;
+    font-size: 2.3rem;
+}
+
+body h2{
+    font-family: 'JoostPlattel', sans-serif;
+    font-size: 2rem;
+}
+
+body h3{
+    font-family: 'JoostPlattel', sans-serif;
+    font-size: 1.7rem;
+}
+
+body h4{
+    font-family: 'JoostPlattel', sans-serif;
+    font-size: 1.4rem;
+}
+
+body h5{
+    font-family: 'JoostPlattel', sans-serif;
+    font-size: 1.1rem;
+}
+
+body h6{
+    font-family: 'JoostPlattel', sans-serif;
+    font-size: 0.9rem;
 }
 
 .post-item{

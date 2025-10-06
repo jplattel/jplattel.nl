@@ -8,7 +8,7 @@
 
     <a href="{{ .Permalink }}" class="project-link">
       <div class="project-item">
-        <h3>
+        <h3 style="font-family: 'JetBrains Mono', sans-serif; font-size: 1rem;">
           {{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}
 
           {{ if .Params.archived }}<i style="float: right; font-size: 10px">(archived)</i>{{ else }}{{ end }}
