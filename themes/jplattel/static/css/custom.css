@@ -5,15 +5,7 @@
     font-style: normal;
 }
 
-body{
-    font-size: 16px
-}
-article .highlight {
-    padding: 0px
-}
-article .highlight pre{
-    padding: 10px
-}
+
 
 body h1{
     font-family: 'JoostPlattel', sans-serif;
@@ -43,6 +35,16 @@ body h5{
 body h6{
     font-family: 'JoostPlattel', sans-serif;
     font-size: 0.9rem;
+}
+
+body{
+    font-size: 16px
+}
+article .highlight {
+    padding: 0px
+}
+article .highlight pre{
+    padding: 10px
 }
 
 .post-item{
