@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jplattel.nl/tags/informatie/</loc>
+    <lastmod>2026-01-07T19:58:54+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2026-01-07T19:58:54+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/pilot-informatie-autonomie/</loc>
+    <lastmod>2026-01-07T19:58:54+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/</loc>
+    <lastmod>2026-01-07T19:58:54+01:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2026-01-07T19:58:54+01:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/tags/3d-print/</loc>
     <lastmod>2025-11-10T22:06:38+01:00</lastmod>
   </url><url>
@@ -14,16 +29,10 @@
     <loc>https://jplattel.nl/tags/jlc3d/</loc>
     <lastmod>2025-11-10T22:06:38+01:00</lastmod>
   </url><url>
-    <loc>https://jplattel.nl/</loc>
-    <lastmod>2025-11-10T22:06:38+01:00</lastmod>
-  </url><url>
     <loc>https://jplattel.nl/post/</loc>
     <lastmod>2025-11-10T22:06:38+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/resin/</loc>
-    <lastmod>2025-11-10T22:06:38+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
     <lastmod>2025-11-10T22:06:38+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/categories/technology/</loc>
@@ -60,9 +69,6 @@
     <lastmod>2025-07-04T23:05:20+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/project/pkm-summit/</loc>
-    <lastmod>2025-07-04T23:05:20+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/project/</loc>
     <lastmod>2025-07-04T23:05:20+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/summit/</loc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informatie on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/informatie/</link>
+    <description>Recent content in Informatie on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Wed, 07 Jan 2026 19:58:54 +0100</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/informatie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pilot Informatie Autonomie</title>
+      <link>https://jplattel.nl/project/pilot-informatie-autonomie/</link>
+      <pubDate>Wed, 07 Jan 2026 19:58:54 +0100</pubDate>
+      <guid>https://jplattel.nl/project/pilot-informatie-autonomie/</guid>
+      <description>&lt;p&gt;Much of the information we create and use daily is locked away in Word documents. This feels familiar, but this approach has several major drawbacks that we rarely acknowledge. Beneath Microsoft&amp;rsquo;s visual veneer and the apparent simplicity of &amp;rsquo;the cloud&amp;rsquo; lies a structural problem. We have been addicted for decades to the so-called &amp;lsquo;convenience&amp;rsquo; and scalability of the system, without ever fundamentally reconsidering how we actually handle information.&lt;/p&gt;&#xA;&lt;p&gt;A Word document is on average a thousand times larger than a plain text file with exactly the same content. The difference? Those extra bytes consist largely of formatting, version traces, and print instructions, not information. Parseability of Word documents by machines isn&amp;rsquo;t easy and they seem self-replicating once send by attachment of an email. Other implications are : more storage space, higher costs, greater energy consumption, and lastly an environmental impact.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
