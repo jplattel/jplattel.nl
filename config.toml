@@ -38,16 +38,6 @@ name = "Contact"
 url = "/contact"
 weight = 7
 
-# Output formats for pages
-[outputFormats]
-  [outputFormats.markdown]
-    ugly = true
-
-[outputs]
-  page = ["html"]
-  section = ["html", "rss"]
-  home = ["html", "rss"]
-
 [markup]
   [markup.tableOfContents]
     endLevel = 4
