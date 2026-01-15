@@ -1,0 +1,11 @@
+---
+title: "All the 8:36pm photos of 2013"
+date: 2014-01-20
+url: https://jplattel.nl/post/2014-01-20-836pm-photos-2013/
+---
+
+Like last year, I made a small video of all my [8:36pm photos](http://jplattel.nl/836pm). With a bit of help from [my brother](http://ikbenke.es), I managed to get everything into after effects and put it together. Let the nostalgia commence:
+
+{{< vimeo id="84538247" >}}
+
+Looking back in a glance, the things I notice are: less computer work, more socializing and the increment in the amount of beverages and food photos. Next to that, I failed keeping up this year and missed a lot of photos. Sometimes for a reason (no internet or phone), while on other dates I simply seem to forget. My goal for this year is to decrease the time from taking a photo and uploading it.

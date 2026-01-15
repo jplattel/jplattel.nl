@@ -1,0 +1,11 @@
+---
+title: "8:36pm - 2017"
+date: 2018-01-03
+url: https://jplattel.nl/post/2018-01-03-836pm-2017/
+---
+
+As I've been doing for the past 7 years now, I made a movie out of all the 8:36pm pictures I took this year. It's embedded below from Vimeo:
+
+{{< vimeo id="249402769" >}}
+
+If you can spot yourself, thanks for being part of my life this year! It's been great fun and I'll take some time to update some of the projects I've worked on as well.

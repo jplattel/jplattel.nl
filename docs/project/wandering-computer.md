@@ -1,0 +1,15 @@
+---
+title: "Wandering.computer"
+date: 2023-04-12
+tags: ["esp32","wearable","technology"]
+url: https://jplattel.nl/project/wandering-computer/
+---
+
+
+I'm creating a wearable writing companion made for moving. I dislike the idea most of my work is defined by the desk I'm sitting at. What if we could wield a keyboard that would let us write without any distractions. No procrastination, phone calls or other means just writing while walking.
+
+That's the main idea. I've finished a couple of prototypes and I'm now working towards a new version of the PCB that's on the inside. This might turn into a product in the future. 
+
+![](/img/wandering-computer-mark-vletter.png)
+
+I've also made a [couple](http://jplattel.nl/post/2022-07-24-progress-wearable-keyboard-wandering-computer/) of [posts](http://jplattel.nl/post/2021-04-19-finalizing-hardware-for-a-wearable-keyboard/) on the development on this [blog](http://jplattel.nl/tags/keyboard/) so far!
