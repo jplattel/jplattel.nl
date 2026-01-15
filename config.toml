@@ -44,7 +44,7 @@ weight = 7
     ugly = true
 
 [outputs]
-  page = ["html", "markdown"]
+  page = ["html"]
   section = ["html", "rss"]
   home = ["html", "rss"]
 
