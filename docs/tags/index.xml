@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 19:58:54 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:59:37 +0100</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://jplattel.nl/tags/ai/</link>
+      <pubDate>Thu, 22 Jan 2026 19:59:37 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>https://jplattel.nl/tags/llm/</link>
+      <pubDate>Thu, 22 Jan 2026 19:59:37 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Openttd</title>
+      <link>https://jplattel.nl/tags/openttd/</link>
+      <pubDate>Thu, 22 Jan 2026 19:59:37 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/openttd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://jplattel.nl/tags/python/</link>
+      <pubDate>Thu, 22 Jan 2026 19:59:37 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Squirrel</title>
+      <link>https://jplattel.nl/tags/squirrel/</link>
+      <pubDate>Thu, 22 Jan 2026 19:59:37 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/squirrel/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Informatie</title>
       <link>https://jplattel.nl/tags/informatie/</link>
@@ -122,13 +157,6 @@
       <description></description>
     </item>
     <item>
-      <title>Python</title>
-      <link>https://jplattel.nl/tags/python/</link>
-      <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Synology</title>
       <link>https://jplattel.nl/tags/synology/</link>
       <pubDate>Fri, 18 Apr 2025 10:13:58 +0200</pubDate>
@@ -168,20 +196,6 @@
       <link>https://jplattel.nl/tags/todos/</link>
       <pubDate>Wed, 19 Mar 2025 21:59:13 +0100</pubDate>
       <guid>https://jplattel.nl/tags/todos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ai</title>
-      <link>https://jplattel.nl/tags/ai/</link>
-      <pubDate>Sat, 01 Feb 2025 21:41:57 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Llm</title>
-      <link>https://jplattel.nl/tags/llm/</link>
-      <pubDate>Sat, 01 Feb 2025 21:41:57 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/llm/</guid>
       <description></description>
     </item>
     <item>
