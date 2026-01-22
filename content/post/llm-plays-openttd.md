@@ -27,3 +27,5 @@ So how do we want to solve this? Taking a step back I noticed that imported `.nu
 After some more tinkering I became clear it's better to parse the logfile myself with a script and construct a gamestate outside of OpenTTD. This way I could better control and structure the context, allowing the LLM to focus on generating the commands based on the gamestate. Outputting the commands to a a structured format allows us to guarantee that OpenTTD doesn't crash. The upside is that we could still use internal path finding algorithms that are available within the OpenTTD ecosystem.
 
 Right now this exists as a proof of concept. It hooks up the LLM throug the logs/squirrel lang, reads out game state like map dimensions, bank balances, but that's it! I've put up the code on [GitHub](https://github.com/jplattel/openttd-llm) if you're interested! And looking into the future I can imagine there might be an OpenTTDBench for LLMs ✌️
+
+_Part 2 might be published soon, I'll hope to have a video up by then!_
