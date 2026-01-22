@@ -16,7 +16,7 @@
       <guid>https://jplattel.nl/post/llm-plays-openttd/</guid>
       <description>&lt;p&gt;After being inspired by the post that shows &lt;a href=&#34;https://labs.ramp.com/rct&#34;&gt;Claude Code playing RCT2&lt;/a&gt;, I&amp;rsquo;d imagine something like that, but for &lt;a href=&#34;https://www.openttd.org/&#34;&gt;Open Transport Tycoon Deluxe (OpenTTD)&lt;/a&gt;. OpenTTD readily available and there&amp;rsquo;s been some ways of making AI / Bots but they&amp;rsquo;re pretty much carved in stone once you implement them. There is no way to have them dynamically change their code or ways of work while running. (afaik!)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://files.jplattel.nl/2026/01/Uu9w33.png&#34; alt=&#34;OpenTTD&#34;&gt;&lt;/p&gt;
-&lt;p&gt;And my goals was to have an LLM tried instead. It would be pretty cool to have a LLM drive a company within OpenTTD. So the first thing I came up with is a LLM generating its own code files that will could reloaded every time through the CLI:&lt;/p&gt;</description>
+&lt;p&gt;And my goals was to have an LLM try instead. It would be pretty cool to have a LLM drive a company within OpenTTD. So the first thing I came up with is a LLM generating its own code files that will could reloaded every time through the CLI:&lt;/p&gt;</description>
     </item>
     
     <item>
