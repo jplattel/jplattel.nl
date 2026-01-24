@@ -20,6 +20,8 @@ We then brushed/coated them all with 2 layers of epoxy to make them more water r
 
 ![Coating the prints with epoxy](https://files.jplattel.nl/2026/01/fdxqlS.JPG)
 
-For mounting them I created a backplate with mounting holes that matched the previous wine rack. We then screwed each planter in it's place and put in the plants. Pretty happy with the result (although it is a pain to water haha! 😛).
+For mounting them I created a backplate with mounting holes that matched the previous wine rack. We then screwed each planter in its place and put in the plants. Pretty happy with the result (although it is a pain to water haha! 😛).
 
 ![The result, a small vertical green garden](https://files.jplattel.nl/2026/01/2H4x48.JPG)
+
+If you're making one, comment on the printables page! 🪴
