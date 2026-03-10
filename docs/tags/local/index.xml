@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/local/</link>
+    <description>Recent content in Local on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Tue, 10 Mar 2026 15:11:20 +0100</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/local/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A file is the app</title>
+      <link>https://jplattel.nl/post/2026-03-10-a-file-is-the-app/</link>
+      <pubDate>Tue, 10 Mar 2026 15:11:20 +0100</pubDate>
+      <guid>https://jplattel.nl/post/2026-03-10-a-file-is-the-app/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://stephango.com/&#34;&gt;Steph Ango&lt;/a&gt; wrote &lt;a href=&#34;https://stephango.com/file-over-app&#34;&gt;file over app&lt;/a&gt; in 2023, a cornerstone idea for Obsidian. But with the advent of LLMs, I couldn&amp;rsquo;t help but think what if:&#xA;&lt;strong&gt;the file is the app&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;p&gt;While working with the team from the &lt;a href=&#34;https://digitalefitheid.nl/over/pilot-informatie-autonomie/&#34;&gt;PIlot Informatie Autonomie&lt;/a&gt; I&amp;rsquo;ve spoken with people from different fields, expertises and experience.  Turns out, most of the work a knowledge worker does is being done with tools that are complicated, unintuitive, specialized and expensive. Want something else? Good luck convincing your boss, the IT department and the vendor to implement it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
