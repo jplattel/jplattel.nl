@@ -13,7 +13,7 @@ categories: ["tech"] # Example: `catagories: ["machine-learning", "deep-learning
 
 While working with the team from the [PIlot Informatie Autonomie](https://digitalefitheid.nl/over/pilot-informatie-autonomie/) I've spoken with people from different fields, expertises and experience.  Turns out, most of the work a knowledge worker does is being done with tools that are complicated, unintuitive, specialized and expensive. Want something else? Good luck convincing your boss, the IT department and the vendor to implement it. 
 
-# A app as a file?
+# An app as a file?
 This idea is simple, not a one-size fits all, there are upside & downsides. But I do think we underestimate how much is possible with a single file. The basic idea is this:
 
 > Everything you need for a specific purpose could be contained within a `app.html` file, using your browser as the runtime & interface.
@@ -43,7 +43,7 @@ Is it really that simple? Yes, shouldn't it be? Here's a list of upsides (and do
 So what does this actually look like? These are all `html` files that you can store somewhere on your computer. Right click and save-as. For you to take, copy and share! 
 
 - [ICS file to meeting notes](https://files.jplattel.nl/2026/03/474xay.html), drag in your ICS file (and configure a template the first time) and output a markdown/docx file with your meeting note template (including prefilled attendees with their email)
-- [Browse, edit and search through directories with markdown files](https://files.jplattel.nl/2026/03/X0dnV6.html). (including a docx convert)
+- [Browse, edit and search through directories with markdown files](https://files.jplattel.nl/2026/03/X0dnV6.html). (personally I added a docx converter!)
 - The following weeks I'll add more examples here, but if you have any, [feel free to let me know](https://jplattel.nl/contact)!
 
 # Future
