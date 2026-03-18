@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Tue, 10 Mar 2026 15:11:20 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:12:29 +0100</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buienradar</title>
+      <link>https://jplattel.nl/tags/buienradar/</link>
+      <pubDate>Wed, 18 Mar 2026 17:12:29 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/buienradar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plugin</title>
+      <link>https://jplattel.nl/tags/plugin/</link>
+      <pubDate>Wed, 18 Mar 2026 17:12:29 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/plugin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raycast</title>
+      <link>https://jplattel.nl/tags/raycast/</link>
+      <pubDate>Wed, 18 Mar 2026 17:12:29 +0100</pubDate>
+      <guid>https://jplattel.nl/tags/raycast/</guid>
+      <description></description>
+    </item>
     <item>
       <title>App</title>
       <link>https://jplattel.nl/tags/app/</link>
@@ -875,13 +896,6 @@
       <link>https://jplattel.nl/tags/pid/</link>
       <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
       <guid>https://jplattel.nl/tags/pid/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plugin</title>
-      <link>https://jplattel.nl/tags/plugin/</link>
-      <pubDate>Sun, 31 Jan 2021 10:40:07 +0100</pubDate>
-      <guid>https://jplattel.nl/tags/plugin/</guid>
       <description></description>
     </item>
     <item>

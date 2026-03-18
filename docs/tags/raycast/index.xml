@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raycast on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/raycast/</link>
+    <description>Recent content in Raycast on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Wed, 18 Mar 2026 17:12:29 +0100</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/raycast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buienradar plugin for Raycast</title>
+      <link>https://jplattel.nl/post/2026-03-18-buienradar-for-raycast/</link>
+      <pubDate>Wed, 18 Mar 2026 17:12:29 +0100</pubDate>
+      <guid>https://jplattel.nl/post/2026-03-18-buienradar-for-raycast/</guid>
+      <description>&lt;p&gt;Simple tools are the best. As I&amp;rsquo;m living in the Netherlands one of the tools I frequently use is buienradar, the weatherforecast allows me to make a choice on when to hop on a bicycle (or not!). I used their app, the one from RIVM as well, but visiting the website always felt as the least pleasent way of using it.&lt;/p&gt;&#xA;&lt;p&gt;This afternoon I thought, wouldn&amp;rsquo;t it be cool to have it in Raycast? A couple of prompts (with both Opencode &amp;amp; Claude) resulted in a super simple &lt;a href=&#34;https://github.com/jplattel/raycast-buienradar&#34;&gt;Raycast plugin&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
