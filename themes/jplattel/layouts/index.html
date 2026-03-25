@@ -58,7 +58,7 @@
     <ul class="post-list">
       {{ range first 10 (where .Site.RegularPages "Section" "in" (slice "post")) }}
         <li class="post-item">
-          <div class="meta"><time datetime="{{ time .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.dateFormat }}</time></div>
+          <div class="meta"><time datetime="{{ time .Date }}" itemprop="datePublished">0{{ .Date.Format .Site.Params.dateFormat }}</time></div>
           <a href="{{ .Permalink }}">{{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}</a>
         </li>
       {{ end }}
