@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 17:12:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:09:27 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning to type again (or how to chord)</title>
+      <link>https://jplattel.nl/post/2026-04-01-learning-to-type-again/</link>
+      <pubDate>Wed, 01 Apr 2026 09:09:27 +0200</pubDate>
+      <guid>https://jplattel.nl/post/2026-04-01-learning-to-type-again/</guid>
+      <description>&lt;p&gt;Now the software and hardware of &lt;a href=&#34;https://wandering.computer&#34;&gt;wandering.computer&lt;/a&gt; have reached a state at which it feels stable, so I started with the next step, learning to type again. In this blogpost I&amp;rsquo;ll share some of my findings and solutions I&amp;rsquo;ve come across along the way&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;The main idea of wandering.computer is to be freed from the desk as a way to write. (I still use transcription, each has their use-cases!). However, when learning to chord I wondered if I could skip straight to learning it blindly? If I wanted to do that the screen in each hand isn&amp;rsquo;t really helping&amp;hellip; I needed a way to look at a screen&amp;hellip; So back to the computer it was.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Buienradar plugin for Raycast</title>
       <link>https://jplattel.nl/post/2026-03-18-buienradar-for-raycast/</link>

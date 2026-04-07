@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 17:12:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:09:27 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chording</title>
+      <link>https://jplattel.nl/tags/chording/</link>
+      <pubDate>Wed, 01 Apr 2026 09:09:27 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/chording/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Circuitpython</title>
+      <link>https://jplattel.nl/tags/circuitpython/</link>
+      <pubDate>Wed, 01 Apr 2026 09:09:27 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/circuitpython/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Midi</title>
+      <link>https://jplattel.nl/tags/midi/</link>
+      <pubDate>Wed, 01 Apr 2026 09:09:27 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/midi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monkeytype</title>
+      <link>https://jplattel.nl/tags/monkeytype/</link>
+      <pubDate>Wed, 01 Apr 2026 09:09:27 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/monkeytype/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wandering-Computer</title>
+      <link>https://jplattel.nl/tags/wandering-computer/</link>
+      <pubDate>Wed, 01 Apr 2026 09:09:27 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/wandering-computer/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Buienradar</title>
       <link>https://jplattel.nl/tags/buienradar/</link>
@@ -399,13 +434,6 @@
       <link>https://jplattel.nl/tags/webhooks/</link>
       <pubDate>Mon, 12 Aug 2024 20:55:14 +0200</pubDate>
       <guid>https://jplattel.nl/tags/webhooks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Circuitpython</title>
-      <link>https://jplattel.nl/tags/circuitpython/</link>
-      <pubDate>Sat, 25 May 2024 21:55:14 +0200</pubDate>
-      <guid>https://jplattel.nl/tags/circuitpython/</guid>
       <description></description>
     </item>
     <item>
