@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uwv on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/uwv/</link>
+    <description>Recent content in Uwv on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Wed, 08 Apr 2026 22:24:49 +0200</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/uwv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring open data for fun and profit with LLMs</title>
+      <link>https://jplattel.nl/post/2026-04-08-exploring-open-data-for-fun-and-profit-with-llms/</link>
+      <pubDate>Wed, 08 Apr 2026 22:24:49 +0200</pubDate>
+      <guid>https://jplattel.nl/post/2026-04-08-exploring-open-data-for-fun-and-profit-with-llms/</guid>
+      <description>&lt;p&gt;The web has always been a playground and we&amp;rsquo;ve been handed new tools to play with in the form of LLMs. So in the evenings I had time to tinker I&amp;rsquo;ve explored open data sets and combed through questions that people asked me&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;With the help of Claude &amp;amp; Cursor I could discover different harnesses and setups that would allow me to make better use of public data. As the LLMs collapse the barrier of entry it is up to us to discover the most interesting bits &amp;amp; bobs!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
