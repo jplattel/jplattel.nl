@@ -50,3 +50,8 @@ So what does this actually look like? These are all `html` files that you can st
 To me this really is a simple idea, testing it with different persons right now hasn't really shown reasons why people shouldn't do more like this! If you want the autonomy and sovereignty, you do need the responsibility! 
 
 From a more technical perspective, getting a js frontend to compile to a single file that's embedded within a html file is relatively easy, be sure to include dependencies instead of importing them on runtime to allow for offline functionality. If you think it's missing an API, why not try get requests to pass data into the file? The request parameters are the interface. Don't mess around with a backend, we're not building a stack here, we're building a **file**.
+
+### Updates
+
+- _(2026-03-19)_ Someone at a municipality used the same principe to create a custom workflow for ecology based processe; Saving loads of time getting a good advisory report from PDF sources. 
+- _(2026-04-13)_ [Koen Heikens](https://nl.linkedin.com/in/koenheikens) extended the markdown editor with loads of functionality, with tabs, better links, daily notes and way more! Download [the new file](https://assets-v2.circle.so/5ta0dyeq8v6d3aqqn5ayla2pqkey)! 
