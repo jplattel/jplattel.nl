@@ -15,9 +15,9 @@
       
       <guid>https://jplattel.nl/post/2026-05-15-keeping-a-captains-log-pi-dev/</guid>
       <description>&lt;p&gt;&amp;ldquo;Captain&amp;rsquo;s Log, Stardate 41153.7&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;There&amp;rsquo;s something iconic about the way Captain Jean-Luc Picard begins his entries in &lt;em&gt;Star Trek&lt;/em&gt;. Leaning back in his ready room, hands clasped, he calmly documents the ship&amp;rsquo;s journey, decisions made, challenges faced, and lessons learned.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVuYmx5cmdmeTJ5ZDB2MWt5bWl0cnJqNXJjZWRldmNkcDRsNWd0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bKnEnd65zqxfq/giphy.gif&#34; alt=&#34;Make it so!&#34;&gt;&lt;/p&gt;
-&lt;p&gt;As developer, I constantly make decisions, either with or without the help of llms:&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s something iconic about the way Captain Jean-Luc Picard begins his entries in &lt;em&gt;Star Trek&lt;/em&gt;. I fondly remember it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVuYmx5cmdmeTJ5ZDB2MWt5bWl0cnJqNXJjZWRldmNkcDRsNWd0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bKnEnd65zqxfq/giphy.gif&#34; alt=&#34;Make it so&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As a developer, I constantly make decisions, either with or without the help of llms:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Why did I choose this solution?&lt;/li&gt;
 &lt;li&gt;What was the goal I wanted to achieve?&lt;/li&gt;
@@ -25,7 +25,7 @@
 &lt;li&gt;What bugs did I encounter and how were they resolved?&lt;/li&gt;
 &lt;li&gt;Which decision did I make?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Without documentation, this context disappears. Six months later, you&amp;rsquo;re staring at code wondering, &lt;em&gt;&amp;ldquo;What was I (and my LLM) thinking?&amp;rdquo;&lt;/em&gt; 🤭&lt;/p&gt;</description>
+&lt;p&gt;However, six months later, you&amp;rsquo;re staring at code wondering, &lt;em&gt;&amp;ldquo;What was I (and my LLM) thinking?&amp;rdquo;&lt;/em&gt; 🤭&lt;/p&gt;</description>
     </item>
     
     <item>
