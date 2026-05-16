@@ -23,17 +23,17 @@ I've been a fan of [pi.dev](https://pi.dev) and inspired by Picard's meticulous 
 The [pi-captains-log](https://github.com/jplattel/pi-captains-log) extension allows you to:
 
 - **Record decisions** as you work, with automatic timestamps
-- **Search past entries** by keyword or date range
-- **Maintain continuity** across development sessions
 - **Integrate with ask_user** for user inputs
+- **Maintain continuity** across development sessions
+- **Search past entries** by keyword or date range
 
 ## How It Works
 
-The extension integrates seamlessly into your pi.dev workflow, making it effortless to capture thoughts and decisions as they happen—no context switching required. A `write_captains_log` and `read_captains_log` is all you need. If you're using pi.dev and want to bring a bit of Starfleet discipline to your development workflow:
+The extension integrates seamlessly into your workflow. A `write_captains_log` and `read_captains_log` is all you need. If you're using [pi.dev](https://pi.dev) and want to bring a bit of Starfleet discipline to your development workflow:
 
 1. Check out the extension: [github.com/jplattel/pi-captains-log](https://github.com/jplattel/pi-captains-log)
 2. Install it following the README instructions
-3. Start keeping your own captain's log
+3. It'll start keeping your own captain's log in `.captains-log`
 
 ---
 
