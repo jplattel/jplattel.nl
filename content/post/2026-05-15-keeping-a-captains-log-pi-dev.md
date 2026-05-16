@@ -6,11 +6,7 @@ draft: false
 
 "Captain's Log, Stardate 41153.7"
 
-There's something iconic about the way Captain Jean-Luc Picard begins his entries in *Star Trek*. I fondly remember it.
-
-![Make it so](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVuYmx5cmdmeTJ5ZDB2MWt5bWl0cnJqNXJjZWRldmNkcDRsNWd0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bKnEnd65zqxfq/giphy.gif)
-
-As a developer, I constantly make decisions, either with or without the help of llms:
+There's something iconic about the way Captain Jean-Luc Picard begins his entries in *Star Trek*. I fondly remember it. As a developer, I constantly make decisions, either with or without the help of llms:
 
 - Why did I choose this solution?
 - What was the goal I wanted to achieve?
