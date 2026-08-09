@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obscura on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/obscura/</link>
+    <description>Recent content in Obscura on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Sun, 09 Aug 2026 20:57:13 +0200</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/obscura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mergable software, or how to drive ephemeral agent browsers</title>
+      <link>https://jplattel.nl/post/2026-08-09-mergable-software/</link>
+      <pubDate>Sun, 09 Aug 2026 20:57:13 +0200</pubDate>
+      <guid>https://jplattel.nl/post/2026-08-09-mergable-software/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been using &lt;a href=&#34;https://github.com/dgtlmoon/sockpuppetbrowser/&#34;&gt;sockpuppetbrowser&lt;/a&gt; for a while in some of my projects. The easy method of opening a CDP connection and getting a browser (which scales to a couple of jobs) is nice enough for projects of mine. While also keeping each proces seperate.&lt;/p&gt;&#xA;&lt;p&gt;However the repo has grown stale and some bugs are nagging me (crashed browsers &amp;amp; memory issues). I&amp;rsquo;ve hotfixed them in my own branch, but when I came across &lt;a href=&#34;https://obscura.sh/&#34;&gt;Obscura&lt;/a&gt; I knew I had to try to merge the two! (I know &lt;code&gt;obscure serve  --workers N&lt;/code&gt;, but those are sticky, I wanted something more ephemeral!)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

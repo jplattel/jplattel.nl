@@ -2,28 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jplattel.nl/tags/browser/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/categories/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/cdp/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/</loc>
-    <lastmod>2026-05-15T09:00:00+02:00</lastmod>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/llm/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/post/2026-08-09-mergable-software/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/obscura/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/post/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/tags/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/categories/technology/</loc>
+    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2026-05-15-keeping-a-captains-log-pi-dev/</loc>
     <lastmod>2026-05-15T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/post/</loc>
-    <lastmod>2026-05-15T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/categories/</loc>
-    <lastmod>2026-04-08T22:24:49+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2026-04-08-exploring-open-data-for-fun-and-profit-with-llms/</loc>
     <lastmod>2026-04-08T22:24:49+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/llms/</loc>
-    <lastmod>2026-04-08T22:24:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/</loc>
-    <lastmod>2026-04-08T22:24:49+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/categories/technology/</loc>
     <lastmod>2026-04-08T22:24:49+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/uwv/</loc>
@@ -114,9 +129,6 @@
     <lastmod>2026-01-22T19:59:37+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/post/2026-01-22-llm-plays-openttd/</loc>
-    <lastmod>2026-01-22T19:59:37+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/tags/llm/</loc>
     <lastmod>2026-01-22T19:59:37+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/openttd/</loc>

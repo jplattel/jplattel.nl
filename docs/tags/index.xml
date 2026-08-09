@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 22:24:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 20:57:13 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Browser</title>
+      <link>https://jplattel.nl/tags/browser/</link>
+      <pubDate>Sun, 09 Aug 2026 20:57:13 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/browser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cdp</title>
+      <link>https://jplattel.nl/tags/cdp/</link>
+      <pubDate>Sun, 09 Aug 2026 20:57:13 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/cdp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>https://jplattel.nl/tags/llm/</link>
+      <pubDate>Sun, 09 Aug 2026 20:57:13 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obscura</title>
+      <link>https://jplattel.nl/tags/obscura/</link>
+      <pubDate>Sun, 09 Aug 2026 20:57:13 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/obscura/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Llms</title>
       <link>https://jplattel.nl/tags/llms/</link>
@@ -175,13 +203,6 @@
       <link>https://jplattel.nl/tags/ai/</link>
       <pubDate>Thu, 22 Jan 2026 19:59:37 +0100</pubDate>
       <guid>https://jplattel.nl/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Llm</title>
-      <link>https://jplattel.nl/tags/llm/</link>
-      <pubDate>Thu, 22 Jan 2026 19:59:37 +0100</pubDate>
-      <guid>https://jplattel.nl/tags/llm/</guid>
       <description></description>
     </item>
     <item>
