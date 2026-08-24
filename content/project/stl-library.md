@@ -1,11 +1,11 @@
 ---
-title: "Stl Library"
+title: "STL Library"
 date: 2026-08-24T21:16:15+02:00
 draft: false
 year: 2026
 tags: ["3dprint", "stl", "3mf", "github", "tauri"] # Example: `tags: ["machine-learning", "deep-learning"]`
 summary: "A small application to manage STLs for 3D printing" # Used on the project card
-image_preview: "https://files.jplattel.nl/2026/08/vh8Wkg.png" # Used as thumbnail
+image_preview: "logo-transparent-horizontal.png" # Used as thumbnail
 external_link: "https://github.com/jplattel/stl-library" # Unused at the moment...
 ---
 For more then ages I've pushed around a giant folder of STLs, from [printables](https://www.printables.com/), [makerworld](https://makerworld.com/) and other sources... It just kept getting bigger and I wasn't organizing it. 
