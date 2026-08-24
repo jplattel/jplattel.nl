@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jplattel.nl/</loc>
+    <lastmod>2026-08-24T21:16:15+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/</loc>
+    <lastmod>2026-08-24T21:16:15+02:00</lastmod>
+  </url><url>
+    <loc>https://jplattel.nl/project/stl-library/</loc>
+    <lastmod>2026-08-24T21:16:15+02:00</lastmod>
+  </url><url>
     <loc>https://jplattel.nl/tags/browser/</loc>
     <lastmod>2026-08-09T20:57:13+02:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2026-08-09T20:57:13+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/cdp/</loc>
-    <lastmod>2026-08-09T20:57:13+02:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/</loc>
     <lastmod>2026-08-09T20:57:13+02:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/llm/</loc>
@@ -144,9 +150,6 @@
     <lastmod>2026-01-07T19:58:54+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/project/pilot-informatie-autonomie/</loc>
-    <lastmod>2026-01-07T19:58:54+01:00</lastmod>
-  </url><url>
-    <loc>https://jplattel.nl/project/</loc>
     <lastmod>2026-01-07T19:58:54+01:00</lastmod>
   </url><url>
     <loc>https://jplattel.nl/tags/3d-print/</loc>
