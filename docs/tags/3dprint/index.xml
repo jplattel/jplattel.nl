@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github on Joost Plattel</title>
-    <link>https://jplattel.nl/tags/github/</link>
-    <description>Recent content in Github on Joost Plattel</description>
+    <title>3dprint on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/3dprint/</link>
+    <description>Recent content in 3dprint on Joost Plattel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
     <lastBuildDate>Mon, 24 Aug 2026 21:16:15 +0200</lastBuildDate>
-    <atom:link href="https://jplattel.nl/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jplattel.nl/tags/3dprint/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stl Library</title>
       <link>https://jplattel.nl/project/stl-library/</link>

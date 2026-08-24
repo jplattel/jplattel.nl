@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 20:57:13 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:16:15 +0200</lastBuildDate>
     <atom:link href="https://jplattel.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3dprint</title>
+      <link>https://jplattel.nl/tags/3dprint/</link>
+      <pubDate>Mon, 24 Aug 2026 21:16:15 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/3dprint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3mf</title>
+      <link>https://jplattel.nl/tags/3mf/</link>
+      <pubDate>Mon, 24 Aug 2026 21:16:15 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/3mf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>https://jplattel.nl/tags/github/</link>
+      <pubDate>Mon, 24 Aug 2026 21:16:15 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stl</title>
+      <link>https://jplattel.nl/tags/stl/</link>
+      <pubDate>Mon, 24 Aug 2026 21:16:15 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/stl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tauri</title>
+      <link>https://jplattel.nl/tags/tauri/</link>
+      <pubDate>Mon, 24 Aug 2026 21:16:15 +0200</pubDate>
+      <guid>https://jplattel.nl/tags/tauri/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Browser</title>
       <link>https://jplattel.nl/tags/browser/</link>

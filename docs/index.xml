@@ -14,9 +14,7 @@
       <pubDate>Mon, 24 Aug 2026 21:16:15 +0200</pubDate>
       
       <guid>https://jplattel.nl/project/stl-library/</guid>
-      <description>&lt;p&gt;For more then ages I&amp;rsquo;ve pushed around a giant folder of STLs, from &lt;a href=&#34;https://www.printables.com/&#34;&gt;printables&lt;/a&gt;, &lt;a href=&#34;https://makerworld.com/&#34;&gt;makerworld&lt;/a&gt; and other sources&amp;hellip; It just kept getting bigger and I wasn&amp;rsquo;t organizing it.&lt;/p&gt;
-&lt;p&gt;With the help of an LLM I managed to create a Tauri app that runs on my Mac that helps me organize my prints. Tagging them and making lists and views that help me see what I could print!&lt;/p&gt;
-&lt;p&gt;Since I own both Bambu as well as Prusa printers I can easily switch between the two. The app is primarily meant as glue and an organizer.&lt;/p&gt;</description>
+      <description>A small application to manage STLs for 3D printing</description>
     </item>
     
     <item>

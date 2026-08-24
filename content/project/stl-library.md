@@ -2,8 +2,8 @@
 title: "Stl Library"
 date: 2026-08-24T21:16:15+02:00
 draft: false
-tags: [] # Example: `tags: ["machine-learning", "deep-learning"]`
-summary: "" # Used on the project card
+tags: ["3dprint", "stl", "3mf", "github", "tauri"] # Example: `tags: ["machine-learning", "deep-learning"]`
+summary: "A small application to manage STLs for 3D printing" # Used on the project card
 image_preview: "https://files.jplattel.nl/2026/08/vh8Wkg.png" # Used as thumbnail
 external_link: "https://github.com/jplattel/stl-library" # Unused at the moment...
 ---
