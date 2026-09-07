@@ -5,9 +5,7 @@ draft: false
 tags: llm, ai, openttd, software
 ---
 
-In a previous post I showcased a demo of an LLM getting a bit of a gamestate from OpenTTD. While the demo worked it really didn't live up to the idea of having an LLM drive a organisation within OpenTTD. 
-
-![openttd-llm-logo](https://files.jplattel.nl/2026/09/tqX7h4.png)
+In a [previous post](https://jplattel.nl/post/2026-01-22-llm-plays-openttd/) I showcased a demo of an LLM getting a bit of a gamestate from [OpenTTD](https://www.openttd.org/). While the demo worked it really didn't live up to the idea of having an LLM drive a organisation within OpenTTD. 
 
 Over the last couple of weeks I spend some tokens to develop this idea a bit more and see what I could do... I ended up with an improved state engine, better interface, multiplayer/multi-llm support and a custom web dashboard!
 
