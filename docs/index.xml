@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor></managingEditor>
     <copyright>Joost Plattel</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 21:16:15 +0200</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 19:09:24 +0000</lastBuildDate><atom:link href="https://jplattel.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiplayer OpenTTD with LLMs</title>
+      <link>https://jplattel.nl/post/2026-09-07-multiplayer-openttd-ai-llms/</link>
+      <pubDate>Mon, 07 Sep 2026 19:09:24 +0000</pubDate>
+      
+      <guid>https://jplattel.nl/post/2026-09-07-multiplayer-openttd-ai-llms/</guid>
+      <description>&lt;p&gt;In a previous post I showcased a demo of an LLM getting a bit of a gamestate from OpenTTD. While the demo worked it really didn&amp;rsquo;t live up to the idea of having an LLM drive a organisation within OpenTTD.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://files.jplattel.nl/2026/09/tqX7h4.png&#34; alt=&#34;openttd-llm-logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Over the last couple of weeks I spend some tokens to develop this idea a bit more and see what I could do&amp;hellip; I ended up with an improved state engine, better interface, multiplayer/multi-llm support and a custom web dashboard!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>STL Library</title>
       <link>https://jplattel.nl/project/stl-library/</link>
