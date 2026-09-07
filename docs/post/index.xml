@@ -14,7 +14,7 @@
       <link>https://jplattel.nl/post/2026-09-07-multiplayer-openttd-ai-llms/</link>
       <pubDate>Mon, 07 Sep 2026 19:09:24 +0000</pubDate>
       <guid>https://jplattel.nl/post/2026-09-07-multiplayer-openttd-ai-llms/</guid>
-      <description>&lt;p&gt;In a previous post I showcased a demo of an LLM getting a bit of a gamestate from OpenTTD. While the demo worked it really didn&amp;rsquo;t live up to the idea of having an LLM drive a organisation within OpenTTD.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://files.jplattel.nl/2026/09/tqX7h4.png&#34; alt=&#34;openttd-llm-logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Over the last couple of weeks I spend some tokens to develop this idea a bit more and see what I could do&amp;hellip; I ended up with an improved state engine, better interface, multiplayer/multi-llm support and a custom web dashboard!&lt;/p&gt;</description>
+      <description>&lt;p&gt;In a &lt;a href=&#34;https://jplattel.nl/post/2026-01-22-llm-plays-openttd/&#34;&gt;previous post&lt;/a&gt; I showcased a demo of an LLM getting a bit of a gamestate from &lt;a href=&#34;https://www.openttd.org/&#34;&gt;OpenTTD&lt;/a&gt;. While the demo worked it really didn&amp;rsquo;t live up to the idea of having an LLM drive a organisation within OpenTTD.&lt;/p&gt;&#xA;&lt;p&gt;Over the last couple of weeks I spend some tokens to develop this idea a bit more and see what I could do&amp;hellip; I ended up with an improved state engine, better interface, multiplayer/multi-llm support and a custom web dashboard!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mergable software, or how to drive ephemeral agent browsers</title>
