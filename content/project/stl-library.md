@@ -12,8 +12,12 @@ For more then ages I've pushed around a giant folder of STLs, from [printables](
 
 With the help of an LLM I managed to create a Tauri app that runs on my Mac that helps me organize my prints. Tagging them and making lists and views that help me see what I could print! 
 
-![](https://files.jplattel.nl/2026/08/vh8Wkg.png)
-
 Since I own both Bambu as well as Prusa printers I can easily switch between the two. The app is primarily meant as glue and an organizer. It watches folders for STL's, unpacks 3MF files to them and other small utilities.. Does the job just fine for me, feel free to clone it, re-use it or whatever! 
 
 It's up on [Github](https://github.com/jplattel/stl-library) for you to build!
+
+Curious what it looks like? Here are a couple of screenshots:
+
+![STL Library screenshot](https://files.jplattel.nl/2026/09/5sXgaV.png)
+
+![STL Library screenshot 2](https://files.jplattel.nl/2026/09/0inFqv.png)
