@@ -1,5 +1,5 @@
 ---
-title: "2026 10 16 Xteink X4 Pro Wallet Case"
+title: Xteink X4 Pro Wallet Case
 date: 2026-10-16T12:46:25+02:00
 draft: false
 
