@@ -53,6 +53,48 @@ article .highlight pre{
     padding: 10px
 }
 
+pre.mermaid {
+    margin: 1.5rem 0;
+    padding: 1.25rem 1rem;
+    background: #fff;
+    line-height: normal;
+    --pele-bg: #ffffff;
+    --pele-fg: #383838;
+    --pele-fg-on-light: #383838;
+    --pele-fg-on-dark: #ffffff;
+    --pele-muted: #8c8c8c;
+    --pele-line: #383838;
+    --pele-surface: #fafafa;
+    --pele-surface-alt: #f0f0f0;
+    --pele-border: #666666;
+    --pele-accent: #006ad4;
+    --pele-critical: #c44536;
+    --pele-error: #c44536;
+    --pele-font: "JetBrains Mono", monospace;
+    --pele-font-mono: "JetBrains Mono", monospace;
+    --pele-radius: 4px;
+    --pele-series-1: #006ad4;
+    --pele-series-2: #383838;
+    --pele-series-3: #3d7a5a;
+    --pele-series-4: #c44536;
+    --pele-series-5: #6b7c8a;
+    --pele-series-6: #b8860b;
+    --pele-series-7: #6a5a8a;
+    --pele-series-8: #8a6a4a;
+}
+
+pre.mermaid .pele {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.content pre.mermaid a {
+    background-image: none;
+    color: #006ad4;
+}
+
 .post-item{
 
 }

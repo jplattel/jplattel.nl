@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ascaso on Joost Plattel</title>
+    <link>http://localhost:1314/tags/ascaso/</link>
+    <description>Recent content in Ascaso on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Fri, 22 Jan 2021 12:29:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/ascaso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 01 22 Retrofitting Pid Ascaso Dream</title>
+      <link>http://localhost:1314/post/2021-01-22-retrofitting-pid-ascaso-dream/</link>
+      <pubDate>Fri, 22 Jan 2021 12:29:55 +0100</pubDate>
+      <guid>http://localhost:1314/post/2021-01-22-retrofitting-pid-ascaso-dream/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve owned a old Ascaso Dream for quite a few years. Bought it broken, repaired it and I kept it in a reasonable state. Last month the temperature gauge broke and while I could replace it, I figured I would retrofit a PID controller with it. The newer models do include a PID controller, but the way it&amp;rsquo;s build in is just plain ugly.&lt;/p&gt;&#xA;&lt;p&gt;The retrofit would work with a Solid State Relay as the wattage it would be switching would by quite high. As for the controller, I opted for a Wemos D1 Mini, as it would just have enough pins to support:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

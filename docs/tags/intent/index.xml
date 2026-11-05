@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intent on Joost Plattel</title>
+    <link>http://localhost:1314/tags/intent/</link>
+    <description>Recent content in Intent on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Thu, 22 Dec 2022 22:55:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/intent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single intent instruments</title>
+      <link>http://localhost:1314/post/2022-12-22-single-intent-instruments/</link>
+      <pubDate>Thu, 22 Dec 2022 22:55:52 +0100</pubDate>
+      <guid>http://localhost:1314/post/2022-12-22-single-intent-instruments/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve &lt;a href=&#34;https://jplattel.nl/post/2021-09-23-single-purpose-tools/&#34;&gt;written before on single purpose tools&lt;/a&gt;, and this year I&amp;rsquo;ve been thinking more about it and somehow it didn&amp;rsquo;t feel right. The purpose of a device or tool should not be single minded. For example, the &lt;em&gt;intent&lt;/em&gt; of a typewriter is to write, but you can write whatever you want, whether it&amp;rsquo;s poetry or propaganda. The purpose of the single action does differ from action to action. So I have to rephrase the idea a bit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -18,4 +18,12 @@
 <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
 <!-- <script src="/lib/jquery/jquery.min.js"></script> -->
 <script src="/js/main.js"></script>
+{{ if .Store.Get "hasMermaid" }}
+<script src="https://cdn.jsdelivr.net/npm/pele@1.13.0/dist/pele.global.js"></script>
+<script>
+  for (const el of document.querySelectorAll("pre.mermaid")) {
+    pele.mount(el, el.textContent);
+  }
+</script>
+{{ end }}
 </html>
