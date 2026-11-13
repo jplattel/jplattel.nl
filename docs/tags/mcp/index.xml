@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mcp on Joost Plattel</title>
+    <link>https://jplattel.nl/tags/mcp/</link>
+    <description>Recent content in Mcp on Joost Plattel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Joost Plattel</copyright>
+    <lastBuildDate>Mon, 09 Nov 2026 20:52:14 +0000</lastBuildDate>
+    <atom:link href="https://jplattel.nl/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smartfaster</title>
+      <link>https://jplattel.nl/client/smartfaster/</link>
+      <pubDate>Mon, 09 Nov 2026 20:52:14 +0000</pubDate>
+      <guid>https://jplattel.nl/client/smartfaster/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

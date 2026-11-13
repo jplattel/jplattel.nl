@@ -33,10 +33,49 @@ name = "About"
 url = "/about"
 weight = 6
 
+
 [[menu.main]]
 name = "Contact"
 url = "/contact"
 weight = 7
+
+
+# Main menu which appears below site header.
+[[menu.footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.footer]]
+name = "Posts"
+url = "/post"
+weight = 2
+
+[[menu.footer]]
+name = "Projects"
+url = "/project"
+weight = 3
+
+[[menu.footer]]
+name = "Wishlist"
+url = "/wishlist"
+weight = 5
+
+[[menu.footer]]
+name = "About"
+url = "/about"
+weight = 6
+
+[[menu.footer]]
+name = "Pages"
+url = "https://pages.jplattel.nl"
+weight = 6
+
+[[menu.footer]]
+name = "Contact"
+url = "/contact"
+weight = 7
+
 
 [markup]
   [markup.tableOfContents]

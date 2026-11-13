@@ -5,8 +5,8 @@
   <div class="footer-right">
     <nav>
       <ul>
-        {{ range .Site.Menus.main }} 
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ range .Site.Menus.footer }} 
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       </ul>
     </nav>
