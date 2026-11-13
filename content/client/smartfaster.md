@@ -13,3 +13,4 @@ image_preview: logo-smartfaster.png
 external_link: https://www.smartfaster.com/en
 ---
 
+For Smartfaster I'm responsible for authentication/authorization through Auth0. I've contributed to loads of improvements based on user testing.
