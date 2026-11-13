@@ -4,7 +4,11 @@ date: 2025-11-10T22:06:38+01:00
 draft: false
 
 # Tags and categories
-tags: ["jlc3d", "3d-print", "resin"]
+tags:
+  - jlc3d
+  - 3d-print
+  - resin
+  - keyboard
 categories: ["technology"] 
 ---
 

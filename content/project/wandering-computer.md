@@ -5,7 +5,7 @@ year: 2023
 draft: false
 tags: ["esp32", "wearable", "technology"] # Example: `tags: ["machine-learning", "deep-learning"]`
 summary: "A wearable keyboard made for typing on the go!" # Used on the project card
-image_preview: "wandering-computer-mark-vletter.png" # Used as thumbnail
+image_preview: wandering-computer-top.png
 external_link: "https://wandering.computer/" # Unused at the moment...
 ---
 
