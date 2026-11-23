@@ -7,17 +7,18 @@ Below is my wishlist, if there's something I've done for you and you would like 
 
 ## Physical stuff, trinkets and/or activities
 
-- A [light mill](https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756).
 - A [spinthariscope](https://www.wikiwand.com/en/Spinthariscope).
+- A [colorful monocular](https://www.nocsprovisions.com/products/zoom-tube-8x32-monocular-telescope?variant=47377495130391) in International Orange. 
 - One big [marble](https://shop.houseofmarbles.com/product/space-explorer-marble/).
-- [Euler's Disk](https://www.wikiwand.com/en/articles/Euler's_Disk)
 - A [Klein Bottle](https://kleinbottle.com/). Who doesn't need a zero-volume bottle or infinite space?
 - [OffGrid Bag](https://offgrid.co/products/off-grid-bag?variant=30205371383890) with faraday function.
 - A Garmin [InReach Mini](https://buy.garmin.com/nl-NL/NL/p/592606)
 - Comics drawn by [Moebius](http://nl.wikipedia.org/wiki/Jean_Giraud)
+- [Euler's Disk](https://www.wikiwand.com/en/articles/Euler's_Disk)
 
 ## People already gave me
 
+- A [light mill](https://choosingkeeping.com/collections/light-mills/products/clear-light-mill-two-sizes?variant=4349774921756). (Thanks Sinterklaas!)
 - A [Volty bit](https://pcpoodle.com/collections/home/products/volty-bit-for-leatherman-multi-tool). (Thank you Kees for my birthday!)
 - A [Go set](https://www.schaakengo.nl/goshop-keima/spelmateriaal/sets/go-beginnersset-luxe). (Thank you Ann!)
 - A Diresta [Ice Pick](https://imakeny.com/collections/tools/products/diresta-ice-pick) (Thanks Simon!)
